@@ -1,0 +1,342 @@
+source_id,file_id,period,time_remaining,team,play_type,play_action,narrative,player_name,player_number,home_team_score,visiting_team_score
+2020,12120,1,584,Wisconsin,TURNOVER,TURNOVER,05 Julie Pospisilova TURNOVER (1 TO),Julie Pospisilova,05,,
+2020,12120,1,584,Maryland,STEAL,STEAL,55 Chloe Bibby STEAL (1 Stl),Chloe Bibby,55,,
+2020,12120,1,581,Maryland,LAYUP,GOOD,55 Chloe Bibby LAYUP GOOD (2 Pt),Chloe Bibby,55,2.0,0.0
+2020,12120,1,557,Wisconsin,3PTR,MISS,05 Julie Pospisilova 3PTR MISS,Julie Pospisilova,05,,
+2020,12120,1,552,Wisconsin,OFF,REBOUND,"34 Imani Lewis OFF. REBOUND (1 Reb, 1 Off)",Imani Lewis,34,,
+2020,12120,1,552,Wisconsin,JUMPER,GOOD,34 Imani Lewis JUMPER GOOD (2 Pt),Imani Lewis,34,2.0,2.0
+2020,12120,1,532,Maryland,JUMPER,GOOD,02 Mimi Collins JUMPER GOOD (2 Pt); 01 Diamond Miller Assist (1 Asst),Mimi Collins,02,4.0,2.0
+2020,12120,1,508,Wisconsin,JUMPER,MISS,34 Imani Lewis JUMPER MISS,Imani Lewis,34,,
+2020,12120,1,505,Maryland,DEF,REBOUND,"01 Diamond Miller DEF. REBOUND (1 Reb, 1 Def)",Diamond Miller,01,,
+2020,12120,1,501,Maryland,LAYUP,GOOD,01 Diamond Miller LAYUP GOOD (2 Pt),Diamond Miller,01,6.0,2.0
+2020,12120,1,473,Wisconsin,LAYUP,GOOD,05 Julie Pospisilova LAYUP GOOD (2 Pt),Julie Pospisilova,05,6.0,4.0
+2020,12120,1,467,Maryland,3PTR,GOOD,55 Chloe Bibby 3PTR GOOD (5 Pt); 15 Ashley Owusu Assist (1 Asst),Chloe Bibby,55,9.0,4.0
+2020,12120,1,442,Wisconsin,TURNOVER,TURNOVER,34 Imani Lewis TURNOVER (1 TO),Imani Lewis,34,,
+2020,12120,1,425,Maryland,3PTR,GOOD,15 Ashley Owusu 3PTR GOOD (3 Pt); 11 Katie Benzan Assist (1 Asst),Ashley Owusu,15,12.0,4.0
+2020,12120,1,391,Wisconsin,JUMPER,MISS,34 Imani Lewis JUMPER MISS,Imani Lewis,34,,
+2020,12120,1,388,Maryland,DEF,REBOUND,"02 Mimi Collins DEF. REBOUND (1 Reb, 1 Def)",Mimi Collins,02,,
+2020,12120,1,383,Maryland,LAYUP,GOOD,15 Ashley Owusu LAYUP GOOD (5 Pt),Ashley Owusu,15,14.0,4.0
+2020,12120,1,381,Wisconsin,30SEC,TIMEOUT,"Wisconsin TIMEOUT 30 Sec. (1st TO, 1st 30)",,,,
+2020,12120,1,381,Wisconsin,MEDIA,TIMEOUT,Media Timeout,,,,
+2020,12120,1,369,Wisconsin,SUBS,SUBS,41 Sara Stapleton OUT; 40 Tara Stauffacher IN,Sara Stapleton,41,,
+2020,12120,1,369,Wisconsin,TURNOVER,TURNOVER,01 Estella Moschkau TURNOVER (1 TO),Estella Moschkau,01,,
+2020,12120,1,340,Maryland,TURNOVER,TURNOVER,01 Diamond Miller TURNOVER (1 TO),Diamond Miller,01,,
+2020,12120,1,314,Wisconsin,LAYUP,MISS,34 Imani Lewis LAYUP MISS,Imani Lewis,34,,
+2020,12120,1,311,Maryland,DEF,REBOUND,"55 Chloe Bibby DEF. REBOUND (1 Reb, 1 Def)",Chloe Bibby,55,,
+2020,12120,1,293,Maryland,TURNOVER,TURNOVER,15 Ashley Owusu TURNOVER (1 TO),Ashley Owusu,15,,
+2020,12120,1,267,Wisconsin,LAYUP,MISS,30 Sydney Hilliard LAYUP MISS,Sydney Hilliard,30,,
+2020,12120,1,265,Maryland,DEF,REBOUND,"01 Diamond Miller DEF. REBOUND (2 Reb, 2 Def)",Diamond Miller,01,,
+2020,12120,1,259,Maryland,LAYUP,GOOD,02 Mimi Collins LAYUP GOOD (4 Pt); 01 Diamond Miller Assist (2 Asst),Mimi Collins,02,16.0,4.0
+2020,12120,1,237,Maryland,FOUL,FOUL,02 Mimi Collins FOUL (1 PF),Mimi Collins,02,,
+2020,12120,1,232,Maryland,SUBS,SUBS,02 Mimi Collins OUT; 11 Katie Benzan OUT; 05 Alaysia Styles IN; 13 Faith Masonius IN,Mimi Collins,02,,
+2020,12120,1,232,Wisconsin,SUBS,SUBS,01 Estella Moschkau OUT; 10 Halle Douglass IN,Estella Moschkau,01,,
+2020,12120,1,226,Wisconsin,FT,GOOD,34 Imani Lewis FT GOOD (3 Pt),Imani Lewis,34,16.0,5.0
+2020,12120,1,225,Wisconsin,FT,MISS,34 Imani Lewis FT MISS,Imani Lewis,34,,
+2020,12120,1,224,Maryland,DEF,REBOUND,"55 Chloe Bibby DEF. REBOUND (2 Reb, 2 Def)",Chloe Bibby,55,,
+2020,12120,1,222,Maryland,JUMPER,MISS,01 Diamond Miller JUMPER MISS,Diamond Miller,01,,
+2020,12120,1,219,Wisconsin,DEF,REBOUND,"30 Sydney Hilliard DEF. REBOUND (1 Reb, 1 Def)",Sydney Hilliard,30,,
+2020,12120,1,218,Wisconsin,TURNOVER,TURNOVER,10 Halle Douglass TURNOVER (1 TO),Halle Douglass,10,,
+2020,12120,1,209,Maryland,3PTR,MISS,55 Chloe Bibby 3PTR MISS,Chloe Bibby,55,,
+2020,12120,1,206,Maryland,OFF,REBOUND,"13 Faith Masonius OFF. REBOUND (1 Reb, 1 Off)",Faith Masonius,13,,
+2020,12120,1,206,Maryland,FOUL,FOUL,01 Diamond Miller FOUL (1 PF),Diamond Miller,01,,
+2020,12120,1,206,Maryland,TURNOVER,TURNOVER,01 Diamond Miller TURNOVER (2 TO),Diamond Miller,01,,
+2020,12120,1,206,Maryland,SUBS,SUBS,01 Diamond Miller OUT; 11 Katie Benzan IN,Diamond Miller,01,,
+2020,12120,1,187,Wisconsin,JUMPER,GOOD,30 Sydney Hilliard JUMPER GOOD (2 Pt),Sydney Hilliard,30,16.0,7.0
+2020,12120,1,176,Maryland,TURNOVER,TURNOVER,13 Faith Masonius TURNOVER (1 TO),Faith Masonius,13,,
+2020,12120,1,158,Wisconsin,3PTR,GOOD,30 Sydney Hilliard 3PTR GOOD (5 Pt); 10 Halle Douglass Assist (1 Asst),Sydney Hilliard,30,16.0,10.0
+2020,12120,1,149,Wisconsin,FOUL,FOUL,30 Sydney Hilliard FOUL (1 PF),Sydney Hilliard,30,,
+2020,12120,1,149,Maryland,FT,GOOD,55 Chloe Bibby FT GOOD (6 Pt),Chloe Bibby,55,17.0,10.0
+2020,12120,1,149,Maryland,FT,GOOD,55 Chloe Bibby FT GOOD (7 Pt),Chloe Bibby,55,18.0,10.0
+2020,12120,1,131,Wisconsin,TURNOVER,TURNOVER,05 Julie Pospisilova TURNOVER (2 TO),Julie Pospisilova,05,,
+2020,12120,1,123,Wisconsin,SUBS,SUBS,05 Julie Pospisilova OUT; 40 Tara Stauffacher OUT; 01 Estella Moschkau IN; 03 Brooke Schramek IN,Julie Pospisilova,05,,
+2020,12120,1,118,Maryland,JUMPER,MISS,05 Alaysia Styles JUMPER MISS,Alaysia Styles,05,,
+2020,12120,1,115,Maryland,OFF,REBOUND,Maryland REBOUND,,,,
+2020,12120,1,103,Maryland,3PTR,MISS,15 Ashley Owusu 3PTR MISS,Ashley Owusu,15,,
+2020,12120,1,99,Maryland,OFF,REBOUND,"13 Faith Masonius OFF. REBOUND (2 Reb, 2 Off)",Faith Masonius,13,,
+2020,12120,1,96,Maryland,TURNOVER,TURNOVER,11 Katie Benzan TURNOVER (1 TO),Katie Benzan,11,,
+2020,12120,1,96,Maryland,FOUL,FOUL,11 Katie Benzan FOUL (1 PF),Katie Benzan,11,,
+2020,12120,1,80,Wisconsin,TURNOVER,TURNOVER,10 Halle Douglass TURNOVER (2 TO),Halle Douglass,10,,
+2020,12120,1,70,Maryland,JUMPER,GOOD,15 Ashley Owusu JUMPER GOOD (7 Pt),Ashley Owusu,15,20.0,10.0
+2020,12120,1,50,Wisconsin,TURNOVER,TURNOVER,34 Imani Lewis TURNOVER (2 TO),Imani Lewis,34,,
+2020,12120,1,50,Maryland,SUBS,SUBS,11 Katie Benzan OUT; 14 Taisiya Kozlova IN,Katie Benzan,11,,
+2020,12120,1,50,Wisconsin,SUBS,SUBS,34 Imani Lewis OUT; 41 Sara Stapleton IN,Imani Lewis,34,,
+2020,12120,1,31,Maryland,JUMPER,GOOD,15 Ashley Owusu JUMPER GOOD (9 Pt),Ashley Owusu,15,22.0,10.0
+2020,12120,1,5,Wisconsin,LAYUP,GOOD,30 Sydney Hilliard LAYUP GOOD (7 Pt); 10 Halle Douglass Assist (2 Asst),Sydney Hilliard,30,22.0,12.0
+2020,12120,2,600,Maryland,SUBS,SUBS,05 Alaysia Styles OUT; 13 Faith Masonius OUT; 14 Taisiya Kozlova OUT; 01 Diamond Miller IN; 02 Mimi Collins IN; 11 Katie Benzan IN,Alaysia Styles,05,,
+2020,12120,2,600,Wisconsin,SUBS,SUBS,03 Brooke Schramek OUT; 30 Sydney Hilliard OUT; 05 Julie Pospisilova IN; 40 Tara Stauffacher IN,Brooke Schramek,03,,
+2020,12120,2,584,Maryland,JUMPER,GOOD,02 Mimi Collins JUMPER GOOD (6 Pt),Mimi Collins,02,24.0,12.0
+2020,12120,2,565,Wisconsin,LAYUP,GOOD,41 Sara Stapleton LAYUP GOOD (2 Pt); 05 Julie Pospisilova Assist (1 Asst),Sara Stapleton,41,24.0,14.0
+2020,12120,2,546,Maryland,LAYUP,GOOD,02 Mimi Collins LAYUP GOOD (8 Pt); 55 Chloe Bibby Assist (1 Asst),Mimi Collins,02,26.0,14.0
+2020,12120,2,528,Wisconsin,LAYUP,MISS,41 Sara Stapleton LAYUP MISS,Sara Stapleton,41,,
+2020,12120,2,525,Maryland,DEF,REBOUND,"02 Mimi Collins DEF. REBOUND (2 Reb, 2 Def)",Mimi Collins,02,,
+2020,12120,2,522,Maryland,TURNOVER,TURNOVER,01 Diamond Miller TURNOVER (3 TO),Diamond Miller,01,,
+2020,12120,2,495,Wisconsin,3PTR,GOOD,01 Estella Moschkau 3PTR GOOD (3 Pt); 40 Tara Stauffacher Assist (1 Asst),Estella Moschkau,01,26.0,17.0
+2020,12120,2,479,Wisconsin,FOUL,FOUL,05 Julie Pospisilova FOUL (1 PF),Julie Pospisilova,05,,
+2020,12120,2,479,Maryland,FT,GOOD,55 Chloe Bibby FT GOOD (8 Pt),Chloe Bibby,55,27.0,17.0
+2020,12120,2,479,Maryland,FT,GOOD,55 Chloe Bibby FT GOOD (9 Pt),Chloe Bibby,55,28.0,17.0
+2020,12120,2,459,Wisconsin,JUMPER,MISS,05 Julie Pospisilova JUMPER MISS; 01 Diamond Miller BLOCK (1 Blk),Julie Pospisilova,05,,
+2020,12120,2,454,Maryland,DEF,REBOUND,"55 Chloe Bibby DEF. REBOUND (3 Reb, 3 Def)",Chloe Bibby,55,,
+2020,12120,2,453,Maryland,LAYUP,MISS,15 Ashley Owusu LAYUP MISS,Ashley Owusu,15,,
+2020,12120,2,450,Wisconsin,DEF,REBOUND,"40 Tara Stauffacher DEF. REBOUND (1 Reb, 1 Def)",Tara Stauffacher,40,,
+2020,12120,2,432,Wisconsin,LAYUP,MISS,10 Halle Douglass LAYUP MISS,Halle Douglass,10,,
+2020,12120,2,429,Maryland,DEF,REBOUND,"15 Ashley Owusu DEF. REBOUND (1 Reb, 1 Def)",Ashley Owusu,15,,
+2020,12120,2,426,Maryland,JUMPER,GOOD,02 Mimi Collins JUMPER GOOD (10 Pt); 15 Ashley Owusu Assist (2 Asst),Mimi Collins,02,30.0,17.0
+2020,12120,2,399,Wisconsin,TURNOVER,TURNOVER,01 Estella Moschkau TURNOVER (2 TO),Estella Moschkau,01,,
+2020,12120,2,399,Maryland,STEAL,STEAL,01 Diamond Miller STEAL (1 Stl),Diamond Miller,01,,
+2020,12120,2,389,Maryland,3PTR,MISS,15 Ashley Owusu 3PTR MISS,Ashley Owusu,15,,
+2020,12120,2,387,Wisconsin,DEF,REBOUND,"40 Tara Stauffacher DEF. REBOUND (2 Reb, 2 Def)",Tara Stauffacher,40,,
+2020,12120,2,387,Maryland,FOUL,FOUL,55 Chloe Bibby FOUL (1 PF),Chloe Bibby,55,,
+2020,12120,2,381,Maryland,SUBS,SUBS,15 Ashley Owusu OUT; 55 Chloe Bibby OUT; 05 Alaysia Styles IN; 13 Faith Masonius IN,Ashley Owusu,15,,
+2020,12120,2,381,Wisconsin,SUBS,SUBS,10 Halle Douglass OUT; 40 Tara Stauffacher OUT; 41 Sara Stapleton OUT; 30 Sydney Hilliard IN; 32 Kate Thompson IN; 34 Imani Lewis IN,Halle Douglass,10,,
+2020,12120,2,359,Maryland,FOUL,FOUL,02 Mimi Collins FOUL (2 PF),Mimi Collins,02,,
+2020,12120,2,359,Wisconsin,FT,GOOD,34 Imani Lewis FT GOOD (4 Pt),Imani Lewis,34,30.0,18.0
+2020,12120,2,359,Wisconsin,FT,GOOD,34 Imani Lewis FT GOOD (5 Pt),Imani Lewis,34,30.0,19.0
+2020,12120,2,349,Maryland,LAYUP,GOOD,02 Mimi Collins LAYUP GOOD (12 Pt); 01 Diamond Miller Assist (3 Asst),Mimi Collins,02,32.0,19.0
+2020,12120,2,338,Wisconsin,TURNOVER,TURNOVER,30 Sydney Hilliard TURNOVER (1 TO),Sydney Hilliard,30,,
+2020,12120,2,328,Maryland,JUMPER,MISS,01 Diamond Miller JUMPER MISS,Diamond Miller,01,,
+2020,12120,2,325,Maryland,OFF,REBOUND,"05 Alaysia Styles OFF. REBOUND (1 Reb, 1 Off)",Alaysia Styles,05,,
+2020,12120,2,321,Maryland,TURNOVER,TURNOVER,01 Diamond Miller TURNOVER (4 TO),Diamond Miller,01,,
+2020,12120,2,302,Wisconsin,3PTR,MISS,01 Estella Moschkau 3PTR MISS,Estella Moschkau,01,,
+2020,12120,2,300,Maryland,DEF,REBOUND,"11 Katie Benzan DEF. REBOUND (1 Reb, 1 Def)",Katie Benzan,11,,
+2020,12120,2,285,Maryland,3PTR,GOOD,11 Katie Benzan 3PTR GOOD (3 Pt),Katie Benzan,11,35.0,19.0
+2020,12120,2,261,Wisconsin,JUMPER,MISS,30 Sydney Hilliard JUMPER MISS,Sydney Hilliard,30,,
+2020,12120,2,257,Maryland,DEF,REBOUND,"11 Katie Benzan DEF. REBOUND (2 Reb, 2 Def)",Katie Benzan,11,,
+2020,12120,2,250,Maryland,3PTR,MISS,01 Diamond Miller 3PTR MISS,Diamond Miller,01,,
+2020,12120,2,247,Maryland,OFF,REBOUND,"02 Mimi Collins OFF. REBOUND (3 Reb, 1 Off)",Mimi Collins,02,,
+2020,12120,2,246,Maryland,TURNOVER,TURNOVER,02 Mimi Collins TURNOVER (1 TO),Mimi Collins,02,,
+2020,12120,2,246,Wisconsin,STEAL,STEAL,30 Sydney Hilliard STEAL (1 Stl),Sydney Hilliard,30,,
+2020,12120,2,236,Wisconsin,JUMPER,GOOD,34 Imani Lewis JUMPER GOOD (7 Pt); 05 Julie Pospisilova Assist (2 Asst),Imani Lewis,34,35.0,21.0
+2020,12120,2,219,Maryland,JUMPER,MISS,05 Alaysia Styles JUMPER MISS,Alaysia Styles,05,,
+2020,12120,2,215,Wisconsin,DEF,REBOUND,"32 Kate Thompson DEF. REBOUND (1 Reb, 1 Def)",Kate Thompson,32,,
+2020,12120,2,200,Wisconsin,LAYUP,MISS,01 Estella Moschkau LAYUP MISS; 13 Faith Masonius BLOCK (1 Blk),Estella Moschkau,01,,
+2020,12120,2,196,Maryland,DEF,REBOUND,"01 Diamond Miller DEF. REBOUND (3 Reb, 3 Def)",Diamond Miller,01,,
+2020,12120,2,193,Maryland,LAYUP,MISS,01 Diamond Miller LAYUP MISS,Diamond Miller,01,,
+2020,12120,2,190,Maryland,OFF,REBOUND,"01 Diamond Miller OFF. REBOUND (4 Reb, 1 Off)",Diamond Miller,01,,
+2020,12120,2,190,Wisconsin,FOUL,FOUL,01 Estella Moschkau FOUL (1 PF),Estella Moschkau,01,,
+2020,12120,2,190,Wisconsin,MEDIA,TIMEOUT,Media Timeout,,,,
+2020,12120,2,190,Maryland,SUBS,SUBS,02 Mimi Collins OUT; 55 Chloe Bibby IN; 01 Diamond Miller OUT; 15 Ashley Owusu IN,Mimi Collins,02,,
+2020,12120,2,190,Wisconsin,SUBS,SUBS,01 Estella Moschkau OUT; 03 Brooke Schramek IN,Estella Moschkau,01,,
+2020,12120,2,190,Maryland,FT,GOOD,01 Diamond Miller FT GOOD (3 Pt),Diamond Miller,01,36.0,21.0
+2020,12120,2,190,Maryland,FT,GOOD,01 Diamond Miller FT GOOD (4 Pt),Diamond Miller,01,37.0,21.0
+2020,12120,2,171,Wisconsin,TURNOVER,TURNOVER,34 Imani Lewis TURNOVER (3 TO),Imani Lewis,34,,
+2020,12120,2,171,Maryland,STEAL,STEAL,11 Katie Benzan STEAL (1 Stl),Katie Benzan,11,,
+2020,12120,2,166,Maryland,JUMPER,GOOD,15 Ashley Owusu JUMPER GOOD (11 Pt); 11 Katie Benzan Assist (2 Asst),Ashley Owusu,15,39.0,21.0
+2020,12120,2,144,Wisconsin,JUMPER,MISS,34 Imani Lewis JUMPER MISS,Imani Lewis,34,,
+2020,12120,2,140,Wisconsin,OFF,REBOUND,"32 Kate Thompson OFF. REBOUND (2 Reb, 1 Off)",Kate Thompson,32,,
+2020,12120,2,138,Wisconsin,JUMPER,MISS,32 Kate Thompson JUMPER MISS,Kate Thompson,32,,
+2020,12120,2,130,Maryland,DEF,REBOUND,"13 Faith Masonius DEF. REBOUND (3 Reb, 1 Def)",Faith Masonius,13,,
+2020,12120,2,113,Maryland,3PTR,MISS,55 Chloe Bibby 3PTR MISS,Chloe Bibby,55,,
+2020,12120,2,109,Maryland,OFF,REBOUND,"13 Faith Masonius OFF. REBOUND (4 Reb, 3 Off)",Faith Masonius,13,,
+2020,12120,2,108,Maryland,LAYUP,GOOD,13 Faith Masonius LAYUP GOOD (2 Pt),Faith Masonius,13,41.0,21.0
+2020,12120,2,86,Wisconsin,JUMPER,MISS,30 Sydney Hilliard JUMPER MISS,Sydney Hilliard,30,,
+2020,12120,2,84,Maryland,DEF,REBOUND,"05 Alaysia Styles DEF. REBOUND (2 Reb, 1 Def)",Alaysia Styles,05,,
+2020,12120,2,84,Wisconsin,FOUL,FOUL,32 Kate Thompson FOUL (1 PF),Kate Thompson,32,,
+2020,12120,2,84,Maryland,SUBS,SUBS,55 Chloe Bibby OUT; 14 Taisiya Kozlova IN,Chloe Bibby,55,,
+2020,12120,2,84,Wisconsin,SUBS,SUBS,05 Julie Pospisilova OUT; 32 Kate Thompson OUT; 10 Halle Douglass IN; 41 Sara Stapleton IN,Julie Pospisilova,05,,
+2020,12120,2,68,Maryland,3PTR,MISS,14 Taisiya Kozlova 3PTR MISS,Taisiya Kozlova,14,,
+2020,12120,2,63,Maryland,OFF,REBOUND,"05 Alaysia Styles OFF. REBOUND (3 Reb, 2 Off)",Alaysia Styles,05,,
+2020,12120,2,62,Maryland,3PTR,GOOD,11 Katie Benzan 3PTR GOOD (6 Pt); 05 Alaysia Styles Assist (1 Asst),Katie Benzan,11,44.0,21.0
+2020,12120,2,43,Wisconsin,LAYUP,MISS,03 Brooke Schramek LAYUP MISS,Brooke Schramek,03,,
+2020,12120,2,40,Wisconsin,OFF,REBOUND,"41 Sara Stapleton OFF. REBOUND (1 Reb, 1 Off)",Sara Stapleton,41,,
+2020,12120,2,36,Wisconsin,JUMPER,MISS,41 Sara Stapleton JUMPER MISS,Sara Stapleton,41,,
+2020,12120,2,33,Maryland,DEF,REBOUND,"13 Faith Masonius DEF. REBOUND (5 Reb, 2 Def)",Faith Masonius,13,,
+2020,12120,2,13,Maryland,JUMPER,MISS,15 Ashley Owusu JUMPER MISS,Ashley Owusu,15,,
+2020,12120,2,10,Maryland,OFF,REBOUND,"13 Faith Masonius OFF. REBOUND (6 Reb, 4 Off)",Faith Masonius,13,,
+2020,12120,2,9,Maryland,LAYUP,GOOD,13 Faith Masonius LAYUP GOOD (4 Pt),Faith Masonius,13,46.0,21.0
+2020,12120,2,0,Wisconsin,JUMPER,GOOD,30 Sydney Hilliard JUMPER GOOD (9 Pt),Sydney Hilliard,30,46.0,23.0
+2020,12120,3,600,Maryland,SUBS,SUBS,05 Alaysia Styles OUT; 13 Faith Masonius OUT; 14 Taisiya Kozlova OUT; 01 Diamond Miller IN; 02 Mimi Collins IN; 55 Chloe Bibby IN,Alaysia Styles,05,,
+2020,12120,3,600,Wisconsin,SUBS,SUBS,03 Brooke Schramek OUT; 10 Halle Douglass OUT; 01 Estella Moschkau IN; 05 Julie Pospisilova IN,Brooke Schramek,03,,
+2020,12120,3,591,Maryland,3PTR,MISS,55 Chloe Bibby 3PTR MISS,Chloe Bibby,55,,
+2020,12120,3,588,Wisconsin,DEF,REBOUND,"01 Estella Moschkau DEF. REBOUND (1 Reb, 1 Def)",Estella Moschkau,01,,
+2020,12120,3,584,Wisconsin,LAYUP,GOOD,34 Imani Lewis LAYUP GOOD (9 Pt); 05 Julie Pospisilova Assist (3 Asst),Imani Lewis,34,46.0,25.0
+2020,12120,3,571,Maryland,JUMPER,MISS,01 Diamond Miller JUMPER MISS; 41 Sara Stapleton BLOCK (1 Blk),Diamond Miller,01,,
+2020,12120,3,565,Wisconsin,DEF,REBOUND,"01 Estella Moschkau DEF. REBOUND (2 Reb, 2 Def)",Estella Moschkau,01,,
+2020,12120,3,562,Wisconsin,TURNOVER,TURNOVER,41 Sara Stapleton TURNOVER (1 TO),Sara Stapleton,41,,
+2020,12120,3,548,Maryland,JUMPER,MISS,15 Ashley Owusu JUMPER MISS,Ashley Owusu,15,,
+2020,12120,3,545,Wisconsin,DEF,REBOUND,"05 Julie Pospisilova DEF. REBOUND (1 Reb, 1 Def)",Julie Pospisilova,05,,
+2020,12120,3,541,Wisconsin,LAYUP,GOOD,30 Sydney Hilliard LAYUP GOOD (11 Pt),Sydney Hilliard,30,46.0,27.0
+2020,12120,3,541,Maryland,FOUL,FOUL,02 Mimi Collins FOUL (3 PF),Mimi Collins,02,,
+2020,12120,3,541,Maryland,SUBS,SUBS,02 Mimi Collins OUT; 13 Faith Masonius IN,Mimi Collins,02,,
+2020,12120,3,541,Wisconsin,FT,GOOD,30 Sydney Hilliard FT GOOD (12 Pt),Sydney Hilliard,30,46.0,28.0
+2020,12120,3,521,Maryland,TURNOVER,TURNOVER,15 Ashley Owusu TURNOVER (2 TO),Ashley Owusu,15,,
+2020,12120,3,521,Wisconsin,STEAL,STEAL,01 Estella Moschkau STEAL (1 Stl),Estella Moschkau,01,,
+2020,12120,3,511,Wisconsin,LAYUP,GOOD,34 Imani Lewis LAYUP GOOD (11 Pt); 05 Julie Pospisilova Assist (4 Asst),Imani Lewis,34,46.0,30.0
+2020,12120,3,510,Maryland,30SEC,TIMEOUT,"Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)",,,,
+2020,12120,3,510,Wisconsin,MEDIA,TIMEOUT,Media Timeout,,,,
+2020,12120,3,490,Maryland,LAYUP,GOOD,01 Diamond Miller LAYUP GOOD (6 Pt),Diamond Miller,01,48.0,30.0
+2020,12120,3,475,Wisconsin,TURNOVER,TURNOVER,30 Sydney Hilliard TURNOVER (2 TO),Sydney Hilliard,30,,
+2020,12120,3,475,Maryland,STEAL,STEAL,11 Katie Benzan STEAL (2 Stl),Katie Benzan,11,,
+2020,12120,3,470,Maryland,LAYUP,GOOD,15 Ashley Owusu LAYUP GOOD (13 Pt); 11 Katie Benzan Assist (3 Asst),Ashley Owusu,15,50.0,30.0
+2020,12120,3,449,Wisconsin,3PTR,MISS,05 Julie Pospisilova 3PTR MISS,Julie Pospisilova,05,,
+2020,12120,3,446,Maryland,DEF,REBOUND,"55 Chloe Bibby DEF. REBOUND (4 Reb, 4 Def)",Chloe Bibby,55,,
+2020,12120,3,431,Maryland,3PTR,MISS,01 Diamond Miller 3PTR MISS,Diamond Miller,01,,
+2020,12120,3,427,Maryland,OFF,REBOUND,"13 Faith Masonius OFF. REBOUND (7 Reb, 5 Off)",Faith Masonius,13,,
+2020,12120,3,416,Maryland,JUMPER,MISS,15 Ashley Owusu JUMPER MISS,Ashley Owusu,15,,
+2020,12120,3,412,Wisconsin,DEF,REBOUND,"01 Estella Moschkau DEF. REBOUND (3 Reb, 3 Def)",Estella Moschkau,01,,
+2020,12120,3,389,Wisconsin,TURNOVER,TURNOVER,05 Julie Pospisilova TURNOVER (3 TO),Julie Pospisilova,05,,
+2020,12120,3,379,Maryland,3PTR,MISS,55 Chloe Bibby 3PTR MISS,Chloe Bibby,55,,
+2020,12120,3,375,Maryland,OFF,REBOUND,"15 Ashley Owusu OFF. REBOUND (2 Reb, 1 Off)",Ashley Owusu,15,,
+2020,12120,3,375,Maryland,LAYUP,GOOD,15 Ashley Owusu LAYUP GOOD (15 Pt),Ashley Owusu,15,52.0,30.0
+2020,12120,3,375,Wisconsin,FOUL,FOUL,05 Julie Pospisilova FOUL (2 PF),Julie Pospisilova,05,,
+2020,12120,3,375,Wisconsin,SUBS,SUBS,05 Julie Pospisilova OUT; 41 Sara Stapleton OUT; 10 Halle Douglass IN; 40 Tara Stauffacher IN,Julie Pospisilova,05,,
+2020,12120,3,375,Maryland,FT,MISS,15 Ashley Owusu FT MISS,Ashley Owusu,15,,
+2020,12120,3,375,Wisconsin,DEF,REBOUND,"34 Imani Lewis DEF. REBOUND (2 Reb, 1 Def)",Imani Lewis,34,,
+2020,12120,3,363,Maryland,FOUL,FOUL,15 Ashley Owusu FOUL (1 PF),Ashley Owusu,15,,
+2020,12120,3,348,Wisconsin,TURNOVER,TURNOVER,30 Sydney Hilliard TURNOVER (3 TO),Sydney Hilliard,30,,
+2020,12120,3,348,Maryland,STEAL,STEAL,55 Chloe Bibby STEAL (2 Stl),Chloe Bibby,55,,
+2020,12120,3,345,Wisconsin,FOUL,FOUL,40 Tara Stauffacher FOUL (1 PF),Tara Stauffacher,40,,
+2020,12120,3,345,Maryland,FT,MISS,55 Chloe Bibby FT MISS,Chloe Bibby,55,,
+2020,12120,3,345,Maryland,DEADB,REBOUND,Maryland REBOUND,,,,
+2020,12120,3,345,Maryland,FT,GOOD,55 Chloe Bibby FT GOOD (10 Pt),Chloe Bibby,55,53.0,30.0
+2020,12120,3,316,Wisconsin,3PTR,MISS,01 Estella Moschkau 3PTR MISS,Estella Moschkau,01,,
+2020,12120,3,314,Maryland,DEF,REBOUND,Maryland REBOUND,,,,
+2020,12120,3,301,Maryland,TURNOVER,TURNOVER,15 Ashley Owusu TURNOVER (3 TO),Ashley Owusu,15,,
+2020,12120,3,280,Wisconsin,TURNOVER,TURNOVER,10 Halle Douglass TURNOVER (3 TO),Halle Douglass,10,,
+2020,12120,3,280,Maryland,STEAL,STEAL,15 Ashley Owusu STEAL (1 Stl),Ashley Owusu,15,,
+2020,12120,3,274,Maryland,LAYUP,GOOD,15 Ashley Owusu LAYUP GOOD (17 Pt); 11 Katie Benzan Assist (4 Asst),Ashley Owusu,15,55.0,30.0
+2020,12120,3,260,Wisconsin,3PTR,MISS,40 Tara Stauffacher 3PTR MISS,Tara Stauffacher,40,,
+2020,12120,3,257,Maryland,DEF,REBOUND,"55 Chloe Bibby DEF. REBOUND (5 Reb, 5 Def)",Chloe Bibby,55,,
+2020,12120,3,249,Maryland,LAYUP,GOOD,55 Chloe Bibby LAYUP GOOD (12 Pt); 15 Ashley Owusu Assist (3 Asst),Chloe Bibby,55,57.0,30.0
+2020,12120,3,238,Wisconsin,TURNOVER,TURNOVER,40 Tara Stauffacher TURNOVER (1 TO),Tara Stauffacher,40,,
+2020,12120,3,238,Wisconsin,MEDIA,TIMEOUT,Media Timeout,,,,
+2020,12120,3,238,Maryland,SUBS,SUBS,15 Ashley Owusu OUT; 05 Alaysia Styles IN,Ashley Owusu,15,,
+2020,12120,3,230,Wisconsin,SUBS,SUBS,01 Estella Moschkau OUT; 40 Tara Stauffacher OUT; 03 Brooke Schramek IN; 44 Alex Luehring IN,Estella Moschkau,01,,
+2020,12120,3,226,Maryland,SUBS,SUBS,55 Chloe Bibby OUT; 14 Taisiya Kozlova IN,Chloe Bibby,55,,
+2020,12120,3,226,Wisconsin,FOUL,FOUL,03 Brooke Schramek FOUL (1 PF),Brooke Schramek,03,,
+2020,12120,3,226,Maryland,FT,GOOD,01 Diamond Miller FT GOOD (7 Pt),Diamond Miller,01,58.0,30.0
+2020,12120,3,226,Maryland,FT,GOOD,01 Diamond Miller FT GOOD (8 Pt),Diamond Miller,01,59.0,30.0
+2020,12120,3,221,Maryland,SUBS,SUBS,11 Katie Benzan OUT; 55 Chloe Bibby IN,Katie Benzan,11,,
+2020,12120,3,215,Maryland,SUBS,SUBS,55 Chloe Bibby OUT; 15 Ashley Owusu IN,Chloe Bibby,55,,
+2020,12120,3,206,Maryland,FOUL,FOUL,14 Taisiya Kozlova FOUL (1 PF),Taisiya Kozlova,14,,
+2020,12120,3,204,Wisconsin,TURNOVER,TURNOVER,03 Brooke Schramek TURNOVER (1 TO),Brooke Schramek,03,,
+2020,12120,3,204,Maryland,STEAL,STEAL,05 Alaysia Styles STEAL (1 Stl),Alaysia Styles,05,,
+2020,12120,3,199,Maryland,LAYUP,MISS,01 Diamond Miller LAYUP MISS; 10 Halle Douglass BLOCK (1 Blk),Diamond Miller,01,,
+2020,12120,3,198,Maryland,OFF,REBOUND,Maryland REBOUND,,,,
+2020,12120,3,198,Wisconsin,SUBS,SUBS,10 Halle Douglass OUT; 05 Julie Pospisilova IN,Halle Douglass,10,,
+2020,12120,3,195,Maryland,LAYUP,GOOD,13 Faith Masonius LAYUP GOOD (6 Pt),Faith Masonius,13,61.0,30.0
+2020,12120,3,187,Wisconsin,TURNOVER,TURNOVER,05 Julie Pospisilova TURNOVER (4 TO),Julie Pospisilova,05,,
+2020,12120,3,187,Maryland,STEAL,STEAL,01 Diamond Miller STEAL (2 Stl),Diamond Miller,01,,
+2020,12120,3,182,Maryland,LAYUP,MISS,15 Ashley Owusu LAYUP MISS,Ashley Owusu,15,,
+2020,12120,3,181,Wisconsin,TURNOVER,TURNOVER,30 Sydney Hilliard TURNOVER (4 TO),Sydney Hilliard,30,,
+2020,12120,3,181,Maryland,STEAL,STEAL,01 Diamond Miller STEAL (3 Stl),Diamond Miller,01,,
+2020,12120,3,181,Wisconsin,FOUL,FOUL,05 Julie Pospisilova FOUL (3 PF),Julie Pospisilova,05,,
+2020,12120,3,181,Maryland,FT,MISS,01 Diamond Miller FT MISS,Diamond Miller,01,,
+2020,12120,3,181,Maryland,DEADB,REBOUND,Maryland REBOUND,,,,
+2020,12120,3,181,Maryland,FT,GOOD,01 Diamond Miller FT GOOD (9 Pt),Diamond Miller,01,62.0,30.0
+2020,12120,3,181,Wisconsin,SUBS,SUBS,05 Julie Pospisilova OUT; 01 Estella Moschkau IN,Julie Pospisilova,05,,
+2020,12120,3,180,Wisconsin,DEF,REBOUND,"30 Sydney Hilliard DEF. REBOUND (2 Reb, 2 Def)",Sydney Hilliard,30,,
+2020,12120,3,156,Wisconsin,JUMPER,GOOD,30 Sydney Hilliard JUMPER GOOD (14 Pt),Sydney Hilliard,30,62.0,32.0
+2020,12120,3,135,Maryland,TURNOVER,TURNOVER,01 Diamond Miller TURNOVER (5 TO),Diamond Miller,01,,
+2020,12120,3,135,Wisconsin,STEAL,STEAL,30 Sydney Hilliard STEAL (2 Stl),Sydney Hilliard,30,,
+2020,12120,3,130,Wisconsin,LAYUP,MISS,30 Sydney Hilliard LAYUP MISS,Sydney Hilliard,30,,
+2020,12120,3,126,Wisconsin,OFF,REBOUND,"34 Imani Lewis OFF. REBOUND (3 Reb, 2 Off)",Imani Lewis,34,,
+2020,12120,3,124,Wisconsin,3PTR,MISS,03 Brooke Schramek 3PTR MISS; 01 Diamond Miller BLOCK (2 Blk),Brooke Schramek,03,,
+2020,12120,3,119,Wisconsin,OFF,REBOUND,"30 Sydney Hilliard OFF. REBOUND (3 Reb, 1 Off)",Sydney Hilliard,30,,
+2020,12120,3,118,Wisconsin,LAYUP,GOOD,30 Sydney Hilliard LAYUP GOOD (16 Pt),Sydney Hilliard,30,62.0,34.0
+2020,12120,3,115,Wisconsin,30SEC,TIMEOUT,"Wisconsin TIMEOUT 30 Sec. (1st TO, 2nd 30)",,,,
+2020,12120,3,114,Maryland,SUBS,SUBS,01 Diamond Miller OUT; 05 Alaysia Styles OUT; 02 Mimi Collins IN; 55 Chloe Bibby IN,Diamond Miller,01,,
+2020,12120,3,88,Maryland,TURNOVER,TURNOVER,13 Faith Masonius TURNOVER (2 TO),Faith Masonius,13,,
+2020,12120,3,88,Wisconsin,STEAL,STEAL,01 Estella Moschkau STEAL (2 Stl),Estella Moschkau,01,,
+2020,12120,3,83,Wisconsin,LAYUP,MISS,03 Brooke Schramek LAYUP MISS,Brooke Schramek,03,,
+2020,12120,3,80,Maryland,DEF,REBOUND,"14 Taisiya Kozlova DEF. REBOUND (1 Reb, 1 Def)",Taisiya Kozlova,14,,
+2020,12120,3,74,Maryland,LAYUP,GOOD,55 Chloe Bibby LAYUP GOOD (14 Pt); 15 Ashley Owusu Assist (4 Asst),Chloe Bibby,55,64.0,34.0
+2020,12120,3,43,Wisconsin,JUMPER,MISS,34 Imani Lewis JUMPER MISS,Imani Lewis,34,,
+2020,12120,3,40,Maryland,DEF,REBOUND,"13 Faith Masonius DEF. REBOUND (8 Reb, 3 Def)",Faith Masonius,13,,
+2020,12120,3,32,Maryland,LAYUP,MISS,15 Ashley Owusu LAYUP MISS,Ashley Owusu,15,,
+2020,12120,3,30,Wisconsin,DEF,REBOUND,"03 Brooke Schramek DEF. REBOUND (1 Reb, 1 Def)",Brooke Schramek,03,,
+2020,12120,3,23,Maryland,FOUL,FOUL,13 Faith Masonius FOUL (1 PF),Faith Masonius,13,,
+2020,12120,3,23,Wisconsin,SUBS,SUBS,30 Sydney Hilliard OUT; 34 Imani Lewis OUT; 10 Halle Douglass IN; 32 Kate Thompson IN,Sydney Hilliard,30,,
+2020,12120,3,23,Wisconsin,FT,MISS,01 Estella Moschkau FT MISS,Estella Moschkau,01,,
+2020,12120,3,23,Wisconsin,DEADB,REBOUND,Wisconsin REBOUND,,,,
+2020,12120,3,23,Wisconsin,FT,GOOD,01 Estella Moschkau FT GOOD (4 Pt),Estella Moschkau,01,64.0,35.0
+2020,12120,3,4,Maryland,3PTR,MISS,55 Chloe Bibby 3PTR MISS,Chloe Bibby,55,,
+2020,12120,3,1,Maryland,OFF,REBOUND,"13 Faith Masonius OFF. REBOUND (9 Reb, 6 Off)",Faith Masonius,13,,
+2020,12120,3,0,Maryland,LAYUP,MISS,13 Faith Masonius LAYUP MISS,Faith Masonius,13,,
+2020,12120,3,0,Wisconsin,DEADB,REBOUND,Wisconsin REBOUND,,,,
+2020,12120,4,593,Maryland,SUBS,SUBS,13 Faith Masonius OUT; 14 Taisiya Kozlova OUT; 05 Alaysia Styles IN; 11 Katie Benzan IN,Faith Masonius,13,,
+2020,12120,4,593,Wisconsin,SUBS,SUBS,03 Brooke Schramek OUT; 44 Alex Luehring OUT; 05 Julie Pospisilova IN; 40 Tara Stauffacher IN,Brooke Schramek,03,,
+2020,12120,4,588,Maryland,3PTR,GOOD,11 Katie Benzan 3PTR GOOD (9 Pt); 15 Ashley Owusu Assist (5 Asst),Katie Benzan,11,67.0,35.0
+2020,12120,4,567,Wisconsin,TURNOVER,TURNOVER,01 Estella Moschkau TURNOVER (3 TO),Estella Moschkau,01,,
+2020,12120,4,567,Maryland,STEAL,STEAL,05 Alaysia Styles STEAL (2 Stl),Alaysia Styles,05,,
+2020,12120,4,552,Maryland,3PTR,GOOD,11 Katie Benzan 3PTR GOOD (12 Pt),Katie Benzan,11,70.0,35.0
+2020,12120,4,550,Wisconsin,30SEC,TIMEOUT,"Wisconsin TIMEOUT 30 Sec. (1st TO, 3rd 30)",,,,
+2020,12120,4,550,Wisconsin,MEDIA,TIMEOUT,Media Timeout,,,,
+2020,12120,4,536,Wisconsin,JUMPER,MISS,05 Julie Pospisilova JUMPER MISS,Julie Pospisilova,05,,
+2020,12120,4,533,Wisconsin,OFF,REBOUND,"32 Kate Thompson OFF. REBOUND (3 Reb, 2 Off)",Kate Thompson,32,,
+2020,12120,4,532,Wisconsin,JUMPER,MISS,32 Kate Thompson JUMPER MISS,Kate Thompson,32,,
+2020,12120,4,529,Maryland,DEF,REBOUND,"55 Chloe Bibby DEF. REBOUND (6 Reb, 6 Def)",Chloe Bibby,55,,
+2020,12120,4,526,Maryland,3PTR,MISS,11 Katie Benzan 3PTR MISS,Katie Benzan,11,,
+2020,12120,4,525,Maryland,SUBS,SUBS,15 Ashley Owusu OUT; 01 Diamond Miller IN,Ashley Owusu,15,,
+2020,12120,4,525,Wisconsin,SUBS,SUBS,05 Julie Pospisilova OUT; 32 Kate Thompson OUT; 40 Tara Stauffacher OUT; 30 Sydney Hilliard IN; 34 Imani Lewis IN; 41 Sara Stapleton IN,Julie Pospisilova,05,,
+2020,12120,4,523,Wisconsin,DEF,REBOUND,Wisconsin REBOUND,,,,
+2020,12120,4,520,Wisconsin,SUBS,SUBS,01 Estella Moschkau OUT; 05 Julie Pospisilova IN,Estella Moschkau,01,,
+2020,12120,4,514,Maryland,FOUL,FOUL,55 Chloe Bibby FOUL (2 PF),Chloe Bibby,55,,
+2020,12120,4,502,Wisconsin,LAYUP,GOOD,30 Sydney Hilliard LAYUP GOOD (18 Pt); 05 Julie Pospisilova Assist (5 Asst),Sydney Hilliard,30,70.0,37.0
+2020,12120,4,481,Maryland,3PTR,GOOD,11 Katie Benzan 3PTR GOOD (15 Pt),Katie Benzan,11,73.0,37.0
+2020,12120,4,453,Wisconsin,LAYUP,GOOD,30 Sydney Hilliard LAYUP GOOD (20 Pt); 34 Imani Lewis Assist (1 Asst),Sydney Hilliard,30,73.0,39.0
+2020,12120,4,453,Maryland,FOUL,FOUL,55 Chloe Bibby FOUL (3 PF),Chloe Bibby,55,,
+2020,12120,4,453,Maryland,SUBS,SUBS,55 Chloe Bibby OUT; 13 Faith Masonius IN,Chloe Bibby,55,,
+2020,12120,4,453,Wisconsin,FT,MISS,30 Sydney Hilliard FT MISS,Sydney Hilliard,30,,
+2020,12120,4,446,Maryland,DEF,REBOUND,Maryland REBOUND,,,,
+2020,12120,4,429,Maryland,JUMPER,MISS,05 Alaysia Styles JUMPER MISS,Alaysia Styles,05,,
+2020,12120,4,425,Wisconsin,DEF,REBOUND,"05 Julie Pospisilova DEF. REBOUND (2 Reb, 2 Def)",Julie Pospisilova,05,,
+2020,12120,4,414,Wisconsin,LAYUP,GOOD,05 Julie Pospisilova LAYUP GOOD (4 Pt),Julie Pospisilova,05,73.0,41.0
+2020,12120,4,397,Maryland,JUMPER,GOOD,02 Mimi Collins JUMPER GOOD (14 Pt); 01 Diamond Miller Assist (4 Asst),Mimi Collins,02,75.0,41.0
+2020,12120,4,377,Wisconsin,JUMPER,MISS,30 Sydney Hilliard JUMPER MISS,Sydney Hilliard,30,,
+2020,12120,4,374,Maryland,DEF,REBOUND,"05 Alaysia Styles DEF. REBOUND (4 Reb, 2 Def)",Alaysia Styles,05,,
+2020,12120,4,374,Maryland,TURNOVER,TURNOVER,05 Alaysia Styles TURNOVER (1 TO),Alaysia Styles,05,,
+2020,12120,4,374,Wisconsin,STEAL,STEAL,41 Sara Stapleton STEAL (1 Stl),Sara Stapleton,41,,
+2020,12120,4,362,Wisconsin,TURNOVER,TURNOVER,34 Imani Lewis TURNOVER (4 TO),Imani Lewis,34,,
+2020,12120,4,362,Maryland,STEAL,STEAL,13 Faith Masonius STEAL (1 Stl),Faith Masonius,13,,
+2020,12120,4,340,Maryland,JUMPER,MISS,02 Mimi Collins JUMPER MISS,Mimi Collins,02,,
+2020,12120,4,338,Maryland,OFF,REBOUND,"05 Alaysia Styles OFF. REBOUND (5 Reb, 3 Off)",Alaysia Styles,05,,
+2020,12120,4,336,Maryland,3PTR,MISS,02 Mimi Collins 3PTR MISS,Mimi Collins,02,,
+2020,12120,4,333,Wisconsin,DEF,REBOUND,"10 Halle Douglass DEF. REBOUND (1 Reb, 1 Def)",Halle Douglass,10,,
+2020,12120,4,331,Wisconsin,TURNOVER,TURNOVER,30 Sydney Hilliard TURNOVER (5 TO),Sydney Hilliard,30,,
+2020,12120,4,331,Maryland,STEAL,STEAL,02 Mimi Collins STEAL (1 Stl),Mimi Collins,02,,
+2020,12120,4,327,Maryland,LAYUP,GOOD,13 Faith Masonius LAYUP GOOD (8 Pt); 02 Mimi Collins Assist (1 Asst),Faith Masonius,13,77.0,41.0
+2020,12120,4,325,Wisconsin,TEAM,TIMEOUT,"Wisconsin TIMEOUT Full (2nd TO, 1st Full)",,,,
+2020,12120,4,325,Maryland,SUBS,SUBS,01 Diamond Miller OUT; 14 Taisiya Kozlova IN,Diamond Miller,01,,
+2020,12120,4,306,Wisconsin,TURNOVER,TURNOVER,05 Julie Pospisilova TURNOVER (5 TO),Julie Pospisilova,05,,
+2020,12120,4,306,Maryland,STEAL,STEAL,02 Mimi Collins STEAL (2 Stl),Mimi Collins,02,,
+2020,12120,4,288,Maryland,JUMPER,MISS,11 Katie Benzan JUMPER MISS,Katie Benzan,11,,
+2020,12120,4,285,Wisconsin,DEF,REBOUND,"30 Sydney Hilliard DEF. REBOUND (4 Reb, 3 Def)",Sydney Hilliard,30,,
+2020,12120,4,277,Wisconsin,JUMPER,GOOD,41 Sara Stapleton JUMPER GOOD (4 Pt); 30 Sydney Hilliard Assist (1 Asst),Sara Stapleton,41,77.0,43.0
+2020,12120,4,277,Maryland,FOUL,FOUL,05 Alaysia Styles FOUL (1 PF),Alaysia Styles,05,,
+2020,12120,4,277,Wisconsin,SUBS,SUBS,10 Halle Douglass OUT; 40 Tara Stauffacher IN,Halle Douglass,10,,
+2020,12120,4,277,Wisconsin,FT,GOOD,41 Sara Stapleton FT GOOD (5 Pt),Sara Stapleton,41,77.0,44.0
+2020,12120,4,267,Maryland,FOUL,FOUL,05 Alaysia Styles FOUL (2 PF),Alaysia Styles,05,,
+2020,12120,4,267,Maryland,TURNOVER,TURNOVER,05 Alaysia Styles TURNOVER (2 TO),Alaysia Styles,05,,
+2020,12120,4,267,Wisconsin,SUBS,SUBS,41 Sara Stapleton OUT; 32 Kate Thompson IN,Sara Stapleton,41,,
+2020,12120,4,253,Wisconsin,JUMPER,GOOD,32 Kate Thompson JUMPER GOOD (2 Pt); 05 Julie Pospisilova Assist (6 Asst),Kate Thompson,32,77.0,46.0
+2020,12120,4,234,Maryland,SUBS,SUBS,02 Mimi Collins OUT; 01 Diamond Miller IN,Mimi Collins,02,,
+2020,12120,4,234,Wisconsin,SUBS,SUBS,30 Sydney Hilliard OUT; 03 Brooke Schramek IN,Sydney Hilliard,30,,
+2020,12120,4,220,Maryland,TURNOVER,TURNOVER,13 Faith Masonius TURNOVER (3 TO),Faith Masonius,13,,
+2020,12120,4,201,Wisconsin,TURNOVER,TURNOVER,32 Kate Thompson TURNOVER (1 TO),Kate Thompson,32,,
+2020,12120,4,201,Maryland,STEAL,STEAL,13 Faith Masonius STEAL (2 Stl),Faith Masonius,13,,
+2020,12120,4,195,Maryland,TURNOVER,TURNOVER,05 Alaysia Styles TURNOVER (3 TO),Alaysia Styles,05,,
+2020,12120,4,178,Wisconsin,TURNOVER,TURNOVER,05 Julie Pospisilova TURNOVER (6 TO),Julie Pospisilova,05,,
+2020,12120,4,178,Maryland,STEAL,STEAL,11 Katie Benzan STEAL (3 Stl),Katie Benzan,11,,
+2020,12120,4,175,Maryland,LAYUP,GOOD,13 Faith Masonius LAYUP GOOD (10 Pt); 11 Katie Benzan Assist (5 Asst),Faith Masonius,13,79.0,46.0
+2020,12120,4,156,Wisconsin,JUMPER,GOOD,34 Imani Lewis JUMPER GOOD (13 Pt); 05 Julie Pospisilova Assist (7 Asst),Imani Lewis,34,79.0,48.0
+2020,12120,4,139,Maryland,LAYUP,MISS,01 Diamond Miller LAYUP MISS,Diamond Miller,01,,
+2020,12120,4,139,Wisconsin,DEF,REBOUND,"34 Imani Lewis DEF. REBOUND (4 Reb, 2 Def)",Imani Lewis,34,,
+2020,12120,4,139,Wisconsin,SUBS,SUBS,05 Julie Pospisilova OUT; 34 Imani Lewis OUT; 10 Halle Douglass IN; 44 Alex Luehring IN,Julie Pospisilova,05,,
+2020,12120,4,129,Maryland,3PTR,GOOD,11 Katie Benzan 3PTR GOOD (18 Pt); 13 Faith Masonius Assist (1 Asst),Katie Benzan,11,82.0,48.0
+2020,12120,4,104,Wisconsin,3PTR,MISS,03 Brooke Schramek 3PTR MISS,Brooke Schramek,03,,
+2020,12120,4,101,Maryland,DEF,REBOUND,"13 Faith Masonius DEF. REBOUND (10 Reb, 4 Def)",Faith Masonius,13,,
+2020,12120,4,86,Maryland,JUMPER,MISS,14 Taisiya Kozlova JUMPER MISS,Taisiya Kozlova,14,,
+2020,12120,4,82,Maryland,OFF,REBOUND,"13 Faith Masonius OFF. REBOUND (11 Reb, 7 Off)",Faith Masonius,13,,
+2020,12120,4,80,Maryland,LAYUP,GOOD,01 Diamond Miller LAYUP GOOD (11 Pt); 13 Faith Masonius Assist (2 Asst),Diamond Miller,01,84.0,48.0
+2020,12120,4,80,Wisconsin,FOUL,FOUL,03 Brooke Schramek FOUL (2 PF),Brooke Schramek,03,,
+2020,12120,4,76,Wisconsin,SUBS,SUBS,10 Halle Douglass OUT; 32 Kate Thompson OUT; 22 Lovisa Djurstrom IN; 24 Natalie Leuzinger IN,Halle Douglass,10,,
+2020,12120,4,74,Maryland,FT,MISS,01 Diamond Miller FT MISS,Diamond Miller,01,,
+2020,12120,4,72,Wisconsin,DEF,REBOUND,"22 Lovisa Djurstrom DEF. REBOUND (1 Reb, 1 Def)",Lovisa Djurstrom,22,,
+2020,12120,4,59,Wisconsin,JUMPER,MISS,24 Natalie Leuzinger JUMPER MISS,Natalie Leuzinger,24,,
+2020,12120,4,59,Maryland,DEF,REBOUND,"01 Diamond Miller DEF. REBOUND (5 Reb, 4 Def)",Diamond Miller,01,,
+2020,12120,4,38,Maryland,TURNOVER,TURNOVER,01 Diamond Miller TURNOVER (6 TO),Diamond Miller,01,,
+2020,12120,4,25,Maryland,FOUL,FOUL,13 Faith Masonius FOUL (2 PF),Faith Masonius,13,,
+2020,12120,4,25,Wisconsin,FT,MISS,22 Lovisa Djurstrom FT MISS,Lovisa Djurstrom,22,,
+2020,12120,4,25,Wisconsin,DEADB,REBOUND,Wisconsin REBOUND,,,,
+2020,12120,4,25,Wisconsin,FT,MISS,22 Lovisa Djurstrom FT MISS,Lovisa Djurstrom,22,,
+2020,12120,4,25,Maryland,DEF,REBOUND,"05 Alaysia Styles DEF. REBOUND (6 Reb, 3 Def)",Alaysia Styles,05,,
