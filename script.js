@@ -7,6 +7,8 @@ let allTeamTotals = [];
 let allGames = [];
 let filteredPlays = [];
 let filteredStats = [];
+let seasonPlayerStats = [];
+let filteredSeasonStats = [];
 
 // Available seasons
 const seasons = [
@@ -89,18 +91,28 @@ function renderSeasonSelector() {
 async function selectSeason(season) {
     currentSeason = season;
     document.getElementById('selected-season').textContent = season;
+    document.getElementById('season-stats-season').textContent = season;
 
-    // Load games for this season
-    allGames = await loadCSV(season, 'game_info.csv');
+    // Load games and player stats for this season
+    [allGames, allStats] = await Promise.all([
+        loadCSV(season, 'game_info.csv'),
+        loadCSV(season, 'player_stats.csv')
+    ]);
 
-    // Show games section
+    // Aggregate player stats for the season
+    aggregateSeasonStats();
+
+    // Show sections
     document.getElementById('games-section').style.display = 'block';
+    document.getElementById('season-stats-section').style.display = 'block';
     document.getElementById('game-details-section').style.display = 'none';
 
     renderGames();
+    renderSeasonStats();
+    renderSeasonStatsAdvanced();
 
-    // Scroll to games section
-    document.getElementById('games-section').scrollIntoView({ behavior: 'smooth' });
+    // Scroll to season stats section
+    document.getElementById('season-stats-section').scrollIntoView({ behavior: 'smooth' });
 }
 
 // Render games list
@@ -130,7 +142,7 @@ function renderGames() {
         <div class="game-card" onclick="selectGame('${game.file_id}')">
             <div class="game-card-header">
                 <span class="game-date">${game.date}</span>
-                <span class="game-score">${game.home_score} - ${game.visiting_score}</span>
+                <span class="game-score">${parseInt(game.home_score)} - ${parseInt(game.visiting_score)}</span>
             </div>
             <div class="game-teams">
                 <strong>${game.home_team}</strong> vs <strong>${game.visiting_team}</strong>
@@ -187,10 +199,10 @@ function renderGameInfo() {
                 <span class="info-label">Location:</span> ${game.location}
             </div>
             <div class="info-item">
-                <span class="info-label">Home:</span> ${game.home_team} (${game.home_score})
+                <span class="info-label">Home:</span> ${game.home_team} (${parseInt(game.home_score)})
             </div>
             <div class="info-item">
-                <span class="info-label">Visiting:</span> ${game.visiting_team} (${game.visiting_score})
+                <span class="info-label">Visiting:</span> ${game.visiting_team} (${parseInt(game.visiting_score)})
             </div>
             <div class="info-item">
                 <span class="info-label">Home Record:</span> ${game.home_record}
@@ -271,7 +283,7 @@ function renderPlays() {
 
     container.innerHTML = filteredPlays.map(play => {
         const score = play.home_team_score || play.visiting_team_score ?
-            `<span class="play-score">${play.home_team_score || '-'} - ${play.visiting_team_score || '-'}</span>` : '';
+            `<span class="play-score">${play.home_team_score ? parseInt(play.home_team_score) : '-'} - ${play.visiting_team_score ? parseInt(play.visiting_team_score) : '-'}</span>` : '';
 
         const playerLink = play.player_name ?
             `<span class="play-player" onclick="showPlayerDetails('${play.player_name.replace(/'/g, "\\'")}')">${play.player_name}</span>` :
@@ -506,7 +518,7 @@ function showPlayerDetails(playerName) {
             <div class="plays-list" style="max-height: 400px;">
                 ${playerPlays.map(play => {
                     const score = play.home_team_score || play.visiting_team_score ?
-                        `<span class="play-score">${play.home_team_score || '-'} - ${play.visiting_team_score || '-'}</span>` : '';
+                        `<span class="play-score">${play.home_team_score ? parseInt(play.home_team_score) : '-'} - ${play.visiting_team_score ? parseInt(play.visiting_team_score) : '-'}</span>` : '';
 
                     return `
                         <div class="play-item">
@@ -561,6 +573,302 @@ function showTab(tabName) {
 function backToGames() {
     document.getElementById('game-details-section').style.display = 'none';
     document.getElementById('games-section').scrollIntoView({ behavior: 'smooth' });
+}
+
+// Aggregate season stats
+function aggregateSeasonStats() {
+    const playerMap = new Map();
+
+    allStats.forEach(stat => {
+        const key = `${stat.name}-${stat.team}`;
+
+        if (!playerMap.has(key)) {
+            playerMap.set(key, {
+                name: stat.name,
+                team: stat.team,
+                position: stat.position,
+                games: 0,
+                totalPoints: 0,
+                totalRebounds: 0,
+                totalAssists: 0,
+                totalSteals: 0,
+                totalBlocks: 0,
+                totalTurnovers: 0,
+                totalMinutes: 0,
+                fgMade: 0,
+                fgAttempted: 0,
+                threeMade: 0,
+                threeAttempted: 0,
+                ftMade: 0,
+                ftAttempted: 0
+            });
+        }
+
+        const player = playerMap.get(key);
+        player.games++;
+        player.totalPoints += parseInt(stat.points) || 0;
+        player.totalRebounds += parseInt(stat.rebounds) || 0;
+        player.totalAssists += parseInt(stat.assists) || 0;
+        player.totalSteals += parseInt(stat.steals) || 0;
+        player.totalBlocks += parseInt(stat.blocks) || 0;
+        player.totalTurnovers += parseInt(stat.turnovers) || 0;
+        player.totalMinutes += parseInt(stat.minutes) || 0;
+
+        // Parse field goals (e.g., "5-10" => 5 made, 10 attempted)
+        if (stat.field_goals) {
+            const [made, attempted] = stat.field_goals.split('-').map(n => parseInt(n) || 0);
+            player.fgMade += made;
+            player.fgAttempted += attempted;
+        }
+
+        // Parse three pointers
+        if (stat.three_pointers) {
+            const [made, attempted] = stat.three_pointers.split('-').map(n => parseInt(n) || 0);
+            player.threeMade += made;
+            player.threeAttempted += attempted;
+        }
+
+        // Parse free throws
+        if (stat.free_throws) {
+            const [made, attempted] = stat.free_throws.split('-').map(n => parseInt(n) || 0);
+            player.ftMade += made;
+            player.ftAttempted += attempted;
+        }
+    });
+
+    seasonPlayerStats = Array.from(playerMap.values()).map(player => {
+        // Basic per-game averages
+        const ppg = (player.totalPoints / player.games).toFixed(1);
+        const rpg = (player.totalRebounds / player.games).toFixed(1);
+        const apg = (player.totalAssists / player.games).toFixed(1);
+        const spg = (player.totalSteals / player.games).toFixed(1);
+        const bpg = (player.totalBlocks / player.games).toFixed(1);
+        const topg = (player.totalTurnovers / player.games).toFixed(1);
+        const mpg = (player.totalMinutes / player.games).toFixed(1);
+
+        // Shooting percentages
+        const fgPct = player.fgAttempted > 0 ? ((player.fgMade / player.fgAttempted) * 100).toFixed(1) : '0.0';
+        const threePct = player.threeAttempted > 0 ? ((player.threeMade / player.threeAttempted) * 100).toFixed(1) : '0.0';
+        const ftPct = player.ftAttempted > 0 ? ((player.ftMade / player.ftAttempted) * 100).toFixed(1) : '0.0';
+
+        // Advanced Stats
+        // True Shooting % = Points / (2 * (FGA + 0.44 * FTA)) * 100
+        const tsPct = player.fgAttempted > 0 || player.ftAttempted > 0
+            ? (player.totalPoints / (2 * (player.fgAttempted + 0.44 * player.ftAttempted)) * 100).toFixed(1)
+            : '0.0';
+
+        // Effective FG% = (FGM + 0.5 * 3PM) / FGA * 100
+        const efgPct = player.fgAttempted > 0
+            ? ((player.fgMade + 0.5 * player.threeMade) / player.fgAttempted * 100).toFixed(1)
+            : '0.0';
+
+        // Assist-to-Turnover Ratio
+        const astToRatio = player.totalTurnovers > 0
+            ? (player.totalAssists / player.totalTurnovers).toFixed(2)
+            : player.totalAssists > 0 ? '∞' : '0.00';
+
+        // Free Throw Rate = FTA / FGA
+        const ftr = player.fgAttempted > 0
+            ? (player.ftAttempted / player.fgAttempted).toFixed(2)
+            : '0.00';
+
+        // Game Score (per game average)
+        // PTS + 0.4*FGM - 0.7*FGA - 0.4*(FTA-FTM) + 0.7*ORB + 0.3*DRB + STL + 0.7*AST + 0.7*BLK - TOV
+        // Simplified (we don't have ORB/DRB split, use total rebounds with 0.5 weight)
+        const gameScore = (
+            player.totalPoints
+            + 0.4 * player.fgMade
+            - 0.7 * player.fgAttempted
+            - 0.4 * (player.ftAttempted - player.ftMade)
+            + 0.5 * player.totalRebounds
+            + player.totalSteals
+            + 0.7 * player.totalAssists
+            + 0.7 * player.totalBlocks
+            - player.totalTurnovers
+        ) / player.games;
+
+        return {
+            ...player,
+            ppg, rpg, apg, spg, bpg, topg, mpg,
+            fgPct, threePct, ftPct,
+            tsPct, efgPct, astToRatio, ftr,
+            gameScore: gameScore.toFixed(1)
+        };
+    });
+
+    // Sort by total points descending
+    seasonPlayerStats.sort((a, b) => b.totalPoints - a.totalPoints);
+    filteredSeasonStats = [...seasonPlayerStats];
+}
+
+// Apply season stats filter
+function applySeasonStatsFilter() {
+    const minGames = parseInt(document.getElementById('season-min-games').value) || 0;
+    const minPoints = parseInt(document.getElementById('season-min-points').value) || 0;
+    const minRebounds = parseInt(document.getElementById('season-min-rebounds').value) || 0;
+    const minAssists = parseInt(document.getElementById('season-min-assists').value) || 0;
+    const team = document.getElementById('season-team-filter').value;
+
+    filteredSeasonStats = seasonPlayerStats.filter(player => {
+        if (player.games < minGames) return false;
+        if (player.totalPoints < minPoints) return false;
+        if (player.totalRebounds < minRebounds) return false;
+        if (player.totalAssists < minAssists) return false;
+        if (team && player.team !== team) return false;
+        return true;
+    });
+
+    renderSeasonStats();
+    renderSeasonStatsAdvanced();
+}
+
+// Clear season stats filter
+function clearSeasonStatsFilter() {
+    document.getElementById('season-min-games').value = '0';
+    document.getElementById('season-min-points').value = '0';
+    document.getElementById('season-min-rebounds').value = '0';
+    document.getElementById('season-min-assists').value = '0';
+    document.getElementById('season-team-filter').value = '';
+    filteredSeasonStats = [...seasonPlayerStats];
+    renderSeasonStats();
+    renderSeasonStatsAdvanced();
+}
+
+// Render season stats (basic)
+function renderSeasonStats() {
+    const container = document.getElementById('season-stats-list');
+
+    if (filteredSeasonStats.length === 0) {
+        container.innerHTML = '<p>No players match the current filter.</p>';
+        return;
+    }
+
+    container.innerHTML = `
+        <table>
+            <thead>
+                <tr>
+                    <th>Team</th>
+                    <th>Player</th>
+                    <th>Pos</th>
+                    <th>GP</th>
+                    <th>PPG</th>
+                    <th>RPG</th>
+                    <th>APG</th>
+                    <th>SPG</th>
+                    <th>BPG</th>
+                    <th>FG%</th>
+                    <th>3P%</th>
+                    <th>FT%</th>
+                    <th>Total Pts</th>
+                    <th>Total Reb</th>
+                    <th>Total Ast</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${filteredSeasonStats.map(player => `
+                    <tr class="${player.team === 'Maryland' ? 'team-maryland' : ''}">
+                        <td>${player.team}</td>
+                        <td><strong>${player.name}</strong></td>
+                        <td>${player.position}</td>
+                        <td>${player.games}</td>
+                        <td>${player.ppg}</td>
+                        <td>${player.rpg}</td>
+                        <td>${player.apg}</td>
+                        <td>${player.spg}</td>
+                        <td>${player.bpg}</td>
+                        <td>${player.fgPct}%</td>
+                        <td>${player.threePct}%</td>
+                        <td>${player.ftPct}%</td>
+                        <td><strong>${player.totalPoints}</strong></td>
+                        <td>${player.totalRebounds}</td>
+                        <td>${player.totalAssists}</td>
+                    </tr>
+                `).join('')}
+            </tbody>
+        </table>
+    `;
+}
+
+// Render season stats (advanced)
+function renderSeasonStatsAdvanced() {
+    const container = document.getElementById('season-stats-advanced-list');
+
+    if (filteredSeasonStats.length === 0) {
+        container.innerHTML = '<p>No players match the current filter.</p>';
+        return;
+    }
+
+    container.innerHTML = `
+        <div style="margin-bottom: 1rem;">
+            <p><strong>Advanced Stats Glossary:</strong></p>
+            <ul style="margin: 0.5rem 0; padding-left: 1.5rem; font-size: 0.9rem;">
+                <li><strong>TS%</strong> - True Shooting %: Shooting efficiency including 2PT, 3PT, and FT (55%+ is good)</li>
+                <li><strong>eFG%</strong> - Effective FG %: FG% adjusted for 3PT being worth more (50%+ is good)</li>
+                <li><strong>AST/TO</strong> - Assist to Turnover Ratio (2.0+ is excellent for guards)</li>
+                <li><strong>FTR</strong> - Free Throw Rate: FTA per FGA, measures ability to draw fouls (0.4+ is good)</li>
+                <li><strong>GmSc</strong> - Game Score: Overall performance metric (10+ solid, 20+ excellent per game)</li>
+            </ul>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Team</th>
+                    <th>Player</th>
+                    <th>Pos</th>
+                    <th>GP</th>
+                    <th>MPG</th>
+                    <th>TS%</th>
+                    <th>eFG%</th>
+                    <th>AST/TO</th>
+                    <th>FTR</th>
+                    <th>GmSc</th>
+                    <th>PPG</th>
+                    <th>RPG</th>
+                    <th>APG</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${filteredSeasonStats.map(player => `
+                    <tr class="${player.team === 'Maryland' ? 'team-maryland' : ''}">
+                        <td>${player.team}</td>
+                        <td><strong>${player.name}</strong></td>
+                        <td>${player.position}</td>
+                        <td>${player.games}</td>
+                        <td>${player.mpg}</td>
+                        <td><strong>${player.tsPct}%</strong></td>
+                        <td>${player.efgPct}%</td>
+                        <td>${player.astToRatio}</td>
+                        <td>${player.ftr}</td>
+                        <td><strong>${player.gameScore}</strong></td>
+                        <td>${player.ppg}</td>
+                        <td>${player.rpg}</td>
+                        <td>${player.apg}</td>
+                    </tr>
+                `).join('')}
+            </tbody>
+        </table>
+    `;
+}
+
+// Tab switching for season stats
+function showSeasonStatsTab(tabName) {
+    // Hide all tabs
+    document.getElementById('season-stats-basic').classList.remove('active');
+    document.getElementById('season-stats-advanced').classList.remove('active');
+
+    // Remove active class from all buttons
+    document.querySelectorAll('#season-stats-section .tab-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
+
+    // Show selected tab
+    if (tabName === 'basic') {
+        document.getElementById('season-stats-basic').classList.add('active');
+        event.target.classList.add('active');
+    } else if (tabName === 'advanced') {
+        document.getElementById('season-stats-advanced').classList.add('active');
+        event.target.classList.add('active');
+    }
 }
 
 // Initialize on page load
