@@ -15,6 +15,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     background: linear-gradient(135deg, var(--maryland-light-gold) 0%, var(--maryland-white) 100%);
@@ -355,6 +359,24 @@ header h1 {
 .stats-list,
 .team-totals-list {
     overflow-x: auto;
+    position: relative;
+}
+
+/* Scroll hint for mobile tables */
+@media (max-width: 768px) {
+    .stats-list::after,
+    .team-totals-list::after,
+    #season-stats-list::after,
+    #season-stats-advanced-list::after {
+        content: '← Scroll for more →';
+        display: block;
+        text-align: center;
+        font-size: 0.75rem;
+        color: var(--maryland-red);
+        font-weight: 600;
+        margin-top: 0.5rem;
+        opacity: 0.7;
+    }
 }
 
 table {
@@ -476,6 +498,11 @@ tbody td {
     margin-bottom: 1.5rem;
 }
 
+/* Ensure grid items don't overflow */
+.stat-summary > * {
+    min-width: 0;
+}
+
 .stat-box {
     background: var(--maryland-light-gold);
     padding: 1rem;
@@ -526,35 +553,315 @@ footer {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
-    header h1 {
-        font-size: 2rem;
+
+/* Tablet and below */
+@media (max-width: 1024px) {
+    .container {
+        padding: 0 0.75rem;
     }
 
+    .stat-summary {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    }
+
+    .game-info-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Mobile landscape and below */
+@media (max-width: 768px) {
+    header {
+        padding: 1.5rem 0;
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+
+    .container {
+        margin: 1rem auto;
+        padding: 0 0.5rem;
+    }
+
+    .card {
+        padding: 1rem;
+        margin-bottom: 1rem;
+        border-radius: 6px;
+    }
+
+    .card h2 {
+        font-size: 1.5rem;
+    }
+
+    .card h3 {
+        font-size: 1.1rem;
+    }
+
+    /* Season Selector - Make buttons bigger for touch */
     .season-grid {
-        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+        gap: 0.75rem;
+    }
+
+    .season-btn {
+        padding: 0.85rem;
+        font-size: 1rem;
+    }
+
+    /* Game Cards */
+    .game-card {
+        padding: 0.85rem;
     }
 
     .game-card-header {
         flex-direction: column;
         align-items: flex-start;
+        gap: 0.5rem;
+    }
+
+    .game-score {
+        font-size: 1.1rem;
+    }
+
+    .game-teams {
+        font-size: 1rem;
+    }
+
+    /* Tabs - Make them stack on very small screens */
+    .tabs {
+        flex-wrap: wrap;
+        gap: 0.4rem;
+    }
+
+    .tab-btn {
+        padding: 0.6rem 1rem;
+        font-size: 0.9rem;
+        flex: 1 1 auto;
+        min-width: 100px;
+    }
+
+    /* Filters - Stack vertically */
+    .filters {
+        padding: 0.85rem;
     }
 
     .filter-group {
         display: block;
-        margin-bottom: 1rem;
+        margin-right: 0;
+        margin-bottom: 0.85rem;
+        width: 100%;
     }
 
-    .modal-content {
-        max-width: 95%;
+    .filter-group label {
+        display: block;
+        margin-bottom: 0.3rem;
+    }
+
+    .filter-group select,
+    .filter-group input {
+        width: 100%;
+        padding: 0.6rem;
+        font-size: 1rem;
+    }
+
+    /* Buttons - Full width on mobile */
+    .btn-primary,
+    .btn-secondary {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 0.5rem;
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+    }
+
+    .section-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.75rem;
+    }
+
+    .section-header .btn-secondary {
+        width: auto;
+        align-self: flex-start;
+    }
+
+    /* Tables - Enable horizontal scroll with better UX */
+    .stats-list,
+    .team-totals-list,
+    #season-stats-list,
+    #season-stats-advanced-list {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin: 0 -1rem;
+        padding: 0 1rem;
     }
 
     table {
-        font-size: 0.85rem;
+        font-size: 0.8rem;
+        min-width: 600px;
     }
 
-    thead th,
+    thead th {
+        padding: 0.5rem 0.4rem;
+        font-size: 0.75rem;
+        white-space: nowrap;
+    }
+
     tbody td {
-        padding: 0.5rem;
+        padding: 0.5rem 0.4rem;
+    }
+
+    /* Play items */
+    .play-item {
+        padding: 0.6rem;
+    }
+
+    .play-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.3rem;
+    }
+
+    .play-type {
+        font-size: 0.8rem;
+    }
+
+    .play-narrative {
+        font-size: 0.9rem;
+    }
+
+    /* Modal */
+    .modal-content {
+        max-width: 95%;
+        max-height: 85%;
+        margin: 1rem;
+    }
+
+    .modal-header {
+        padding: 1rem;
+    }
+
+    .modal-header h2 {
+        font-size: 1.3rem;
+    }
+
+    #player-details {
+        padding: 1rem;
+    }
+
+    .stat-summary {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem;
+    }
+
+    .stat-box {
+        padding: 0.75rem;
+    }
+
+    .stat-value {
+        font-size: 1.5rem;
+    }
+
+    .stat-label {
+        font-size: 0.8rem;
+    }
+
+    /* Footer */
+    footer {
+        padding: 1rem;
+        font-size: 0.9rem;
+    }
+
+    /* Advanced stats glossary */
+    #season-stats-advanced-list ul {
+        font-size: 0.85rem;
+        padding-left: 1.2rem;
+    }
+}
+
+/* Mobile portrait - very small screens */
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    .subtitle {
+        font-size: 0.9rem;
+    }
+
+    .season-grid {
+        grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+        gap: 0.5rem;
+    }
+
+    .season-btn {
+        padding: 0.7rem;
+        font-size: 0.9rem;
+    }
+
+    .card h2 {
+        font-size: 1.3rem;
+    }
+
+    .tabs {
+        gap: 0.3rem;
+    }
+
+    .tab-btn {
+        padding: 0.5rem 0.75rem;
+        font-size: 0.85rem;
+        min-width: auto;
+    }
+
+    table {
+        font-size: 0.75rem;
+        min-width: 500px;
+    }
+
+    thead th {
+        padding: 0.4rem 0.3rem;
+        font-size: 0.7rem;
+    }
+
+    tbody td {
+        padding: 0.4rem 0.3rem;
+    }
+
+    .stat-summary {
+        grid-template-columns: 1fr;
+    }
+
+    .game-teams {
+        font-size: 0.95rem;
+    }
+
+    .info-item {
+        font-size: 0.9rem;
+    }
+}
+
+/* Improve touch targets for mobile */
+@media (hover: none) and (pointer: coarse) {
+    .game-card,
+    .play-item,
+    .season-btn,
+    .tab-btn,
+    .btn-primary,
+    .btn-secondary,
+    .player-name-cell,
+    .play-player {
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+    }
+
+    .season-btn,
+    .tab-btn {
+        justify-content: center;
     }
 }
