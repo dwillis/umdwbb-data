@@ -10,10 +10,10 @@ let filteredStats = [];
 let seasonPlayerStats = [];
 let filteredSeasonStats = [];
 
-// Available seasons
+// Available seasons (most recent first)
 const seasons = [
-    '2014-15', '2015-16', '2016-17', '2017-18', '2018-19', '2019-20',
-    '2020-21', '2021-22', '2022-23', '2023-24', '2024-25', '2025-26'
+    '2025-26', '2024-25', '2023-24', '2022-23', '2021-22', '2020-21',
+    '2019-20', '2018-19', '2017-18', '2016-17', '2015-16', '2014-15'
 ];
 
 // Format time remaining in seconds to MM:SS format
@@ -143,8 +143,8 @@ function renderGames() {
         }
     }
 
-    // Sort by date
-    uniqueGames.sort((a, b) => new Date(a.date) - new Date(b.date));
+    // Sort by date (most recent first)
+    uniqueGames.sort((a, b) => new Date(b.date) - new Date(a.date));
 
     container.innerHTML = uniqueGames.map(game => `
         <div class="game-card" onclick="selectGame('${game.file_id}')">

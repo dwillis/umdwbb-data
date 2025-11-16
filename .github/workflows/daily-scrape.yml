@@ -1,0 +1,38 @@
+name: Daily Data Scrape
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC (1 AM EST / 2 AM EDT)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  scrape-and-parse:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Run scraper
+      run: python scraper.py
+
+    - name: Run game parser
+      run: python game_parser.py
+
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update data: $(date +'%Y-%m-%d %H:%M:%S UTC')" && git push)
