@@ -26,7 +26,7 @@ def fetch_game_ids(season):
         game_ids = [x['id'] for x in season_json['data']]
     else:
         season_html = BeautifulSoup(r.text, features="html.parser")
-        games = season_html.find('section', {'id': 'game-team'}).findAll('a')
+        games = season_html.find('section', {'id': 'game-team'}).find_all('a')
         game_ids = [x['href'].split("id=")[1].replace("&path=wbball","") for x in games]
     return game_ids
 
@@ -54,3 +54,6 @@ def write_json(game_id, game_json, season):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(game_json, f, ensure_ascii=False, indent=4)
     os.chdir('..')
+
+if __name__ == "__main__":
+    fetch_season(season="2025-26")
