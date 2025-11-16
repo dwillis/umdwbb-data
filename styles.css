@@ -176,6 +176,59 @@ header h1 {
     color: var(--maryland-red);
 }
 
+/* Period Scoring */
+.period-scoring {
+    background: var(--maryland-white);
+    padding: 1rem;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    border: 2px solid var(--maryland-gold);
+}
+
+.period-scoring h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: var(--maryland-red);
+    font-size: 1.3rem;
+}
+
+.period-scoring-table {
+    overflow-x: auto;
+}
+
+.period-scoring table {
+    width: 100%;
+    min-width: 400px;
+}
+
+.period-scoring table th {
+    background: var(--maryland-red);
+    color: var(--maryland-white);
+    font-weight: 600;
+    text-align: center;
+    padding: 0.75rem;
+}
+
+.period-scoring table td {
+    text-align: center;
+    padding: 0.75rem;
+}
+
+.period-scoring table td:first-child {
+    text-align: left;
+    font-weight: 600;
+}
+
+.period-scoring table td:last-child {
+    background: var(--maryland-light-gold);
+    font-weight: 700;
+}
+
+.period-scoring table th:first-child,
+.period-scoring table th:last-child {
+    background: var(--maryland-dark-red);
+}
+
 /* Tabs */
 .tabs {
     display: flex;
@@ -556,5 +609,86 @@ footer {
     thead th,
     tbody td {
         padding: 0.5rem;
+    }
+
+    .stats-list,
+    .period-scoring-table {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .stats-list table,
+    .period-scoring table {
+        min-width: 600px;
+    }
+
+    .game-info-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .period-scoring {
+        padding: 0.75rem;
+    }
+
+    .period-scoring h3 {
+        font-size: 1.1rem;
+    }
+
+    .period-scoring table th,
+    .period-scoring table td {
+        padding: 0.5rem 0.25rem;
+        font-size: 0.85rem;
+    }
+
+    .section-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+
+    .section-header .btn-secondary {
+        width: 100%;
+        margin-right: 0;
+    }
+}
+
+/* Additional mobile styles for very small screens */
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    .subtitle {
+        font-size: 0.9rem;
+    }
+
+    table {
+        font-size: 0.75rem;
+    }
+
+    thead th,
+    tbody td {
+        padding: 0.4rem 0.2rem;
+    }
+
+    .period-scoring table th,
+    .period-scoring table td {
+        padding: 0.4rem 0.15rem;
+        font-size: 0.75rem;
+    }
+
+    .btn-primary,
+    .btn-secondary {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    .filter-group {
+        width: 100%;
+    }
+
+    .filter-group select,
+    .filter-group input {
+        width: 100%;
     }
 }
