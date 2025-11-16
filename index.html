@@ -52,7 +52,20 @@
                 <button class="btn-primary" onclick="applySeasonStatsFilter()">Apply Filter</button>
                 <button class="btn-secondary" onclick="clearSeasonStatsFilter()">Clear</button>
             </div>
-            <div id="season-stats-list"></div>
+
+            <!-- Tabs for Basic vs Advanced Stats -->
+            <div class="tabs">
+                <button class="tab-btn active" onclick="showSeasonStatsTab('basic')">Basic Stats</button>
+                <button class="tab-btn" onclick="showSeasonStatsTab('advanced')">Advanced Stats</button>
+            </div>
+
+            <div id="season-stats-basic" class="tab-content active">
+                <div id="season-stats-list"></div>
+            </div>
+
+            <div id="season-stats-advanced" class="tab-content">
+                <div id="season-stats-advanced-list"></div>
+            </div>
         </div>
 
         <!-- Games List -->

@@ -109,6 +109,7 @@ async function selectSeason(season) {
 
     renderGames();
     renderSeasonStats();
+    renderSeasonStatsAdvanced();
 
     // Scroll to season stats section
     document.getElementById('season-stats-section').scrollIntoView({ behavior: 'smooth' });
@@ -635,19 +636,65 @@ function aggregateSeasonStats() {
         }
     });
 
-    seasonPlayerStats = Array.from(playerMap.values()).map(player => ({
-        ...player,
-        ppg: (player.totalPoints / player.games).toFixed(1),
-        rpg: (player.totalRebounds / player.games).toFixed(1),
-        apg: (player.totalAssists / player.games).toFixed(1),
-        spg: (player.totalSteals / player.games).toFixed(1),
-        bpg: (player.totalBlocks / player.games).toFixed(1),
-        topg: (player.totalTurnovers / player.games).toFixed(1),
-        mpg: (player.totalMinutes / player.games).toFixed(1),
-        fgPct: player.fgAttempted > 0 ? ((player.fgMade / player.fgAttempted) * 100).toFixed(1) : '0.0',
-        threePct: player.threeAttempted > 0 ? ((player.threeMade / player.threeAttempted) * 100).toFixed(1) : '0.0',
-        ftPct: player.ftAttempted > 0 ? ((player.ftMade / player.ftAttempted) * 100).toFixed(1) : '0.0'
-    }));
+    seasonPlayerStats = Array.from(playerMap.values()).map(player => {
+        // Basic per-game averages
+        const ppg = (player.totalPoints / player.games).toFixed(1);
+        const rpg = (player.totalRebounds / player.games).toFixed(1);
+        const apg = (player.totalAssists / player.games).toFixed(1);
+        const spg = (player.totalSteals / player.games).toFixed(1);
+        const bpg = (player.totalBlocks / player.games).toFixed(1);
+        const topg = (player.totalTurnovers / player.games).toFixed(1);
+        const mpg = (player.totalMinutes / player.games).toFixed(1);
+
+        // Shooting percentages
+        const fgPct = player.fgAttempted > 0 ? ((player.fgMade / player.fgAttempted) * 100).toFixed(1) : '0.0';
+        const threePct = player.threeAttempted > 0 ? ((player.threeMade / player.threeAttempted) * 100).toFixed(1) : '0.0';
+        const ftPct = player.ftAttempted > 0 ? ((player.ftMade / player.ftAttempted) * 100).toFixed(1) : '0.0';
+
+        // Advanced Stats
+        // True Shooting % = Points / (2 * (FGA + 0.44 * FTA)) * 100
+        const tsPct = player.fgAttempted > 0 || player.ftAttempted > 0
+            ? (player.totalPoints / (2 * (player.fgAttempted + 0.44 * player.ftAttempted)) * 100).toFixed(1)
+            : '0.0';
+
+        // Effective FG% = (FGM + 0.5 * 3PM) / FGA * 100
+        const efgPct = player.fgAttempted > 0
+            ? ((player.fgMade + 0.5 * player.threeMade) / player.fgAttempted * 100).toFixed(1)
+            : '0.0';
+
+        // Assist-to-Turnover Ratio
+        const astToRatio = player.totalTurnovers > 0
+            ? (player.totalAssists / player.totalTurnovers).toFixed(2)
+            : player.totalAssists > 0 ? '∞' : '0.00';
+
+        // Free Throw Rate = FTA / FGA
+        const ftr = player.fgAttempted > 0
+            ? (player.ftAttempted / player.fgAttempted).toFixed(2)
+            : '0.00';
+
+        // Game Score (per game average)
+        // PTS + 0.4*FGM - 0.7*FGA - 0.4*(FTA-FTM) + 0.7*ORB + 0.3*DRB + STL + 0.7*AST + 0.7*BLK - TOV
+        // Simplified (we don't have ORB/DRB split, use total rebounds with 0.5 weight)
+        const gameScore = (
+            player.totalPoints
+            + 0.4 * player.fgMade
+            - 0.7 * player.fgAttempted
+            - 0.4 * (player.ftAttempted - player.ftMade)
+            + 0.5 * player.totalRebounds
+            + player.totalSteals
+            + 0.7 * player.totalAssists
+            + 0.7 * player.totalBlocks
+            - player.totalTurnovers
+        ) / player.games;
+
+        return {
+            ...player,
+            ppg, rpg, apg, spg, bpg, topg, mpg,
+            fgPct, threePct, ftPct,
+            tsPct, efgPct, astToRatio, ftr,
+            gameScore: gameScore.toFixed(1)
+        };
+    });
 
     // Sort by total points descending
     seasonPlayerStats.sort((a, b) => b.totalPoints - a.totalPoints);
@@ -672,6 +719,7 @@ function applySeasonStatsFilter() {
     });
 
     renderSeasonStats();
+    renderSeasonStatsAdvanced();
 }
 
 // Clear season stats filter
@@ -683,9 +731,10 @@ function clearSeasonStatsFilter() {
     document.getElementById('season-team-filter').value = '';
     filteredSeasonStats = [...seasonPlayerStats];
     renderSeasonStats();
+    renderSeasonStatsAdvanced();
 }
 
-// Render season stats
+// Render season stats (basic)
 function renderSeasonStats() {
     const container = document.getElementById('season-stats-list');
 
@@ -738,6 +787,88 @@ function renderSeasonStats() {
             </tbody>
         </table>
     `;
+}
+
+// Render season stats (advanced)
+function renderSeasonStatsAdvanced() {
+    const container = document.getElementById('season-stats-advanced-list');
+
+    if (filteredSeasonStats.length === 0) {
+        container.innerHTML = '<p>No players match the current filter.</p>';
+        return;
+    }
+
+    container.innerHTML = `
+        <div style="margin-bottom: 1rem;">
+            <p><strong>Advanced Stats Glossary:</strong></p>
+            <ul style="margin: 0.5rem 0; padding-left: 1.5rem; font-size: 0.9rem;">
+                <li><strong>TS%</strong> - True Shooting %: Shooting efficiency including 2PT, 3PT, and FT (55%+ is good)</li>
+                <li><strong>eFG%</strong> - Effective FG %: FG% adjusted for 3PT being worth more (50%+ is good)</li>
+                <li><strong>AST/TO</strong> - Assist to Turnover Ratio (2.0+ is excellent for guards)</li>
+                <li><strong>FTR</strong> - Free Throw Rate: FTA per FGA, measures ability to draw fouls (0.4+ is good)</li>
+                <li><strong>GmSc</strong> - Game Score: Overall performance metric (10+ solid, 20+ excellent per game)</li>
+            </ul>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Team</th>
+                    <th>Player</th>
+                    <th>Pos</th>
+                    <th>GP</th>
+                    <th>MPG</th>
+                    <th>TS%</th>
+                    <th>eFG%</th>
+                    <th>AST/TO</th>
+                    <th>FTR</th>
+                    <th>GmSc</th>
+                    <th>PPG</th>
+                    <th>RPG</th>
+                    <th>APG</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${filteredSeasonStats.map(player => `
+                    <tr class="${player.team === 'Maryland' ? 'team-maryland' : ''}">
+                        <td>${player.team}</td>
+                        <td><strong>${player.name}</strong></td>
+                        <td>${player.position}</td>
+                        <td>${player.games}</td>
+                        <td>${player.mpg}</td>
+                        <td><strong>${player.tsPct}%</strong></td>
+                        <td>${player.efgPct}%</td>
+                        <td>${player.astToRatio}</td>
+                        <td>${player.ftr}</td>
+                        <td><strong>${player.gameScore}</strong></td>
+                        <td>${player.ppg}</td>
+                        <td>${player.rpg}</td>
+                        <td>${player.apg}</td>
+                    </tr>
+                `).join('')}
+            </tbody>
+        </table>
+    `;
+}
+
+// Tab switching for season stats
+function showSeasonStatsTab(tabName) {
+    // Hide all tabs
+    document.getElementById('season-stats-basic').classList.remove('active');
+    document.getElementById('season-stats-advanced').classList.remove('active');
+
+    // Remove active class from all buttons
+    document.querySelectorAll('#season-stats-section .tab-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
+
+    // Show selected tab
+    if (tabName === 'basic') {
+        document.getElementById('season-stats-basic').classList.add('active');
+        event.target.classList.add('active');
+    } else if (tabName === 'advanced') {
+        document.getElementById('season-stats-advanced').classList.add('active');
+        event.target.classList.add('active');
+    }
 }
 
 // Initialize on page load
