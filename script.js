@@ -183,6 +183,7 @@ async function selectGame(gameId) {
     document.getElementById('game-details-section').style.display = 'block';
 
     renderGameInfo();
+    renderPeriodScoring();
     setupFilters();
     renderPlays();
     renderStats();
@@ -220,6 +221,74 @@ function renderGameInfo() {
             </div>
             ${game.officials ? `<div class="info-item"><span class="info-label">Officials:</span> ${game.officials}</div>` : ''}
             ${game.attendance ? `<div class="info-item"><span class="info-label">Attendance:</span> ${game.attendance}</div>` : ''}
+        </div>
+    `;
+}
+
+// Calculate and render period scoring
+function renderPeriodScoring() {
+    const game = allGames.find(g => g.file_id === currentGameId);
+    if (!game || allPlays.length === 0) return;
+
+    const container = document.getElementById('period-scoring');
+
+    // Get unique periods and sort them
+    const periods = [...new Set(allPlays.map(p => parseInt(p.period)))].sort((a, b) => a - b);
+
+    // Calculate scoring by period for each team
+    const periodScores = {};
+
+    periods.forEach(period => {
+        const periodPlays = allPlays.filter(p => parseInt(p.period) === period);
+
+        if (periodPlays.length > 0) {
+            // Get the final scores for this period (last play in the period)
+            const lastPlay = periodPlays[periodPlays.length - 1];
+            const firstPlay = periodPlays[0];
+
+            // Calculate points scored in this period
+            const homeScoreEnd = parseInt(lastPlay.home_team_score) || 0;
+            const visitingScoreEnd = parseInt(lastPlay.visiting_team_score) || 0;
+            const homeScoreStart = parseInt(firstPlay.home_team_score) || 0;
+            const visitingScoreStart = parseInt(firstPlay.visiting_team_score) || 0;
+
+            periodScores[period] = {
+                home: homeScoreEnd - homeScoreStart,
+                visiting: visitingScoreEnd - visitingScoreStart
+            };
+        }
+    });
+
+    // Generate the period scoring table
+    const periodLabels = periods.map(p => {
+        if (p <= 4) return `Q${p}`;
+        return `OT${p - 4}`;
+    });
+
+    container.innerHTML = `
+        <h3>Scoring by Period</h3>
+        <div class="period-scoring-table">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Team</th>
+                        ${periodLabels.map(label => `<th>${label}</th>`).join('')}
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="${game.visiting_team === 'Maryland' ? 'team-maryland' : ''}">
+                        <td><strong>${game.visiting_team}</strong></td>
+                        ${periods.map(p => `<td>${periodScores[p]?.visiting || 0}</td>`).join('')}
+                        <td><strong>${parseInt(game.visiting_score)}</strong></td>
+                    </tr>
+                    <tr class="${game.home_team === 'Maryland' ? 'team-maryland' : ''}">
+                        <td><strong>${game.home_team}</strong></td>
+                        ${periods.map(p => `<td>${periodScores[p]?.home || 0}</td>`).join('')}
+                        <td><strong>${parseInt(game.home_score)}</strong></td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
     `;
 }
