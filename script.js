@@ -16,6 +16,14 @@ const seasons = [
     '2020-21', '2021-22', '2022-23', '2023-24', '2024-25', '2025-26'
 ];
 
+// Format time remaining in seconds to MM:SS format
+function formatTime(seconds) {
+    const secs = parseInt(seconds) || 0;
+    const minutes = Math.floor(secs / 60);
+    const remainingSeconds = secs % 60;
+    return `${minutes}:${remainingSeconds.toString().padStart(2, '0')}`;
+}
+
 // CSV Parser
 function parseCSV(text) {
     const lines = text.trim().split('\n');
@@ -294,7 +302,7 @@ function renderPlays() {
                 <div class="play-header">
                     <div>
                         <span class="play-type">${play.play_type} ${play.play_action ? '- ' + play.play_action : ''}</span>
-                        | Period ${play.period} | ${play.time_remaining}s | ${play.team}
+                        | Period ${play.period} | ${formatTime(play.time_remaining)} | ${play.team}
                     </div>
                     ${score}
                 </div>
@@ -525,7 +533,7 @@ function showPlayerDetails(playerName) {
                             <div class="play-header">
                                 <div>
                                     <span class="play-type">${play.play_type} ${play.play_action ? '- ' + play.play_action : ''}</span>
-                                    | Period ${play.period} | ${play.time_remaining}s
+                                    | Period ${play.period} | ${formatTime(play.time_remaining)}
                                 </div>
                                 ${score}
                             </div>
