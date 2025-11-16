@@ -331,4 +331,4 @@ def main(season):
     process_season(season, base_dir, output_dir)
 
 if __name__ == "__main__":
-    main(season="2024-25")
+    main(season="2025-26")
