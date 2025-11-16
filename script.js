@@ -116,8 +116,8 @@ async function selectSeason(season) {
     document.getElementById('game-details-section').style.display = 'none';
 
     renderGames();
-    renderSeasonStats();
-    renderSeasonStatsAdvanced();
+    // Apply Maryland filter by default
+    applySeasonStatsFilter();
 
     // Scroll to season stats section
     document.getElementById('season-stats-section').scrollIntoView({ behavior: 'smooth' });
@@ -736,10 +736,8 @@ function clearSeasonStatsFilter() {
     document.getElementById('season-min-points').value = '0';
     document.getElementById('season-min-rebounds').value = '0';
     document.getElementById('season-min-assists').value = '0';
-    document.getElementById('season-team-filter').value = '';
-    filteredSeasonStats = [...seasonPlayerStats];
-    renderSeasonStats();
-    renderSeasonStatsAdvanced();
+    document.getElementById('season-team-filter').value = 'Maryland';
+    applySeasonStatsFilter();
 }
 
 // Render season stats (basic)
