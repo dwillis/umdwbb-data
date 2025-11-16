@@ -1,0 +1,560 @@
+:root {
+    --maryland-red: #E03A3E;
+    --maryland-gold: #FFD520;
+    --maryland-black: #000000;
+    --maryland-white: #FFFFFF;
+    --maryland-dark-red: #C41E3A;
+    --maryland-light-gold: #FFF4CC;
+    --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    --shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background: linear-gradient(135deg, var(--maryland-light-gold) 0%, var(--maryland-white) 100%);
+    min-height: 100vh;
+    color: var(--maryland-black);
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(135deg, var(--maryland-red) 0%, var(--maryland-dark-red) 100%);
+    color: var(--maryland-white);
+    padding: 2rem 0;
+    box-shadow: var(--shadow);
+    border-bottom: 4px solid var(--maryland-gold);
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    opacity: 0.95;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.card {
+    background: var(--maryland-white);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+    border-top: 3px solid var(--maryland-red);
+}
+
+.card h2 {
+    color: var(--maryland-red);
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+    border-bottom: 2px solid var(--maryland-gold);
+    padding-bottom: 0.5rem;
+}
+
+.card h3 {
+    color: var(--maryland-red);
+    margin-bottom: 0.75rem;
+    font-size: 1.3rem;
+}
+
+/* Season Selector */
+.season-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.season-btn {
+    background: linear-gradient(135deg, var(--maryland-white) 0%, var(--maryland-light-gold) 100%);
+    border: 2px solid var(--maryland-red);
+    padding: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--maryland-black);
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow);
+}
+
+.season-btn:hover {
+    background: var(--maryland-red);
+    color: var(--maryland-white);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-hover);
+}
+
+/* Games List */
+.game-card {
+    background: linear-gradient(to right, var(--maryland-white) 0%, var(--maryland-light-gold) 100%);
+    border: 1px solid var(--maryland-gold);
+    border-left: 4px solid var(--maryland-red);
+    padding: 1rem;
+    margin-bottom: 0.75rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.game-card:hover {
+    background: var(--maryland-light-gold);
+    box-shadow: var(--shadow-hover);
+    transform: translateX(4px);
+}
+
+.game-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.game-date {
+    font-weight: 600;
+    color: var(--maryland-red);
+}
+
+.game-teams {
+    font-size: 1.1rem;
+    margin-bottom: 0.3rem;
+}
+
+.game-score {
+    font-weight: 700;
+    color: var(--maryland-black);
+}
+
+.game-location {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* Game Info */
+.game-info {
+    background: var(--maryland-light-gold);
+    padding: 1rem;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    border-left: 4px solid var(--maryland-red);
+}
+
+.game-info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.info-item {
+    margin-bottom: 0.5rem;
+}
+
+.info-label {
+    font-weight: 600;
+    color: var(--maryland-red);
+}
+
+/* Tabs */
+.tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin: 1.5rem 0 1rem 0;
+    border-bottom: 2px solid var(--maryland-gold);
+}
+
+.tab-btn {
+    background: var(--maryland-white);
+    border: none;
+    border-top: 2px solid transparent;
+    border-left: 2px solid transparent;
+    border-right: 2px solid transparent;
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--maryland-black);
+    transition: all 0.2s ease;
+    border-radius: 4px 4px 0 0;
+}
+
+.tab-btn:hover {
+    background: var(--maryland-light-gold);
+}
+
+.tab-btn.active {
+    background: var(--maryland-red);
+    color: var(--maryland-white);
+    border-top-color: var(--maryland-gold);
+    border-left-color: var(--maryland-gold);
+    border-right-color: var(--maryland-gold);
+}
+
+.tab-content {
+    display: none;
+    animation: fadeIn 0.3s ease;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Filters */
+.filters {
+    background: var(--maryland-light-gold);
+    padding: 1rem;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    border: 1px solid var(--maryland-gold);
+}
+
+.filter-group {
+    display: inline-block;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.filter-group label {
+    font-weight: 600;
+    margin-right: 0.5rem;
+    color: var(--maryland-black);
+}
+
+.filter-group select,
+.filter-group input {
+    padding: 0.5rem;
+    border: 2px solid var(--maryland-red);
+    border-radius: 4px;
+    font-size: 0.95rem;
+}
+
+/* Buttons */
+.btn-primary,
+.btn-secondary {
+    padding: 0.6rem 1.2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: all 0.2s ease;
+    margin-right: 0.5rem;
+}
+
+.btn-primary {
+    background: var(--maryland-red);
+    color: var(--maryland-white);
+}
+
+.btn-primary:hover {
+    background: var(--maryland-dark-red);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow);
+}
+
+.btn-secondary {
+    background: var(--maryland-white);
+    color: var(--maryland-black);
+    border: 2px solid var(--maryland-red);
+}
+
+.btn-secondary:hover {
+    background: var(--maryland-light-gold);
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+/* Plays List */
+.plays-list {
+    max-height: 600px;
+    overflow-y: auto;
+}
+
+.play-item {
+    background: var(--maryland-white);
+    border-left: 3px solid var(--maryland-gold);
+    padding: 0.75rem;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.play-item:hover {
+    background: var(--maryland-light-gold);
+    border-left-color: var(--maryland-red);
+}
+
+.play-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.3rem;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.play-type {
+    font-weight: 700;
+    color: var(--maryland-red);
+    text-transform: uppercase;
+    font-size: 0.85rem;
+}
+
+.play-narrative {
+    margin-top: 0.3rem;
+    color: var(--maryland-black);
+}
+
+.play-player {
+    font-weight: 600;
+    color: var(--maryland-red);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.play-player:hover {
+    color: var(--maryland-dark-red);
+}
+
+.play-score {
+    font-weight: 600;
+    color: var(--maryland-black);
+}
+
+/* Stats Table */
+.stats-list,
+.team-totals-list {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+thead {
+    background: var(--maryland-red);
+    color: var(--maryland-white);
+}
+
+thead th {
+    padding: 0.75rem;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 3px solid var(--maryland-gold);
+}
+
+tbody tr {
+    border-bottom: 1px solid #ddd;
+    transition: background 0.2s ease;
+}
+
+tbody tr:hover {
+    background: var(--maryland-light-gold);
+}
+
+tbody td {
+    padding: 0.75rem;
+}
+
+.player-name-cell {
+    font-weight: 600;
+    color: var(--maryland-red);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.player-name-cell:hover {
+    color: var(--maryland-dark-red);
+}
+
+.team-maryland {
+    background: rgba(224, 58, 62, 0.1);
+}
+
+/* Modal */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.3s ease;
+}
+
+.modal-content {
+    background: var(--maryland-white);
+    border-radius: 8px;
+    max-width: 90%;
+    max-height: 90%;
+    overflow-y: auto;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    border-top: 4px solid var(--maryland-red);
+}
+
+.modal-header {
+    background: var(--maryland-red);
+    color: var(--maryland-white);
+    padding: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid var(--maryland-gold);
+}
+
+.modal-header h2 {
+    color: var(--maryland-white);
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.close-btn {
+    background: none;
+    border: none;
+    color: var(--maryland-white);
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background 0.2s ease;
+}
+
+.close-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+#player-details {
+    padding: 1.5rem;
+}
+
+.stat-summary {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.stat-box {
+    background: var(--maryland-light-gold);
+    padding: 1rem;
+    border-radius: 6px;
+    text-align: center;
+    border: 2px solid var(--maryland-gold);
+}
+
+.stat-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--maryland-red);
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    color: var(--maryland-black);
+    font-weight: 600;
+}
+
+/* Footer */
+footer {
+    background: var(--maryland-black);
+    color: var(--maryland-white);
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    border-top: 4px solid var(--maryland-gold);
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--maryland-light-gold);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--maryland-red);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--maryland-dark-red);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .season-grid {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    }
+
+    .game-card-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .filter-group {
+        display: block;
+        margin-bottom: 1rem;
+    }
+
+    .modal-content {
+        max-width: 95%;
+    }
+
+    table {
+        font-size: 0.85rem;
+    }
+
+    thead th,
+    tbody td {
+        padding: 0.5rem;
+    }
+}

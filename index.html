@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maryland Women's Basketball Data Browser</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Maryland Women's Basketball</h1>
+            <p class="subtitle">Game Data Browser</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <!-- Season Selector -->
+        <div class="card">
+            <h2>Select Season</h2>
+            <div id="season-selector" class="season-grid"></div>
+        </div>
+
+        <!-- Games List -->
+        <div class="card" id="games-section" style="display: none;">
+            <h2>Games - <span id="selected-season"></span></h2>
+            <div id="games-list"></div>
+        </div>
+
+        <!-- Game Details -->
+        <div class="card" id="game-details-section" style="display: none;">
+            <div class="section-header">
+                <h2>Game Details</h2>
+                <button class="btn-secondary" onclick="backToGames()">← Back to Games</button>
+            </div>
+
+            <div id="game-info" class="game-info"></div>
+
+            <!-- Tabs -->
+            <div class="tabs">
+                <button class="tab-btn active" onclick="showTab('plays')">Plays</button>
+                <button class="tab-btn" onclick="showTab('stats')">Player Stats</button>
+                <button class="tab-btn" onclick="showTab('team-totals')">Team Stats</button>
+            </div>
+
+            <!-- Plays Tab -->
+            <div id="plays-tab" class="tab-content active">
+                <div class="filters">
+                    <h3>Filter Plays</h3>
+                    <div class="filter-group">
+                        <label>Team:</label>
+                        <select id="team-filter">
+                            <option value="">All Teams</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>Play Type:</label>
+                        <select id="playtype-filter">
+                            <option value="">All Play Types</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>Action:</label>
+                        <select id="action-filter">
+                            <option value="">All Actions</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>Player:</label>
+                        <select id="player-filter">
+                            <option value="">All Players</option>
+                        </select>
+                    </div>
+                    <button class="btn-primary" onclick="applyPlaysFilter()">Apply Filter</button>
+                    <button class="btn-secondary" onclick="clearPlaysFilter()">Clear</button>
+                </div>
+                <div id="plays-list" class="plays-list"></div>
+            </div>
+
+            <!-- Stats Tab -->
+            <div id="stats-tab" class="tab-content">
+                <div class="filters">
+                    <h3>Filter Stats</h3>
+                    <div class="filter-group">
+                        <label>Minimum Points:</label>
+                        <input type="number" id="min-points" min="0" value="0">
+                    </div>
+                    <div class="filter-group">
+                        <label>Minimum Rebounds:</label>
+                        <input type="number" id="min-rebounds" min="0" value="0">
+                    </div>
+                    <div class="filter-group">
+                        <label>Minimum Assists:</label>
+                        <input type="number" id="min-assists" min="0" value="0">
+                    </div>
+                    <button class="btn-primary" onclick="applyStatsFilter()">Apply Filter</button>
+                    <button class="btn-secondary" onclick="clearStatsFilter()">Clear</button>
+                </div>
+                <div id="stats-list" class="stats-list"></div>
+            </div>
+
+            <!-- Team Stats Tab -->
+            <div id="team-totals-tab" class="tab-content">
+                <div id="team-totals-list"></div>
+            </div>
+        </div>
+
+        <!-- Player Details Modal -->
+        <div id="player-modal" class="modal" style="display: none;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 id="player-name"></h2>
+                    <button class="close-btn" onclick="closePlayerModal()">&times;</button>
+                </div>
+                <div id="player-details"></div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Maryland Women's Basketball Data Browser | Data from 2014-15 through 2025-26 seasons</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
