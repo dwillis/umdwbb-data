@@ -218,25 +218,53 @@ class BasketballGameProcessor:
         """Save all dataframes to CSV files, appending if files exist."""
         output_path = Path(output_dir)
         output_path.mkdir(parents=True, exist_ok=True)
-        
+
+        # Define unique key columns for each dataframe type to detect duplicates
+        unique_keys = {
+            'game_info': ['file_id'],
+            'period_scores': ['file_id', 'team', 'period'],
+            'plays': ['file_id', 'period', 'time_remaining', 'team', 'play_type', 'play_action', 'narrative'],
+            'player_stats': ['file_id', 'team', 'name'],
+            'team_totals': ['file_id', 'team']
+        }
+
         for name, df in dataframes.items():
             file_path = output_path / f"{name}.csv"
-            
+
             if file_path.exists():
                 # Read existing file
                 try:
                     existing_df = pd.read_csv(file_path)
-                    
+
                     # Check if this game is already in the file
+                    game_exists = False
                     if not existing_df.empty and 'file_id' in existing_df.columns:
                         if df['file_id'].iloc[0] in existing_df['file_id'].values:
-                            self.logger.info(f"Game {df['file_id'].iloc[0]} already exists in {name}.csv - skipping")
-                            continue
-                    
-                    # Append new data
-                    combined_df = pd.concat([existing_df, df], ignore_index=True)
-                    combined_df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
-                    self.logger.info(f"Appended new data to existing {name}.csv")
+                            self.logger.info(f"Game {df['file_id'].iloc[0]} already exists in {name}.csv - skipping append")
+                            game_exists = True
+
+                    if game_exists:
+                        # Even if game exists, still deduplicate the existing file
+                        combined_df = existing_df
+                    else:
+                        # Append new data
+                        combined_df = pd.concat([existing_df, df], ignore_index=True)
+
+                    # Remove duplicates based on unique keys for this dataframe type
+                    if name in unique_keys:
+                        original_count = len(combined_df)
+                        combined_df = combined_df.drop_duplicates(subset=unique_keys[name], keep='first')
+                        duplicates_removed = original_count - len(combined_df)
+                        if duplicates_removed > 0:
+                            self.logger.info(f"Removed {duplicates_removed} duplicate row(s) from {name}.csv")
+                            combined_df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
+                            self.logger.info(f"Cleaned up duplicates in {name}.csv")
+                        elif not game_exists:
+                            combined_df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
+                            self.logger.info(f"Appended new data to existing {name}.csv")
+                    elif not game_exists:
+                        combined_df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
+                        self.logger.info(f"Appended new data to existing {name}.csv")
                 except pd.errors.EmptyDataError:
                     # If the file exists but is empty, write new data
                     df.to_csv(file_path, index=False)
