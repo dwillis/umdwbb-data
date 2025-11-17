@@ -649,16 +649,24 @@ function backToGames() {
 // Aggregate season stats
 function aggregateSeasonStats() {
     const playerMap = new Map();
+    const processedStats = new Set(); // Track processed stat entries to avoid duplicates
 
     allStats.forEach(stat => {
         const key = `${stat.name}-${stat.team}`;
+        const statKey = `${stat.name}-${stat.team}-${stat.file_id}`; // Unique key for this player-game combination
+
+        // Skip if we've already processed this player's stats for this game
+        if (processedStats.has(statKey)) {
+            return;
+        }
+        processedStats.add(statKey);
 
         if (!playerMap.has(key)) {
             playerMap.set(key, {
                 name: stat.name,
                 team: stat.team,
                 position: stat.position,
-                games: 0,
+                gameIds: new Set(), // Track unique game IDs
                 totalPoints: 0,
                 totalRebounds: 0,
                 totalAssists: 0,
@@ -676,7 +684,10 @@ function aggregateSeasonStats() {
         }
 
         const player = playerMap.get(key);
-        player.games++;
+
+        // Track unique games by file_id
+        player.gameIds.add(stat.file_id);
+
         player.totalPoints += parseInt(stat.points) || 0;
         player.totalRebounds += parseInt(stat.rebounds) || 0;
         player.totalAssists += parseInt(stat.assists) || 0;
@@ -708,14 +719,17 @@ function aggregateSeasonStats() {
     });
 
     seasonPlayerStats = Array.from(playerMap.values()).map(player => {
+        // Get unique game count
+        const games = player.gameIds.size;
+
         // Basic per-game averages
-        const ppg = (player.totalPoints / player.games).toFixed(1);
-        const rpg = (player.totalRebounds / player.games).toFixed(1);
-        const apg = (player.totalAssists / player.games).toFixed(1);
-        const spg = (player.totalSteals / player.games).toFixed(1);
-        const bpg = (player.totalBlocks / player.games).toFixed(1);
-        const topg = (player.totalTurnovers / player.games).toFixed(1);
-        const mpg = (player.totalMinutes / player.games).toFixed(1);
+        const ppg = (player.totalPoints / games).toFixed(1);
+        const rpg = (player.totalRebounds / games).toFixed(1);
+        const apg = (player.totalAssists / games).toFixed(1);
+        const spg = (player.totalSteals / games).toFixed(1);
+        const bpg = (player.totalBlocks / games).toFixed(1);
+        const topg = (player.totalTurnovers / games).toFixed(1);
+        const mpg = (player.totalMinutes / games).toFixed(1);
 
         // Shooting percentages
         const fgPct = player.fgAttempted > 0 ? ((player.fgMade / player.fgAttempted) * 100).toFixed(1) : '0.0';
@@ -756,10 +770,11 @@ function aggregateSeasonStats() {
             + 0.7 * player.totalAssists
             + 0.7 * player.totalBlocks
             - player.totalTurnovers
-        ) / player.games;
+        ) / games;
 
         return {
             ...player,
+            games,
             ppg, rpg, apg, spg, bpg, topg, mpg,
             fgPct, threePct, ftPct,
             tsPct, efgPct, astToRatio, ftr,
