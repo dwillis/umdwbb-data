@@ -4,6 +4,7 @@ let currentGameId = null;
 let allPlays = [];
 let allStats = [];
 let allTeamTotals = [];
+let allPeriodScores = [];
 let allGames = [];
 let filteredPlays = [];
 let filteredStats = [];
@@ -165,16 +166,18 @@ async function selectGame(gameId) {
     currentGameId = gameId;
 
     // Load all data for this game
-    [allPlays, allStats, allTeamTotals] = await Promise.all([
+    [allPlays, allStats, allTeamTotals, allPeriodScores] = await Promise.all([
         loadCSV(currentSeason, 'plays.csv'),
         loadCSV(currentSeason, 'player_stats.csv'),
-        loadCSV(currentSeason, 'team_totals.csv')
+        loadCSV(currentSeason, 'team_totals.csv'),
+        loadCSV(currentSeason, 'period_scores.csv')
     ]);
 
     // Filter by current game
     allPlays = allPlays.filter(p => p.file_id === gameId);
     allStats = allStats.filter(s => s.file_id === gameId);
     allTeamTotals = allTeamTotals.filter(t => t.file_id === gameId);
+    allPeriodScores = allPeriodScores.filter(p => p.file_id === gameId);
 
     filteredPlays = [...allPlays];
     filteredStats = [...allStats];
@@ -225,37 +228,28 @@ function renderGameInfo() {
     `;
 }
 
-// Calculate and render period scoring
+// Render period scoring from PeriodScores data
 function renderPeriodScoring() {
     const game = allGames.find(g => g.file_id === currentGameId);
-    if (!game || allPlays.length === 0) return;
+    if (!game || allPeriodScores.length === 0) return;
 
     const container = document.getElementById('period-scoring');
 
     // Get unique periods and sort them
-    const periods = [...new Set(allPlays.map(p => parseInt(p.period)))].sort((a, b) => a - b);
+    const periods = [...new Set(allPeriodScores.map(p => parseInt(p.period)))].sort((a, b) => a - b);
 
-    // Calculate scoring by period for each team
-    const periodScores = {};
+    // Organize period scores by team and period
+    const homeScores = {};
+    const visitingScores = {};
 
-    periods.forEach(period => {
-        const periodPlays = allPlays.filter(p => parseInt(p.period) === period);
+    allPeriodScores.forEach(ps => {
+        const period = parseInt(ps.period);
+        const score = parseInt(ps.score) || 0;
 
-        if (periodPlays.length > 0) {
-            // Get the final scores for this period (last play in the period)
-            const lastPlay = periodPlays[periodPlays.length - 1];
-            const firstPlay = periodPlays[0];
-
-            // Calculate points scored in this period
-            const homeScoreEnd = parseInt(lastPlay.home_team_score) || 0;
-            const visitingScoreEnd = parseInt(lastPlay.visiting_team_score) || 0;
-            const homeScoreStart = parseInt(firstPlay.home_team_score) || 0;
-            const visitingScoreStart = parseInt(firstPlay.visiting_team_score) || 0;
-
-            periodScores[period] = {
-                home: homeScoreEnd - homeScoreStart,
-                visiting: visitingScoreEnd - visitingScoreStart
-            };
+        if (ps.team === game.home_team) {
+            homeScores[period] = score;
+        } else if (ps.team === game.visiting_team) {
+            visitingScores[period] = score;
         }
     });
 
@@ -279,12 +273,12 @@ function renderPeriodScoring() {
                 <tbody>
                     <tr class="${game.visiting_team === 'Maryland' ? 'team-maryland' : ''}">
                         <td><strong>${game.visiting_team}</strong></td>
-                        ${periods.map(p => `<td>${periodScores[p]?.visiting || 0}</td>`).join('')}
+                        ${periods.map(p => `<td>${visitingScores[p] || 0}</td>`).join('')}
                         <td><strong>${parseInt(game.visiting_score)}</strong></td>
                     </tr>
                     <tr class="${game.home_team === 'Maryland' ? 'team-maryland' : ''}">
                         <td><strong>${game.home_team}</strong></td>
-                        ${periods.map(p => `<td>${periodScores[p]?.home || 0}</td>`).join('')}
+                        ${periods.map(p => `<td>${homeScores[p] || 0}</td>`).join('')}
                         <td><strong>${parseInt(game.home_score)}</strong></td>
                     </tr>
                 </tbody>
