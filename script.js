@@ -10,6 +10,7 @@ let filteredPlays = [];
 let filteredStats = [];
 let seasonPlayerStats = [];
 let filteredSeasonStats = [];
+let seasonTeamTotals = [];
 
 // Available seasons (most recent first)
 const seasons = [
@@ -102,10 +103,11 @@ async function selectSeason(season) {
     document.getElementById('selected-season').textContent = season;
     document.getElementById('season-stats-season').textContent = season;
 
-    // Load games and player stats for this season
-    [allGames, allStats] = await Promise.all([
+    // Load games, player stats, and team season totals for this season
+    [allGames, allStats, seasonTeamTotals] = await Promise.all([
         loadCSV(season, 'game_info.csv'),
-        loadCSV(season, 'player_stats.csv')
+        loadCSV(season, 'player_stats.csv'),
+        loadCSV(season, 'team_season_totals.csv')
     ]);
 
     // Aggregate player stats for the season
@@ -117,6 +119,7 @@ async function selectSeason(season) {
     document.getElementById('game-details-section').style.display = 'none';
 
     renderGames();
+    renderSeasonTeamTotals();
     // Apply Maryland filter by default
     applySeasonStatsFilter();
 
@@ -919,9 +922,121 @@ function renderSeasonStatsAdvanced() {
     `;
 }
 
+// Render team season totals
+function renderSeasonTeamTotals() {
+    const container = document.getElementById('season-team-totals-list');
+
+    if (seasonTeamTotals.length === 0) {
+        container.innerHTML = '<p>No team season totals available for this season.</p>';
+        return;
+    }
+
+    // Separate Maryland from opponents
+    const maryland = seasonTeamTotals.filter(team => team.team === 'Maryland');
+    const opponents = seasonTeamTotals.filter(team => team.team !== 'Maryland');
+
+    container.innerHTML = `
+        <div style="margin-bottom: 1.5rem;">
+            <h3 style="margin-bottom: 0.5rem;">Season Summary</h3>
+            <p style="font-size: 0.9rem; color: #666;">Comprehensive team statistics aggregated across all games in the season.</p>
+        </div>
+
+        ${maryland.length > 0 ? `
+            <div style="margin-bottom: 2rem;">
+                <h3 style="color: #e03a3e; margin-bottom: 1rem;">Maryland</h3>
+                ${renderTeamTotalsTable(maryland)}
+            </div>
+        ` : ''}
+
+        ${opponents.length > 0 ? `
+            <div style="margin-bottom: 2rem;">
+                <h3 style="margin-bottom: 1rem;">Opponents</h3>
+                ${renderTeamTotalsTable(opponents)}
+
+                <div style="margin-top: 1.5rem; padding: 1rem; background: #f5f5f5; border-radius: 4px;">
+                    <p style="margin: 0; font-size: 0.9rem;"><strong>Stats Glossary:</strong></p>
+                    <ul style="margin: 0.5rem 0; padding-left: 1.5rem; font-size: 0.85rem; color: #555;">
+                        <li><strong>eFG%</strong> - Effective FG %: Adjusts for 3-pointers being worth more</li>
+                        <li><strong>TS%</strong> - True Shooting %: Overall shooting efficiency including FTs</li>
+                        <li><strong>FTR</strong> - Free Throw Rate: Free throw attempts per field goal attempt</li>
+                        <li><strong>AST/TO</strong> - Assist to Turnover Ratio</li>
+                        <li><strong>ORtg</strong> - Offensive Rating: Points scored per game</li>
+                        <li><strong>DRtg</strong> - Defensive Rating: Points allowed per game</li>
+                        <li><strong>NetRtg</strong> - Net Rating: Offensive - Defensive rating</li>
+                    </ul>
+                </div>
+            </div>
+        ` : ''}
+    `;
+}
+
+function renderTeamTotalsTable(teams) {
+    return `
+        <div style="overflow-x: auto;">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Team</th>
+                        <th>Record</th>
+                        <th>PPG</th>
+                        <th>RPG</th>
+                        <th>APG</th>
+                        <th>SPG</th>
+                        <th>BPG</th>
+                        <th>TPG</th>
+                        <th>FG%</th>
+                        <th>3P%</th>
+                        <th>FT%</th>
+                        <th>eFG%</th>
+                        <th>TS%</th>
+                        <th>FTR</th>
+                        <th>AST/TO</th>
+                        <th>ORtg</th>
+                        <th>DRtg</th>
+                        <th>NetRtg</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    ${teams.map(team => {
+                        const record = `${team.wins}-${team.losses}`;
+                        const winPct = parseFloat(team.win_pct).toFixed(1);
+                        const isMaryland = team.team === 'Maryland';
+
+                        return `
+                            <tr class="${isMaryland ? 'team-maryland' : ''}">
+                                <td><strong>${team.team}</strong></td>
+                                <td><strong>${record}</strong> <span style="font-size: 0.85rem; color: #666;">(${winPct}%)</span></td>
+                                <td>${parseFloat(team.ppg).toFixed(1)}</td>
+                                <td>${parseFloat(team.rpg).toFixed(1)}</td>
+                                <td>${parseFloat(team.apg).toFixed(1)}</td>
+                                <td>${parseFloat(team.spg).toFixed(1)}</td>
+                                <td>${parseFloat(team.bpg).toFixed(1)}</td>
+                                <td>${parseFloat(team.tpg).toFixed(1)}</td>
+                                <td>${parseFloat(team.fg_pct).toFixed(1)}%</td>
+                                <td>${parseFloat(team.three_pt_pct).toFixed(1)}%</td>
+                                <td>${parseFloat(team.ft_pct).toFixed(1)}%</td>
+                                <td><strong>${parseFloat(team.efg_pct).toFixed(1)}%</strong></td>
+                                <td><strong>${parseFloat(team.ts_pct).toFixed(1)}%</strong></td>
+                                <td>${parseFloat(team.ft_rate).toFixed(2)}</td>
+                                <td>${parseFloat(team.ast_to_ratio).toFixed(2)}</td>
+                                <td>${parseFloat(team.off_rating).toFixed(1)}</td>
+                                <td>${parseFloat(team.def_rating).toFixed(1)}</td>
+                                <td style="color: ${parseFloat(team.net_rating) > 0 ? 'green' : 'red'};">
+                                    <strong>${parseFloat(team.net_rating) > 0 ? '+' : ''}${parseFloat(team.net_rating).toFixed(1)}</strong>
+                                </td>
+                            </tr>
+                        `;
+                    }).join('')}
+                </tbody>
+            </table>
+        </div>
+    `;
+}
+
 // Tab switching for season stats
 function showSeasonStatsTab(tabName) {
     // Hide all tabs
+    document.getElementById('season-stats-team').classList.remove('active');
     document.getElementById('season-stats-basic').classList.remove('active');
     document.getElementById('season-stats-advanced').classList.remove('active');
 
@@ -931,7 +1046,10 @@ function showSeasonStatsTab(tabName) {
     });
 
     // Show selected tab
-    if (tabName === 'basic') {
+    if (tabName === 'team') {
+        document.getElementById('season-stats-team').classList.add('active');
+        event.target.classList.add('active');
+    } else if (tabName === 'basic') {
         document.getElementById('season-stats-basic').classList.add('active');
         event.target.classList.add('active');
     } else if (tabName === 'advanced') {

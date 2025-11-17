@@ -53,13 +53,18 @@
                 <button class="btn-secondary" onclick="clearSeasonStatsFilter()">Clear</button>
             </div>
 
-            <!-- Tabs for Basic vs Advanced Stats -->
+            <!-- Tabs for Team, Basic vs Advanced Stats -->
             <div class="tabs">
-                <button class="tab-btn active" onclick="showSeasonStatsTab('basic')">Basic Stats</button>
+                <button class="tab-btn active" onclick="showSeasonStatsTab('team')">Team Totals</button>
+                <button class="tab-btn" onclick="showSeasonStatsTab('basic')">Player Stats</button>
                 <button class="tab-btn" onclick="showSeasonStatsTab('advanced')">Advanced Stats</button>
             </div>
 
-            <div id="season-stats-basic" class="tab-content active">
+            <div id="season-stats-team" class="tab-content active">
+                <div id="season-team-totals-list"></div>
+            </div>
+
+            <div id="season-stats-basic" class="tab-content">
                 <div id="season-stats-list"></div>
             </div>
 
