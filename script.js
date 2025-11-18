@@ -56,6 +56,7 @@ function parseCSVLine(line) {
 
         if (char === '"') {
             inQuotes = !inQuotes;
+            // Don't add the quote character to the result
         } else if (char === ',' && !inQuotes) {
             result.push(current);
             current = '';
