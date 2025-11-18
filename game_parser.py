@@ -267,7 +267,7 @@ class BasketballGameProcessor:
                         self.logger.info(f"Appended new data to existing {name}.csv")
                 except pd.errors.EmptyDataError:
                     # If the file exists but is empty, write new data
-                    df.to_csv(file_path, index=False)
+                    df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
                     self.logger.info(f"Wrote new data to empty {name}.csv")
                 except Exception as e:
                     self.logger.error(f"Error processing existing {name}.csv: {e}")
@@ -277,11 +277,11 @@ class BasketballGameProcessor:
                         file_path.rename(backup_path)
                         self.logger.info(f"Created backup of existing file at {backup_path}")
                     # Write new data
-                    df.to_csv(file_path, index=False)
+                    df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
                     self.logger.info(f"Wrote new data to {name}.csv after backing up existing file")
             else:
                 # If file doesn't exist, create it
-                df.to_csv(file_path, index=False)
+                df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
                 self.logger.info(f"Created new file {name}.csv")
 
     def process_game(self, filepath: str, output_dir: str) -> bool:
