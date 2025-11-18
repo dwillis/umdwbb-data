@@ -28,7 +28,8 @@ function formatTime(seconds) {
 
 // CSV Parser
 function parseCSV(text) {
-    const lines = text.trim().split('\n');
+    // Handle both Unix (\n) and Windows (\r\n) line endings
+    const lines = text.trim().split(/\r?\n/);
     const headers = parseCSVLine(lines[0]);
     const data = [];
 
