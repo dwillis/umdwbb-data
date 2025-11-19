@@ -8,18 +8,18 @@ from typing import Dict, Any, List, Optional, Tuple
 import os
 import glob
 
-def extract_ids_from_path(filepath: str) -> Tuple[str, str]:
-    """Extract source_id and file_id from filepath."""
+def extract_ids_from_path(filepath: str) -> Tuple[Optional[int], Optional[int]]:
+    """Extract source_id and file_id from filepath as integers."""
     try:
         # Get the directory structure
         parts = Path(filepath).parts
         # Find the part that contains source_id (e.g., "392-maryland")
         source_part = [p for p in parts if '-' in p and p.split('-')[0].isdigit()][0]
-        source_id = source_part.split('-')[0]
-        # Get the file name without extension
-        file_id = Path(filepath).stem
+        source_id = int(source_part.split('-')[0])
+        # Get the file name without extension and convert to int
+        file_id = int(Path(filepath).stem)
         return source_id, file_id
-    except (IndexError, AttributeError):
+    except (IndexError, AttributeError, ValueError):
         return None, None
 
 class BasketballGameProcessor:
@@ -148,12 +148,23 @@ class BasketballGameProcessor:
     def process_player_stats(self, data: Dict) -> pd.DataFrame:
         """Process player statistics."""
         self.logger.debug("Processing player statistics")
-        
+
         def process_team_players(team_data: Dict, team_name: str) -> List[Dict]:
             players = team_data['PlayerGroups']['Players']['Values']
             team_stats = []
-            
+            seen_players = set()  # Track unique players by (name, number)
+
             for player in players:
+                # Create unique identifier for this player
+                player_key = (player['Name'], player['Uni'])
+
+                # Skip if we've already processed this player
+                if player_key in seen_players:
+                    self.logger.warning(f"Skipping duplicate player: {player['Name']} (#{player['Uni']}) for team {team_name}")
+                    continue
+
+                seen_players.add(player_key)
+
                 stats = {
                     'source_id': self.source_id,
                     'file_id': self.file_id,
@@ -176,13 +187,24 @@ class BasketballGameProcessor:
                     'points': player['Points']
                 }
                 team_stats.append(stats)
-            
+
             return team_stats
-        
+
         home_stats = process_team_players(data['Stats']['HomeTeam'], self.home_team)
         visiting_stats = process_team_players(data['Stats']['VisitingTeam'], self.visiting_team)
-        
-        return pd.DataFrame(home_stats + visiting_stats)
+
+        # Create DataFrame and remove any duplicates based on unique player identifiers
+        df = pd.DataFrame(home_stats + visiting_stats)
+
+        # Deduplicate based on file_id, team, and name (one record per player per team per game)
+        original_count = len(df)
+        df = df.drop_duplicates(subset=['file_id', 'team', 'name'], keep='first')
+        duplicates_removed = original_count - len(df)
+
+        if duplicates_removed > 0:
+            self.logger.warning(f"Removed {duplicates_removed} duplicate player record(s) within game processing")
+
+        return df
 
     def process_team_totals(self, data: Dict) -> pd.DataFrame:
         """Process team totals."""
@@ -243,28 +265,47 @@ class BasketballGameProcessor:
                             self.logger.info(f"Game {df['file_id'].iloc[0]} already exists in {name}.csv - skipping append")
                             game_exists = True
 
-                    if game_exists:
-                        # Even if game exists, still deduplicate the existing file
-                        combined_df = existing_df
-                    else:
-                        # Append new data
-                        combined_df = pd.concat([existing_df, df], ignore_index=True)
+                    # Concatenate existing and new data
+                    combined_df = pd.concat([existing_df, df], ignore_index=True)
+                    self.logger.debug(f"{name}: Concatenated {len(existing_df)} existing + {len(df)} new = {len(combined_df)} total rows")
 
                     # Remove duplicates based on unique keys for this dataframe type
+                    duplicates_removed = 0
                     if name in unique_keys:
                         original_count = len(combined_df)
+
+                        # Detailed debugging for player_stats
+                        if self.debug and name == 'player_stats' and original_count > 30:
+                            self.logger.debug(f"Before dedup sample data:")
+                            sample = combined_df[['file_id', 'team', 'name']].head(4)
+                            for idx, row in sample.iterrows():
+                                self.logger.debug(f"  Row {idx}: file_id={repr(row['file_id'])}, team={repr(row['team'])}, name={repr(row['name'])}")
+
                         combined_df = combined_df.drop_duplicates(subset=unique_keys[name], keep='first')
                         duplicates_removed = original_count - len(combined_df)
+                        self.logger.debug(f"{name}: After deduplication on {unique_keys[name]}: {len(combined_df)} rows (removed {duplicates_removed} duplicates)")
+
                         if duplicates_removed > 0:
                             self.logger.info(f"Removed {duplicates_removed} duplicate row(s) from {name}.csv")
-                            combined_df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
-                            self.logger.info(f"Cleaned up duplicates in {name}.csv")
-                        elif not game_exists:
-                            combined_df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
-                            self.logger.info(f"Appended new data to existing {name}.csv")
-                    elif not game_exists:
+                    else:
+                        self.logger.debug(f"{name}: No unique keys defined, skipping deduplication")
+
+                    # Write the deduplicated data if anything changed
+                    rows_changed = len(combined_df) - len(existing_df)
+                    self.logger.debug(f"{name}: Row count change: {len(existing_df)} -> {len(combined_df)} (diff: {rows_changed})")
+
+                    if len(combined_df) != len(existing_df):
                         combined_df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
-                        self.logger.info(f"Appended new data to existing {name}.csv")
+                        if name in unique_keys and duplicates_removed > 0:
+                            self.logger.info(f"Updated {name}.csv (added new data and removed duplicates)")
+                        else:
+                            self.logger.info(f"Appended new data to existing {name}.csv")
+                    elif duplicates_removed > 0:
+                        # Same row count but duplicates were removed (shouldn't happen often)
+                        combined_df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
+                        self.logger.info(f"Cleaned up duplicates in {name}.csv")
+                    else:
+                        self.logger.debug(f"No changes needed for {name}.csv (data already exists)")
                 except pd.errors.EmptyDataError:
                     # If the file exists but is empty, write new data
                     df.to_csv(file_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
