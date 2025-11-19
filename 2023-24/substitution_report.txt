@@ -1,0 +1,119 @@
+================================================================================
+MARYLAND WOMEN'S BASKETBALL - SUBSTITUTION PATTERN REPORT
+Season: 2023-24
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+Total Games Analyzed: 33
+Total Substitutions: 964
+Average Substitutions per Game: 29.2
+
+PLAYER SUBSTITUTION FREQUENCY (Top 10)
+--------------------------------------------------------------------------------
+Player                    Games    Subs In    Subs Out   Avg/Game  
+--------------------------------------------------------------------------------
+#14 Allie Kubek           33       130        135        3.94      
+#13 Faith Masonius        33       132        132        4.00      
+#24 Bri McDaniel          33       120        125        3.64      
+#05 Brinae Alexander      33       112        130        3.39      
+#11 Jakia Brown-Turner    30       97         116        3.23      
+#34 Emily Fisher          33       109        97         3.30      
+#00 Shyanne Sellers       31       80         95         2.58      
+#03 Lavender Briggs       21       57         54         2.71      
+#02 Riley Nelson          16       58         47         3.62      
+#20 Hawa Doumbouya        13       22         13         1.69      
+
+MOST COMMON SUBSTITUTION PAIRS (Top 15)
+--------------------------------------------------------------------------------
+OUT                       IN                        Count    Games   
+--------------------------------------------------------------------------------
+#13 Faith Masonius        #14 Allie Kubek           39       22      
+#14 Allie Kubek           #13 Faith Masonius        38       22      
+#11 Jakia Brown-Turner    #24 Bri McDaniel          29       19      
+#05 Brinae Alexander      #14 Allie Kubek           27       24      
+#05 Brinae Alexander      #13 Faith Masonius        25       18      
+#13 Faith Masonius        #24 Bri McDaniel          22       18      
+#14 Allie Kubek           #34 Emily Fisher          22       16      
+#13 Faith Masonius        #05 Brinae Alexander      19       15      
+#11 Jakia Brown-Turner    #34 Emily Fisher          18       14      
+#34 Emily Fisher          #14 Allie Kubek           18       14      
+#34 Emily Fisher          #13 Faith Masonius        17       15      
+#24 Bri McDaniel          #34 Emily Fisher          17       14      
+#24 Bri McDaniel          #11 Jakia Brown-Turner    17       13      
+#24 Bri McDaniel          #05 Brinae Alexander      17       11      
+#34 Emily Fisher          #24 Bri McDaniel          17       12      
+
+MULTI-PLAYER SUBSTITUTIONS
+--------------------------------------------------------------------------------
+5-Player Substitutions: 5
+4-Player Substitutions: 5
+3-Player Substitutions: 21
+2-Player Substitutions: 143
+
+Notable 5-Player Substitutions:
+  Game 16457, Q2, 4:47
+    OUT: Shyanne Sellers, Lavender Briggs, Brinae Alexander, Bri McDaniel, Allie Kubek
+    IN:  Riley Nelson, Jakia Brown-Turner, Allie Kubek, Emma Chardon, Emily Fisher
+  Game 16463, Q1, 5:06
+    OUT: Shyanne Sellers, Lavender Briggs, Brinae Alexander, Jakia Brown-Turner, Allie Kubek
+    IN:  Riley Nelson, Faith Masonius, Emma Chardon, Bri McDaniel, Emily Fisher
+  Game 16463, Q3, 4:52
+    OUT: Brinae Alexander, Jakia Brown-Turner, Allie Kubek, Bri McDaniel, Summer Bostock
+    IN:  Riley Nelson, Faith Masonius, Summer Bostock, Emily Fisher, Jakia Brown-Turner
+  Game 16463, Q4, 10:00
+    OUT: Riley Nelson, Hawa Doumbouya, Bri McDaniel, Summer Bostock, Emily Fisher
+    IN:  Shyanne Sellers, Brinae Alexander, Jakia Brown-Turner, Faith Masonius, Allie Kubek
+  Game 16464, Q3, 10:00
+    OUT: Riley Nelson, Hawa Doumbouya, Emma Chardon, Summer Bostock, Emily Fisher
+    IN:  Shyanne Sellers, Brinae Alexander, Jakia Brown-Turner, Allie Kubek, Bri McDaniel
+
+SUBSTITUTION TIMING BY QUARTER
+--------------------------------------------------------------------------------
+
+Quarter 1:
+  Peak substitution times:
+    3-5min remaining: 36 subs across 21 games
+    5-7min remaining: 36 subs across 18 games
+    6-8min remaining: 36 subs across 22 games
+
+Quarter 2:
+  Peak substitution times:
+    10-12min remaining: 46 subs across 27 games
+    4-6min remaining: 32 subs across 18 games
+    3-5min remaining: 30 subs across 20 games
+
+Quarter 3:
+  Peak substitution times:
+    10-12min remaining: 58 subs across 29 games
+    4-6min remaining: 34 subs across 19 games
+    5-7min remaining: 32 subs across 19 games
+
+Quarter 4:
+  Peak substitution times:
+    10-12min remaining: 41 subs across 27 games
+    0-2min remaining: 29 subs across 13 games
+    7-9min remaining: 27 subs across 18 games
+
+PERIOD TRANSITION SUBSTITUTIONS
+--------------------------------------------------------------------------------
+Period     Total Subs   Games    Avg/Game  
+--------------------------------------------------------------------------------
+Start of Q2 47           27       1.74      
+Start of Q3 59           29       2.03      
+Start of Q4 42           27       1.56      
+
+KEY INSIGHTS
+--------------------------------------------------------------------------------
+• Most active substitute: #14 Allie Kubek
+  (265 total subs in 33 games)
+• Most common substitution: #13 Faith Masonius → #14 Allie Kubek
+  (Occurred 39 times across 22 games)
+• Players who frequently rotate for each other:
+  #13 Faith Masonius ↔ #14 Allie Kubek (77 total swaps)
+  #11 Jakia Brown-Turner ↔ #24 Bri McDaniel (46 total swaps)
+  #05 Brinae Alexander ↔ #13 Faith Masonius (44 total swaps)
+  #05 Brinae Alexander ↔ #14 Allie Kubek (42 total swaps)
+  #14 Allie Kubek ↔ #34 Emily Fisher (40 total swaps)
+
+================================================================================
