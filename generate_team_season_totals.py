@@ -60,7 +60,7 @@ class TeamSeasonStats:
         with open(game_info_file, 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
-                game_id = row['source_id']
+                game_id = row['file_id']
                 game_results[game_id] = {
                     'home_team': row['home_team'],
                     'home_score': int(row['home_score']),
@@ -83,7 +83,7 @@ class TeamSeasonStats:
             reader = csv.DictReader(f)
             for row in reader:
                 team = row['team']
-                game_id = row['source_id']
+                game_id = row['file_id']
                 stats = self.team_stats[team]
 
                 # Increment games played
