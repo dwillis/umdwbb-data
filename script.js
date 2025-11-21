@@ -946,14 +946,14 @@ function renderSeasonTeamTotals() {
         ${maryland.length > 0 ? `
             <div style="margin-bottom: 2rem;">
                 <h3 style="color: #e03a3e; margin-bottom: 1rem;">Maryland</h3>
-                ${renderTeamTotalsTable(maryland)}
+                ${renderTeamTotalsTable(maryland, true)}
             </div>
         ` : ''}
 
         ${opponents.length > 0 ? `
             <div style="margin-bottom: 2rem;">
                 <h3 style="margin-bottom: 1rem;">Opponents</h3>
-                ${renderTeamTotalsTable(opponents)}
+                ${renderTeamTotalsTable(opponents, false)}
 
                 <div style="margin-top: 1.5rem; padding: 1rem; background: #f5f5f5; border-radius: 4px;">
                     <p style="margin: 0; font-size: 0.9rem;"><strong>Stats Glossary:</strong></p>
@@ -972,14 +972,14 @@ function renderSeasonTeamTotals() {
     `;
 }
 
-function renderTeamTotalsTable(teams) {
+function renderTeamTotalsTable(teams, showRecord = true) {
     return `
         <div style="overflow-x: auto;">
             <table>
                 <thead>
                     <tr>
                         <th>Team</th>
-                        <th>Record</th>
+                        ${showRecord ? '<th>Record</th>' : ''}
                         <th>PPG</th>
                         <th>RPG</th>
                         <th>APG</th>
@@ -1007,7 +1007,7 @@ function renderTeamTotalsTable(teams) {
                         return `
                             <tr class="${isMaryland ? 'team-maryland' : ''}">
                                 <td><strong>${team.team}</strong></td>
-                                <td><strong>${record}</strong> <span style="font-size: 0.85rem; color: #666;">(${winPct}%)</span></td>
+                                ${showRecord ? `<td><strong>${record}</strong> <span style="font-size: 0.85rem; color: #666;">(${winPct}%)</span></td>` : ''}
                                 <td>${parseFloat(team.ppg).toFixed(1)}</td>
                                 <td>${parseFloat(team.rpg).toFixed(1)}</td>
                                 <td>${parseFloat(team.apg).toFixed(1)}</td>
