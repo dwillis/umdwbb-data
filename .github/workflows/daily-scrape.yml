@@ -30,6 +30,9 @@ jobs:
     - name: Run game parser
       run: python game_parser.py
 
+    - name: Generate team season totals
+      run: python generate_team_season_totals.py 2025-26 --output 2025-26/team_season_totals.csv --no-display
+
     - name: Commit and push if changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
