@@ -2256,3 +2256,381 @@
 2025,19716,4,28,"Maryland","FT","GOOD","40 Breanna Williams FT GOOD (12 Pt)","Breanna Williams",40.0,95.0,49.0
 2025,19716,4,4,"Bethune-Cookman","3PTR","MISS","21 Shomari Phillips 3PTR MISS","Shomari Phillips",21.0,"",""
 2025,19716,4,1,"Maryland","DEF","REBOUND","40 Breanna Williams DEF. REBOUND (8 Reb, 6 Def)","Breanna Williams",40.0,"",""
+2025,18933,1,590,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025,18933,1,588,"George Mason","DEF","REBOUND","George Mason REBOUND","","","",""
+2025,18933,1,559,"George Mason","JUMPER","GOOD","14 Maliyah Johnson JUMPER GOOD (2 Pt)","Maliyah Johnson",14.0,0.0,2.0
+2025,18933,1,547,"Maryland","3PTR","MISS","02 Kaylene Smikle 3PTR MISS","Kaylene Smikle",2.0,"",""
+2025,18933,1,544,"George Mason","DEF","REBOUND","13 Jada Brown DEF. REBOUND (1 Reb, 1 Def)","Jada Brown",13.0,"",""
+2025,18933,1,537,"George Mason","LAYUP","GOOD","02 Zahirah Walton LAYUP GOOD (2 Pt)","Zahirah Walton",2.0,0.0,4.0
+2025,18933,1,514,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (1 TO)","Kyndal Walker",8.0,"",""
+2025,18933,1,514,"George Mason","STEAL","STEAL","13 Jada Brown STEAL (1 Stl)","Jada Brown",13.0,"",""
+2025,18933,1,506,"George Mason","TURNOVER","TURNOVER","13 Jada Brown TURNOVER (1 TO)","Jada Brown",13.0,"",""
+2025,18933,1,506,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+2025,18933,1,502,"George Mason","FOUL","FOUL","13 Jada Brown FOUL (1 PF)","Jada Brown",13.0,"",""
+2025,18933,1,500,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (2 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Kaylene Smikle",2.0,2.0,4.0
+2025,18933,1,500,"George Mason","FOUL","FOUL","02 Zahirah Walton FOUL (1 PF)","Zahirah Walton",2.0,"",""
+2025,18933,1,500,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (3 Pt)","Kaylene Smikle",2.0,3.0,4.0
+2025,18933,1,490,"George Mason","TURNOVER","TURNOVER","15 Louis Volker TURNOVER (1 TO)","Louis Volker",15.0,"",""
+2025,18933,1,490,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon",12.0,"",""
+2025,18933,1,476,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (3 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Yarden Garzon",12.0,6.0,4.0
+2025,18933,1,444,"George Mason","3PTR","MISS","03 Kennedy Harris 3PTR MISS","Kennedy Harris",3.0,"",""
+2025,18933,1,441,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025,18933,1,431,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (2 Pt)","Oluchi Okananwa",7.0,8.0,4.0
+2025,18933,1,398,"George Mason","TURNOVER","TURNOVER","George Mason TURNOVER (1 TO)","","","",""
+2025,18933,1,385,"George Mason","FOUL","FOUL","03 Kennedy Harris FOUL (1 PF)","Kennedy Harris",3.0,"",""
+2025,18933,1,385,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (1 Pt)","Kyndal Walker",8.0,9.0,4.0
+2025,18933,1,385,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (2 Pt)","Kyndal Walker",8.0,10.0,4.0
+2025,18933,1,379,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025,18933,1,378,"George Mason","FT","GOOD","03 Kennedy Harris FT GOOD (1 Pt)","Kennedy Harris",3.0,10.0,5.0
+2025,18933,1,378,"George Mason","FT","GOOD","03 Kennedy Harris FT GOOD (2 Pt)","Kennedy Harris",3.0,10.0,6.0
+2025,18933,1,368,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 09 Isimenme Ozzy-Momodu IN","Kyndal Walker",8.0,"",""
+2025,18933,1,368,"George Mason","SUBS","SUBS","13 Jada Brown OUT; 11 Mary Amoateng IN","Jada Brown",13.0,"",""
+2025,18933,1,366,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025,18933,1,353,"George Mason","JUMPER","GOOD","11 Mary Amoateng JUMPER GOOD (2 Pt)","Mary Amoateng",11.0,10.0,8.0
+2025,18933,1,333,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (4 Pt); 09 Isimenme Ozzy-Momodu Assist (1 Asst)","Oluchi Okananwa",7.0,12.0,8.0
+2025,18933,1,322,"George Mason","LAYUP","MISS","03 Kennedy Harris LAYUP MISS","Kennedy Harris",3.0,"",""
+2025,18933,1,320,"George Mason","OFF","REBOUND","14 Maliyah Johnson OFF. REBOUND (1 Reb, 1 Off)","Maliyah Johnson",14.0,"",""
+2025,18933,1,316,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025,18933,1,316,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 00 Rainey Welson IN","Saylor Poffenbarger",6.0,"",""
+2025,18933,1,312,"George Mason","JUMPER","GOOD","02 Zahirah Walton JUMPER GOOD (4 Pt)","Zahirah Walton",2.0,12.0,10.0
+2025,18933,1,297,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,1,294,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (1 Reb, 1 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,1,293,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (2 Pt)","Isimenme Ozzy-Momodu",9.0,14.0,10.0
+2025,18933,1,286,"George Mason","3PTR","GOOD","11 Mary Amoateng 3PTR GOOD (5 Pt)","Mary Amoateng",11.0,14.0,13.0
+2025,18933,1,281,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 06 Saylor Poffenbarger IN","Kaylene Smikle",2.0,"",""
+2025,18933,1,272,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,1,271,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025,18933,1,271,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 11 Marya Boiko IN","Saylor Poffenbarger",6.0,"",""
+2025,18933,1,267,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025,18933,1,267,"George Mason","DEF","REBOUND","George Mason REBOUND","","","",""
+2025,18933,1,256,"George Mason","TURNOVER","TURNOVER","14 Maliyah Johnson TURNOVER (1 TO)","Maliyah Johnson",14.0,"",""
+2025,18933,1,256,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025,18933,1,252,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (6 Pt)","Oluchi Okananwa",7.0,16.0,13.0
+2025,18933,1,246,"George Mason","LAYUP","GOOD","02 Zahirah Walton LAYUP GOOD (6 Pt); 11 Mary Amoateng Assist (1 Asst)","Zahirah Walton",2.0,16.0,15.0
+2025,18933,1,230,"Maryland","JUMPER","GOOD","09 Isimenme Ozzy-Momodu JUMPER GOOD (4 Pt)","Isimenme Ozzy-Momodu",9.0,18.0,15.0
+2025,18933,1,221,"George Mason","3PTR","GOOD","02 Zahirah Walton 3PTR GOOD (9 Pt)","Zahirah Walton",2.0,18.0,18.0
+2025,18933,1,203,"Maryland","LAYUP","MISS","00 Rainey Welson LAYUP MISS; 15 Louis Volker BLOCK (1 Blk)","Rainey Welson",0.0,"",""
+2025,18933,1,199,"George Mason","DEF","REBOUND","02 Zahirah Walton DEF. REBOUND (1 Reb, 1 Def)","Zahirah Walton",2.0,"",""
+2025,18933,1,196,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 07 Oluchi Okananwa OUT; 02 Kaylene Smikle IN; 06 Saylor Poffenbarger IN","Rainey Welson",0.0,"",""
+2025,18933,1,196,"George Mason","SUBS","SUBS","03 Kennedy Harris OUT; 32 Page Greenburg IN","Kennedy Harris",3.0,"",""
+2025,18933,1,195,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,1,194,"Maryland","FOUL","FOUL","02 Kaylene Smikle FOUL (1 PF)","Kaylene Smikle",2.0,"",""
+2025,18933,1,192,"George Mason","JUMPER","GOOD","02 Zahirah Walton JUMPER GOOD (11 Pt)","Zahirah Walton",2.0,18.0,20.0
+2025,18933,1,189,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (2 TO)","Yarden Garzon",12.0,"",""
+2025,18933,1,180,"George Mason","LAYUP","GOOD","02 Zahirah Walton LAYUP GOOD (13 Pt)","Zahirah Walton",2.0,18.0,22.0
+2025,18933,1,157,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,1,155,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (2 Reb, 2 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,1,154,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,1,152,"George Mason","DEF","REBOUND","32 Page Greenburg DEF. REBOUND (1 Reb, 1 Def)","Page Greenburg",32.0,"",""
+2025,18933,1,143,"George Mason","JUMPER","MISS","14 Maliyah Johnson JUMPER MISS","Maliyah Johnson",14.0,"",""
+2025,18933,1,143,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025,18933,1,143,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 08 Kyndal Walker IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,1,130,"Maryland","JUMPER","MISS","02 Kaylene Smikle JUMPER MISS","Kaylene Smikle",2.0,"",""
+2025,18933,1,126,"George Mason","DEF","REBOUND","14 Maliyah Johnson DEF. REBOUND (2 Reb, 1 Def)","Maliyah Johnson",14.0,"",""
+2025,18933,1,122,"George Mason","TURNOVER","TURNOVER","11 Mary Amoateng TURNOVER (1 TO)","Mary Amoateng",11.0,"",""
+2025,18933,1,122,"George Mason","SUBS","SUBS","02 Zahirah Walton OUT; 03 Kennedy Harris IN","Zahirah Walton",2.0,"",""
+2025,18933,1,104,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (2 Pt); 11 Marya Boiko Assist (1 Asst)","Saylor Poffenbarger",6.0,20.0,22.0
+2025,18933,1,92,"George Mason","JUMPER","MISS","03 Kennedy Harris JUMPER MISS","Kennedy Harris",3.0,"",""
+2025,18933,1,89,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025,18933,1,85,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+2025,18933,1,85,"George Mason","STEAL","STEAL","11 Mary Amoateng STEAL (1 Stl)","Mary Amoateng",11.0,"",""
+2025,18933,1,80,"George Mason","LAYUP","GOOD","15 Louis Volker LAYUP GOOD (2 Pt); 11 Mary Amoateng Assist (2 Asst)","Louis Volker",15.0,20.0,24.0
+2025,18933,1,73,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (2 TO)","Kyndal Walker",8.0,"",""
+2025,18933,1,73,"George Mason","STEAL","STEAL","15 Louis Volker STEAL (1 Stl)","Louis Volker",15.0,"",""
+2025,18933,1,68,"George Mason","LAYUP","MISS","03 Kennedy Harris LAYUP MISS","Kennedy Harris",3.0,"",""
+2025,18933,1,64,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+2025,18933,1,55,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025,18933,1,52,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (2 Reb, 1 Off)","Saylor Poffenbarger",6.0,"",""
+2025,18933,1,41,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (3 TO)","Kyndal Walker",8.0,"",""
+2025,18933,1,41,"George Mason","STEAL","STEAL","03 Kennedy Harris STEAL (1 Stl)","Kennedy Harris",3.0,"",""
+2025,18933,1,17,"George Mason","TURNOVER","TURNOVER","11 Mary Amoateng TURNOVER (2 TO)","Mary Amoateng",11.0,"",""
+2025,18933,1,17,"George Mason","SUBS","SUBS","03 Kennedy Harris OUT; 13 Jada Brown IN","Kennedy Harris",3.0,"",""
+2025,18933,1,4,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025,18933,1,1,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025,18933,1,1,"George Mason","FOUL","FOUL","14 Maliyah Johnson FOUL (1 PF)","Maliyah Johnson",14.0,"",""
+2025,18933,1,1,"George Mason","SUBS","SUBS","14 Maliyah Johnson OUT; 30 Sara Blair IN","Maliyah Johnson",14.0,"",""
+2025,18933,1,0,"George Mason","FOUL","FOUL","11 Mary Amoateng FOUL (1 PF)","Mary Amoateng",11.0,"",""
+2025,18933,1,0,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (3 Pt)","Kyndal Walker",8.0,21.0,24.0
+2025,18933,1,0,"George Mason","SUBS","SUBS","13 Jada Brown OUT; 32 Page Greenburg OUT; 02 Zahirah Walton IN; 03 Kennedy Harris IN; 11 Mary Amoateng OUT; 30 Sara Blair OUT; 13 Jada Brown IN; 14 Maliyah Johnson IN","Jada Brown",13.0,"",""
+2025,18933,1,0,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (4 Pt)","Kyndal Walker",8.0,22.0,24.0
+2025,18933,1,0,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (5 Pt)","Kyndal Walker",8.0,23.0,24.0
+2025,18933,2,600,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 11 Marya Boiko OUT; 12 Yarden Garzon OUT; 03 Addi Mack IN; 07 Oluchi Okananwa IN; 10 Mir McLean IN","Kyndal Walker",8.0,"",""
+2025,18933,2,582,"George Mason","JUMPER","MISS","02 Zahirah Walton JUMPER MISS","Zahirah Walton",2.0,"",""
+2025,18933,2,578,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean",10.0,"",""
+2025,18933,2,553,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (2 TO)","Saylor Poffenbarger",6.0,"",""
+2025,18933,2,553,"George Mason","STEAL","STEAL","02 Zahirah Walton STEAL (1 Stl)","Zahirah Walton",2.0,"",""
+2025,18933,2,549,"George Mason","LAYUP","GOOD","02 Zahirah Walton LAYUP GOOD (15 Pt)","Zahirah Walton",2.0,23.0,26.0
+2025,18933,2,537,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025,18933,2,534,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (3 Reb, 2 Off)","Saylor Poffenbarger",6.0,"",""
+2025,18933,2,521,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (3 TO)","Saylor Poffenbarger",6.0,"",""
+2025,18933,2,521,"George Mason","STEAL","STEAL","02 Zahirah Walton STEAL (2 Stl)","Zahirah Walton",2.0,"",""
+2025,18933,2,509,"George Mason","3PTR","MISS","14 Maliyah Johnson 3PTR MISS","Maliyah Johnson",14.0,"",""
+2025,18933,2,505,"George Mason","OFF","REBOUND","03 Kennedy Harris OFF. REBOUND (1 Reb, 1 Off)","Kennedy Harris",3.0,"",""
+2025,18933,2,500,"George Mason","JUMPER","MISS","14 Maliyah Johnson JUMPER MISS","Maliyah Johnson",14.0,"",""
+2025,18933,2,497,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (1 Reb, 1 Def)","Kaylene Smikle",2.0,"",""
+2025,18933,2,489,"Maryland","JUMPER","MISS","02 Kaylene Smikle JUMPER MISS","Kaylene Smikle",2.0,"",""
+2025,18933,2,489,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (2 Reb, 1 Off)","Mir McLean",10.0,"",""
+2025,18933,2,484,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025,18933,2,484,"George Mason","DEF","REBOUND","14 Maliyah Johnson DEF. REBOUND (3 Reb, 2 Def)","Maliyah Johnson",14.0,"",""
+2025,18933,2,484,"George Mason","FOUL","FOUL","03 Kennedy Harris FOUL (2 PF)","Kennedy Harris",3.0,"",""
+2025,18933,2,484,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 12 Yarden Garzon IN","Saylor Poffenbarger",6.0,"",""
+2025,18933,2,484,"George Mason","SUBS","SUBS","15 Louis Volker OUT; 11 Mary Amoateng IN","Louis Volker",15.0,"",""
+2025,18933,2,471,"Maryland","LAYUP","MISS","12 Yarden Garzon LAYUP MISS","Yarden Garzon",12.0,"",""
+2025,18933,2,471,"George Mason","3PTR","GOOD","13 Jada Brown 3PTR GOOD (3 Pt); 03 Kennedy Harris Assist (1 Asst)","Jada Brown",13.0,23.0,29.0
+2025,18933,2,471,"George Mason","DEF","REBOUND","03 Kennedy Harris DEF. REBOUND (2 Reb, 1 Def)","Kennedy Harris",3.0,"",""
+2025,18933,2,471,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (8 Pt)","Oluchi Okananwa",7.0,25.0,29.0
+2025,18933,2,435,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+2025,18933,2,418,"George Mason","LAYUP","GOOD","02 Zahirah Walton LAYUP GOOD (17 Pt)","Zahirah Walton",2.0,25.0,31.0
+2025,18933,2,404,"Maryland","TURNOVER","TURNOVER","02 Kaylene Smikle TURNOVER (1 TO)","Kaylene Smikle",2.0,"",""
+2025,18933,2,404,"George Mason","STEAL","STEAL","14 Maliyah Johnson STEAL (1 Stl)","Maliyah Johnson",14.0,"",""
+2025,18933,2,398,"George Mason","3PTR","MISS","02 Zahirah Walton 3PTR MISS","Zahirah Walton",2.0,"",""
+2025,18933,2,396,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (1 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+2025,18933,2,375,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (10 Pt)","Oluchi Okananwa",7.0,27.0,31.0
+2025,18933,2,350,"George Mason","LAYUP","MISS","11 Mary Amoateng LAYUP MISS","Mary Amoateng",11.0,"",""
+2025,18933,2,347,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (2 Reb, 2 Def)","Kaylene Smikle",2.0,"",""
+2025,18933,2,344,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025,18933,2,340,"George Mason","DEF","REBOUND","03 Kennedy Harris DEF. REBOUND (3 Reb, 2 Def)","Kennedy Harris",3.0,"",""
+2025,18933,2,336,"George Mason","3PTR","GOOD","13 Jada Brown 3PTR GOOD (6 Pt); 03 Kennedy Harris Assist (2 Asst)","Jada Brown",13.0,27.0,34.0
+2025,18933,2,313,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (5 Pt); 03 Addi Mack Assist (1 Asst)","Kaylene Smikle",2.0,29.0,34.0
+2025,18933,2,284,"George Mason","TURNOVER","TURNOVER","03 Kennedy Harris TURNOVER (1 TO)","Kennedy Harris",3.0,"",""
+2025,18933,2,284,"George Mason","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025,18933,2,284,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 10 Mir McLean OUT; 08 Kyndal Walker IN; 09 Isimenme Ozzy-Momodu IN","Addi Mack",3.0,"",""
+2025,18933,2,284,"George Mason","SUBS","SUBS","14 Maliyah Johnson OUT; 15 Louis Volker IN","Maliyah Johnson",14.0,"",""
+2025,18933,2,273,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (12 Pt); 12 Yarden Garzon Assist (1 Asst)","Oluchi Okananwa",7.0,31.0,34.0
+2025,18933,2,273,"George Mason","FOUL","FOUL","15 Louis Volker FOUL (1 PF)","Louis Volker",15.0,"",""
+2025,18933,2,273,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (13 Pt)","Oluchi Okananwa",7.0,32.0,34.0
+2025,18933,2,239,"George Mason","JUMPER","MISS","02 Zahirah Walton JUMPER MISS","Zahirah Walton",2.0,"",""
+2025,18933,2,236,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (3 Reb, 1 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,2,231,"George Mason","FOUL","FOUL","15 Louis Volker FOUL (2 PF)","Louis Volker",15.0,"",""
+2025,18933,2,231,"George Mason","SUBS","SUBS","15 Louis Volker OUT; 14 Maliyah Johnson IN","Louis Volker",15.0,"",""
+2025,18933,2,230,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025,18933,2,227,"George Mason","DEF","REBOUND","03 Kennedy Harris DEF. REBOUND (4 Reb, 3 Def)","Kennedy Harris",3.0,"",""
+2025,18933,2,205,"George Mason","TURNOVER","TURNOVER","14 Maliyah Johnson TURNOVER (2 TO)","Maliyah Johnson",14.0,"",""
+2025,18933,2,191,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (3 TO)","Yarden Garzon",12.0,"",""
+2025,18933,2,172,"George Mason","TURNOVER","TURNOVER","02 Zahirah Walton TURNOVER (1 TO)","Zahirah Walton",2.0,"",""
+2025,18933,2,172,"Maryland","STEAL","STEAL","08 Kyndal Walker STEAL (1 Stl)","Kyndal Walker",8.0,"",""
+2025,18933,2,166,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025,18933,2,162,"George Mason","DEF","REBOUND","11 Mary Amoateng DEF. REBOUND (1 Reb, 1 Def)","Mary Amoateng",11.0,"",""
+2025,18933,2,156,"George Mason","JUMPER","MISS","11 Mary Amoateng JUMPER MISS; 09 Isimenme Ozzy-Momodu BLOCK (1 Blk)","Mary Amoateng",11.0,"",""
+2025,18933,2,156,"George Mason","OFF","REBOUND","George Mason REBOUND","","","",""
+2025,18933,2,156,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 06 Saylor Poffenbarger IN","Kaylene Smikle",2.0,"",""
+2025,18933,2,152,"George Mason","3PTR","MISS","03 Kennedy Harris 3PTR MISS","Kennedy Harris",3.0,"",""
+2025,18933,2,149,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (2 Reb, 2 Def)","Oluchi Okananwa",7.0,"",""
+2025,18933,2,143,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025,18933,2,140,"George Mason","DEF","REBOUND","14 Maliyah Johnson DEF. REBOUND (4 Reb, 3 Def)","Maliyah Johnson",14.0,"",""
+2025,18933,2,137,"George Mason","TURNOVER","TURNOVER","02 Zahirah Walton TURNOVER (2 TO)","Zahirah Walton",2.0,"",""
+2025,18933,2,122,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025,18933,2,104,"George Mason","LAYUP","GOOD","14 Maliyah Johnson LAYUP GOOD (4 Pt); 11 Mary Amoateng Assist (3 Asst)","Maliyah Johnson",14.0,32.0,36.0
+2025,18933,2,101,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (1 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,2,101,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 02 Kaylene Smikle IN","Kyndal Walker",8.0,"",""
+2025,18933,2,88,"George Mason","3PTR","MISS","11 Mary Amoateng 3PTR MISS","Mary Amoateng",11.0,"",""
+2025,18933,2,85,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025,18933,2,76,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (6 Pt); 07 Oluchi Okananwa Assist (2 Asst)","Isimenme Ozzy-Momodu",9.0,34.0,36.0
+2025,18933,2,67,"George Mason","3PTR","MISS","13 Jada Brown 3PTR MISS","Jada Brown",13.0,"",""
+2025,18933,2,64,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (3 Reb, 3 Def)","Kaylene Smikle",2.0,"",""
+2025,18933,2,54,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025,18933,2,54,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (2 TO)","Oluchi Okananwa",7.0,"",""
+2025,18933,2,39,"George Mason","3PTR","MISS","13 Jada Brown 3PTR MISS","Jada Brown",13.0,"",""
+2025,18933,2,36,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (3 Reb, 3 Def)","Yarden Garzon",12.0,"",""
+2025,18933,2,32,"Maryland","3PTR","MISS","02 Kaylene Smikle 3PTR MISS","Kaylene Smikle",2.0,"",""
+2025,18933,2,29,"George Mason","DEF","REBOUND","03 Kennedy Harris DEF. REBOUND (5 Reb, 4 Def)","Kennedy Harris",3.0,"",""
+2025,18933,2,24,"Maryland","FOUL","FOUL","02 Kaylene Smikle FOUL (2 PF)","Kaylene Smikle",2.0,"",""
+2025,18933,2,24,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 08 Kyndal Walker IN","Kaylene Smikle",2.0,"",""
+2025,18933,2,4,"George Mason","JUMPER","MISS","02 Zahirah Walton JUMPER MISS; 06 Saylor Poffenbarger BLOCK (1 Blk)","Zahirah Walton",2.0,"",""
+2025,18933,2,1,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (4 Reb, 4 Def)","Yarden Garzon",12.0,"",""
+2025,18933,2,0,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (4 Pt)","Saylor Poffenbarger",6.0,36.0,36.0
+2025,18933,3,600,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 09 Isimenme Ozzy-Momodu OUT; 02 Kaylene Smikle IN; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025,18933,3,600,"George Mason","SUBS","SUBS","11 Mary Amoateng OUT; 15 Louis Volker IN","Mary Amoateng",11.0,"",""
+2025,18933,3,592,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025,18933,3,588,"George Mason","DEF","REBOUND","15 Louis Volker DEF. REBOUND (1 Reb, 1 Def)","Louis Volker",15.0,"",""
+2025,18933,3,565,"George Mason","JUMPER","MISS","02 Zahirah Walton JUMPER MISS","Zahirah Walton",2.0,"",""
+2025,18933,3,560,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (4 Reb, 4 Def)","Kaylene Smikle",2.0,"",""
+2025,18933,3,558,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (2 Pt)","Addi Mack",3.0,38.0,36.0
+2025,18933,3,532,"George Mason","TURNOVER","TURNOVER","03 Kennedy Harris TURNOVER (2 TO)","Kennedy Harris",3.0,"",""
+2025,18933,3,532,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (2 Stl)","Saylor Poffenbarger",6.0,"",""
+2025,18933,3,528,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025,18933,3,525,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (3 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025,18933,3,525,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (15 Pt)","Oluchi Okananwa",7.0,40.0,36.0
+2025,18933,3,516,"George Mason","TURNOVER","TURNOVER","02 Zahirah Walton TURNOVER (3 TO)","Zahirah Walton",2.0,"",""
+2025,18933,3,516,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (1 Stl)","Addi Mack",3.0,"",""
+2025,18933,3,511,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (7 Pt); 06 Saylor Poffenbarger Assist (2 Asst)","Kaylene Smikle",2.0,42.0,36.0
+2025,18933,3,511,"George Mason","FOUL","FOUL","14 Maliyah Johnson FOUL (2 PF)","Maliyah Johnson",14.0,"",""
+2025,18933,3,511,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (8 Pt)","Kaylene Smikle",2.0,43.0,36.0
+2025,18933,3,499,"George Mason","LAYUP","MISS","13 Jada Brown LAYUP MISS","Jada Brown",13.0,"",""
+2025,18933,3,498,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025,18933,3,498,"George Mason","FOUL","FOUL","13 Jada Brown FOUL (2 PF)","Jada Brown",13.0,"",""
+2025,18933,3,498,"George Mason","30SEC","TIMEOUT","George Mason TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025,18933,3,498,"George Mason","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025,18933,3,498,"George Mason","SUBS","SUBS","15 Louis Volker OUT; 11 Mary Amoateng IN","Louis Volker",15.0,"",""
+2025,18933,3,455,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (17 Pt)","Oluchi Okananwa",7.0,45.0,36.0
+2025,18933,3,434,"George Mason","TURNOVER","TURNOVER","02 Zahirah Walton TURNOVER (4 TO)","Zahirah Walton",2.0,"",""
+2025,18933,3,434,"George Mason","SUBS","SUBS","13 Jada Brown OUT; 15 Louis Volker IN","Jada Brown",13.0,"",""
+2025,18933,3,430,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (19 Pt); 06 Saylor Poffenbarger Assist (3 Asst)","Oluchi Okananwa",7.0,47.0,36.0
+2025,18933,3,426,"George Mason","3PTR","GOOD","03 Kennedy Harris 3PTR GOOD (5 Pt); 11 Mary Amoateng Assist (4 Asst)","Kennedy Harris",3.0,47.0,39.0
+2025,18933,3,401,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (5 Pt); 07 Oluchi Okananwa Assist (3 Asst)","Yarden Garzon",12.0,49.0,39.0
+2025,18933,3,387,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025,18933,3,387,"George Mason","FT","MISS","02 Zahirah Walton FT MISS","Zahirah Walton",2.0,"",""
+2025,18933,3,387,"George Mason","DEADB","REBOUND","George Mason REBOUND","","","",""
+2025,18933,3,387,"George Mason","FT","GOOD","02 Zahirah Walton FT GOOD (18 Pt)","Zahirah Walton",2.0,49.0,40.0
+2025,18933,3,373,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (4 Pt)","Addi Mack",3.0,51.0,40.0
+2025,18933,3,363,"George Mason","LAYUP","GOOD","02 Zahirah Walton LAYUP GOOD (20 Pt)","Zahirah Walton",2.0,51.0,42.0
+2025,18933,3,359,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (6 Pt)","Addi Mack",3.0,53.0,42.0
+2025,18933,3,346,"George Mason","JUMPER","GOOD","03 Kennedy Harris JUMPER GOOD (7 Pt)","Kennedy Harris",3.0,53.0,44.0
+2025,18933,3,333,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (21 Pt)","Oluchi Okananwa",7.0,55.0,44.0
+2025,18933,3,333,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025,18933,3,333,"George Mason","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025,18933,3,333,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 09 Isimenme Ozzy-Momodu IN","Kaylene Smikle",2.0,"",""
+2025,18933,3,308,"George Mason","JUMPER","MISS","14 Maliyah Johnson JUMPER MISS","Maliyah Johnson",14.0,"",""
+2025,18933,3,305,"George Mason","OFF","REBOUND","14 Maliyah Johnson OFF. REBOUND (5 Reb, 2 Off)","Maliyah Johnson",14.0,"",""
+2025,18933,3,304,"George Mason","3PTR","MISS","03 Kennedy Harris 3PTR MISS","Kennedy Harris",3.0,"",""
+2025,18933,3,301,"George Mason","OFF","REBOUND","11 Mary Amoateng OFF. REBOUND (2 Reb, 1 Off)","Mary Amoateng",11.0,"",""
+2025,18933,3,299,"George Mason","LAYUP","MISS","02 Zahirah Walton LAYUP MISS; 06 Saylor Poffenbarger BLOCK (2 Blk)","Zahirah Walton",2.0,"",""
+2025,18933,3,296,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025,18933,3,289,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (2 PF)","Saylor Poffenbarger",6.0,"",""
+2025,18933,3,289,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (4 TO)","Saylor Poffenbarger",6.0,"",""
+2025,18933,3,276,"George Mason","LAYUP","GOOD","02 Zahirah Walton LAYUP GOOD (22 Pt)","Zahirah Walton",2.0,55.0,46.0
+2025,18933,3,253,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,3,251,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (4 Reb, 3 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,3,250,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS; 14 Maliyah Johnson BLOCK (1 Blk)","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,3,244,"George Mason","DEF","REBOUND","15 Louis Volker DEF. REBOUND (2 Reb, 2 Def)","Louis Volker",15.0,"",""
+2025,18933,3,236,"George Mason","LAYUP","MISS","02 Zahirah Walton LAYUP MISS; 09 Isimenme Ozzy-Momodu BLOCK (2 Blk)","Zahirah Walton",2.0,"",""
+2025,18933,3,233,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025,18933,3,217,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (8 Pt); 07 Oluchi Okananwa Assist (4 Asst)","Yarden Garzon",12.0,58.0,46.0
+2025,18933,3,204,"George Mason","FOUL","FOUL","14 Maliyah Johnson FOUL (3 PF)","Maliyah Johnson",14.0,"",""
+2025,18933,3,204,"George Mason","TURNOVER","TURNOVER","14 Maliyah Johnson TURNOVER (3 TO)","Maliyah Johnson",14.0,"",""
+2025,18933,3,191,"George Mason","FOUL","FOUL","02 Zahirah Walton FOUL (2 PF)","Zahirah Walton",2.0,"",""
+2025,18933,3,191,"George Mason","SUBS","SUBS","03 Kennedy Harris OUT; 32 Page Greenburg IN; 15 Louis Volker OUT; 05 Makayla Johnson IN","Kennedy Harris",3.0,"",""
+2025,18933,3,191,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (7 Pt)","Addi Mack",3.0,59.0,46.0
+2025,18933,3,191,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (8 Pt)","Addi Mack",3.0,60.0,46.0
+2025,18933,3,180,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack",3.0,"",""
+2025,18933,3,173,"George Mason","TURNOVER","TURNOVER","14 Maliyah Johnson TURNOVER (4 TO)","Maliyah Johnson",14.0,"",""
+2025,18933,3,160,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,3,158,"George Mason","DEF","REBOUND","32 Page Greenburg DEF. REBOUND (2 Reb, 2 Def)","Page Greenburg",32.0,"",""
+2025,18933,3,149,"George Mason","JUMPER","GOOD","11 Mary Amoateng JUMPER GOOD (7 Pt)","Mary Amoateng",11.0,60.0,48.0
+2025,18933,3,135,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,3,133,"George Mason","DEF","REBOUND","11 Mary Amoateng DEF. REBOUND (3 Reb, 2 Def)","Mary Amoateng",11.0,"",""
+2025,18933,3,128,"George Mason","JUMPER","GOOD","11 Mary Amoateng JUMPER GOOD (9 Pt)","Mary Amoateng",11.0,60.0,50.0
+2025,18933,3,104,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025,18933,3,99,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (5 Reb, 1 Off)","Yarden Garzon",12.0,"",""
+2025,18933,3,99,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (10 Pt)","Yarden Garzon",12.0,62.0,50.0
+2025,18933,3,90,"George Mason","3PTR","GOOD","02 Zahirah Walton 3PTR GOOD (25 Pt); 14 Maliyah Johnson Assist (1 Asst)","Zahirah Walton",2.0,62.0,53.0
+2025,18933,3,79,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (10 Pt)","Addi Mack",3.0,64.0,53.0
+2025,18933,3,62,"George Mason","JUMPER","MISS","05 Makayla Johnson JUMPER MISS","Makayla Johnson",5.0,"",""
+2025,18933,3,59,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (5 Reb, 2 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,3,59,"George Mason","FOUL","FOUL","14 Maliyah Johnson FOUL (4 PF)","Maliyah Johnson",14.0,"",""
+2025,18933,3,59,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 07 Oluchi Okananwa OUT; 00 Rainey Welson IN; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025,18933,3,59,"George Mason","SUBS","SUBS","11 Mary Amoateng OUT; 14 Maliyah Johnson OUT; 03 Kennedy Harris IN; 12 Matilde Motta IN; 12 Matilde Motta OUT; 32 Page Greenburg OUT; 11 Mary Amoateng IN; 15 Louis Volker IN","Mary Amoateng",11.0,"",""
+2025,18933,3,59,"Maryland","FT","MISS","09 Isimenme Ozzy-Momodu FT MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,3,59,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025,18933,3,59,"George Mason","DEF","REBOUND","05 Makayla Johnson DEF. REBOUND (1 Reb, 1 Def)","Makayla Johnson",5.0,"",""
+2025,18933,3,57,"George Mason","TURNOVER","TURNOVER","05 Makayla Johnson TURNOVER (1 TO)","Makayla Johnson",5.0,"",""
+2025,18933,3,57,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (3 Stl)","Saylor Poffenbarger",6.0,"",""
+2025,18933,3,54,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (12 Pt); 06 Saylor Poffenbarger Assist (4 Asst)","Yarden Garzon",12.0,66.0,53.0
+2025,18933,3,43,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (2 PF)","Kyndal Walker",8.0,"",""
+2025,18933,3,43,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 10 Mir McLean IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025,18933,3,42,"George Mason","TURNOVER","TURNOVER","03 Kennedy Harris TURNOVER (3 TO)","Kennedy Harris",3.0,"",""
+2025,18933,3,42,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (4 Stl)","Saylor Poffenbarger",6.0,"",""
+2025,18933,3,39,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (6 Pt)","Saylor Poffenbarger",6.0,68.0,53.0
+2025,18933,3,35,"George Mason","FOUL","FOUL","03 Kennedy Harris FOUL (3 PF)","Kennedy Harris",3.0,"",""
+2025,18933,3,35,"George Mason","TURNOVER","TURNOVER","03 Kennedy Harris TURNOVER (4 TO)","Kennedy Harris",3.0,"",""
+2025,18933,3,24,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025,18933,3,21,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (6 Reb, 3 Off)","Saylor Poffenbarger",6.0,"",""
+2025,18933,3,19,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025,18933,3,15,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (1 Reb, 1 Off)","Kyndal Walker",8.0,"",""
+2025,18933,3,14,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (4 TO)","Kyndal Walker",8.0,"",""
+2025,18933,3,14,"George Mason","STEAL","STEAL","05 Makayla Johnson STEAL (1 Stl)","Makayla Johnson",5.0,"",""
+2025,18933,3,10,"George Mason","TURNOVER","TURNOVER","11 Mary Amoateng TURNOVER (3 TO)","Mary Amoateng",11.0,"",""
+2025,18933,3,1,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (4 TO)","Yarden Garzon",12.0,"",""
+2025,18933,4,600,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 12 Yarden Garzon OUT; 03 Addi Mack IN; 07 Oluchi Okananwa IN","Kyndal Walker",8.0,"",""
+2025,18933,4,600,"George Mason","SUBS","SUBS","05 Makayla Johnson OUT; 32 Page Greenburg IN","Makayla Johnson",5.0,"",""
+2025,18933,4,582,"Maryland","TURNOVER","TURNOVER","00 Rainey Welson TURNOVER (1 TO)","Rainey Welson",0.0,"",""
+2025,18933,4,582,"George Mason","STEAL","STEAL","11 Mary Amoateng STEAL (2 Stl)","Mary Amoateng",11.0,"",""
+2025,18933,4,579,"George Mason","JUMPER","GOOD","32 Page Greenburg JUMPER GOOD (2 Pt); 11 Mary Amoateng Assist (5 Asst)","Page Greenburg",32.0,68.0,55.0
+2025,18933,4,549,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025,18933,4,548,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (4 Reb, 2 Off)","Oluchi Okananwa",7.0,"",""
+2025,18933,4,548,"George Mason","FOUL","FOUL","11 Mary Amoateng FOUL (2 PF)","Mary Amoateng",11.0,"",""
+2025,18933,4,548,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 12 Yarden Garzon IN","Rainey Welson",0.0,"",""
+2025,18933,4,543,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025,18933,4,537,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (6 Reb, 2 Off)","Yarden Garzon",12.0,"",""
+2025,18933,4,523,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025,18933,4,522,"George Mason","DEF","REBOUND","George Mason REBOUND","","","",""
+2025,18933,4,499,"George Mason","JUMPER","GOOD","03 Kennedy Harris JUMPER GOOD (9 Pt)","Kennedy Harris",3.0,68.0,57.0
+2025,18933,4,480,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025,18933,4,477,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (3 Reb, 2 Off)","Mir McLean",10.0,"",""
+2025,18933,4,477,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (2 Pt)","Mir McLean",10.0,70.0,57.0
+2025,18933,4,477,"George Mason","FOUL","FOUL","03 Kennedy Harris FOUL (4 PF)","Kennedy Harris",3.0,"",""
+2025,18933,4,477,"Maryland","FT","MISS","10 Mir McLean FT MISS","Mir McLean",10.0,"",""
+2025,18933,4,474,"George Mason","DEF","REBOUND","02 Zahirah Walton DEF. REBOUND (2 Reb, 2 Def)","Zahirah Walton",2.0,"",""
+2025,18933,4,469,"George Mason","3PTR","MISS","32 Page Greenburg 3PTR MISS","Page Greenburg",32.0,"",""
+2025,18933,4,468,"George Mason","FOUL","FOUL","11 Mary Amoateng FOUL (3 PF)","Mary Amoateng",11.0,"",""
+2025,18933,4,466,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025,18933,4,447,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (3 TO)","Oluchi Okananwa",7.0,"",""
+2025,18933,4,435,"George Mason","3PTR","MISS","02 Zahirah Walton 3PTR MISS","Zahirah Walton",2.0,"",""
+2025,18933,4,432,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (4 Reb, 2 Def)","Mir McLean",10.0,"",""
+2025,18933,4,417,"George Mason","FOUL","FOUL","32 Page Greenburg FOUL (1 PF)","Page Greenburg",32.0,"",""
+2025,18933,4,417,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (3 Pt)","Mir McLean",10.0,71.0,57.0
+2025,18933,4,417,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (4 Pt)","Mir McLean",10.0,72.0,57.0
+2025,18933,4,406,"George Mason","LAYUP","GOOD","03 Kennedy Harris LAYUP GOOD (11 Pt); 02 Zahirah Walton Assist (1 Asst)","Kennedy Harris",3.0,72.0,59.0
+2025,18933,4,386,"Maryland","LAYUP","MISS","12 Yarden Garzon LAYUP MISS; 02 Zahirah Walton BLOCK (1 Blk)","Yarden Garzon",12.0,"",""
+2025,18933,4,386,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025,18933,4,379,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (5 TO)","Yarden Garzon",12.0,"",""
+2025,18933,4,379,"George Mason","STEAL","STEAL","32 Page Greenburg STEAL (1 Stl)","Page Greenburg",32.0,"",""
+2025,18933,4,359,"George Mason","JUMPER","MISS","11 Mary Amoateng JUMPER MISS","Mary Amoateng",11.0,"",""
+2025,18933,4,356,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (7 Reb, 5 Def)","Yarden Garzon",12.0,"",""
+2025,18933,4,356,"George Mason","FOUL","FOUL","15 Louis Volker FOUL (3 PF)","Louis Volker",15.0,"",""
+2025,18933,4,356,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (13 Pt)","Yarden Garzon",12.0,73.0,59.0
+2025,18933,4,356,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (14 Pt)","Yarden Garzon",12.0,74.0,59.0
+2025,18933,4,346,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (3 PF)","Saylor Poffenbarger",6.0,"",""
+2025,18933,4,346,"George Mason","FT","GOOD","02 Zahirah Walton FT GOOD (26 Pt)","Zahirah Walton",2.0,74.0,60.0
+2025,18933,4,346,"George Mason","FT","GOOD","02 Zahirah Walton FT GOOD (27 Pt)","Zahirah Walton",2.0,74.0,61.0
+2025,18933,4,346,"George Mason","SUBS","SUBS","32 Page Greenburg OUT; 01 Sanyiah Littlejohn-Short IN","Page Greenburg",32.0,"",""
+2025,18933,4,340,"Maryland","LAYUP","MISS","10 Mir McLean LAYUP MISS","Mir McLean",10.0,"",""
+2025,18933,4,338,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (5 Reb, 3 Off)","Mir McLean",10.0,"",""
+2025,18933,4,322,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (6 Pt)","Mir McLean",10.0,76.0,61.0
+2025,18933,4,303,"George Mason","TURNOVER","TURNOVER","03 Kennedy Harris TURNOVER (5 TO)","Kennedy Harris",3.0,"",""
+2025,18933,4,303,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (5 Stl)","Saylor Poffenbarger",6.0,"",""
+2025,18933,4,299,"George Mason","FOUL","FOUL","11 Mary Amoateng FOUL (4 PF)","Mary Amoateng",11.0,"",""
+2025,18933,4,299,"George Mason","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025,18933,4,299,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (11 Pt)","Addi Mack",3.0,77.0,61.0
+2025,18933,4,299,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (12 Pt)","Addi Mack",3.0,78.0,61.0
+2025,18933,4,285,"George Mason","3PTR","MISS","03 Kennedy Harris 3PTR MISS","Kennedy Harris",3.0,"",""
+2025,18933,4,282,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (6 Reb, 3 Def)","Mir McLean",10.0,"",""
+2025,18933,4,261,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (8 Pt); 07 Oluchi Okananwa Assist (5 Asst)","Mir McLean",10.0,80.0,61.0
+2025,18933,4,243,"George Mason","JUMPER","MISS","02 Zahirah Walton JUMPER MISS; 07 Oluchi Okananwa BLOCK (1 Blk)","Zahirah Walton",2.0,"",""
+2025,18933,4,241,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025,18933,4,241,"George Mason","SUBS","SUBS","02 Zahirah Walton OUT; 14 Maliyah Johnson IN","Zahirah Walton",2.0,"",""
+2025,18933,4,220,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (16 Pt)","Yarden Garzon",12.0,82.0,61.0
+2025,18933,4,199,"George Mason","3PTR","MISS","15 Louis Volker 3PTR MISS","Louis Volker",15.0,"",""
+2025,18933,4,198,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025,18933,4,198,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025,18933,4,173,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025,18933,4,170,"George Mason","DEF","REBOUND","14 Maliyah Johnson DEF. REBOUND (6 Reb, 4 Def)","Maliyah Johnson",14.0,"",""
+2025,18933,4,167,"George Mason","JUMPER","MISS","11 Mary Amoateng JUMPER MISS","Mary Amoateng",11.0,"",""
+2025,18933,4,164,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (8 Reb, 6 Def)","Yarden Garzon",12.0,"",""
+2025,18933,4,158,"George Mason","FOUL","FOUL","01 Sanyiah Littlejohn-Short FOUL (1 PF)","Sanyiah Littlejohn-Short",1.0,"",""
+2025,18933,4,157,"George Mason","SUBS","SUBS","03 Kennedy Harris OUT; 05 Makayla Johnson IN","Kennedy Harris",3.0,"",""
+2025,18933,4,157,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (22 Pt)","Oluchi Okananwa",7.0,83.0,61.0
+2025,18933,4,157,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (23 Pt)","Oluchi Okananwa",7.0,84.0,61.0
+2025,18933,4,147,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025,18933,4,147,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 07 Oluchi Okananwa OUT; 05 Ava McKennie IN; 11 Marya Boiko IN","Saylor Poffenbarger",6.0,"",""
+2025,18933,4,144,"George Mason","SUBS","SUBS","14 Maliyah Johnson OUT; 30 Sara Blair IN","Maliyah Johnson",14.0,"",""
+2025,18933,4,135,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (2 PF)","Mir McLean",10.0,"",""
+2025,18933,4,125,"George Mason","LAYUP","MISS","01 Sanyiah Littlejohn-Short LAYUP MISS","Sanyiah Littlejohn-Short",1.0,"",""
+2025,18933,4,123,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (1 Reb, 1 Def)","Marya Boiko",11.0,"",""
+2025,18933,4,106,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (3 PF)","Kyndal Walker",8.0,"",""
+2025,18933,4,106,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (5 TO)","Kyndal Walker",8.0,"",""
+2025,18933,4,106,"George Mason","SUBS","SUBS","11 Mary Amoateng OUT; 15 Louis Volker OUT; 12 Matilde Motta IN; 23 Leah Keyes IN","Mary Amoateng",11.0,"",""
+2025,18933,4,89,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (4 PF)","Kyndal Walker",8.0,"",""
+2025,18933,4,89,"George Mason","FT","GOOD","01 Sanyiah Littlejohn-Short FT GOOD (1 Pt)","Sanyiah Littlejohn-Short",1.0,84.0,62.0
+2025,18933,4,89,"George Mason","FT","MISS","01 Sanyiah Littlejohn-Short FT MISS","Sanyiah Littlejohn-Short",1.0,"",""
+2025,18933,4,88,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (2 Reb, 2 Def)","Marya Boiko",11.0,"",""
+2025,18933,4,73,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025,18933,4,70,"Maryland","OFF","REBOUND","11 Marya Boiko OFF. REBOUND (3 Reb, 1 Off)","Marya Boiko",11.0,"",""
+2025,18933,4,59,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025,18933,4,54,"George Mason","DEF","REBOUND","12 Matilde Motta DEF. REBOUND (1 Reb, 1 Def)","Matilde Motta",12.0,"",""
+2025,18933,4,48,"George Mason","LAYUP","MISS","05 Makayla Johnson LAYUP MISS","Makayla Johnson",5.0,"",""
+2025,18933,4,45,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (9 Reb, 7 Def)","Yarden Garzon",12.0,"",""
+2025,18933,4,23,"Maryland","3PTR","MISS","08 Kyndal Walker 3PTR MISS","Kyndal Walker",8.0,"",""
+2025,18933,4,20,"George Mason","DEF","REBOUND","George Mason REBOUND","","","",""
+2025,18933,4,1,"George Mason","TURNOVER","TURNOVER","01 Sanyiah Littlejohn-Short TURNOVER (1 TO)","Sanyiah Littlejohn-Short",1.0,"",""
+2025,18933,4,1,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (1 Stl)","Mir McLean",10.0,"",""
