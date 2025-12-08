@@ -1,81 +1,133 @@
 "source_id","file_id","team","period","score"
-2025,18931,"Maryland",1,23
-2025,18931,"Maryland",2,28
-2025,18931,"Maryland",3,17
-2025,18931,"Maryland",4,20
-2025,18931,"Towson",1,13
-2025,18931,"Towson",2,10
-2025,18931,"Towson",3,23
-2025,18931,"Towson",4,24
-2025,18930,"Maryland",1,16
-2025,18930,"Maryland",2,15
-2025,18930,"Maryland",3,20
-2025,18930,"Maryland",4,34
-2025,18930,"Georgetown",1,13
-2025,18930,"Georgetown",2,23
-2025,18930,"Georgetown",3,21
-2025,18930,"Georgetown",4,9
-2025,18929,"Maryland",1,21
-2025,18929,"Maryland",2,19
-2025,18929,"Maryland",3,27
-2025,18929,"Maryland",4,20
-2025,18929,"Umbc",1,14
-2025,18929,"Umbc",2,14
-2025,18929,"Umbc",3,10
-2025,18929,"Umbc",4,16
-2025,18928,"Maryland",1,18
-2025,18928,"Maryland",2,20
-2025,18928,"Maryland",3,30
-2025,18928,"Maryland",4,12
-2025,18928,"Loyola Maryland",1,11
-2025,18928,"Loyola Maryland",2,4
-2025,18928,"Loyola Maryland",3,6
-2025,18928,"Loyola Maryland",4,5
-2025,18932,"Maryland",1,26
-2025,18932,"Maryland",2,8
-2025,18932,"Maryland",3,27
-2025,18932,"Maryland",4,23
-2025,18932,"Princeton",1,10
-2025,18932,"Princeton",2,20
-2025,18932,"Princeton",3,18
-2025,18932,"Princeton",4,20
-2025,19716,"Maryland",1,24
-2025,19716,"Maryland",2,22
-2025,19716,"Maryland",3,29
-2025,19716,"Maryland",4,20
-2025,19716,"Bethune-Cookman",1,5
-2025,19716,"Bethune-Cookman",2,11
-2025,19716,"Bethune-Cookman",3,17
-2025,19716,"Bethune-Cookman",4,16
-2025,18933,"Maryland",1,23
-2025,18933,"Maryland",2,13
-2025,18933,"Maryland",3,32
-2025,18933,"Maryland",4,16
-2025,18933,"George Mason",1,24
-2025,18933,"George Mason",2,12
-2025,18933,"George Mason",3,17
-2025,18933,"George Mason",4,9
-2025,18869,"Maryland",1,21
-2025,18869,"Maryland",2,18
-2025,18869,"Maryland",3,21
-2025,18869,"Maryland",4,14
-2025,18869,"Kentucky",1,12
-2025,18869,"Kentucky",2,16
-2025,18869,"Kentucky",3,17
-2025,18869,"Kentucky",4,21
-2025,18870,"Hofstra",1,6
-2025,18870,"Hofstra",2,13
-2025,18870,"Hofstra",3,9
-2025,18870,"Hofstra",4,10
-2025,18870,"Maryland",1,29
-2025,18870,"Maryland",2,24
-2025,18870,"Maryland",3,23
-2025,18870,"Maryland",4,19
-2025,18934,"Maryland",1,23
-2025,18934,"Maryland",2,23
-2025,18934,"Maryland",3,22
-2025,18934,"Maryland",4,24
-2025,18934,"Mount St. Mary's",1,9
-2025,18934,"Mount St. Mary's",2,12
-2025,18934,"Mount St. Mary's",3,13
-2025,18934,"Mount St. Mary's",4,10
+2025.0,18931.0,"Maryland",1,23
+2025.0,18931.0,"Maryland",2,28
+2025.0,18931.0,"Maryland",3,17
+2025.0,18931.0,"Maryland",4,20
+2025.0,18931.0,"Towson",1,13
+2025.0,18931.0,"Towson",2,10
+2025.0,18931.0,"Towson",3,23
+2025.0,18931.0,"Towson",4,24
+2025.0,18930.0,"Maryland",1,16
+2025.0,18930.0,"Maryland",2,15
+2025.0,18930.0,"Maryland",3,20
+2025.0,18930.0,"Maryland",4,34
+2025.0,18930.0,"Georgetown",1,13
+2025.0,18930.0,"Georgetown",2,23
+2025.0,18930.0,"Georgetown",3,21
+2025.0,18930.0,"Georgetown",4,9
+2025.0,18929.0,"Maryland",1,21
+2025.0,18929.0,"Maryland",2,19
+2025.0,18929.0,"Maryland",3,27
+2025.0,18929.0,"Maryland",4,20
+2025.0,18929.0,"Umbc",1,14
+2025.0,18929.0,"Umbc",2,14
+2025.0,18929.0,"Umbc",3,10
+2025.0,18929.0,"Umbc",4,16
+2025.0,18928.0,"Maryland",1,18
+2025.0,18928.0,"Maryland",2,20
+2025.0,18928.0,"Maryland",3,30
+2025.0,18928.0,"Maryland",4,12
+2025.0,18928.0,"Loyola Maryland",1,11
+2025.0,18928.0,"Loyola Maryland",2,4
+2025.0,18928.0,"Loyola Maryland",3,6
+2025.0,18928.0,"Loyola Maryland",4,5
+2025.0,18932.0,"Maryland",1,26
+2025.0,18932.0,"Maryland",2,8
+2025.0,18932.0,"Maryland",3,27
+2025.0,18932.0,"Maryland",4,23
+2025.0,18932.0,"Princeton",1,10
+2025.0,18932.0,"Princeton",2,20
+2025.0,18932.0,"Princeton",3,18
+2025.0,18932.0,"Princeton",4,20
+2025.0,19716.0,"Maryland",1,24
+2025.0,19716.0,"Maryland",2,22
+2025.0,19716.0,"Maryland",3,29
+2025.0,19716.0,"Maryland",4,20
+2025.0,19716.0,"Bethune-Cookman",1,5
+2025.0,19716.0,"Bethune-Cookman",2,11
+2025.0,19716.0,"Bethune-Cookman",3,17
+2025.0,19716.0,"Bethune-Cookman",4,16
+2025.0,18933.0,"Maryland",1,23
+2025.0,18933.0,"Maryland",2,13
+2025.0,18933.0,"Maryland",3,32
+2025.0,18933.0,"Maryland",4,16
+2025.0,18933.0,"George Mason",1,24
+2025.0,18933.0,"George Mason",2,12
+2025.0,18933.0,"George Mason",3,17
+2025.0,18933.0,"George Mason",4,9
+2025.0,18869.0,"Maryland",1,21
+2025.0,18869.0,"Maryland",2,18
+2025.0,18869.0,"Maryland",3,21
+2025.0,18869.0,"Maryland",4,14
+2025.0,18869.0,"Kentucky",1,12
+2025.0,18869.0,"Kentucky",2,16
+2025.0,18869.0,"Kentucky",3,17
+2025.0,18869.0,"Kentucky",4,21
+2025.0,18870.0,"Hofstra",1,6
+2025.0,18870.0,"Hofstra",2,13
+2025.0,18870.0,"Hofstra",3,9
+2025.0,18870.0,"Hofstra",4,10
+2025.0,18870.0,"Maryland",1,29
+2025.0,18870.0,"Maryland",2,24
+2025.0,18870.0,"Maryland",3,23
+2025.0,18870.0,"Maryland",4,19
+2025.0,18934.0,"Maryland",1,23
+2025.0,18934.0,"Maryland",2,23
+2025.0,18934.0,"Maryland",3,22
+2025.0,18934.0,"Maryland",4,24
+2025.0,18934.0,"Mount St. Mary's",1,9
+2025.0,18934.0,"Mount St. Mary's",2,12
+2025.0,18934.0,"Mount St. Mary's",3,13
+2025.0,18934.0,"Mount St. Mary's",4,10
+"","","Maryland",1,23
+"","","Maryland",2,28
+"","","Maryland",3,17
+"","","Maryland",4,20
+"","","Towson",1,13
+"","","Towson",2,10
+"","","Towson",3,23
+"","","Towson",4,24
+"","","Loyola Maryland",1,11
+"","","Loyola Maryland",2,4
+"","","Loyola Maryland",3,6
+"","","Loyola Maryland",4,5
+"","","Georgetown",1,13
+"","","Georgetown",2,23
+"","","Georgetown",3,21
+"","","Georgetown",4,9
+"","","Hofstra",1,6
+"","","Hofstra",2,13
+"","","Hofstra",3,9
+"","","Hofstra",4,10
+"","","Umbc",1,14
+"","","Umbc",2,14
+"","","Umbc",3,10
+"","","Umbc",4,16
+"","","Bethune-Cookman",1,5
+"","","Bethune-Cookman",2,11
+"","","Bethune-Cookman",3,17
+"","","Bethune-Cookman",4,16
+"","","Princeton",1,10
+"","","Princeton",2,20
+"","","Princeton",3,18
+"","","Princeton",4,20
+"","","Mount St. Mary's",1,9
+"","","Mount St. Mary's",2,12
+"","","Mount St. Mary's",3,13
+"","","Mount St. Mary's",4,10
+"","","Minnesota",1,14
+"","","Minnesota",2,24
+"","","Minnesota",3,10
+"","","Minnesota",4,22
+"","","Minnesota",5,14
+"","","Minnesota",6,15
+"","","Maryland",5,14
+"","","Maryland",6,16
+"","","George Mason",1,24
+"","","George Mason",2,12
+"","","George Mason",3,17
+"","","George Mason",4,9
+"","","Kentucky",1,12
+"","","Kentucky",2,16
+"","","Kentucky",3,17
+"","","Kentucky",4,21
