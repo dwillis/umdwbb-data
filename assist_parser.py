@@ -74,7 +74,8 @@ class AssistParser:
         scorer_number = match.group(1)
         scorer_name = match.group(2).strip()
         shot_type = match.group(3)
-        points = match.group(4)
+        # Points from shot type, not cumulative points from narrative
+        points = '3' if shot_type == '3PTR' else '2'
         assister_number = match.group(5)
         assister_name = match.group(6).strip()
         assist_count = match.group(7)
