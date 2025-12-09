@@ -11,6 +11,9 @@ let filteredStats = [];
 let seasonPlayerStats = [];
 let filteredSeasonStats = [];
 let seasonTeamTotals = [];
+let assistNetwork = [];
+let assistLeaders = [];
+let assistReceivers = [];
 
 // Available seasons (most recent first)
 const seasons = [
@@ -105,11 +108,14 @@ async function selectSeason(season) {
     document.getElementById('selected-season').textContent = season;
     document.getElementById('season-stats-season').textContent = season;
 
-    // Load games, player stats, and team season totals for this season
-    [allGames, allStats, seasonTeamTotals] = await Promise.all([
+    // Load games, player stats, team season totals, and assist data for this season
+    [allGames, allStats, seasonTeamTotals, assistNetwork, assistLeaders, assistReceivers] = await Promise.all([
         loadCSV(season, 'game_info.csv'),
         loadCSV(season, 'player_stats.csv'),
-        loadCSV(season, 'team_season_totals.csv')
+        loadCSV(season, 'team_season_totals.csv'),
+        loadCSV(season, 'assist_network.csv'),
+        loadCSV(season, 'assist_leaders.csv'),
+        loadCSV(season, 'assist_receivers.csv')
     ]);
 
     // Aggregate player stats for the season
@@ -1041,6 +1047,7 @@ function showSeasonStatsTab(tabName) {
     document.getElementById('season-stats-team').classList.remove('active');
     document.getElementById('season-stats-basic').classList.remove('active');
     document.getElementById('season-stats-advanced').classList.remove('active');
+    document.getElementById('season-stats-assists').classList.remove('active');
 
     // Remove active class from all buttons
     document.querySelectorAll('#season-stats-section .tab-btn').forEach(btn => {
@@ -1057,7 +1064,148 @@ function showSeasonStatsTab(tabName) {
     } else if (tabName === 'advanced') {
         document.getElementById('season-stats-advanced').classList.add('active');
         event.target.classList.add('active');
+    } else if (tabName === 'assists') {
+        document.getElementById('season-stats-assists').classList.add('active');
+        event.target.classList.add('active');
+        renderAssistNetwork();
     }
+}
+
+// Assist Network Functions
+function showAssistSubTab(tabName) {
+    // Hide all subtabs
+    document.getElementById('assist-combinations').classList.remove('active');
+    document.getElementById('assist-leaders').classList.remove('active');
+    document.getElementById('assist-receivers').classList.remove('active');
+
+    // Remove active class from all subtab buttons
+    document.querySelectorAll('.subtab-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
+
+    // Show selected subtab
+    if (tabName === 'combinations') {
+        document.getElementById('assist-combinations').classList.add('active');
+        event.target.classList.add('active');
+        renderAssistNetwork();
+    } else if (tabName === 'leaders') {
+        document.getElementById('assist-leaders').classList.add('active');
+        event.target.classList.add('active');
+        renderAssistLeaders();
+    } else if (tabName === 'receivers') {
+        document.getElementById('assist-receivers').classList.add('active');
+        event.target.classList.add('active');
+        renderAssistReceivers();
+    }
+}
+
+function renderAssistNetwork() {
+    const container = document.getElementById('assist-network-list');
+
+    if (!assistNetwork || assistNetwork.length === 0) {
+        container.innerHTML = '<p>No assist network data available for this season.</p>';
+        return;
+    }
+
+    // Render top assist combinations
+    const html = assistNetwork.map((combo, index) => `
+        <div class="assist-combo">
+            <div class="assist-combo-header">
+                <span class="assist-combo-players">
+                    ${index + 1}. ${combo.assister} → ${combo.scorer}
+                </span>
+                <span class="assist-combo-count">${combo.assists}</span>
+            </div>
+            <div class="assist-combo-details">
+                <div class="assist-combo-detail">
+                    <strong>${combo.total_points}</strong> points
+                </div>
+                <div class="assist-combo-detail">
+                    <strong>${combo.avg_points_per_assist}</strong> pts/assist
+                </div>
+                <div class="assist-combo-detail">
+                    ${combo.threes} threes, ${combo.twos} twos
+                </div>
+                <div class="assist-combo-detail">
+                    ${combo.layups} layups, ${combo.jumpers} jumpers
+                </div>
+            </div>
+        </div>
+    `).join('');
+
+    container.innerHTML = html;
+}
+
+function renderAssistLeaders() {
+    const container = document.getElementById('assist-leaders-list');
+
+    if (!assistLeaders || assistLeaders.length === 0) {
+        container.innerHTML = '<p>No assist leaders data available for this season.</p>';
+        return;
+    }
+
+    const html = assistLeaders.map((player, index) => `
+        <div class="assist-combo">
+            <div class="assist-combo-header">
+                <span class="assist-combo-players">
+                    ${index + 1}. ${player.assister}
+                </span>
+                <span class="assist-combo-count">${player.total_assists}</span>
+            </div>
+            <div class="assist-combo-details">
+                <div class="assist-combo-detail">
+                    <strong>${player.points_created}</strong> points created
+                </div>
+                <div class="assist-combo-detail">
+                    <strong>${player.avg_points_per_assist}</strong> pts/assist
+                </div>
+                <div class="assist-combo-detail">
+                    ${player.threes_assisted} threes, ${player.twos_assisted} twos
+                </div>
+                <div class="assist-combo-detail">
+                    ${player.unique_teammates} unique teammates
+                </div>
+            </div>
+        </div>
+    `).join('');
+
+    container.innerHTML = html;
+}
+
+function renderAssistReceivers() {
+    const container = document.getElementById('assist-receivers-list');
+
+    if (!assistReceivers || assistReceivers.length === 0) {
+        container.innerHTML = '<p>No assist receivers data available for this season.</p>';
+        return;
+    }
+
+    const html = assistReceivers.map((player, index) => `
+        <div class="assist-combo">
+            <div class="assist-combo-header">
+                <span class="assist-combo-players">
+                    ${index + 1}. ${player.scorer}
+                </span>
+                <span class="assist-combo-count">${player.assists_received}</span>
+            </div>
+            <div class="assist-combo-details">
+                <div class="assist-combo-detail">
+                    <strong>${player.points_from_assists}</strong> points from assists
+                </div>
+                <div class="assist-combo-detail">
+                    <strong>${player.avg_points_per_assist}</strong> pts/assist
+                </div>
+                <div class="assist-combo-detail">
+                    ${player.threes_assisted} threes, ${player.twos_assisted} twos
+                </div>
+                <div class="assist-combo-detail">
+                    ${player.unique_assisters} unique assisters
+                </div>
+            </div>
+        </div>
+    `).join('');
+
+    container.innerHTML = html;
 }
 
 // Initialize on page load

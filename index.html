@@ -58,6 +58,7 @@
                 <button class="tab-btn active" onclick="showSeasonStatsTab('team')">Team Totals</button>
                 <button class="tab-btn" onclick="showSeasonStatsTab('basic')">Player Stats</button>
                 <button class="tab-btn" onclick="showSeasonStatsTab('advanced')">Advanced Stats</button>
+                <button class="tab-btn" onclick="showSeasonStatsTab('assists')">Assist Network</button>
             </div>
 
             <div id="season-stats-team" class="tab-content active">
@@ -70,6 +71,31 @@
 
             <div id="season-stats-advanced" class="tab-content">
                 <div id="season-stats-advanced-list"></div>
+            </div>
+
+            <div id="season-stats-assists" class="tab-content">
+                <div class="assist-network-header">
+                    <h3>Assist Network Analysis</h3>
+                    <p>Top assist combinations and playmaking connections</p>
+                </div>
+
+                <div class="assist-subtabs">
+                    <button class="subtab-btn active" onclick="showAssistSubTab('combinations')">Top Combinations</button>
+                    <button class="subtab-btn" onclick="showAssistSubTab('leaders')">Assist Leaders</button>
+                    <button class="subtab-btn" onclick="showAssistSubTab('receivers')">Top Scorers (Assisted)</button>
+                </div>
+
+                <div id="assist-combinations" class="assist-subtab-content active">
+                    <div id="assist-network-list"></div>
+                </div>
+
+                <div id="assist-leaders" class="assist-subtab-content">
+                    <div id="assist-leaders-list"></div>
+                </div>
+
+                <div id="assist-receivers" class="assist-subtab-content">
+                    <div id="assist-receivers-list"></div>
+                </div>
             </div>
         </div>
 

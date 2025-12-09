@@ -692,3 +692,116 @@ footer {
         width: 100%;
     }
 }
+
+/* Assist Network Styles */
+.assist-network-header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--maryland-gold);
+}
+
+.assist-network-header h3 {
+    color: var(--maryland-red);
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.assist-network-header p {
+    color: #666;
+    font-size: 1rem;
+}
+
+.assist-subtabs {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.subtab-btn {
+    padding: 0.75rem 1.5rem;
+    background: var(--maryland-white);
+    border: 2px solid var(--maryland-red);
+    color: var(--maryland-red);
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    flex: 1;
+    min-width: 150px;
+}
+
+.subtab-btn:hover {
+    background: var(--maryland-light-gold);
+    transform: translateY(-2px);
+}
+
+.subtab-btn.active {
+    background: var(--maryland-red);
+    color: var(--maryland-white);
+    box-shadow: var(--shadow);
+}
+
+.assist-subtab-content {
+    display: none;
+}
+
+.assist-subtab-content.active {
+    display: block;
+}
+
+.assist-combo {
+    background: var(--maryland-white);
+    padding: 1rem;
+    margin-bottom: 0.75rem;
+    border-radius: 5px;
+    border-left: 4px solid var(--maryland-red);
+    box-shadow: var(--shadow);
+    transition: all 0.3s ease;
+}
+
+.assist-combo:hover {
+    box-shadow: var(--shadow-hover);
+    transform: translateX(5px);
+}
+
+.assist-combo-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.assist-combo-players {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--maryland-red);
+}
+
+.assist-combo-count {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--maryland-red);
+    background: var(--maryland-light-gold);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+}
+
+.assist-combo-details {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 0.9rem;
+    color: #666;
+    flex-wrap: wrap;
+}
+
+.assist-combo-detail {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.assist-combo-detail strong {
+    color: var(--maryland-black);
+}
