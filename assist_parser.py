@@ -37,6 +37,10 @@ class AssistParser:
             reader = csv.DictReader(f)
 
             for row in reader:
+                # Skip rows with empty file_id (duplicates)
+                if not row.get('file_id') or row['file_id'].strip() == '':
+                    continue
+
                 # Only process Maryland plays
                 if row['team'] != 'Maryland':
                     continue
