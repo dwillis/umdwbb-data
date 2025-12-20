@@ -31,10 +31,10 @@ jobs:
       run: python game_parser.py
 
     - name: Run game parser
-      run: python assist_parser.py
+      run: python assist_parser.py 2025-26
 
     - name: Run game parser
-      run: python analyze_assists.py
+      run: python analyze_assists.py 2025-26
 
     - name: Generate team season totals
       run: python generate_team_season_totals.py 2025-26 --output 2025-26/team_season_totals.csv --no-display
