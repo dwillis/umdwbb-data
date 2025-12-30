@@ -4988,3 +4988,440 @@
 2025.0,18936.0,4,15,"Central Conn. St.","FT","MISS","03 Christa Ramos FT MISS","Christa Ramos",3.0,"",""
 2025.0,18936.0,4,15,"Central Conn. St.","DEADB","REBOUND","Central Conn. St. REBOUND","","","",""
 2025.0,18936.0,4,15,"Central Conn. St.","FT","GOOD","03 Christa Ramos FT GOOD (4 Pt)","Christa Ramos",3.0,98.0,30.0
+2025.0,19741.0,1,597,"Wisconsin","JUMPER","MISS","15 Gift Uchenna JUMPER MISS","Gift Uchenna",15.0,"",""
+2025.0,19741.0,1,597,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,1,597,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (2 Pt)","Oluchi Okananwa",7.0,2.0,0.0
+2025.0,19741.0,1,559,"Wisconsin","3PTR","MISS","01 Destiny Howell 3PTR MISS","Destiny Howell",1.0,"",""
+2025.0,19741.0,1,557,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (1 Reb, 1 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,1,556,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,554,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,552,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (3 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Saylor Poffenbarger",6.0,5.0,0.0
+2025.0,19741.0,1,528,"Wisconsin","TURNOVER","TURNOVER","Wisconsin TURNOVER (1 TO)","","","",""
+2025.0,19741.0,1,513,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (5 Pt); 03 Addi Mack Assist (1 Asst)","Oluchi Okananwa",7.0,8.0,0.0
+2025.0,19741.0,1,495,"Wisconsin","LAYUP","MISS","15 Gift Uchenna LAYUP MISS","Gift Uchenna",15.0,"",""
+2025.0,19741.0,1,493,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (2 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,489,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (7 Pt)","Oluchi Okananwa",7.0,10.0,0.0
+2025.0,19741.0,1,488,"Wisconsin","30SEC","TIMEOUT","Wisconsin TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19741.0,1,488,"Wisconsin","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19741.0,1,480,"Wisconsin","TURNOVER","TURNOVER","01 Destiny Howell TURNOVER (1 TO)","Destiny Howell",1.0,"",""
+2025.0,19741.0,1,480,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,1,464,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19741.0,1,461,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (3 Reb, 2 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,461,"Wisconsin","FOUL","FOUL","13 Ronnie Porter FOUL (1 PF)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,1,451,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+2025.0,19741.0,1,439,"Wisconsin","TURNOVER","TURNOVER","03 Breauna Ware TURNOVER (1 TO)","Breauna Ware",3.0,"",""
+2025.0,19741.0,1,416,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,412,"Wisconsin","DEF","REBOUND","15 Gift Uchenna DEF. REBOUND (1 Reb, 1 Def)","Gift Uchenna",15.0,"",""
+2025.0,19741.0,1,405,"Wisconsin","3PTR","MISS","01 Destiny Howell 3PTR MISS","Destiny Howell",1.0,"",""
+2025.0,19741.0,1,402,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025.0,19741.0,1,401,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (2 TO)","Addi Mack",3.0,"",""
+2025.0,19741.0,1,401,"Wisconsin","STEAL","STEAL","20 Kyrah Daniels STEAL (1 Stl)","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,1,399,"Wisconsin","SUBS","SUBS","03 Breauna Ware OUT; 24 Laci Steele IN","Breauna Ware",3.0,"",""
+2025.0,19741.0,1,385,"Wisconsin","TURNOVER","TURNOVER","15 Gift Uchenna TURNOVER (1 TO)","Gift Uchenna",15.0,"",""
+2025.0,19741.0,1,361,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (2 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Addi Mack",3.0,12.0,0.0
+2025.0,19741.0,1,344,"Wisconsin","TURNOVER","TURNOVER","01 Destiny Howell TURNOVER (2 TO)","Destiny Howell",1.0,"",""
+2025.0,19741.0,1,344,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (1 Stl)","Addi Mack",3.0,"",""
+2025.0,19741.0,1,341,"Wisconsin","FOUL","FOUL","01 Destiny Howell FOUL (1 PF)","Destiny Howell",1.0,"",""
+2025.0,19741.0,1,340,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 08 Kyndal Walker IN; 06 Saylor Poffenbarger OUT; 10 Mir McLean IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,1,340,"Wisconsin","SUBS","SUBS","15 Gift Uchenna OUT; 20 Kyrah Daniels OUT; 06 Dorja Zaja IN; 22 Shay Bollin IN","Gift Uchenna",15.0,"",""
+2025.0,19741.0,1,340,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (3 Pt)","Addi Mack",3.0,13.0,0.0
+2025.0,19741.0,1,340,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (4 Pt)","Addi Mack",3.0,14.0,0.0
+2025.0,19741.0,1,326,"Wisconsin","LAYUP","MISS","13 Ronnie Porter LAYUP MISS","Ronnie Porter",13.0,"",""
+2025.0,19741.0,1,323,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean",10.0,"",""
+2025.0,19741.0,1,317,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19741.0,1,316,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (4 Reb, 3 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,316,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,316,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,1,310,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (1 TO)","Kyndal Walker",8.0,"",""
+2025.0,19741.0,1,310,"Wisconsin","STEAL","STEAL","22 Shay Bollin STEAL (1 Stl)","Shay Bollin",22.0,"",""
+2025.0,19741.0,1,310,"Wisconsin","TURNOVER","TURNOVER","22 Shay Bollin TURNOVER (1 TO)","Shay Bollin",22.0,"",""
+2025.0,19741.0,1,295,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,295,"Wisconsin","STEAL","STEAL","24 Laci Steele STEAL (1 Stl)","Laci Steele",24.0,"",""
+2025.0,19741.0,1,283,"Wisconsin","LAYUP","GOOD","01 Destiny Howell LAYUP GOOD (2 Pt); 22 Shay Bollin Assist (1 Asst)","Destiny Howell",1.0,14.0,2.0
+2025.0,19741.0,1,279,"Wisconsin","FOUL","FOUL","01 Destiny Howell FOUL (2 PF)","Destiny Howell",1.0,"",""
+2025.0,19741.0,1,279,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 08 Kyndal Walker OUT; 00 Rainey Welson IN; 06 Saylor Poffenbarger IN","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,279,"Wisconsin","SUBS","SUBS","13 Ronnie Porter OUT; 03 Breauna Ware IN; 01 Destiny Howell OUT; 20 Kyrah Daniels IN","Ronnie Porter",13.0,"",""
+2025.0,19741.0,1,270,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19741.0,1,268,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (2 Reb, 1 Off)","Mir McLean",10.0,"",""
+2025.0,19741.0,1,264,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19741.0,1,262,"Wisconsin","DEF","REBOUND","20 Kyrah Daniels DEF. REBOUND (1 Reb, 1 Def)","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,1,248,"Wisconsin","LAYUP","GOOD","06 Dorja Zaja LAYUP GOOD (2 Pt)","Dorja Zaja",6.0,14.0,4.0
+2025.0,19741.0,1,248,"Maryland","FOUL","FOUL","00 Rainey Welson FOUL (1 PF)","Rainey Welson",0.0,"",""
+2025.0,19741.0,1,248,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 09 Isimenme Ozzy-Momodu IN","Rainey Welson",0.0,"",""
+2025.0,19741.0,1,248,"Wisconsin","FT","GOOD","06 Dorja Zaja FT GOOD (3 Pt)","Dorja Zaja",6.0,14.0,5.0
+2025.0,19741.0,1,232,"Maryland","LAYUP","MISS","10 Mir McLean LAYUP MISS; 22 Shay Bollin BLOCK (1 Blk)","Mir McLean",10.0,"",""
+2025.0,19741.0,1,228,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (3 Reb, 2 Off)","Mir McLean",10.0,"",""
+2025.0,19741.0,1,228,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (2 Pt)","Isimenme Ozzy-Momodu",9.0,16.0,5.0
+2025.0,19741.0,1,218,"Wisconsin","3PTR","MISS","20 Kyrah Daniels 3PTR MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,1,215,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (4 Reb, 2 Def)","Mir McLean",10.0,"",""
+2025.0,19741.0,1,212,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (3 TO)","Addi Mack",3.0,"",""
+2025.0,19741.0,1,212,"Wisconsin","SUBS","SUBS","24 Laci Steele OUT; 04 Lily Krahn IN","Laci Steele",24.0,"",""
+2025.0,19741.0,1,191,"Wisconsin","3PTR","GOOD","22 Shay Bollin 3PTR GOOD (3 Pt)","Shay Bollin",22.0,16.0,8.0
+2025.0,19741.0,1,178,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,1,178,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (1 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,1,178,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 07 Oluchi Okananwa IN","Yarden Garzon",12.0,"",""
+2025.0,19741.0,1,168,"Wisconsin","TURNOVER","TURNOVER","Wisconsin TURNOVER (2 TO)","","","",""
+2025.0,19741.0,1,157,"Wisconsin","FOUL","FOUL","06 Dorja Zaja FOUL (1 PF)","Dorja Zaja",6.0,"",""
+2025.0,19741.0,1,157,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,157,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,1,157,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (8 Pt)","Oluchi Okananwa",7.0,17.0,8.0
+2025.0,19741.0,1,157,"Wisconsin","SUBS","SUBS","03 Breauna Ware OUT; 13 Ronnie Porter IN","Breauna Ware",3.0,"",""
+2025.0,19741.0,1,152,"Wisconsin","TURNOVER","TURNOVER","20 Kyrah Daniels TURNOVER (1 TO)","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,1,152,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,148,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (10 Pt)","Oluchi Okananwa",7.0,19.0,8.0
+2025.0,19741.0,1,139,"Wisconsin","3PTR","MISS","22 Shay Bollin 3PTR MISS","Shay Bollin",22.0,"",""
+2025.0,19741.0,1,135,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (2 Reb, 2 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,1,129,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (5 Pt)","Saylor Poffenbarger",6.0,21.0,8.0
+2025.0,19741.0,1,122,"Wisconsin","TURNOVER","TURNOVER","13 Ronnie Porter TURNOVER (1 TO)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,1,122,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (2 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,117,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (12 Pt)","Oluchi Okananwa",7.0,23.0,8.0
+2025.0,19741.0,1,106,"Wisconsin","JUMPER","MISS","06 Dorja Zaja JUMPER MISS","Dorja Zaja",6.0,"",""
+2025.0,19741.0,1,103,"Wisconsin","OFF","REBOUND","06 Dorja Zaja OFF. REBOUND (1 Reb, 1 Off)","Dorja Zaja",6.0,"",""
+2025.0,19741.0,1,101,"Wisconsin","3PTR","MISS","22 Shay Bollin 3PTR MISS","Shay Bollin",22.0,"",""
+2025.0,19741.0,1,96,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (5 Reb, 3 Def)","Mir McLean",10.0,"",""
+2025.0,19741.0,1,95,"Wisconsin","FOUL","FOUL","13 Ronnie Porter FOUL (2 PF)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,1,95,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 08 Kyndal Walker IN; 10 Mir McLean OUT; 12 Yarden Garzon IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,1,95,"Wisconsin","SUBS","SUBS","04 Lily Krahn OUT; 06 Dorja Zaja OUT; 15 Gift Uchenna IN; 24 Laci Steele IN","Lily Krahn",4.0,"",""
+2025.0,19741.0,1,95,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (1 Pt)","Mir McLean",10.0,24.0,8.0
+2025.0,19741.0,1,95,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (2 Pt)","Mir McLean",10.0,25.0,8.0
+2025.0,19741.0,1,77,"Wisconsin","3PTR","MISS","24 Laci Steele 3PTR MISS","Laci Steele",24.0,"",""
+2025.0,19741.0,1,74,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (2 Reb, 2 Def)","Addi Mack",3.0,"",""
+2025.0,19741.0,1,71,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (4 Pt); 03 Addi Mack Assist (2 Asst)","Isimenme Ozzy-Momodu",9.0,27.0,8.0
+2025.0,19741.0,1,58,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,1,58,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 00 Rainey Welson IN","Yarden Garzon",12.0,"",""
+2025.0,19741.0,1,55,"Wisconsin","TURNOVER","TURNOVER","13 Ronnie Porter TURNOVER (2 TO)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,1,55,"Maryland","STEAL","STEAL","00 Rainey Welson STEAL (1 Stl)","Rainey Welson",0.0,"",""
+2025.0,19741.0,1,39,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19741.0,1,36,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (3 Reb, 1 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,1,28,"Wisconsin","FOUL","FOUL","20 Kyrah Daniels FOUL (1 PF)","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,1,28,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (1 Pt)","Kyndal Walker",8.0,28.0,8.0
+2025.0,19741.0,1,28,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (2 Pt)","Kyndal Walker",8.0,29.0,8.0
+2025.0,19741.0,1,4,"Wisconsin","TURNOVER","TURNOVER","13 Ronnie Porter TURNOVER (3 TO)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,1,4,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (3 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,1,0,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS; 20 Kyrah Daniels BLOCK (1 Blk)","Rainey Welson",0.0,"",""
+2025.0,19741.0,1,0,"Wisconsin","DEADB","REBOUND","Wisconsin REBOUND","","","",""
+2025.0,19741.0,2,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 03 Addi Mack OUT; 06 Saylor Poffenbarger IN; 12 Yarden Garzon IN","Rainey Welson",0.0,"",""
+2025.0,19741.0,2,600,"Wisconsin","SUBS","SUBS","15 Gift Uchenna OUT; 22 Shay Bollin OUT; 24 Laci Steele OUT; 01 Destiny Howell IN; 04 Lily Krahn IN; 06 Dorja Zaja IN","Gift Uchenna",15.0,"",""
+2025.0,19741.0,2,583,"Wisconsin","TURNOVER","TURNOVER","20 Kyrah Daniels TURNOVER (2 TO)","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,2,583,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (4 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,2,568,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (2 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,2,568,"Wisconsin","STEAL","STEAL","06 Dorja Zaja STEAL (1 Stl)","Dorja Zaja",6.0,"",""
+2025.0,19741.0,2,561,"Wisconsin","3PTR","MISS","20 Kyrah Daniels 3PTR MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,2,558,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (4 Reb, 3 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,2,549,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (15 Pt); 08 Kyndal Walker Assist (1 Asst)","Oluchi Okananwa",7.0,32.0,8.0
+2025.0,19741.0,2,534,"Wisconsin","3PTR","MISS","20 Kyrah Daniels 3PTR MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,2,530,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,2,527,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,2,523,"Wisconsin","DEF","REBOUND","Wisconsin REBOUND","","","",""
+2025.0,19741.0,2,493,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,2,493,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 10 Mir McLean IN","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,2,493,"Wisconsin","FT","MISS","13 Ronnie Porter FT MISS","Ronnie Porter",13.0,"",""
+2025.0,19741.0,2,493,"Wisconsin","DEADB","REBOUND","Wisconsin REBOUND","","","",""
+2025.0,19741.0,2,493,"Wisconsin","FT","GOOD","13 Ronnie Porter FT GOOD (1 Pt)","Ronnie Porter",13.0,32.0,9.0
+2025.0,19741.0,2,493,"Wisconsin","SUBS","SUBS","13 Ronnie Porter OUT; 03 Breauna Ware IN","Ronnie Porter",13.0,"",""
+2025.0,19741.0,2,493,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,2,490,"Wisconsin","JUMPER","MISS","01 Destiny Howell JUMPER MISS","Destiny Howell",1.0,"",""
+2025.0,19741.0,2,487,"Wisconsin","OFF","REBOUND","06 Dorja Zaja OFF. REBOUND (2 Reb, 2 Off)","Dorja Zaja",6.0,"",""
+2025.0,19741.0,2,486,"Wisconsin","JUMPER","MISS","06 Dorja Zaja JUMPER MISS","Dorja Zaja",6.0,"",""
+2025.0,19741.0,2,482,"Wisconsin","OFF","REBOUND","Wisconsin REBOUND","","","",""
+2025.0,19741.0,2,482,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,19741.0,2,478,"Wisconsin","FOUL","FOUL","06 Dorja Zaja FOUL (2 PF)","Dorja Zaja",6.0,"",""
+2025.0,19741.0,2,478,"Wisconsin","TURNOVER","TURNOVER","06 Dorja Zaja TURNOVER (1 TO)","Dorja Zaja",6.0,"",""
+2025.0,19741.0,2,478,"Wisconsin","SUBS","SUBS","06 Dorja Zaja OUT; 22 Shay Bollin IN","Dorja Zaja",6.0,"",""
+2025.0,19741.0,2,467,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (2 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,2,467,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 11 Marya Boiko IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,2,456,"Wisconsin","JUMPER","MISS","01 Destiny Howell JUMPER MISS","Destiny Howell",1.0,"",""
+2025.0,19741.0,2,454,"Wisconsin","OFF","REBOUND","22 Shay Bollin OFF. REBOUND (1 Reb, 1 Off)","Shay Bollin",22.0,"",""
+2025.0,19741.0,2,439,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+2025.0,19741.0,2,439,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 07 Oluchi Okananwa IN","Mir McLean",10.0,"",""
+2025.0,19741.0,2,439,"Wisconsin","FT","GOOD","03 Breauna Ware FT GOOD (1 Pt)","Breauna Ware",3.0,32.0,10.0
+2025.0,19741.0,2,439,"Wisconsin","FT","MISS","03 Breauna Ware FT MISS","Breauna Ware",3.0,"",""
+2025.0,19741.0,2,439,"Wisconsin","OFF","REBOUND","22 Shay Bollin OFF. REBOUND (2 Reb, 2 Off)","Shay Bollin",22.0,"",""
+2025.0,19741.0,2,427,"Maryland","FOUL","FOUL","11 Marya Boiko FOUL (1 PF)","Marya Boiko",11.0,"",""
+2025.0,19741.0,2,427,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 08 Kyndal Walker IN","Marya Boiko",11.0,"",""
+2025.0,19741.0,2,427,"Wisconsin","FT","GOOD","01 Destiny Howell FT GOOD (3 Pt)","Destiny Howell",1.0,32.0,11.0
+2025.0,19741.0,2,427,"Wisconsin","FT","GOOD","01 Destiny Howell FT GOOD (4 Pt)","Destiny Howell",1.0,32.0,12.0
+2025.0,19741.0,2,408,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (2 Pt); 06 Saylor Poffenbarger Assist (2 Asst)","Yarden Garzon",12.0,34.0,12.0
+2025.0,19741.0,2,391,"Wisconsin","TURNOVER","TURNOVER","22 Shay Bollin TURNOVER (2 TO)","Shay Bollin",22.0,"",""
+2025.0,19741.0,2,375,"Maryland","LAYUP","MISS","08 Kyndal Walker LAYUP MISS; 01 Destiny Howell BLOCK (1 Blk)","Kyndal Walker",8.0,"",""
+2025.0,19741.0,2,372,"Wisconsin","DEF","REBOUND","04 Lily Krahn DEF. REBOUND (1 Reb, 1 Def)","Lily Krahn",4.0,"",""
+2025.0,19741.0,2,371,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,2,338,"Wisconsin","TURNOVER","TURNOVER","03 Breauna Ware TURNOVER (2 TO)","Breauna Ware",3.0,"",""
+2025.0,19741.0,2,338,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (5 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,2,337,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19741.0,2,336,"Wisconsin","DEF","REBOUND","Wisconsin REBOUND","","","",""
+2025.0,19741.0,2,335,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 12 Yarden Garzon OUT; 00 Rainey Welson IN; 10 Mir McLean IN","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,2,309,"Wisconsin","3PTR","MISS","20 Kyrah Daniels 3PTR MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,2,307,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,2,300,"Maryland","TURNOVER","TURNOVER","00 Rainey Welson TURNOVER (1 TO)","Rainey Welson",0.0,"",""
+2025.0,19741.0,2,300,"Wisconsin","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19741.0,2,300,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 12 Yarden Garzon IN","Rainey Welson",0.0,"",""
+2025.0,19741.0,2,300,"Wisconsin","SUBS","SUBS","03 Breauna Ware OUT; 04 Lily Krahn OUT; 13 Ronnie Porter IN; 24 Laci Steele IN","Breauna Ware",3.0,"",""
+2025.0,19741.0,2,292,"Wisconsin","3PTR","MISS","22 Shay Bollin 3PTR MISS","Shay Bollin",22.0,"",""
+2025.0,19741.0,2,287,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,2,269,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS; 22 Shay Bollin BLOCK (2 Blk)","Addi Mack",3.0,"",""
+2025.0,19741.0,2,266,"Wisconsin","DEF","REBOUND","22 Shay Bollin DEF. REBOUND (3 Reb, 1 Def)","Shay Bollin",22.0,"",""
+2025.0,19741.0,2,246,"Wisconsin","3PTR","MISS","24 Laci Steele 3PTR MISS","Laci Steele",24.0,"",""
+2025.0,19741.0,2,243,"Wisconsin","OFF","REBOUND","Wisconsin REBOUND","","","",""
+2025.0,19741.0,2,235,"Wisconsin","JUMPER","GOOD","20 Kyrah Daniels JUMPER GOOD (2 Pt)","Kyrah Daniels",20.0,34.0,14.0
+2025.0,19741.0,2,222,"Wisconsin","FOUL","FOUL","22 Shay Bollin FOUL (1 PF)","Shay Bollin",22.0,"",""
+2025.0,19741.0,2,222,"Maryland","FT","MISS","08 Kyndal Walker FT MISS","Kyndal Walker",8.0,"",""
+2025.0,19741.0,2,222,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,2,222,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (3 Pt)","Kyndal Walker",8.0,35.0,14.0
+2025.0,19741.0,2,207,"Wisconsin","JUMPER","MISS","24 Laci Steele JUMPER MISS","Laci Steele",24.0,"",""
+2025.0,19741.0,2,202,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (6 Reb, 4 Def)","Mir McLean",10.0,"",""
+2025.0,19741.0,2,179,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (5 Pt); 08 Kyndal Walker Assist (2 Asst)","Yarden Garzon",12.0,38.0,14.0
+2025.0,19741.0,2,169,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,2,169,"Wisconsin","FT","GOOD","24 Laci Steele FT GOOD (1 Pt)","Laci Steele",24.0,38.0,15.0
+2025.0,19741.0,2,169,"Wisconsin","FT","GOOD","24 Laci Steele FT GOOD (2 Pt)","Laci Steele",24.0,38.0,16.0
+2025.0,19741.0,2,169,"Wisconsin","SUBS","SUBS","22 Shay Bollin OUT; 15 Gift Uchenna IN","Shay Bollin",22.0,"",""
+2025.0,19741.0,2,154,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,2,152,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,2,152,"Wisconsin","FOUL","FOUL","24 Laci Steele FOUL (1 PF)","Laci Steele",24.0,"",""
+2025.0,19741.0,2,152,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 09 Isimenme Ozzy-Momodu IN","Mir McLean",10.0,"",""
+2025.0,19741.0,2,147,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19741.0,2,144,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (1 Reb, 1 Off)","Kyndal Walker",8.0,"",""
+2025.0,19741.0,2,144,"Wisconsin","FOUL","FOUL","24 Laci Steele FOUL (2 PF)","Laci Steele",24.0,"",""
+2025.0,19741.0,2,144,"Wisconsin","SUBS","SUBS","24 Laci Steele OUT; 11 Jovana Spasovski IN","Laci Steele",24.0,"",""
+2025.0,19741.0,2,142,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,2,139,"Maryland","OFF","REBOUND","03 Addi Mack OFF. REBOUND (3 Reb, 1 Off)","Addi Mack",3.0,"",""
+2025.0,19741.0,2,138,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19741.0,2,134,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (2 Reb, 2 Off)","Kyndal Walker",8.0,"",""
+2025.0,19741.0,2,133,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (8 Pt); 08 Kyndal Walker Assist (3 Asst)","Saylor Poffenbarger",6.0,41.0,16.0
+2025.0,19741.0,2,108,"Wisconsin","JUMPER","MISS","20 Kyrah Daniels JUMPER MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,2,104,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,2,97,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19741.0,2,94,"Maryland","OFF","REBOUND","03 Addi Mack OFF. REBOUND (4 Reb, 2 Off)","Addi Mack",3.0,"",""
+2025.0,19741.0,2,94,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (4 TO)","Addi Mack",3.0,"",""
+2025.0,19741.0,2,80,"Wisconsin","JUMPER","MISS","01 Destiny Howell JUMPER MISS","Destiny Howell",1.0,"",""
+2025.0,19741.0,2,77,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (3 Reb, 3 Def)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,2,65,"Maryland","3PTR","MISS","08 Kyndal Walker 3PTR MISS","Kyndal Walker",8.0,"",""
+2025.0,19741.0,2,62,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (4 Reb, 1 Off)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,2,54,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (10 Pt)","Saylor Poffenbarger",6.0,43.0,16.0
+2025.0,19741.0,2,28,"Wisconsin","LAYUP","GOOD","13 Ronnie Porter LAYUP GOOD (3 Pt)","Ronnie Porter",13.0,43.0,18.0
+2025.0,19741.0,2,24,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 09 Isimenme Ozzy-Momodu OUT; 00 Rainey Welson IN; 11 Marya Boiko IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,2,7,"Maryland","FOUL","FOUL","11 Marya Boiko FOUL (2 PF)","Marya Boiko",11.0,"",""
+2025.0,19741.0,2,7,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (1 TO)","Marya Boiko",11.0,"",""
+2025.0,19741.0,2,7,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 40 Breanna Williams IN","Marya Boiko",11.0,"",""
+2025.0,19741.0,2,3,"Wisconsin","FOUL","FOUL","15 Gift Uchenna FOUL (1 PF)","Gift Uchenna",15.0,"",""
+2025.0,19741.0,2,3,"Wisconsin","TURNOVER","TURNOVER","15 Gift Uchenna TURNOVER (2 TO)","Gift Uchenna",15.0,"",""
+2025.0,19741.0,2,3,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 06 Saylor Poffenbarger IN","Kyndal Walker",8.0,"",""
+2025.0,19741.0,3,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 40 Breanna Williams OUT; 07 Oluchi Okananwa IN; 09 Isimenme Ozzy-Momodu IN","Rainey Welson",0.0,"",""
+2025.0,19741.0,3,600,"Wisconsin","SUBS","SUBS","11 Jovana Spasovski OUT; 03 Breauna Ware IN","Jovana Spasovski",11.0,"",""
+2025.0,19741.0,3,583,"Wisconsin","JUMPER","GOOD","20 Kyrah Daniels JUMPER GOOD (4 Pt)","Kyrah Daniels",20.0,43.0,20.0
+2025.0,19741.0,3,570,"Wisconsin","FOUL","FOUL","15 Gift Uchenna FOUL (2 PF)","Gift Uchenna",15.0,"",""
+2025.0,19741.0,3,570,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (16 Pt)","Oluchi Okananwa",7.0,44.0,20.0
+2025.0,19741.0,3,570,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (17 Pt)","Oluchi Okananwa",7.0,45.0,20.0
+2025.0,19741.0,3,559,"Wisconsin","JUMPER","MISS","03 Breauna Ware JUMPER MISS; 12 Yarden Garzon BLOCK (1 Blk)","Breauna Ware",3.0,"",""
+2025.0,19741.0,3,556,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (5 Reb, 4 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,3,552,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,3,547,"Wisconsin","DEF","REBOUND","13 Ronnie Porter DEF. REBOUND (1 Reb, 1 Def)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,3,543,"Wisconsin","3PTR","GOOD","20 Kyrah Daniels 3PTR GOOD (7 Pt); 13 Ronnie Porter Assist (1 Asst)","Kyrah Daniels",20.0,45.0,23.0
+2025.0,19741.0,3,534,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (6 Pt)","Addi Mack",3.0,47.0,23.0
+2025.0,19741.0,3,519,"Wisconsin","3PTR","GOOD","20 Kyrah Daniels 3PTR GOOD (10 Pt); 13 Ronnie Porter Assist (2 Asst)","Kyrah Daniels",20.0,47.0,26.0
+2025.0,19741.0,3,501,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (19 Pt)","Oluchi Okananwa",7.0,49.0,26.0
+2025.0,19741.0,3,479,"Wisconsin","3PTR","MISS","20 Kyrah Daniels 3PTR MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,3,475,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (5 Reb, 3 Def)","Addi Mack",3.0,"",""
+2025.0,19741.0,3,472,"Wisconsin","FOUL","FOUL","03 Breauna Ware FOUL (1 PF)","Breauna Ware",3.0,"",""
+2025.0,19741.0,3,472,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (7 Pt)","Addi Mack",3.0,50.0,26.0
+2025.0,19741.0,3,472,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (8 Pt)","Addi Mack",3.0,51.0,26.0
+2025.0,19741.0,3,460,"Wisconsin","JUMPER","MISS","20 Kyrah Daniels JUMPER MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,3,456,"Wisconsin","OFF","REBOUND","13 Ronnie Porter OFF. REBOUND (2 Reb, 1 Off)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,3,455,"Wisconsin","LAYUP","GOOD","15 Gift Uchenna LAYUP GOOD (2 Pt)","Gift Uchenna",15.0,51.0,28.0
+2025.0,19741.0,3,452,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (10 Pt)","Addi Mack",3.0,53.0,28.0
+2025.0,19741.0,3,442,"Wisconsin","LAYUP","GOOD","03 Breauna Ware LAYUP GOOD (3 Pt)","Breauna Ware",3.0,53.0,30.0
+2025.0,19741.0,3,442,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (2 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,3,442,"Wisconsin","FT","GOOD","03 Breauna Ware FT GOOD (4 Pt)","Breauna Ware",3.0,53.0,31.0
+2025.0,19741.0,3,432,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,3,429,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (6 Reb, 2 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,3,428,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,3,425,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (7 Reb, 3 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,3,425,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (6 Pt)","Isimenme Ozzy-Momodu",9.0,55.0,31.0
+2025.0,19741.0,3,403,"Wisconsin","JUMPER","GOOD","15 Gift Uchenna JUMPER GOOD (4 Pt)","Gift Uchenna",15.0,55.0,33.0
+2025.0,19741.0,3,393,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,3,392,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,3,392,"Wisconsin","SUBS","SUBS","15 Gift Uchenna OUT; 06 Dorja Zaja IN","Gift Uchenna",15.0,"",""
+2025.0,19741.0,3,392,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 09 Isimenme Ozzy-Momodu OUT; 08 Kyndal Walker IN; 11 Marya Boiko IN","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,3,390,"Wisconsin","FOUL","FOUL","06 Dorja Zaja FOUL (3 PF)","Dorja Zaja",6.0,"",""
+2025.0,19741.0,3,390,"Wisconsin","SUBS","SUBS","01 Destiny Howell OUT; 24 Laci Steele IN","Destiny Howell",1.0,"",""
+2025.0,19741.0,3,390,"Maryland","FT","MISS","11 Marya Boiko FT MISS","Marya Boiko",11.0,"",""
+2025.0,19741.0,3,390,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,3,390,"Maryland","FT","GOOD","11 Marya Boiko FT GOOD (1 Pt)","Marya Boiko",11.0,56.0,33.0
+2025.0,19741.0,3,378,"Wisconsin","LAYUP","MISS","13 Ronnie Porter LAYUP MISS","Ronnie Porter",13.0,"",""
+2025.0,19741.0,3,376,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (6 Reb, 4 Def)","Addi Mack",3.0,"",""
+2025.0,19741.0,3,369,"Wisconsin","FOUL","FOUL","20 Kyrah Daniels FOUL (2 PF)","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,3,369,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (6 Pt)","Yarden Garzon",12.0,57.0,33.0
+2025.0,19741.0,3,369,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (7 Pt)","Yarden Garzon",12.0,58.0,33.0
+2025.0,19741.0,3,353,"Wisconsin","3PTR","MISS","20 Kyrah Daniels 3PTR MISS; 06 Saylor Poffenbarger BLOCK (1 Blk)","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,3,352,"Wisconsin","OFF","REBOUND","Wisconsin REBOUND","","","",""
+2025.0,19741.0,3,352,"Wisconsin","SUBS","SUBS","03 Breauna Ware OUT; 01 Destiny Howell IN","Breauna Ware",3.0,"",""
+2025.0,19741.0,3,340,"Wisconsin","JUMPER","MISS","24 Laci Steele JUMPER MISS","Laci Steele",24.0,"",""
+2025.0,19741.0,3,337,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (5 Reb, 4 Def)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,3,335,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 00 Rainey Welson IN","Addi Mack",3.0,"",""
+2025.0,19741.0,3,332,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (10 Pt); 08 Kyndal Walker Assist (4 Asst)","Yarden Garzon",12.0,61.0,33.0
+2025.0,19741.0,3,313,"Wisconsin","JUMPER","MISS","13 Ronnie Porter JUMPER MISS","Ronnie Porter",13.0,"",""
+2025.0,19741.0,3,310,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (6 Reb, 5 Def)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,3,304,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,3,302,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (4 Reb, 1 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,3,296,"Wisconsin","FOUL","FOUL","20 Kyrah Daniels FOUL (3 PF)","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,3,296,"Wisconsin","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19741.0,3,296,"Wisconsin","SUBS","SUBS","20 Kyrah Daniels OUT; 04 Lily Krahn IN","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,3,296,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (11 Pt)","Saylor Poffenbarger",6.0,62.0,33.0
+2025.0,19741.0,3,296,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (12 Pt)","Saylor Poffenbarger",6.0,63.0,33.0
+2025.0,19741.0,3,296,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 10 Mir McLean IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,3,287,"Wisconsin","3PTR","MISS","13 Ronnie Porter 3PTR MISS","Ronnie Porter",13.0,"",""
+2025.0,19741.0,3,282,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (7 Reb, 5 Def)","Mir McLean",10.0,"",""
+2025.0,19741.0,3,273,"Wisconsin","FOUL","FOUL","13 Ronnie Porter FOUL (3 PF)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,3,273,"Maryland","FT","MISS","10 Mir McLean FT MISS","Mir McLean",10.0,"",""
+2025.0,19741.0,3,273,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,3,273,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (3 Pt)","Mir McLean",10.0,64.0,33.0
+2025.0,19741.0,3,267,"Wisconsin","3PTR","MISS","01 Destiny Howell 3PTR MISS","Destiny Howell",1.0,"",""
+2025.0,19741.0,3,263,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (3 Reb, 1 Def)","Kyndal Walker",8.0,"",""
+2025.0,19741.0,3,256,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (5 Pt)","Kyndal Walker",8.0,66.0,33.0
+2025.0,19741.0,3,230,"Wisconsin","LAYUP","MISS","24 Laci Steele LAYUP MISS","Laci Steele",24.0,"",""
+2025.0,19741.0,3,228,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (7 Reb, 6 Def)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,3,223,"Maryland","JUMPER","GOOD","11 Marya Boiko JUMPER GOOD (3 Pt); 00 Rainey Welson Assist (1 Asst)","Marya Boiko",11.0,68.0,33.0
+2025.0,19741.0,3,205,"Wisconsin","JUMPER","GOOD","01 Destiny Howell JUMPER GOOD (6 Pt); 06 Dorja Zaja Assist (1 Asst)","Destiny Howell",1.0,68.0,35.0
+2025.0,19741.0,3,178,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (2 TO)","Marya Boiko",11.0,"",""
+2025.0,19741.0,3,178,"Wisconsin","SUBS","SUBS","06 Dorja Zaja OUT; 13 Ronnie Porter OUT; 24 Laci Steele OUT; 03 Breauna Ware IN; 20 Kyrah Daniels IN; 22 Shay Bollin IN","Dorja Zaja",6.0,"",""
+2025.0,19741.0,3,158,"Wisconsin","LAYUP","MISS","22 Shay Bollin LAYUP MISS","Shay Bollin",22.0,"",""
+2025.0,19741.0,3,156,"Wisconsin","OFF","REBOUND","22 Shay Bollin OFF. REBOUND (4 Reb, 3 Off)","Shay Bollin",22.0,"",""
+2025.0,19741.0,3,156,"Maryland","FOUL","FOUL","11 Marya Boiko FOUL (3 PF)","Marya Boiko",11.0,"",""
+2025.0,19741.0,3,156,"Wisconsin","FT","GOOD","22 Shay Bollin FT GOOD (4 Pt)","Shay Bollin",22.0,68.0,36.0
+2025.0,19741.0,3,156,"Wisconsin","FT","GOOD","22 Shay Bollin FT GOOD (5 Pt)","Shay Bollin",22.0,68.0,37.0
+2025.0,19741.0,3,135,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (12 Pt)","Yarden Garzon",12.0,70.0,37.0
+2025.0,19741.0,3,114,"Wisconsin","3PTR","MISS","01 Destiny Howell 3PTR MISS","Destiny Howell",1.0,"",""
+2025.0,19741.0,3,112,"Maryland","DEF","REBOUND","00 Rainey Welson DEF. REBOUND (1 Reb, 1 Def)","Rainey Welson",0.0,"",""
+2025.0,19741.0,3,109,"Maryland","TURNOVER","TURNOVER","00 Rainey Welson TURNOVER (2 TO)","Rainey Welson",0.0,"",""
+2025.0,19741.0,3,109,"Wisconsin","STEAL","STEAL","01 Destiny Howell STEAL (1 Stl)","Destiny Howell",1.0,"",""
+2025.0,19741.0,3,109,"Wisconsin","SUBS","SUBS","03 Breauna Ware OUT; 13 Ronnie Porter IN","Breauna Ware",3.0,"",""
+2025.0,19741.0,3,109,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 07 Oluchi Okananwa IN","Yarden Garzon",12.0,"",""
+2025.0,19741.0,3,95,"Wisconsin","LAYUP","GOOD","01 Destiny Howell LAYUP GOOD (8 Pt)","Destiny Howell",1.0,70.0,39.0
+2025.0,19741.0,3,95,"Maryland","FOUL","FOUL","00 Rainey Welson FOUL (2 PF)","Rainey Welson",0.0,"",""
+2025.0,19741.0,3,95,"Wisconsin","FT","GOOD","01 Destiny Howell FT GOOD (9 Pt)","Destiny Howell",1.0,70.0,40.0
+2025.0,19741.0,3,81,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (22 Pt)","Oluchi Okananwa",7.0,73.0,40.0
+2025.0,19741.0,3,70,"Wisconsin","FOUL","FOUL","01 Destiny Howell FOUL (3 PF)","Destiny Howell",1.0,"",""
+2025.0,19741.0,3,70,"Wisconsin","TURNOVER","TURNOVER","01 Destiny Howell TURNOVER (3 TO)","Destiny Howell",1.0,"",""
+2025.0,19741.0,3,70,"Wisconsin","SUBS","SUBS","01 Destiny Howell OUT; 11 Jovana Spasovski IN","Destiny Howell",1.0,"",""
+2025.0,19741.0,3,53,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (3 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,3,32,"Wisconsin","LAYUP","MISS","04 Lily Krahn LAYUP MISS","Lily Krahn",4.0,"",""
+2025.0,19741.0,3,30,"Wisconsin","OFF","REBOUND","Wisconsin REBOUND","","","",""
+2025.0,19741.0,3,23,"Wisconsin","3PTR","MISS","20 Kyrah Daniels 3PTR MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,3,21,"Wisconsin","OFF","REBOUND","11 Jovana Spasovski OFF. REBOUND (1 Reb, 1 Off)","Jovana Spasovski",11.0,"",""
+2025.0,19741.0,3,21,"Wisconsin","30SEC","TIMEOUT","Wisconsin TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
+2025.0,19741.0,3,21,"Wisconsin","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19741.0,3,10,"Wisconsin","3PTR","MISS","20 Kyrah Daniels 3PTR MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,3,6,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (1 Reb, 1 Def)","Marya Boiko",11.0,"",""
+2025.0,19741.0,3,1,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (2 TO)","Kyndal Walker",8.0,"",""
+2025.0,19741.0,4,600,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 11 Marya Boiko OUT; 03 Addi Mack IN; 40 Breanna Williams IN","Kyndal Walker",8.0,"",""
+2025.0,19741.0,4,600,"Wisconsin","SUBS","SUBS","04 Lily Krahn OUT; 11 Jovana Spasovski OUT; 22 Shay Bollin OUT; 01 Destiny Howell IN; 03 Breauna Ware IN; 15 Gift Uchenna IN","Lily Krahn",4.0,"",""
+2025.0,19741.0,4,588,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,4,586,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,4,585,"Wisconsin","FOUL","FOUL","03 Breauna Ware FOUL (2 PF)","Breauna Ware",3.0,"",""
+2025.0,19741.0,4,584,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (5 TO)","Addi Mack",3.0,"",""
+2025.0,19741.0,4,584,"Wisconsin","STEAL","STEAL","03 Breauna Ware STEAL (1 Stl)","Breauna Ware",3.0,"",""
+2025.0,19741.0,4,573,"Wisconsin","LAYUP","MISS","03 Breauna Ware LAYUP MISS","Breauna Ware",3.0,"",""
+2025.0,19741.0,4,569,"Wisconsin","OFF","REBOUND","03 Breauna Ware OFF. REBOUND (1 Reb, 1 Off)","Breauna Ware",3.0,"",""
+2025.0,19741.0,4,568,"Wisconsin","LAYUP","MISS","03 Breauna Ware LAYUP MISS","Breauna Ware",3.0,"",""
+2025.0,19741.0,4,565,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (5 Reb, 2 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,4,561,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (24 Pt)","Oluchi Okananwa",7.0,75.0,40.0
+2025.0,19741.0,4,538,"Wisconsin","JUMPER","MISS","01 Destiny Howell JUMPER MISS","Destiny Howell",1.0,"",""
+2025.0,19741.0,4,535,"Wisconsin","OFF","REBOUND","15 Gift Uchenna OFF. REBOUND (2 Reb, 1 Off)","Gift Uchenna",15.0,"",""
+2025.0,19741.0,4,535,"Wisconsin","LAYUP","MISS","15 Gift Uchenna LAYUP MISS","Gift Uchenna",15.0,"",""
+2025.0,19741.0,4,535,"Wisconsin","OFF","REBOUND","15 Gift Uchenna OFF. REBOUND (3 Reb, 2 Off)","Gift Uchenna",15.0,"",""
+2025.0,19741.0,4,535,"Maryland","FOUL","FOUL","40 Breanna Williams FOUL (1 PF)","Breanna Williams",40.0,"",""
+2025.0,19741.0,4,524,"Wisconsin","3PTR","GOOD","01 Destiny Howell 3PTR GOOD (12 Pt); 13 Ronnie Porter Assist (3 Asst)","Destiny Howell",1.0,75.0,43.0
+2025.0,19741.0,4,511,"Maryland","LAYUP","GOOD","40 Breanna Williams LAYUP GOOD (2 Pt); 10 Mir McLean Assist (1 Asst)","Breanna Williams",40.0,77.0,43.0
+2025.0,19741.0,4,499,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack",3.0,"",""
+2025.0,19741.0,4,499,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 10 Mir McLean OUT; 40 Breanna Williams OUT; 06 Saylor Poffenbarger IN; 09 Isimenme Ozzy-Momodu IN; 12 Yarden Garzon IN","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,4,489,"Wisconsin","TURNOVER","TURNOVER","01 Destiny Howell TURNOVER (4 TO)","Destiny Howell",1.0,"",""
+2025.0,19741.0,4,489,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (2 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,4,482,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19741.0,4,478,"Wisconsin","DEF","REBOUND","15 Gift Uchenna DEF. REBOUND (4 Reb, 2 Def)","Gift Uchenna",15.0,"",""
+2025.0,19741.0,4,472,"Wisconsin","3PTR","MISS","01 Destiny Howell 3PTR MISS","Destiny Howell",1.0,"",""
+2025.0,19741.0,4,469,"Wisconsin","OFF","REBOUND","13 Ronnie Porter OFF. REBOUND (3 Reb, 2 Off)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,4,463,"Wisconsin","TURNOVER","TURNOVER","01 Destiny Howell TURNOVER (5 TO)","Destiny Howell",1.0,"",""
+2025.0,19741.0,4,463,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (3 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,4,453,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19741.0,4,450,"Wisconsin","DEF","REBOUND","15 Gift Uchenna DEF. REBOUND (5 Reb, 3 Def)","Gift Uchenna",15.0,"",""
+2025.0,19741.0,4,442,"Wisconsin","JUMPER","MISS","13 Ronnie Porter JUMPER MISS","Ronnie Porter",13.0,"",""
+2025.0,19741.0,4,439,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (8 Reb, 5 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,4,433,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (12 Pt)","Addi Mack",3.0,79.0,43.0
+2025.0,19741.0,4,433,"Wisconsin","FOUL","FOUL","13 Ronnie Porter FOUL (4 PF)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,4,433,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (13 Pt)","Addi Mack",3.0,80.0,43.0
+2025.0,19741.0,4,417,"Wisconsin","TURNOVER","TURNOVER","13 Ronnie Porter TURNOVER (4 TO)","Ronnie Porter",13.0,"",""
+2025.0,19741.0,4,417,"Maryland","STEAL","STEAL","00 Rainey Welson STEAL (2 Stl)","Rainey Welson",0.0,"",""
+2025.0,19741.0,4,414,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (15 Pt); 00 Rainey Welson Assist (2 Asst)","Addi Mack",3.0,82.0,43.0
+2025.0,19741.0,4,398,"Wisconsin","3PTR","MISS","20 Kyrah Daniels 3PTR MISS","Kyrah Daniels",20.0,"",""
+2025.0,19741.0,4,394,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (9 Reb, 6 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,4,393,"Wisconsin","FOUL","FOUL","01 Destiny Howell FOUL (4 PF)","Destiny Howell",1.0,"",""
+2025.0,19741.0,4,393,"Wisconsin","SUBS","SUBS","03 Breauna Ware OUT; 15 Gift Uchenna OUT; 06 Dorja Zaja IN; 22 Shay Bollin IN","Breauna Ware",3.0,"",""
+2025.0,19741.0,4,380,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (3 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19741.0,4,380,"Wisconsin","STEAL","STEAL","01 Destiny Howell STEAL (2 Stl)","Destiny Howell",1.0,"",""
+2025.0,19741.0,4,376,"Wisconsin","LAYUP","GOOD","22 Shay Bollin LAYUP GOOD (7 Pt); 01 Destiny Howell Assist (1 Asst)","Shay Bollin",22.0,82.0,45.0
+2025.0,19741.0,4,363,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19741.0,4,360,"Wisconsin","DEF","REBOUND","22 Shay Bollin DEF. REBOUND (5 Reb, 2 Def)","Shay Bollin",22.0,"",""
+2025.0,19741.0,4,352,"Wisconsin","JUMPER","GOOD","01 Destiny Howell JUMPER GOOD (14 Pt)","Destiny Howell",1.0,82.0,47.0
+2025.0,19741.0,4,328,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19741.0,4,326,"Wisconsin","DEF","REBOUND","01 Destiny Howell DEF. REBOUND (1 Reb, 1 Def)","Destiny Howell",1.0,"",""
+2025.0,19741.0,4,322,"Wisconsin","3PTR","MISS","22 Shay Bollin 3PTR MISS","Shay Bollin",22.0,"",""
+2025.0,19741.0,4,320,"Wisconsin","OFF","REBOUND","01 Destiny Howell OFF. REBOUND (2 Reb, 1 Off)","Destiny Howell",1.0,"",""
+2025.0,19741.0,4,320,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon",12.0,"",""
+2025.0,19741.0,4,320,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 09 Isimenme Ozzy-Momodu OUT; 08 Kyndal Walker IN; 11 Marya Boiko IN","Rainey Welson",0.0,"",""
+2025.0,19741.0,4,320,"Wisconsin","SUBS","SUBS","01 Destiny Howell OUT; 20 Kyrah Daniels OUT; 04 Lily Krahn IN; 11 Jovana Spasovski IN","Destiny Howell",1.0,"",""
+2025.0,19741.0,4,318,"Wisconsin","JUMPER","GOOD","11 Jovana Spasovski JUMPER GOOD (2 Pt); 13 Ronnie Porter Assist (4 Asst)","Jovana Spasovski",11.0,82.0,49.0
+2025.0,19741.0,4,302,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (15 Pt); 11 Marya Boiko Assist (1 Asst)","Yarden Garzon",12.0,85.0,49.0
+2025.0,19741.0,4,284,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (3 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,4,284,"Wisconsin","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19741.0,4,284,"Wisconsin","FT","GOOD","22 Shay Bollin FT GOOD (8 Pt)","Shay Bollin",22.0,85.0,50.0
+2025.0,19741.0,4,284,"Wisconsin","FT","GOOD","22 Shay Bollin FT GOOD (9 Pt)","Shay Bollin",22.0,85.0,51.0
+2025.0,19741.0,4,268,"Wisconsin","FOUL","FOUL","06 Dorja Zaja FOUL (4 PF)","Dorja Zaja",6.0,"",""
+2025.0,19741.0,4,268,"Wisconsin","SUBS","SUBS","06 Dorja Zaja OUT; 02 Alie Bisballe IN; 13 Ronnie Porter OUT; 00 Nikki Kerstein IN","Dorja Zaja",6.0,"",""
+2025.0,19741.0,4,268,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 10 Mir McLean IN","Yarden Garzon",12.0,"",""
+2025.0,19741.0,4,268,"Maryland","FT","MISS","08 Kyndal Walker FT MISS","Kyndal Walker",8.0,"",""
+2025.0,19741.0,4,268,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,4,268,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (6 Pt)","Kyndal Walker",8.0,86.0,51.0
+2025.0,19741.0,4,253,"Wisconsin","3PTR","MISS","22 Shay Bollin 3PTR MISS","Shay Bollin",22.0,"",""
+2025.0,19741.0,4,249,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (8 Reb, 6 Def)","Mir McLean",10.0,"",""
+2025.0,19741.0,4,228,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (14 Pt)","Saylor Poffenbarger",6.0,88.0,51.0
+2025.0,19741.0,4,219,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 07 Oluchi Okananwa IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19741.0,4,217,"Wisconsin","TURNOVER","TURNOVER","11 Jovana Spasovski TURNOVER (1 TO)","Jovana Spasovski",11.0,"",""
+2025.0,19741.0,4,217,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (6 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,4,212,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (26 Pt)","Oluchi Okananwa",7.0,90.0,51.0
+2025.0,19741.0,4,194,"Wisconsin","LAYUP","GOOD","11 Jovana Spasovski LAYUP GOOD (4 Pt)","Jovana Spasovski",11.0,90.0,53.0
+2025.0,19741.0,4,173,"Wisconsin","FOUL","FOUL","11 Jovana Spasovski FOUL (1 PF)","Jovana Spasovski",11.0,"",""
+2025.0,19741.0,4,173,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (27 Pt)","Oluchi Okananwa",7.0,91.0,53.0
+2025.0,19741.0,4,173,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (28 Pt)","Oluchi Okananwa",7.0,92.0,53.0
+2025.0,19741.0,4,173,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 40 Breanna Williams IN","Oluchi Okananwa",7.0,"",""
+2025.0,19741.0,4,162,"Wisconsin","TURNOVER","TURNOVER","00 Nikki Kerstein TURNOVER (1 TO)","Nikki Kerstein",0.0,"",""
+2025.0,19741.0,4,162,"Maryland","STEAL","STEAL","11 Marya Boiko STEAL (1 Stl)","Marya Boiko",11.0,"",""
+2025.0,19741.0,4,158,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (3 TO)","Marya Boiko",11.0,"",""
+2025.0,19741.0,4,158,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 21 Nicole Fritea IN","Addi Mack",3.0,"",""
+2025.0,19741.0,4,147,"Wisconsin","TURNOVER","TURNOVER","11 Jovana Spasovski TURNOVER (2 TO)","Jovana Spasovski",11.0,"",""
+2025.0,19741.0,4,147,"Maryland","STEAL","STEAL","08 Kyndal Walker STEAL (1 Stl)","Kyndal Walker",8.0,"",""
+2025.0,19741.0,4,142,"Wisconsin","FOUL","FOUL","00 Nikki Kerstein FOUL (1 PF)","Nikki Kerstein",0.0,"",""
+2025.0,19741.0,4,142,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (7 Pt)","Kyndal Walker",8.0,93.0,53.0
+2025.0,19741.0,4,142,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (8 Pt)","Kyndal Walker",8.0,94.0,53.0
+2025.0,19741.0,4,127,"Wisconsin","3PTR","GOOD","04 Lily Krahn 3PTR GOOD (3 Pt); 00 Nikki Kerstein Assist (1 Asst)","Lily Krahn",4.0,94.0,56.0
+2025.0,19741.0,4,118,"Maryland","LAYUP","MISS","21 Nicole Fritea LAYUP MISS","Nicole Fritea",21.0,"",""
+2025.0,19741.0,4,115,"Maryland","OFF","REBOUND","21 Nicole Fritea OFF. REBOUND (1 Reb, 1 Off)","Nicole Fritea",21.0,"",""
+2025.0,19741.0,4,115,"Wisconsin","FOUL","FOUL","02 Alie Bisballe FOUL (1 PF)","Alie Bisballe",2.0,"",""
+2025.0,19741.0,4,115,"Wisconsin","SUBS","SUBS","04 Lily Krahn OUT; 22 Shay Bollin OUT; 05 Leena Patibandla IN; 09 Alba MartÃ­n Mesa IN","Lily Krahn",4.0,"",""
+2025.0,19741.0,4,115,"Maryland","FT","GOOD","21 Nicole Fritea FT GOOD (1 Pt)","Nicole Fritea",21.0,95.0,56.0
+2025.0,19741.0,4,115,"Maryland","FT","GOOD","21 Nicole Fritea FT GOOD (2 Pt)","Nicole Fritea",21.0,96.0,56.0
+2025.0,19741.0,4,88,"Wisconsin","LAYUP","GOOD","11 Jovana Spasovski LAYUP GOOD (6 Pt)","Jovana Spasovski",11.0,96.0,58.0
+2025.0,19741.0,4,65,"Maryland","LAYUP","MISS","08 Kyndal Walker LAYUP MISS","Kyndal Walker",8.0,"",""
+2025.0,19741.0,4,63,"Maryland","OFF","REBOUND","40 Breanna Williams OFF. REBOUND (1 Reb, 1 Off)","Breanna Williams",40.0,"",""
+2025.0,19741.0,4,63,"Wisconsin","FOUL","FOUL","09 Alba MartÃ­n Mesa FOUL (1 PF)","Alba MartÃ­n Mesa",9.0,"",""
+2025.0,19741.0,4,63,"Maryland","FT","MISS","40 Breanna Williams FT MISS","Breanna Williams",40.0,"",""
+2025.0,19741.0,4,63,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19741.0,4,63,"Maryland","FT","GOOD","40 Breanna Williams FT GOOD (3 Pt)","Breanna Williams",40.0,97.0,58.0
+2025.0,19741.0,4,45,"Wisconsin","3PTR","MISS","11 Jovana Spasovski 3PTR MISS","Jovana Spasovski",11.0,"",""
+2025.0,19741.0,4,41,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (4 Reb, 2 Def)","Kyndal Walker",8.0,"",""
+2025.0,19741.0,4,38,"Maryland","3PTR","MISS","40 Breanna Williams 3PTR MISS","Breanna Williams",40.0,"",""
+2025.0,19741.0,4,32,"Wisconsin","DEF","REBOUND","05 Leena Patibandla DEF. REBOUND (1 Reb, 1 Def)","Leena Patibandla",5.0,"",""
+2025.0,19741.0,4,12,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025.0,19741.0,4,12,"Wisconsin","FT","MISS","02 Alie Bisballe FT MISS","Alie Bisballe",2.0,"",""
+2025.0,19741.0,4,12,"Wisconsin","DEADB","REBOUND","Wisconsin REBOUND","","","",""
+2025.0,19741.0,4,12,"Wisconsin","FT","GOOD","02 Alie Bisballe FT GOOD (1 Pt)","Alie Bisballe",2.0,97.0,59.0
+2025.0,19741.0,4,3,"Maryland","TURNOVER","TURNOVER","Maryland TURNOVER (1 TO)","","","",""
