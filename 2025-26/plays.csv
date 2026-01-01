@@ -10493,356 +10493,356 @@
 "","",4,20,"George Mason","DEF","REBOUND","George Mason REBOUND","","","",""
 "","",4,1,"George Mason","TURNOVER","TURNOVER","01 Sanyiah Littlejohn-Short TURNOVER (1 TO)","Sanyiah Littlejohn-Short",1.0,"",""
 "","",4,1,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (1 Stl)","Mir McLean",10.0,"",""
-"","",1,590,"Maryland","3PTR","MISS","02 Kaylene Smikle 3PTR MISS","Kaylene Smikle","02","",""
-"","",1,588,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa","07","",""
-"","",1,585,"Maryland","TURNOVER","TURNOVER","02 Kaylene Smikle TURNOVER (1 TO)","Kaylene Smikle","02","",""
+"","",1,590,"Maryland","3PTR","MISS","02 Kaylene Smikle 3PTR MISS","Kaylene Smikle",2.0,"",""
+"","",1,588,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+"","",1,585,"Maryland","TURNOVER","TURNOVER","02 Kaylene Smikle TURNOVER (1 TO)","Kaylene Smikle",2.0,"",""
 "","",1,553,"Kentucky","TURNOVER","TURNOVER","Kentucky TURNOVER (1 TO)","","","",""
-"","",1,540,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger","06","",""
-"","",1,535,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (2 Reb, 2 Off)","Oluchi Okananwa","07","",""
-"","",1,535,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa","07","",""
-"","",1,535,"Kentucky","STEAL","STEAL","00 Jordan Obi STEAL (1 Stl)","Jordan Obi","00","",""
-"","",1,532,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack","03","",""
-"","",1,532,"Kentucky","FT","GOOD","00 Jordan Obi FT GOOD (1 Pt)","Jordan Obi","00",0.0,1.0
-"","",1,532,"Kentucky","FT","GOOD","00 Jordan Obi FT GOOD (2 Pt)","Jordan Obi","00",0.0,2.0
-"","",1,513,"Maryland","LAYUP","MISS","02 Kaylene Smikle LAYUP MISS; 05 Tonie Morgan BLOCK (1 Blk)","Kaylene Smikle","02","",""
-"","",1,507,"Maryland","OFF","REBOUND","02 Kaylene Smikle OFF. REBOUND (1 Reb, 1 Off)","Kaylene Smikle","02","",""
-"","",1,507,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (2 Pt)","Kaylene Smikle","02",2.0,2.0
-"","",1,503,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (1 TO)","Tonie Morgan","05","",""
-"","",1,503,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (1 Stl)","Addi Mack","03","",""
-"","",1,499,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (4 Pt); 03 Addi Mack Assist (1 Asst)","Kaylene Smikle","02",4.0,2.0
-"","",1,490,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (2 TO)","Tonie Morgan","05","",""
-"","",1,470,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (3 Pt); 02 Kaylene Smikle Assist (1 Asst)","Yarden Garzon","12",7.0,2.0
-"","",1,446,"Kentucky","TURNOVER","TURNOVER","13 Clara Strack TURNOVER (1 TO)","Clara Strack","13","",""
-"","",1,425,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (2 Pt); 12 Yarden Garzon Assist (1 Asst)","Addi Mack","03",9.0,2.0
-"","",1,425,"Kentucky","FOUL","FOUL","05 Tonie Morgan FOUL (1 PF)","Tonie Morgan","05","",""
-"","",1,425,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (3 Pt)","Addi Mack","03",10.0,2.0
-"","",1,416,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon","12","",""
-"","",1,416,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 09 Isimenme Ozzy-Momodu IN","Kaylene Smikle","02","",""
-"","",1,400,"Kentucky","TURNOVER","TURNOVER","32 Amelia Hassett TURNOVER (1 TO)","Amelia Hassett","32","",""
-"","",1,400,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon","12","",""
-"","",1,393,"Maryland","JUMPER","MISS","09 Isimenme Ozzy-Momodu JUMPER MISS","Isimenme Ozzy-Momodu","09","",""
-"","",1,391,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (1 Reb, 1 Def)","Jordan Obi","00","",""
-"","",1,384,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett","32","",""
-"","",1,381,"Kentucky","OFF","REBOUND","13 Clara Strack OFF. REBOUND (1 Reb, 1 Off)","Clara Strack","13","",""
-"","",1,381,"Kentucky","JUMPER","MISS","13 Clara Strack JUMPER MISS","Clara Strack","13","",""
-"","",1,378,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger","06","",""
-"","",1,370,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 00 Rainey Welson IN","Yarden Garzon","12","",""
-"","",1,370,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 08 Asia Boone IN","Jordan Obi","00","",""
-"","",1,362,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa","07","",""
-"","",1,358,"Kentucky","DEF","REBOUND","32 Amelia Hassett DEF. REBOUND (1 Reb, 1 Def)","Amelia Hassett","32","",""
-"","",1,350,"Kentucky","LAYUP","GOOD","08 Asia Boone LAYUP GOOD (2 Pt)","Asia Boone","08",10.0,4.0
-"","",1,337,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (1 PF)","Teonni Key","07","",""
-"","",1,337,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (1 Pt)","Oluchi Okananwa","07",11.0,4.0
-"","",1,337,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (2 Pt)","Oluchi Okananwa","07",12.0,4.0
-"","",1,326,"Kentucky","LAYUP","MISS","07 Teonni Key LAYUP MISS","Teonni Key","07","",""
+"","",1,540,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+"","",1,535,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (2 Reb, 2 Off)","Oluchi Okananwa",7.0,"",""
+"","",1,535,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+"","",1,535,"Kentucky","STEAL","STEAL","00 Jordan Obi STEAL (1 Stl)","Jordan Obi",0.0,"",""
+"","",1,532,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack",3.0,"",""
+"","",1,532,"Kentucky","FT","GOOD","00 Jordan Obi FT GOOD (1 Pt)","Jordan Obi",0.0,0.0,1.0
+"","",1,532,"Kentucky","FT","GOOD","00 Jordan Obi FT GOOD (2 Pt)","Jordan Obi",0.0,0.0,2.0
+"","",1,513,"Maryland","LAYUP","MISS","02 Kaylene Smikle LAYUP MISS; 05 Tonie Morgan BLOCK (1 Blk)","Kaylene Smikle",2.0,"",""
+"","",1,507,"Maryland","OFF","REBOUND","02 Kaylene Smikle OFF. REBOUND (1 Reb, 1 Off)","Kaylene Smikle",2.0,"",""
+"","",1,507,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (2 Pt)","Kaylene Smikle",2.0,2.0,2.0
+"","",1,503,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (1 TO)","Tonie Morgan",5.0,"",""
+"","",1,503,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (1 Stl)","Addi Mack",3.0,"",""
+"","",1,499,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (4 Pt); 03 Addi Mack Assist (1 Asst)","Kaylene Smikle",2.0,4.0,2.0
+"","",1,490,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (2 TO)","Tonie Morgan",5.0,"",""
+"","",1,470,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (3 Pt); 02 Kaylene Smikle Assist (1 Asst)","Yarden Garzon",12.0,7.0,2.0
+"","",1,446,"Kentucky","TURNOVER","TURNOVER","13 Clara Strack TURNOVER (1 TO)","Clara Strack",13.0,"",""
+"","",1,425,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (2 Pt); 12 Yarden Garzon Assist (1 Asst)","Addi Mack",3.0,9.0,2.0
+"","",1,425,"Kentucky","FOUL","FOUL","05 Tonie Morgan FOUL (1 PF)","Tonie Morgan",5.0,"",""
+"","",1,425,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (3 Pt)","Addi Mack",3.0,10.0,2.0
+"","",1,416,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+"","",1,416,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 09 Isimenme Ozzy-Momodu IN","Kaylene Smikle",2.0,"",""
+"","",1,400,"Kentucky","TURNOVER","TURNOVER","32 Amelia Hassett TURNOVER (1 TO)","Amelia Hassett",32.0,"",""
+"","",1,400,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon",12.0,"",""
+"","",1,393,"Maryland","JUMPER","MISS","09 Isimenme Ozzy-Momodu JUMPER MISS","Isimenme Ozzy-Momodu",9.0,"",""
+"","",1,391,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (1 Reb, 1 Def)","Jordan Obi",0.0,"",""
+"","",1,384,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett",32.0,"",""
+"","",1,381,"Kentucky","OFF","REBOUND","13 Clara Strack OFF. REBOUND (1 Reb, 1 Off)","Clara Strack",13.0,"",""
+"","",1,381,"Kentucky","JUMPER","MISS","13 Clara Strack JUMPER MISS","Clara Strack",13.0,"",""
+"","",1,378,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+"","",1,370,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 00 Rainey Welson IN","Yarden Garzon",12.0,"",""
+"","",1,370,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 08 Asia Boone IN","Jordan Obi",0.0,"",""
+"","",1,362,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+"","",1,358,"Kentucky","DEF","REBOUND","32 Amelia Hassett DEF. REBOUND (1 Reb, 1 Def)","Amelia Hassett",32.0,"",""
+"","",1,350,"Kentucky","LAYUP","GOOD","08 Asia Boone LAYUP GOOD (2 Pt)","Asia Boone",8.0,10.0,4.0
+"","",1,337,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (1 PF)","Teonni Key",7.0,"",""
+"","",1,337,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (1 Pt)","Oluchi Okananwa",7.0,11.0,4.0
+"","",1,337,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (2 Pt)","Oluchi Okananwa",7.0,12.0,4.0
+"","",1,326,"Kentucky","LAYUP","MISS","07 Teonni Key LAYUP MISS","Teonni Key",7.0,"",""
 "","",1,325,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
-"","",1,307,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (2 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Isimenme Ozzy-Momodu","09",14.0,4.0
-"","",1,297,"Kentucky","LAYUP","GOOD","32 Amelia Hassett LAYUP GOOD (2 Pt); 13 Clara Strack Assist (1 Asst)","Amelia Hassett","32",14.0,6.0
-"","",1,282,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu","09","",""
-"","",1,280,"Kentucky","DEF","REBOUND","32 Amelia Hassett DEF. REBOUND (2 Reb, 2 Def)","Amelia Hassett","32","",""
-"","",1,270,"Kentucky","LAYUP","GOOD","07 Teonni Key LAYUP GOOD (2 Pt)","Teonni Key","07",14.0,8.0
-"","",1,250,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger","06","",""
-"","",1,250,"Kentucky","STEAL","STEAL","08 Asia Boone STEAL (1 Stl)","Asia Boone","08","",""
-"","",1,227,"Kentucky","JUMPER","MISS","13 Clara Strack JUMPER MISS","Clara Strack","13","",""
-"","",1,225,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack","03","",""
-"","",1,221,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack","03","",""
-"","",1,218,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (2 Reb, 1 Def)","Clara Strack","13","",""
+"","",1,307,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (2 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Isimenme Ozzy-Momodu",9.0,14.0,4.0
+"","",1,297,"Kentucky","LAYUP","GOOD","32 Amelia Hassett LAYUP GOOD (2 Pt); 13 Clara Strack Assist (1 Asst)","Amelia Hassett",32.0,14.0,6.0
+"","",1,282,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+"","",1,280,"Kentucky","DEF","REBOUND","32 Amelia Hassett DEF. REBOUND (2 Reb, 2 Def)","Amelia Hassett",32.0,"",""
+"","",1,270,"Kentucky","LAYUP","GOOD","07 Teonni Key LAYUP GOOD (2 Pt)","Teonni Key",7.0,14.0,8.0
+"","",1,250,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+"","",1,250,"Kentucky","STEAL","STEAL","08 Asia Boone STEAL (1 Stl)","Asia Boone",8.0,"",""
+"","",1,227,"Kentucky","JUMPER","MISS","13 Clara Strack JUMPER MISS","Clara Strack",13.0,"",""
+"","",1,225,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+"","",1,221,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+"","",1,218,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (2 Reb, 1 Def)","Clara Strack",13.0,"",""
 "","",1,213,"Kentucky","MEDIA","TIMEOUT","Media Timeout","","","",""
-"","",1,213,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 09 Isimenme Ozzy-Momodu OUT; 02 Kaylene Smikle IN; 12 Yarden Garzon IN","Oluchi Okananwa","07","",""
-"","",1,213,"Kentucky","SUBS","SUBS","07 Teonni Key OUT; 32 Amelia Hassett OUT; 00 Jordan Obi IN; 20 Kaelyn Carroll IN","Teonni Key","07","",""
-"","",1,211,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (3 TO)","Tonie Morgan","05","",""
-"","",1,202,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger","06","",""
-"","",1,199,"Kentucky","DEF","REBOUND","08 Asia Boone DEF. REBOUND (1 Reb, 1 Def)","Asia Boone","08","",""
-"","",1,188,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 07 Oluchi Okananwa IN","Rainey Welson","00","",""
-"","",1,166,"Kentucky","3PTR","MISS","20 Kaelyn Carroll 3PTR MISS","Kaelyn Carroll","20","",""
-"","",1,166,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (3 Reb, 1 Def)","Oluchi Okananwa","07","",""
-"","",1,166,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (2 TO)","Oluchi Okananwa","07","",""
-"","",1,163,"Kentucky","LAYUP","MISS","00 Jordan Obi LAYUP MISS","Jordan Obi","00","",""
-"","",1,161,"Kentucky","OFF","REBOUND","00 Jordan Obi OFF. REBOUND (2 Reb, 1 Off)","Jordan Obi","00","",""
-"","",1,160,"Kentucky","LAYUP","MISS","00 Jordan Obi LAYUP MISS","Jordan Obi","00","",""
-"","",1,158,"Kentucky","OFF","REBOUND","13 Clara Strack OFF. REBOUND (3 Reb, 2 Off)","Clara Strack","13","",""
-"","",1,156,"Kentucky","LAYUP","MISS","13 Clara Strack LAYUP MISS","Clara Strack","13","",""
-"","",1,153,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (2 Reb, 1 Def)","Kaylene Smikle","02","",""
-"","",1,150,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (5 Pt)","Kaylene Smikle","02",15.0,8.0
-"","",1,150,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (6 Pt)","Kaylene Smikle","02",16.0,8.0
-"","",1,148,"Kentucky","FOUL","FOUL","00 Jordan Obi FOUL (1 PF)","Jordan Obi","00","",""
-"","",1,122,"Kentucky","LAYUP","GOOD","05 Tonie Morgan LAYUP GOOD (2 Pt)","Tonie Morgan","05",16.0,10.0
-"","",1,105,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger","06","",""
-"","",1,102,"Kentucky","DEF","REBOUND","05 Tonie Morgan DEF. REBOUND (1 Reb, 1 Def)","Tonie Morgan","05","",""
-"","",1,97,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone","08","",""
-"","",1,94,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (4 Reb, 2 Def)","Oluchi Okananwa","07","",""
-"","",1,90,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (6 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Yarden Garzon","12",19.0,10.0
-"","",1,66,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (4 TO)","Tonie Morgan","05","",""
-"","",1,66,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger","06","",""
-"","",1,60,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack","03","",""
-"","",1,57,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (4 Reb, 2 Def)","Clara Strack","13","",""
-"","",1,53,"Kentucky","LAYUP","MISS","20 Kaelyn Carroll LAYUP MISS","Kaelyn Carroll","20","",""
-"","",1,50,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon","12","",""
-"","",1,47,"Kentucky","FOUL","FOUL","08 Asia Boone FOUL (1 PF)","Asia Boone","08","",""
-"","",1,47,"Kentucky","SUBS","SUBS","13 Clara Strack OUT; 20 Kaelyn Carroll OUT; 07 Teonni Key IN; 32 Amelia Hassett IN","Clara Strack","13","",""
-"","",1,47,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (7 Pt)","Kaylene Smikle","02",20.0,10.0
-"","",1,47,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (8 Pt)","Kaylene Smikle","02",21.0,10.0
-"","",1,47,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 10 Mir McLean IN","Kaylene Smikle","02","",""
-"","",1,29,"Kentucky","LAYUP","GOOD","00 Jordan Obi LAYUP GOOD (4 Pt)","Jordan Obi","00",21.0,12.0
-"","",1,0,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa","07","",""
+"","",1,213,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 09 Isimenme Ozzy-Momodu OUT; 02 Kaylene Smikle IN; 12 Yarden Garzon IN","Oluchi Okananwa",7.0,"",""
+"","",1,213,"Kentucky","SUBS","SUBS","07 Teonni Key OUT; 32 Amelia Hassett OUT; 00 Jordan Obi IN; 20 Kaelyn Carroll IN","Teonni Key",7.0,"",""
+"","",1,211,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (3 TO)","Tonie Morgan",5.0,"",""
+"","",1,202,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+"","",1,199,"Kentucky","DEF","REBOUND","08 Asia Boone DEF. REBOUND (1 Reb, 1 Def)","Asia Boone",8.0,"",""
+"","",1,188,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 07 Oluchi Okananwa IN","Rainey Welson",0.0,"",""
+"","",1,166,"Kentucky","3PTR","MISS","20 Kaelyn Carroll 3PTR MISS","Kaelyn Carroll",20.0,"",""
+"","",1,166,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (3 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+"","",1,166,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (2 TO)","Oluchi Okananwa",7.0,"",""
+"","",1,163,"Kentucky","LAYUP","MISS","00 Jordan Obi LAYUP MISS","Jordan Obi",0.0,"",""
+"","",1,161,"Kentucky","OFF","REBOUND","00 Jordan Obi OFF. REBOUND (2 Reb, 1 Off)","Jordan Obi",0.0,"",""
+"","",1,160,"Kentucky","LAYUP","MISS","00 Jordan Obi LAYUP MISS","Jordan Obi",0.0,"",""
+"","",1,158,"Kentucky","OFF","REBOUND","13 Clara Strack OFF. REBOUND (3 Reb, 2 Off)","Clara Strack",13.0,"",""
+"","",1,156,"Kentucky","LAYUP","MISS","13 Clara Strack LAYUP MISS","Clara Strack",13.0,"",""
+"","",1,153,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (2 Reb, 1 Def)","Kaylene Smikle",2.0,"",""
+"","",1,150,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (5 Pt)","Kaylene Smikle",2.0,15.0,8.0
+"","",1,150,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (6 Pt)","Kaylene Smikle",2.0,16.0,8.0
+"","",1,148,"Kentucky","FOUL","FOUL","00 Jordan Obi FOUL (1 PF)","Jordan Obi",0.0,"",""
+"","",1,122,"Kentucky","LAYUP","GOOD","05 Tonie Morgan LAYUP GOOD (2 Pt)","Tonie Morgan",5.0,16.0,10.0
+"","",1,105,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+"","",1,102,"Kentucky","DEF","REBOUND","05 Tonie Morgan DEF. REBOUND (1 Reb, 1 Def)","Tonie Morgan",5.0,"",""
+"","",1,97,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone",8.0,"",""
+"","",1,94,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (4 Reb, 2 Def)","Oluchi Okananwa",7.0,"",""
+"","",1,90,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (6 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Yarden Garzon",12.0,19.0,10.0
+"","",1,66,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (4 TO)","Tonie Morgan",5.0,"",""
+"","",1,66,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+"","",1,60,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+"","",1,57,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (4 Reb, 2 Def)","Clara Strack",13.0,"",""
+"","",1,53,"Kentucky","LAYUP","MISS","20 Kaelyn Carroll LAYUP MISS","Kaelyn Carroll",20.0,"",""
+"","",1,50,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+"","",1,47,"Kentucky","FOUL","FOUL","08 Asia Boone FOUL (1 PF)","Asia Boone",8.0,"",""
+"","",1,47,"Kentucky","SUBS","SUBS","13 Clara Strack OUT; 20 Kaelyn Carroll OUT; 07 Teonni Key IN; 32 Amelia Hassett IN","Clara Strack",13.0,"",""
+"","",1,47,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (7 Pt)","Kaylene Smikle",2.0,20.0,10.0
+"","",1,47,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (8 Pt)","Kaylene Smikle",2.0,21.0,10.0
+"","",1,47,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 10 Mir McLean IN","Kaylene Smikle",2.0,"",""
+"","",1,29,"Kentucky","LAYUP","GOOD","00 Jordan Obi LAYUP GOOD (4 Pt)","Jordan Obi",0.0,21.0,12.0
+"","",1,0,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
 "","",1,0,"Kentucky","DEF","REBOUND","Kentucky REBOUND","","","",""
-"","",2,600,"Kentucky","SUBS","SUBS","08 Asia Boone OUT; 13 Clara Strack IN","Asia Boone","08","",""
-"","",2,582,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (5 TO)","Tonie Morgan","05","",""
-"","",2,582,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (2 Stl)","Saylor Poffenbarger","06","",""
-"","",2,568,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon","12","",""
-"","",2,561,"Kentucky","TURNOVER","TURNOVER","00 Jordan Obi TURNOVER (1 TO)","Jordan Obi","00","",""
-"","",2,561,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa","07","",""
-"","",2,557,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS; 32 Amelia Hassett BLOCK (1 Blk)","Oluchi Okananwa","07","",""
+"","",2,600,"Kentucky","SUBS","SUBS","08 Asia Boone OUT; 13 Clara Strack IN","Asia Boone",8.0,"",""
+"","",2,582,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (5 TO)","Tonie Morgan",5.0,"",""
+"","",2,582,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (2 Stl)","Saylor Poffenbarger",6.0,"",""
+"","",2,568,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+"","",2,561,"Kentucky","TURNOVER","TURNOVER","00 Jordan Obi TURNOVER (1 TO)","Jordan Obi",0.0,"",""
+"","",2,561,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+"","",2,557,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS; 32 Amelia Hassett BLOCK (1 Blk)","Oluchi Okananwa",7.0,"",""
 "","",2,557,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
-"","",2,547,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon","12","",""
+"","",2,547,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
 "","",2,547,"Kentucky","DEF","REBOUND","Kentucky REBOUND","","","",""
-"","",2,547,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon","12","",""
-"","",2,547,"Kentucky","TURNOVER","TURNOVER","00 Jordan Obi TURNOVER (2 TO)","Jordan Obi","00","",""
-"","",2,547,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (1 Stl)","Mir McLean","10","",""
-"","",2,547,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa","07","",""
-"","",2,547,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (3 Reb, 2 Def)","Jordan Obi","00","",""
-"","",2,547,"Kentucky","TURNOVER","TURNOVER","00 Jordan Obi TURNOVER (3 TO)","Jordan Obi","00","",""
-"","",2,547,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (2 Stl)","Oluchi Okananwa","07","",""
-"","",2,547,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa","07","",""
-"","",2,536,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 02 Kaylene Smikle IN","Yarden Garzon","12","",""
-"","",2,536,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 08 Asia Boone IN","Jordan Obi","00","",""
-"","",2,502,"Kentucky","3PTR","GOOD","32 Amelia Hassett 3PTR GOOD (5 Pt); 05 Tonie Morgan Assist (1 Asst)","Amelia Hassett","32",21.0,15.0
-"","",2,487,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (5 Pt)","Addi Mack","03",23.0,15.0
-"","",2,476,"Kentucky","3PTR","GOOD","05 Tonie Morgan 3PTR GOOD (5 Pt); 32 Amelia Hassett Assist (1 Asst)","Tonie Morgan","05",23.0,18.0
-"","",2,468,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (2 PF)","Teonni Key","07","",""
-"","",2,468,"Kentucky","SUBS","SUBS","07 Teonni Key OUT; 00 Jordan Obi IN","Teonni Key","07","",""
-"","",2,468,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (9 Pt)","Kaylene Smikle","02",24.0,18.0
-"","",2,468,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (10 Pt)","Kaylene Smikle","02",25.0,18.0
-"","",2,468,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 00 Rainey Welson IN","Kaylene Smikle","02","",""
-"","",2,466,"Kentucky","FOUL","FOUL","08 Asia Boone FOUL (2 PF)","Asia Boone","08","",""
-"","",2,466,"Kentucky","TURNOVER","TURNOVER","08 Asia Boone TURNOVER (1 TO)","Asia Boone","08","",""
-"","",2,454,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (3 TO)","Oluchi Okananwa","07","",""
-"","",2,436,"Kentucky","JUMPER","MISS","05 Tonie Morgan JUMPER MISS","Tonie Morgan","05","",""
-"","",2,434,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 2 Def)","Saylor Poffenbarger","06","",""
-"","",2,426,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (2 Pt)","Saylor Poffenbarger","06",27.0,18.0
-"","",2,401,"Kentucky","3PTR","MISS","00 Jordan Obi 3PTR MISS","Jordan Obi","00","",""
-"","",2,399,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 3 Def)","Saylor Poffenbarger","06","",""
-"","",2,392,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson","00","",""
-"","",2,389,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (5 Reb, 3 Def)","Clara Strack","13","",""
-"","",2,383,"Kentucky","3PTR","GOOD","08 Asia Boone 3PTR GOOD (5 Pt); 05 Tonie Morgan Assist (2 Asst)","Asia Boone","08",27.0,21.0
-"","",2,360,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger","06","",""
-"","",2,358,"Kentucky","DEF","REBOUND","05 Tonie Morgan DEF. REBOUND (2 Reb, 2 Def)","Tonie Morgan","05","",""
-"","",2,352,"Kentucky","LAYUP","MISS","13 Clara Strack LAYUP MISS","Clara Strack","13","",""
-"","",2,349,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean","10","",""
-"","",2,327,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger","06","",""
-"","",2,324,"Kentucky","DEF","REBOUND","32 Amelia Hassett DEF. REBOUND (3 Reb, 3 Def)","Amelia Hassett","32","",""
-"","",2,309,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett","32","",""
+"","",2,547,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon",12.0,"",""
+"","",2,547,"Kentucky","TURNOVER","TURNOVER","00 Jordan Obi TURNOVER (2 TO)","Jordan Obi",0.0,"",""
+"","",2,547,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (1 Stl)","Mir McLean",10.0,"",""
+"","",2,547,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+"","",2,547,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (3 Reb, 2 Def)","Jordan Obi",0.0,"",""
+"","",2,547,"Kentucky","TURNOVER","TURNOVER","00 Jordan Obi TURNOVER (3 TO)","Jordan Obi",0.0,"",""
+"","",2,547,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (2 Stl)","Oluchi Okananwa",7.0,"",""
+"","",2,547,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+"","",2,536,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 02 Kaylene Smikle IN","Yarden Garzon",12.0,"",""
+"","",2,536,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 08 Asia Boone IN","Jordan Obi",0.0,"",""
+"","",2,502,"Kentucky","3PTR","GOOD","32 Amelia Hassett 3PTR GOOD (5 Pt); 05 Tonie Morgan Assist (1 Asst)","Amelia Hassett",32.0,21.0,15.0
+"","",2,487,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (5 Pt)","Addi Mack",3.0,23.0,15.0
+"","",2,476,"Kentucky","3PTR","GOOD","05 Tonie Morgan 3PTR GOOD (5 Pt); 32 Amelia Hassett Assist (1 Asst)","Tonie Morgan",5.0,23.0,18.0
+"","",2,468,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (2 PF)","Teonni Key",7.0,"",""
+"","",2,468,"Kentucky","SUBS","SUBS","07 Teonni Key OUT; 00 Jordan Obi IN","Teonni Key",7.0,"",""
+"","",2,468,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (9 Pt)","Kaylene Smikle",2.0,24.0,18.0
+"","",2,468,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (10 Pt)","Kaylene Smikle",2.0,25.0,18.0
+"","",2,468,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 00 Rainey Welson IN","Kaylene Smikle",2.0,"",""
+"","",2,466,"Kentucky","FOUL","FOUL","08 Asia Boone FOUL (2 PF)","Asia Boone",8.0,"",""
+"","",2,466,"Kentucky","TURNOVER","TURNOVER","08 Asia Boone TURNOVER (1 TO)","Asia Boone",8.0,"",""
+"","",2,454,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (3 TO)","Oluchi Okananwa",7.0,"",""
+"","",2,436,"Kentucky","JUMPER","MISS","05 Tonie Morgan JUMPER MISS","Tonie Morgan",5.0,"",""
+"","",2,434,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+"","",2,426,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (2 Pt)","Saylor Poffenbarger",6.0,27.0,18.0
+"","",2,401,"Kentucky","3PTR","MISS","00 Jordan Obi 3PTR MISS","Jordan Obi",0.0,"",""
+"","",2,399,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+"","",2,392,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+"","",2,389,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (5 Reb, 3 Def)","Clara Strack",13.0,"",""
+"","",2,383,"Kentucky","3PTR","GOOD","08 Asia Boone 3PTR GOOD (5 Pt); 05 Tonie Morgan Assist (2 Asst)","Asia Boone",8.0,27.0,21.0
+"","",2,360,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+"","",2,358,"Kentucky","DEF","REBOUND","05 Tonie Morgan DEF. REBOUND (2 Reb, 2 Def)","Tonie Morgan",5.0,"",""
+"","",2,352,"Kentucky","LAYUP","MISS","13 Clara Strack LAYUP MISS","Clara Strack",13.0,"",""
+"","",2,349,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean",10.0,"",""
+"","",2,327,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+"","",2,324,"Kentucky","DEF","REBOUND","32 Amelia Hassett DEF. REBOUND (3 Reb, 3 Def)","Amelia Hassett",32.0,"",""
+"","",2,309,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett",32.0,"",""
 "","",2,305,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
-"","",2,305,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 04 Lexi Blue IN","Jordan Obi","00","",""
-"","",2,305,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 11 Marya Boiko IN; 06 Saylor Poffenbarger OUT; 07 Oluchi Okananwa OUT; 02 Kaylene Smikle IN; 12 Yarden Garzon IN","Mir McLean","10","",""
-"","",2,300,"Kentucky","FOUL","FOUL","05 Tonie Morgan FOUL (2 PF)","Tonie Morgan","05","",""
+"","",2,305,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 04 Lexi Blue IN","Jordan Obi",0.0,"",""
+"","",2,305,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 11 Marya Boiko IN; 06 Saylor Poffenbarger OUT; 07 Oluchi Okananwa OUT; 02 Kaylene Smikle IN; 12 Yarden Garzon IN","Mir McLean",10.0,"",""
+"","",2,300,"Kentucky","FOUL","FOUL","05 Tonie Morgan FOUL (2 PF)","Tonie Morgan",5.0,"",""
 "","",2,289,"Kentucky","MEDIA","TIMEOUT","Media Timeout","","","",""
-"","",2,289,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 10 Mir McLean IN","Marya Boiko","11","",""
-"","",2,285,"Kentucky","FOUL","FOUL","32 Amelia Hassett FOUL (1 PF)","Amelia Hassett","32","",""
-"","",2,285,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (11 Pt)","Kaylene Smikle","02",28.0,21.0
-"","",2,285,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (12 Pt)","Kaylene Smikle","02",29.0,21.0
-"","",2,285,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 07 Oluchi Okananwa IN","Rainey Welson","00","",""
-"","",2,269,"Kentucky","3PTR","MISS","04 Lexi Blue 3PTR MISS","Lexi Blue","04","",""
-"","",2,267,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (2 Reb, 2 Def)","Addi Mack","03","",""
-"","",2,253,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (9 Pt); 03 Addi Mack Assist (2 Asst)","Yarden Garzon","12",32.0,21.0
-"","",2,246,"Kentucky","LAYUP","GOOD","04 Lexi Blue LAYUP GOOD (2 Pt); 32 Amelia Hassett Assist (2 Asst)","Lexi Blue","04",32.0,23.0
-"","",2,236,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack","03","",""
-"","",2,236,"Kentucky","STEAL","STEAL","05 Tonie Morgan STEAL (1 Stl)","Tonie Morgan","05","",""
-"","",2,224,"Kentucky","3PTR","GOOD","05 Tonie Morgan 3PTR GOOD (8 Pt); 04 Lexi Blue Assist (1 Asst)","Tonie Morgan","05",32.0,26.0
-"","",2,203,"Maryland","LAYUP","MISS","02 Kaylene Smikle LAYUP MISS","Kaylene Smikle","02","",""
-"","",2,201,"Maryland","OFF","REBOUND","02 Kaylene Smikle OFF. REBOUND (3 Reb, 2 Off)","Kaylene Smikle","02","",""
-"","",2,195,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (12 Pt); 03 Addi Mack Assist (3 Asst)","Yarden Garzon","12",35.0,26.0
-"","",2,168,"Kentucky","LAYUP","GOOD","13 Clara Strack LAYUP GOOD (2 Pt); 32 Amelia Hassett Assist (3 Asst)","Clara Strack","13",35.0,28.0
-"","",2,161,"Maryland","LAYUP","MISS","02 Kaylene Smikle LAYUP MISS; 32 Amelia Hassett BLOCK (2 Blk)","Kaylene Smikle","02","",""
+"","",2,289,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 10 Mir McLean IN","Marya Boiko",11.0,"",""
+"","",2,285,"Kentucky","FOUL","FOUL","32 Amelia Hassett FOUL (1 PF)","Amelia Hassett",32.0,"",""
+"","",2,285,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (11 Pt)","Kaylene Smikle",2.0,28.0,21.0
+"","",2,285,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (12 Pt)","Kaylene Smikle",2.0,29.0,21.0
+"","",2,285,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 07 Oluchi Okananwa IN","Rainey Welson",0.0,"",""
+"","",2,269,"Kentucky","3PTR","MISS","04 Lexi Blue 3PTR MISS","Lexi Blue",4.0,"",""
+"","",2,267,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (2 Reb, 2 Def)","Addi Mack",3.0,"",""
+"","",2,253,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (9 Pt); 03 Addi Mack Assist (2 Asst)","Yarden Garzon",12.0,32.0,21.0
+"","",2,246,"Kentucky","LAYUP","GOOD","04 Lexi Blue LAYUP GOOD (2 Pt); 32 Amelia Hassett Assist (2 Asst)","Lexi Blue",4.0,32.0,23.0
+"","",2,236,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+"","",2,236,"Kentucky","STEAL","STEAL","05 Tonie Morgan STEAL (1 Stl)","Tonie Morgan",5.0,"",""
+"","",2,224,"Kentucky","3PTR","GOOD","05 Tonie Morgan 3PTR GOOD (8 Pt); 04 Lexi Blue Assist (1 Asst)","Tonie Morgan",5.0,32.0,26.0
+"","",2,203,"Maryland","LAYUP","MISS","02 Kaylene Smikle LAYUP MISS","Kaylene Smikle",2.0,"",""
+"","",2,201,"Maryland","OFF","REBOUND","02 Kaylene Smikle OFF. REBOUND (3 Reb, 2 Off)","Kaylene Smikle",2.0,"",""
+"","",2,195,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (12 Pt); 03 Addi Mack Assist (3 Asst)","Yarden Garzon",12.0,35.0,26.0
+"","",2,168,"Kentucky","LAYUP","GOOD","13 Clara Strack LAYUP GOOD (2 Pt); 32 Amelia Hassett Assist (3 Asst)","Clara Strack",13.0,35.0,28.0
+"","",2,161,"Maryland","LAYUP","MISS","02 Kaylene Smikle LAYUP MISS; 32 Amelia Hassett BLOCK (2 Blk)","Kaylene Smikle",2.0,"",""
 "","",2,157,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
-"","",2,157,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 06 Saylor Poffenbarger IN","Yarden Garzon","12","",""
-"","",2,157,"Kentucky","SUBS","SUBS","05 Tonie Morgan OUT; 32 Amelia Hassett OUT; 00 Jordan Obi IN; 33 Josie Gilvin IN","Tonie Morgan","05","",""
-"","",2,155,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS; 13 Clara Strack BLOCK (1 Blk)","Oluchi Okananwa","07","",""
-"","",2,146,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (4 Reb, 3 Def)","Jordan Obi","00","",""
-"","",2,138,"Kentucky","TURNOVER","TURNOVER","08 Asia Boone TURNOVER (2 TO)","Asia Boone","08","",""
-"","",2,138,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (2 Stl)","Mir McLean","10","",""
-"","",2,129,"Maryland","3PTR","MISS","02 Kaylene Smikle 3PTR MISS","Kaylene Smikle","02","",""
-"","",2,127,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (5 Reb, 4 Def)","Jordan Obi","00","",""
+"","",2,157,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 06 Saylor Poffenbarger IN","Yarden Garzon",12.0,"",""
+"","",2,157,"Kentucky","SUBS","SUBS","05 Tonie Morgan OUT; 32 Amelia Hassett OUT; 00 Jordan Obi IN; 33 Josie Gilvin IN","Tonie Morgan",5.0,"",""
+"","",2,155,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS; 13 Clara Strack BLOCK (1 Blk)","Oluchi Okananwa",7.0,"",""
+"","",2,146,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (4 Reb, 3 Def)","Jordan Obi",0.0,"",""
+"","",2,138,"Kentucky","TURNOVER","TURNOVER","08 Asia Boone TURNOVER (2 TO)","Asia Boone",8.0,"",""
+"","",2,138,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (2 Stl)","Mir McLean",10.0,"",""
+"","",2,129,"Maryland","3PTR","MISS","02 Kaylene Smikle 3PTR MISS","Kaylene Smikle",2.0,"",""
+"","",2,127,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (5 Reb, 4 Def)","Jordan Obi",0.0,"",""
 "","",2,98,"Kentucky","TURNOVER","TURNOVER","Kentucky TURNOVER (2 TO)","","","",""
-"","",2,87,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (14 Pt)","Kaylene Smikle","02",37.0,28.0
-"","",2,72,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone","08","",""
-"","",2,69,"Kentucky","OFF","REBOUND","04 Lexi Blue OFF. REBOUND (1 Reb, 1 Off)","Lexi Blue","04","",""
-"","",2,66,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone","08","",""
-"","",2,64,"Kentucky","OFF","REBOUND","13 Clara Strack OFF. REBOUND (6 Reb, 3 Off)","Clara Strack","13","",""
-"","",2,62,"Kentucky","3PTR","MISS","00 Jordan Obi 3PTR MISS","Jordan Obi","00","",""
-"","",2,59,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (3 Reb, 3 Def)","Addi Mack","03","",""
-"","",2,31,"Maryland","JUMPER","GOOD","02 Kaylene Smikle JUMPER GOOD (16 Pt)","Kaylene Smikle","02",39.0,28.0
-"","",2,0,"Kentucky","3PTR","MISS","04 Lexi Blue 3PTR MISS","Lexi Blue","04","",""
+"","",2,87,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (14 Pt)","Kaylene Smikle",2.0,37.0,28.0
+"","",2,72,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone",8.0,"",""
+"","",2,69,"Kentucky","OFF","REBOUND","04 Lexi Blue OFF. REBOUND (1 Reb, 1 Off)","Lexi Blue",4.0,"",""
+"","",2,66,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone",8.0,"",""
+"","",2,64,"Kentucky","OFF","REBOUND","13 Clara Strack OFF. REBOUND (6 Reb, 3 Off)","Clara Strack",13.0,"",""
+"","",2,62,"Kentucky","3PTR","MISS","00 Jordan Obi 3PTR MISS","Jordan Obi",0.0,"",""
+"","",2,59,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (3 Reb, 3 Def)","Addi Mack",3.0,"",""
+"","",2,31,"Maryland","JUMPER","GOOD","02 Kaylene Smikle JUMPER GOOD (16 Pt)","Kaylene Smikle",2.0,39.0,28.0
+"","",2,0,"Kentucky","3PTR","MISS","04 Lexi Blue 3PTR MISS","Lexi Blue",4.0,"",""
 "","",2,0,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
-"","",3,600,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 12 Yarden Garzon IN","Mir McLean","10","",""
-"","",3,600,"Kentucky","SUBS","SUBS","04 Lexi Blue OUT; 08 Asia Boone OUT; 33 Josie Gilvin OUT; 05 Tonie Morgan IN; 07 Teonni Key IN; 32 Amelia Hassett IN","Lexi Blue","04","",""
-"","",3,585,"Kentucky","LAYUP","MISS","07 Teonni Key LAYUP MISS","Teonni Key","07","",""
-"","",3,582,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 4 Def)","Saylor Poffenbarger","06","",""
-"","",3,572,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (2 TO)","Addi Mack","03","",""
-"","",3,557,"Kentucky","LAYUP","GOOD","07 Teonni Key LAYUP GOOD (4 Pt)","Teonni Key","07",39.0,30.0
-"","",3,535,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon","12","",""
-"","",3,533,"Kentucky","DEF","REBOUND","05 Tonie Morgan DEF. REBOUND (3 Reb, 3 Def)","Tonie Morgan","05","",""
-"","",3,514,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (6 TO)","Tonie Morgan","05","",""
-"","",3,499,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (7 Pt)","Addi Mack","03",41.0,30.0
-"","",3,486,"Kentucky","TURNOVER","TURNOVER","13 Clara Strack TURNOVER (2 TO)","Clara Strack","13","",""
-"","",3,486,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (3 Stl)","Saylor Poffenbarger","06","",""
-"","",3,469,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (10 Pt); 07 Oluchi Okananwa Assist (2 Asst)","Addi Mack","03",44.0,30.0
-"","",3,437,"Kentucky","LAYUP","GOOD","00 Jordan Obi LAYUP GOOD (6 Pt); 05 Tonie Morgan Assist (3 Asst)","Jordan Obi","00",44.0,32.0
-"","",3,430,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (12 Pt)","Addi Mack","03",46.0,32.0
-"","",3,427,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (3 PF)","Teonni Key","07","",""
-"","",3,427,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 10 Mir McLean IN","Oluchi Okananwa","07","",""
-"","",3,427,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (13 Pt)","Addi Mack","03",47.0,32.0
-"","",3,427,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (7 TO)","Tonie Morgan","05","",""
-"","",3,411,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger","06","",""
-"","",3,409,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (7 Reb, 4 Def)","Clara Strack","13","",""
-"","",3,404,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (3 PF)","Yarden Garzon","12","",""
-"","",3,400,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 07 Oluchi Okananwa IN","Yarden Garzon","12","",""
-"","",3,394,"Kentucky","TURNOVER","TURNOVER","32 Amelia Hassett TURNOVER (2 TO)","Amelia Hassett","32","",""
-"","",3,394,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (3 Stl)","Mir McLean","10","",""
-"","",3,390,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (4 PF)","Teonni Key","07","",""
-"","",3,390,"Kentucky","SUBS","SUBS","07 Teonni Key OUT; 08 Asia Boone IN","Teonni Key","07","",""
-"","",3,390,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (3 Pt)","Oluchi Okananwa","07",48.0,32.0
-"","",3,390,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (4 Pt)","Oluchi Okananwa","07",49.0,32.0
-"","",3,372,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (8 TO)","Tonie Morgan","05","",""
-"","",3,372,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (2 Stl)","Addi Mack","03","",""
-"","",3,364,"Maryland","3PTR","GOOD","02 Kaylene Smikle 3PTR GOOD (19 Pt); 03 Addi Mack Assist (4 Asst)","Kaylene Smikle","02",52.0,32.0
+"","",3,600,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 12 Yarden Garzon IN","Mir McLean",10.0,"",""
+"","",3,600,"Kentucky","SUBS","SUBS","04 Lexi Blue OUT; 08 Asia Boone OUT; 33 Josie Gilvin OUT; 05 Tonie Morgan IN; 07 Teonni Key IN; 32 Amelia Hassett IN","Lexi Blue",4.0,"",""
+"","",3,585,"Kentucky","LAYUP","MISS","07 Teonni Key LAYUP MISS","Teonni Key",7.0,"",""
+"","",3,582,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 4 Def)","Saylor Poffenbarger",6.0,"",""
+"","",3,572,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (2 TO)","Addi Mack",3.0,"",""
+"","",3,557,"Kentucky","LAYUP","GOOD","07 Teonni Key LAYUP GOOD (4 Pt)","Teonni Key",7.0,39.0,30.0
+"","",3,535,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+"","",3,533,"Kentucky","DEF","REBOUND","05 Tonie Morgan DEF. REBOUND (3 Reb, 3 Def)","Tonie Morgan",5.0,"",""
+"","",3,514,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (6 TO)","Tonie Morgan",5.0,"",""
+"","",3,499,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (7 Pt)","Addi Mack",3.0,41.0,30.0
+"","",3,486,"Kentucky","TURNOVER","TURNOVER","13 Clara Strack TURNOVER (2 TO)","Clara Strack",13.0,"",""
+"","",3,486,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (3 Stl)","Saylor Poffenbarger",6.0,"",""
+"","",3,469,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (10 Pt); 07 Oluchi Okananwa Assist (2 Asst)","Addi Mack",3.0,44.0,30.0
+"","",3,437,"Kentucky","LAYUP","GOOD","00 Jordan Obi LAYUP GOOD (6 Pt); 05 Tonie Morgan Assist (3 Asst)","Jordan Obi",0.0,44.0,32.0
+"","",3,430,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (12 Pt)","Addi Mack",3.0,46.0,32.0
+"","",3,427,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (3 PF)","Teonni Key",7.0,"",""
+"","",3,427,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 10 Mir McLean IN","Oluchi Okananwa",7.0,"",""
+"","",3,427,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (13 Pt)","Addi Mack",3.0,47.0,32.0
+"","",3,427,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (7 TO)","Tonie Morgan",5.0,"",""
+"","",3,411,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+"","",3,409,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (7 Reb, 4 Def)","Clara Strack",13.0,"",""
+"","",3,404,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (3 PF)","Yarden Garzon",12.0,"",""
+"","",3,400,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 07 Oluchi Okananwa IN","Yarden Garzon",12.0,"",""
+"","",3,394,"Kentucky","TURNOVER","TURNOVER","32 Amelia Hassett TURNOVER (2 TO)","Amelia Hassett",32.0,"",""
+"","",3,394,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (3 Stl)","Mir McLean",10.0,"",""
+"","",3,390,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (4 PF)","Teonni Key",7.0,"",""
+"","",3,390,"Kentucky","SUBS","SUBS","07 Teonni Key OUT; 08 Asia Boone IN","Teonni Key",7.0,"",""
+"","",3,390,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (3 Pt)","Oluchi Okananwa",7.0,48.0,32.0
+"","",3,390,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (4 Pt)","Oluchi Okananwa",7.0,49.0,32.0
+"","",3,372,"Kentucky","TURNOVER","TURNOVER","05 Tonie Morgan TURNOVER (8 TO)","Tonie Morgan",5.0,"",""
+"","",3,372,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (2 Stl)","Addi Mack",3.0,"",""
+"","",3,364,"Maryland","3PTR","GOOD","02 Kaylene Smikle 3PTR GOOD (19 Pt); 03 Addi Mack Assist (4 Asst)","Kaylene Smikle",2.0,52.0,32.0
 "","",3,360,"Kentucky","MEDIA","TIMEOUT","Media Timeout","","","",""
 "","",3,360,"Kentucky","30SEC","TIMEOUT","Kentucky TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
-"","",3,339,"Kentucky","3PTR","GOOD","08 Asia Boone 3PTR GOOD (8 Pt); 05 Tonie Morgan Assist (4 Asst)","Asia Boone","08",52.0,35.0
-"","",3,333,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 12 Yarden Garzon IN","Kaylene Smikle","02","",""
-"","",3,321,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (5 Pt); 03 Addi Mack Assist (5 Asst)","Saylor Poffenbarger","06",55.0,35.0
-"","",3,310,"Kentucky","TURNOVER","TURNOVER","32 Amelia Hassett TURNOVER (3 TO)","Amelia Hassett","32","",""
-"","",3,290,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (2 TO)","Yarden Garzon","12","",""
-"","",3,290,"Kentucky","STEAL","STEAL","05 Tonie Morgan STEAL (2 Stl)","Tonie Morgan","05","",""
-"","",3,278,"Kentucky","JUMPER","GOOD","13 Clara Strack JUMPER GOOD (4 Pt); 05 Tonie Morgan Assist (5 Asst)","Clara Strack","13",55.0,37.0
-"","",3,260,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (4 TO)","Oluchi Okananwa","07","",""
-"","",3,260,"Kentucky","STEAL","STEAL","00 Jordan Obi STEAL (2 Stl)","Jordan Obi","00","",""
-"","",3,247,"Kentucky","3PTR","GOOD","32 Amelia Hassett 3PTR GOOD (8 Pt); 08 Asia Boone Assist (1 Asst)","Amelia Hassett","32",55.0,40.0
+"","",3,339,"Kentucky","3PTR","GOOD","08 Asia Boone 3PTR GOOD (8 Pt); 05 Tonie Morgan Assist (4 Asst)","Asia Boone",8.0,52.0,35.0
+"","",3,333,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 12 Yarden Garzon IN","Kaylene Smikle",2.0,"",""
+"","",3,321,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (5 Pt); 03 Addi Mack Assist (5 Asst)","Saylor Poffenbarger",6.0,55.0,35.0
+"","",3,310,"Kentucky","TURNOVER","TURNOVER","32 Amelia Hassett TURNOVER (3 TO)","Amelia Hassett",32.0,"",""
+"","",3,290,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (2 TO)","Yarden Garzon",12.0,"",""
+"","",3,290,"Kentucky","STEAL","STEAL","05 Tonie Morgan STEAL (2 Stl)","Tonie Morgan",5.0,"",""
+"","",3,278,"Kentucky","JUMPER","GOOD","13 Clara Strack JUMPER GOOD (4 Pt); 05 Tonie Morgan Assist (5 Asst)","Clara Strack",13.0,55.0,37.0
+"","",3,260,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (4 TO)","Oluchi Okananwa",7.0,"",""
+"","",3,260,"Kentucky","STEAL","STEAL","00 Jordan Obi STEAL (2 Stl)","Jordan Obi",0.0,"",""
+"","",3,247,"Kentucky","3PTR","GOOD","32 Amelia Hassett 3PTR GOOD (8 Pt); 08 Asia Boone Assist (1 Asst)","Amelia Hassett",32.0,55.0,40.0
 "","",3,243,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
-"","",3,243,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 02 Kaylene Smikle IN","Oluchi Okananwa","07","",""
-"","",3,243,"Kentucky","SUBS","SUBS","32 Amelia Hassett OUT; 04 Lexi Blue IN","Amelia Hassett","32","",""
-"","",3,219,"Maryland","FOUL","FOUL","02 Kaylene Smikle FOUL (1 PF)","Kaylene Smikle","02","",""
-"","",3,219,"Maryland","TURNOVER","TURNOVER","02 Kaylene Smikle TURNOVER (2 TO)","Kaylene Smikle","02","",""
-"","",3,203,"Kentucky","3PTR","GOOD","13 Clara Strack 3PTR GOOD (7 Pt); 05 Tonie Morgan Assist (6 Asst)","Clara Strack","13",55.0,43.0
-"","",3,168,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger","06","",""
+"","",3,243,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 02 Kaylene Smikle IN","Oluchi Okananwa",7.0,"",""
+"","",3,243,"Kentucky","SUBS","SUBS","32 Amelia Hassett OUT; 04 Lexi Blue IN","Amelia Hassett",32.0,"",""
+"","",3,219,"Maryland","FOUL","FOUL","02 Kaylene Smikle FOUL (1 PF)","Kaylene Smikle",2.0,"",""
+"","",3,219,"Maryland","TURNOVER","TURNOVER","02 Kaylene Smikle TURNOVER (2 TO)","Kaylene Smikle",2.0,"",""
+"","",3,203,"Kentucky","3PTR","GOOD","13 Clara Strack 3PTR GOOD (7 Pt); 05 Tonie Morgan Assist (6 Asst)","Clara Strack",13.0,55.0,43.0
+"","",3,168,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
 "","",3,168,"Kentucky","DEF","REBOUND","Kentucky REBOUND","","","",""
-"","",3,168,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone","08","",""
-"","",3,168,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (4 Reb, 2 Def)","Kaylene Smikle","02","",""
-"","",3,168,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (15 Pt); 02 Kaylene Smikle Assist (2 Asst)","Yarden Garzon","12",58.0,43.0
-"","",3,140,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean","10","",""
-"","",3,140,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 07 Oluchi Okananwa IN","Mir McLean","10","",""
-"","",3,140,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 32 Amelia Hassett IN","Jordan Obi","00","",""
-"","",3,132,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa","07","",""
-"","",3,132,"Kentucky","FT","MISS","13 Clara Strack FT MISS","Clara Strack","13","",""
+"","",3,168,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone",8.0,"",""
+"","",3,168,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (4 Reb, 2 Def)","Kaylene Smikle",2.0,"",""
+"","",3,168,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (15 Pt); 02 Kaylene Smikle Assist (2 Asst)","Yarden Garzon",12.0,58.0,43.0
+"","",3,140,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+"","",3,140,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 07 Oluchi Okananwa IN","Mir McLean",10.0,"",""
+"","",3,140,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 32 Amelia Hassett IN","Jordan Obi",0.0,"",""
+"","",3,132,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+"","",3,132,"Kentucky","FT","MISS","13 Clara Strack FT MISS","Clara Strack",13.0,"",""
 "","",3,132,"Kentucky","DEADB","REBOUND","Kentucky REBOUND","","","",""
-"","",3,132,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 5 Def)","Saylor Poffenbarger","06","",""
-"","",3,125,"Maryland","LAYUP","MISS","02 Kaylene Smikle LAYUP MISS","Kaylene Smikle","02","",""
-"","",3,122,"Kentucky","DEF","REBOUND","08 Asia Boone DEF. REBOUND (2 Reb, 2 Def)","Asia Boone","08","",""
-"","",3,116,"Maryland","FOUL","FOUL","02 Kaylene Smikle FOUL (2 PF)","Kaylene Smikle","02","",""
-"","",3,116,"Kentucky","FT","GOOD","05 Tonie Morgan FT GOOD (9 Pt)","Tonie Morgan","05",58.0,44.0
-"","",3,116,"Kentucky","FT","GOOD","05 Tonie Morgan FT GOOD (10 Pt)","Tonie Morgan","05",58.0,45.0
-"","",3,108,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (17 Pt); 02 Kaylene Smikle Assist (3 Asst)","Yarden Garzon","12",60.0,45.0
-"","",3,77,"Kentucky","3PTR","MISS","05 Tonie Morgan 3PTR MISS","Tonie Morgan","05","",""
-"","",3,74,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (5 Reb, 3 Def)","Kaylene Smikle","02","",""
-"","",3,55,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon","12","",""
-"","",3,52,"Kentucky","DEF","REBOUND","04 Lexi Blue DEF. REBOUND (2 Reb, 1 Def)","Lexi Blue","04","",""
-"","",3,15,"Kentucky","JUMPER","MISS","05 Tonie Morgan JUMPER MISS; 12 Yarden Garzon BLOCK (1 Blk)","Tonie Morgan","05","",""
-"","",3,10,"Kentucky","OFF","REBOUND","05 Tonie Morgan OFF. REBOUND (4 Reb, 1 Off)","Tonie Morgan","05","",""
-"","",3,9,"Kentucky","JUMPER","MISS","32 Amelia Hassett JUMPER MISS","Amelia Hassett","32","",""
-"","",3,6,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 2 Def)","Yarden Garzon","12","",""
-"","",3,4,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger","06","",""
-"","",3,0,"Kentucky","DEF","REBOUND","08 Asia Boone DEF. REBOUND (3 Reb, 3 Def)","Asia Boone","08","",""
-"","",4,600,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 10 Mir McLean IN","Kaylene Smikle","02","",""
-"","",4,585,"Maryland","LAYUP","MISS","12 Yarden Garzon LAYUP MISS; 13 Clara Strack BLOCK (2 Blk)","Yarden Garzon","12","",""
-"","",4,580,"Kentucky","DEF","REBOUND","04 Lexi Blue DEF. REBOUND (3 Reb, 2 Def)","Lexi Blue","04","",""
-"","",4,569,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (2 PF)","Addi Mack","03","",""
-"","",4,569,"Kentucky","FT","GOOD","05 Tonie Morgan FT GOOD (11 Pt)","Tonie Morgan","05",60.0,46.0
-"","",4,569,"Kentucky","FT","GOOD","05 Tonie Morgan FT GOOD (12 Pt)","Tonie Morgan","05",60.0,47.0
-"","",4,548,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger","06","",""
-"","",4,545,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (2 Reb, 1 Off)","Mir McLean","10","",""
-"","",4,545,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (2 Pt)","Mir McLean","10",62.0,47.0
-"","",4,529,"Kentucky","LAYUP","GOOD","05 Tonie Morgan LAYUP GOOD (14 Pt)","Tonie Morgan","05",62.0,49.0
-"","",4,503,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS; 32 Amelia Hassett BLOCK (3 Blk)","Saylor Poffenbarger","06","",""
-"","",4,499,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (3 Reb, 2 Off)","Mir McLean","10","",""
-"","",4,498,"Maryland","JUMPER","MISS","10 Mir McLean JUMPER MISS","Mir McLean","10","",""
-"","",4,496,"Kentucky","DEF","REBOUND","04 Lexi Blue DEF. REBOUND (4 Reb, 3 Def)","Lexi Blue","04","",""
-"","",4,478,"Kentucky","JUMPER","MISS","08 Asia Boone JUMPER MISS","Asia Boone","08","",""
+"","",3,132,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 5 Def)","Saylor Poffenbarger",6.0,"",""
+"","",3,125,"Maryland","LAYUP","MISS","02 Kaylene Smikle LAYUP MISS","Kaylene Smikle",2.0,"",""
+"","",3,122,"Kentucky","DEF","REBOUND","08 Asia Boone DEF. REBOUND (2 Reb, 2 Def)","Asia Boone",8.0,"",""
+"","",3,116,"Maryland","FOUL","FOUL","02 Kaylene Smikle FOUL (2 PF)","Kaylene Smikle",2.0,"",""
+"","",3,116,"Kentucky","FT","GOOD","05 Tonie Morgan FT GOOD (9 Pt)","Tonie Morgan",5.0,58.0,44.0
+"","",3,116,"Kentucky","FT","GOOD","05 Tonie Morgan FT GOOD (10 Pt)","Tonie Morgan",5.0,58.0,45.0
+"","",3,108,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (17 Pt); 02 Kaylene Smikle Assist (3 Asst)","Yarden Garzon",12.0,60.0,45.0
+"","",3,77,"Kentucky","3PTR","MISS","05 Tonie Morgan 3PTR MISS","Tonie Morgan",5.0,"",""
+"","",3,74,"Maryland","DEF","REBOUND","02 Kaylene Smikle DEF. REBOUND (5 Reb, 3 Def)","Kaylene Smikle",2.0,"",""
+"","",3,55,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+"","",3,52,"Kentucky","DEF","REBOUND","04 Lexi Blue DEF. REBOUND (2 Reb, 1 Def)","Lexi Blue",4.0,"",""
+"","",3,15,"Kentucky","JUMPER","MISS","05 Tonie Morgan JUMPER MISS; 12 Yarden Garzon BLOCK (1 Blk)","Tonie Morgan",5.0,"",""
+"","",3,10,"Kentucky","OFF","REBOUND","05 Tonie Morgan OFF. REBOUND (4 Reb, 1 Off)","Tonie Morgan",5.0,"",""
+"","",3,9,"Kentucky","JUMPER","MISS","32 Amelia Hassett JUMPER MISS","Amelia Hassett",32.0,"",""
+"","",3,6,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+"","",3,4,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+"","",3,0,"Kentucky","DEF","REBOUND","08 Asia Boone DEF. REBOUND (3 Reb, 3 Def)","Asia Boone",8.0,"",""
+"","",4,600,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 10 Mir McLean IN","Kaylene Smikle",2.0,"",""
+"","",4,585,"Maryland","LAYUP","MISS","12 Yarden Garzon LAYUP MISS; 13 Clara Strack BLOCK (2 Blk)","Yarden Garzon",12.0,"",""
+"","",4,580,"Kentucky","DEF","REBOUND","04 Lexi Blue DEF. REBOUND (3 Reb, 2 Def)","Lexi Blue",4.0,"",""
+"","",4,569,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (2 PF)","Addi Mack",3.0,"",""
+"","",4,569,"Kentucky","FT","GOOD","05 Tonie Morgan FT GOOD (11 Pt)","Tonie Morgan",5.0,60.0,46.0
+"","",4,569,"Kentucky","FT","GOOD","05 Tonie Morgan FT GOOD (12 Pt)","Tonie Morgan",5.0,60.0,47.0
+"","",4,548,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+"","",4,545,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (2 Reb, 1 Off)","Mir McLean",10.0,"",""
+"","",4,545,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (2 Pt)","Mir McLean",10.0,62.0,47.0
+"","",4,529,"Kentucky","LAYUP","GOOD","05 Tonie Morgan LAYUP GOOD (14 Pt)","Tonie Morgan",5.0,62.0,49.0
+"","",4,503,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS; 32 Amelia Hassett BLOCK (3 Blk)","Saylor Poffenbarger",6.0,"",""
+"","",4,499,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (3 Reb, 2 Off)","Mir McLean",10.0,"",""
+"","",4,498,"Maryland","JUMPER","MISS","10 Mir McLean JUMPER MISS","Mir McLean",10.0,"",""
+"","",4,496,"Kentucky","DEF","REBOUND","04 Lexi Blue DEF. REBOUND (4 Reb, 3 Def)","Lexi Blue",4.0,"",""
+"","",4,478,"Kentucky","JUMPER","MISS","08 Asia Boone JUMPER MISS","Asia Boone",8.0,"",""
 "","",4,475,"Kentucky","OFF","REBOUND","Kentucky REBOUND","","","",""
-"","",4,474,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger","06","",""
-"","",4,474,"Kentucky","SUBS","SUBS","04 Lexi Blue OUT; 07 Teonni Key IN","Lexi Blue","04","",""
-"","",4,472,"Kentucky","LAYUP","GOOD","32 Amelia Hassett LAYUP GOOD (10 Pt); 05 Tonie Morgan Assist (7 Asst)","Amelia Hassett","32",62.0,51.0
-"","",4,454,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack","03","",""
-"","",4,452,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (4 Reb, 3 Off)","Mir McLean","10","",""
-"","",4,449,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon","12","",""
+"","",4,474,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+"","",4,474,"Kentucky","SUBS","SUBS","04 Lexi Blue OUT; 07 Teonni Key IN","Lexi Blue",4.0,"",""
+"","",4,472,"Kentucky","LAYUP","GOOD","32 Amelia Hassett LAYUP GOOD (10 Pt); 05 Tonie Morgan Assist (7 Asst)","Amelia Hassett",32.0,62.0,51.0
+"","",4,454,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+"","",4,452,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (4 Reb, 3 Off)","Mir McLean",10.0,"",""
+"","",4,449,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
 "","",4,443,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
-"","",4,443,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon","12","",""
+"","",4,443,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
 "","",4,442,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
-"","",4,439,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (5 PF)","Teonni Key","07","",""
-"","",4,433,"Kentucky","SUBS","SUBS","07 Teonni Key OUT; 04 Lexi Blue IN","Teonni Key","07","",""
-"","",4,421,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack","03","",""
+"","",4,439,"Kentucky","FOUL","FOUL","07 Teonni Key FOUL (5 PF)","Teonni Key",7.0,"",""
+"","",4,433,"Kentucky","SUBS","SUBS","07 Teonni Key OUT; 04 Lexi Blue IN","Teonni Key",7.0,"",""
+"","",4,421,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
 "","",4,421,"Kentucky","DEF","REBOUND","Kentucky REBOUND","","","",""
-"","",4,421,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa","07","",""
-"","",4,402,"Kentucky","JUMPER","MISS","05 Tonie Morgan JUMPER MISS","Tonie Morgan","05","",""
-"","",4,399,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (4 Reb, 4 Def)","Addi Mack","03","",""
-"","",4,374,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger","06","",""
-"","",4,373,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 02 Kaylene Smikle IN","Oluchi Okananwa","07","",""
-"","",4,369,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (5 Reb, 4 Off)","Mir McLean","10","",""
-"","",4,369,"Maryland","TURNOVER","TURNOVER","10 Mir McLean TURNOVER (1 TO)","Mir McLean","10","",""
-"","",4,352,"Kentucky","3PTR","MISS","04 Lexi Blue 3PTR MISS","Lexi Blue","04","",""
-"","",4,350,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (6 Reb, 6 Def)","Saylor Poffenbarger","06","",""
-"","",4,338,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (21 Pt)","Kaylene Smikle","02",64.0,51.0
-"","",4,335,"Kentucky","FOUL","FOUL","13 Clara Strack FOUL (1 PF)","Clara Strack","13","",""
-"","",4,335,"Kentucky","SUBS","SUBS","04 Lexi Blue OUT; 00 Jordan Obi IN","Lexi Blue","04","",""
-"","",4,335,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (22 Pt)","Kaylene Smikle","02",65.0,51.0
-"","",4,318,"Kentucky","3PTR","GOOD","08 Asia Boone 3PTR GOOD (11 Pt); 05 Tonie Morgan Assist (8 Asst)","Asia Boone","08",65.0,54.0
-"","",4,302,"Maryland","TURNOVER","TURNOVER","02 Kaylene Smikle TURNOVER (3 TO)","Kaylene Smikle","02","",""
-"","",4,293,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone","08","",""
-"","",4,291,"Kentucky","OFF","REBOUND","13 Clara Strack OFF. REBOUND (8 Reb, 4 Off)","Clara Strack","13","",""
-"","",4,288,"Kentucky","3PTR","GOOD","05 Tonie Morgan 3PTR GOOD (17 Pt); 13 Clara Strack Assist (2 Asst)","Tonie Morgan","05",65.0,57.0
-"","",4,270,"Kentucky","FOUL","FOUL","13 Clara Strack FOUL (2 PF)","Clara Strack","13","",""
-"","",4,270,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 07 Oluchi Okananwa IN","Kaylene Smikle","02","",""
-"","",4,270,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (6 Pt)","Saylor Poffenbarger","06",66.0,57.0
-"","",4,270,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (7 Pt)","Saylor Poffenbarger","06",67.0,57.0
-"","",4,250,"Kentucky","JUMPER","GOOD","08 Asia Boone JUMPER GOOD (13 Pt)","Asia Boone","08",67.0,59.0
-"","",4,222,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon","12","",""
-"","",4,219,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (5 Reb, 3 Off)","Oluchi Okananwa","07","",""
-"","",4,219,"Kentucky","FOUL","FOUL","05 Tonie Morgan FOUL (3 PF)","Tonie Morgan","05","",""
-"","",4,207,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa","07","",""
-"","",4,205,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (6 Reb, 5 Def)","Jordan Obi","00","",""
-"","",4,198,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett","32","",""
-"","",4,196,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (6 Reb, 3 Def)","Oluchi Okananwa","07","",""
-"","",4,173,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon","12","",""
-"","",4,169,"Kentucky","DEF","REBOUND","32 Amelia Hassett DEF. REBOUND (4 Reb, 4 Def)","Amelia Hassett","32","",""
-"","",4,163,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone","08","",""
-"","",4,161,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (6 Reb, 2 Def)","Mir McLean","10","",""
-"","",4,130,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (10 Pt); 03 Addi Mack Assist (6 Asst)","Saylor Poffenbarger","06",70.0,59.0
+"","",4,421,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+"","",4,402,"Kentucky","JUMPER","MISS","05 Tonie Morgan JUMPER MISS","Tonie Morgan",5.0,"",""
+"","",4,399,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (4 Reb, 4 Def)","Addi Mack",3.0,"",""
+"","",4,374,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+"","",4,373,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 02 Kaylene Smikle IN","Oluchi Okananwa",7.0,"",""
+"","",4,369,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (5 Reb, 4 Off)","Mir McLean",10.0,"",""
+"","",4,369,"Maryland","TURNOVER","TURNOVER","10 Mir McLean TURNOVER (1 TO)","Mir McLean",10.0,"",""
+"","",4,352,"Kentucky","3PTR","MISS","04 Lexi Blue 3PTR MISS","Lexi Blue",4.0,"",""
+"","",4,350,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (6 Reb, 6 Def)","Saylor Poffenbarger",6.0,"",""
+"","",4,338,"Maryland","LAYUP","GOOD","02 Kaylene Smikle LAYUP GOOD (21 Pt)","Kaylene Smikle",2.0,64.0,51.0
+"","",4,335,"Kentucky","FOUL","FOUL","13 Clara Strack FOUL (1 PF)","Clara Strack",13.0,"",""
+"","",4,335,"Kentucky","SUBS","SUBS","04 Lexi Blue OUT; 00 Jordan Obi IN","Lexi Blue",4.0,"",""
+"","",4,335,"Maryland","FT","GOOD","02 Kaylene Smikle FT GOOD (22 Pt)","Kaylene Smikle",2.0,65.0,51.0
+"","",4,318,"Kentucky","3PTR","GOOD","08 Asia Boone 3PTR GOOD (11 Pt); 05 Tonie Morgan Assist (8 Asst)","Asia Boone",8.0,65.0,54.0
+"","",4,302,"Maryland","TURNOVER","TURNOVER","02 Kaylene Smikle TURNOVER (3 TO)","Kaylene Smikle",2.0,"",""
+"","",4,293,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone",8.0,"",""
+"","",4,291,"Kentucky","OFF","REBOUND","13 Clara Strack OFF. REBOUND (8 Reb, 4 Off)","Clara Strack",13.0,"",""
+"","",4,288,"Kentucky","3PTR","GOOD","05 Tonie Morgan 3PTR GOOD (17 Pt); 13 Clara Strack Assist (2 Asst)","Tonie Morgan",5.0,65.0,57.0
+"","",4,270,"Kentucky","FOUL","FOUL","13 Clara Strack FOUL (2 PF)","Clara Strack",13.0,"",""
+"","",4,270,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 07 Oluchi Okananwa IN","Kaylene Smikle",2.0,"",""
+"","",4,270,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (6 Pt)","Saylor Poffenbarger",6.0,66.0,57.0
+"","",4,270,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (7 Pt)","Saylor Poffenbarger",6.0,67.0,57.0
+"","",4,250,"Kentucky","JUMPER","GOOD","08 Asia Boone JUMPER GOOD (13 Pt)","Asia Boone",8.0,67.0,59.0
+"","",4,222,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+"","",4,219,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (5 Reb, 3 Off)","Oluchi Okananwa",7.0,"",""
+"","",4,219,"Kentucky","FOUL","FOUL","05 Tonie Morgan FOUL (3 PF)","Tonie Morgan",5.0,"",""
+"","",4,207,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+"","",4,205,"Kentucky","DEF","REBOUND","00 Jordan Obi DEF. REBOUND (6 Reb, 5 Def)","Jordan Obi",0.0,"",""
+"","",4,198,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett",32.0,"",""
+"","",4,196,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (6 Reb, 3 Def)","Oluchi Okananwa",7.0,"",""
+"","",4,173,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+"","",4,169,"Kentucky","DEF","REBOUND","32 Amelia Hassett DEF. REBOUND (4 Reb, 4 Def)","Amelia Hassett",32.0,"",""
+"","",4,163,"Kentucky","3PTR","MISS","08 Asia Boone 3PTR MISS","Asia Boone",8.0,"",""
+"","",4,161,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (6 Reb, 2 Def)","Mir McLean",10.0,"",""
+"","",4,130,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (10 Pt); 03 Addi Mack Assist (6 Asst)","Saylor Poffenbarger",6.0,70.0,59.0
 "","",4,119,"Kentucky","30SEC","TIMEOUT","Kentucky TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
-"","",4,109,"Kentucky","LAYUP","MISS","13 Clara Strack LAYUP MISS","Clara Strack","13","",""
-"","",4,107,"Kentucky","OFF","REBOUND","00 Jordan Obi OFF. REBOUND (7 Reb, 2 Off)","Jordan Obi","00","",""
-"","",4,105,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett","32","",""
-"","",4,105,"Kentucky","OFF","REBOUND","00 Jordan Obi OFF. REBOUND (8 Reb, 3 Off)","Jordan Obi","00","",""
-"","",4,77,"Kentucky","3PTR","GOOD","05 Tonie Morgan 3PTR GOOD (20 Pt); 32 Amelia Hassett Assist (4 Asst)","Tonie Morgan","05",70.0,62.0
+"","",4,109,"Kentucky","LAYUP","MISS","13 Clara Strack LAYUP MISS","Clara Strack",13.0,"",""
+"","",4,107,"Kentucky","OFF","REBOUND","00 Jordan Obi OFF. REBOUND (7 Reb, 2 Off)","Jordan Obi",0.0,"",""
+"","",4,105,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett",32.0,"",""
+"","",4,105,"Kentucky","OFF","REBOUND","00 Jordan Obi OFF. REBOUND (8 Reb, 3 Off)","Jordan Obi",0.0,"",""
+"","",4,77,"Kentucky","3PTR","GOOD","05 Tonie Morgan 3PTR GOOD (20 Pt); 32 Amelia Hassett Assist (4 Asst)","Tonie Morgan",5.0,70.0,62.0
 "","",4,77,"Kentucky","30SEC","TIMEOUT","Kentucky TIMEOUT 30 Sec. (2nd TO, 3rd 30)","","","",""
-"","",4,77,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 02 Kaylene Smikle IN","Mir McLean","10","",""
-"","",4,55,"Kentucky","FOUL","FOUL","05 Tonie Morgan FOUL (4 PF)","Tonie Morgan","05","",""
-"","",4,55,"Maryland","FT","MISS","02 Kaylene Smikle FT MISS","Kaylene Smikle","02","",""
+"","",4,77,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 02 Kaylene Smikle IN","Mir McLean",10.0,"",""
+"","",4,55,"Kentucky","FOUL","FOUL","05 Tonie Morgan FOUL (4 PF)","Tonie Morgan",5.0,"",""
+"","",4,55,"Maryland","FT","MISS","02 Kaylene Smikle FT MISS","Kaylene Smikle",2.0,"",""
 "","",4,55,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
-"","",4,55,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (9 Reb, 5 Def)","Clara Strack","13","",""
-"","",4,48,"Kentucky","LAYUP","GOOD","05 Tonie Morgan LAYUP GOOD (22 Pt)","Tonie Morgan","05",70.0,64.0
+"","",4,55,"Kentucky","DEF","REBOUND","13 Clara Strack DEF. REBOUND (9 Reb, 5 Def)","Clara Strack",13.0,"",""
+"","",4,48,"Kentucky","LAYUP","GOOD","05 Tonie Morgan LAYUP GOOD (22 Pt)","Tonie Morgan",5.0,70.0,64.0
 "","",4,40,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
-"","",4,40,"Kentucky","SUBS","SUBS","05 Tonie Morgan OUT; 33 Josie Gilvin IN","Tonie Morgan","05","",""
-"","",4,38,"Kentucky","FOUL","FOUL","13 Clara Strack FOUL (3 PF)","Clara Strack","13","",""
-"","",4,38,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 10 Mir McLean IN","Kaylene Smikle","02","",""
-"","",4,38,"Kentucky","SUBS","SUBS","33 Josie Gilvin OUT; 05 Tonie Morgan IN","Josie Gilvin","33","",""
-"","",4,38,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (11 Pt)","Saylor Poffenbarger","06",71.0,64.0
-"","",4,38,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (12 Pt)","Saylor Poffenbarger","06",72.0,64.0
+"","",4,40,"Kentucky","SUBS","SUBS","05 Tonie Morgan OUT; 33 Josie Gilvin IN","Tonie Morgan",5.0,"",""
+"","",4,38,"Kentucky","FOUL","FOUL","13 Clara Strack FOUL (3 PF)","Clara Strack",13.0,"",""
+"","",4,38,"Maryland","SUBS","SUBS","02 Kaylene Smikle OUT; 10 Mir McLean IN","Kaylene Smikle",2.0,"",""
+"","",4,38,"Kentucky","SUBS","SUBS","33 Josie Gilvin OUT; 05 Tonie Morgan IN","Josie Gilvin",33.0,"",""
+"","",4,38,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (11 Pt)","Saylor Poffenbarger",6.0,71.0,64.0
+"","",4,38,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (12 Pt)","Saylor Poffenbarger",6.0,72.0,64.0
 "","",4,38,"Kentucky","TEAM","TIMEOUT","Kentucky TIMEOUT Full (3rd TO, 1st Full)","","","",""
-"","",4,23,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett","32","",""
+"","",4,23,"Kentucky","3PTR","MISS","32 Amelia Hassett 3PTR MISS","Amelia Hassett",32.0,"",""
 "","",4,23,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (2nd TO, 3rd 30)","","","",""
-"","",4,21,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (5 Reb, 5 Def)","Addi Mack","03","",""
-"","",4,18,"Kentucky","FOUL","FOUL","00 Jordan Obi FOUL (2 PF)","Jordan Obi","00","",""
-"","",4,18,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 20 Kaelyn Carroll IN","Jordan Obi","00","",""
-"","",4,18,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (14 Pt)","Addi Mack","03",73.0,64.0
-"","",4,18,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (15 Pt)","Addi Mack","03",74.0,64.0
-"","",4,6,"Kentucky","LAYUP","GOOD","13 Clara Strack LAYUP GOOD (9 Pt)","Clara Strack","13",74.0,66.0
+"","",4,21,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (5 Reb, 5 Def)","Addi Mack",3.0,"",""
+"","",4,18,"Kentucky","FOUL","FOUL","00 Jordan Obi FOUL (2 PF)","Jordan Obi",0.0,"",""
+"","",4,18,"Kentucky","SUBS","SUBS","00 Jordan Obi OUT; 20 Kaelyn Carroll IN","Jordan Obi",0.0,"",""
+"","",4,18,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (14 Pt)","Addi Mack",3.0,73.0,64.0
+"","",4,18,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (15 Pt)","Addi Mack",3.0,74.0,64.0
+"","",4,6,"Kentucky","LAYUP","GOOD","13 Clara Strack LAYUP GOOD (9 Pt)","Clara Strack",13.0,74.0,66.0
 "","",4,6,"Maryland","TEAM","TIMEOUT","Maryland TIMEOUT Full (3rd TO, 1st Full)","","","",""
