@@ -10846,3 +10846,387 @@
 "","",4,18,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (15 Pt)","Addi Mack",3.0,74.0,64.0
 "","",4,6,"Kentucky","LAYUP","GOOD","13 Clara Strack LAYUP GOOD (9 Pt)","Clara Strack",13.0,74.0,66.0
 "","",4,6,"Maryland","TEAM","TIMEOUT","Maryland TIMEOUT Full (3rd TO, 1st Full)","","","",""
+2025.0,19742.0,1,578,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,1,578,"Illinois","STEAL","STEAL","30 Cearah Parchment STEAL (1 Stl)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,1,550,"Illinois","LAYUP","MISS","08 Jasmine Brown-Hagger LAYUP MISS","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,1,548,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,1,535,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (2 Pt)","Yarden Garzon",12.0,0.0,2.0
+2025.0,19742.0,1,522,"Illinois","3PTR","MISS","23 Berry Wallace 3PTR MISS","Berry Wallace",23.0,"",""
+2025.0,19742.0,1,518,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,1,499,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,1,498,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,1,494,"Maryland","LAYUP","MISS","12 Yarden Garzon LAYUP MISS; 08 Jasmine Brown-Hagger BLOCK (1 Blk)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,1,489,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (1 Reb, 1 Off)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,1,489,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (4 Pt)","Yarden Garzon",12.0,0.0,4.0
+2025.0,19742.0,1,482,"Illinois","LAYUP","GOOD","23 Berry Wallace LAYUP GOOD (2 Pt); 30 Cearah Parchment Assist (1 Asst)","Berry Wallace",23.0,2.0,4.0
+2025.0,19742.0,1,468,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,1,466,"Illinois","DEF","REBOUND","30 Cearah Parchment DEF. REBOUND (1 Reb, 1 Def)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,1,464,"Illinois","TURNOVER","TURNOVER","30 Cearah Parchment TURNOVER (1 TO)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,1,457,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack",3.0,"",""
+2025.0,19742.0,1,457,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+2025.0,19742.0,1,448,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,1,448,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 11 Marya Boiko IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,1,448,"Illinois","FT","GOOD","23 Berry Wallace FT GOOD (3 Pt)","Berry Wallace",23.0,3.0,4.0
+2025.0,19742.0,1,448,"Illinois","FT","GOOD","23 Berry Wallace FT GOOD (4 Pt)","Berry Wallace",23.0,4.0,4.0
+2025.0,19742.0,1,434,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (2 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,1,434,"Illinois","STEAL","STEAL","02 Destiny Jackson STEAL (1 Stl)","Destiny Jackson",2.0,"",""
+2025.0,19742.0,1,422,"Illinois","LAYUP","MISS","04 Gretchen Dolan LAYUP MISS","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,1,419,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (1 Reb, 1 Def)","Marya Boiko",11.0,"",""
+2025.0,19742.0,1,416,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (2 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Oluchi Okananwa",7.0,4.0,6.0
+2025.0,19742.0,1,416,"Illinois","FOUL","FOUL","23 Berry Wallace FOUL (1 PF)","Berry Wallace",23.0,"",""
+2025.0,19742.0,1,416,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (3 Pt)","Oluchi Okananwa",7.0,4.0,7.0
+2025.0,19742.0,1,408,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (2 PF)","Addi Mack",3.0,"",""
+2025.0,19742.0,1,408,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025.0,19742.0,1,394,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,1,382,"Illinois","3PTR","MISS","04 Gretchen Dolan 3PTR MISS","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,1,380,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,1,379,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,1,379,"Illinois","STEAL","STEAL","04 Gretchen Dolan STEAL (1 Stl)","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,1,373,"Illinois","3PTR","MISS","02 Destiny Jackson 3PTR MISS","Destiny Jackson",2.0,"",""
+2025.0,19742.0,1,370,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,1,368,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (2 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,1,368,"Illinois","STEAL","STEAL","08 Jasmine Brown-Hagger STEAL (1 Stl)","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,1,350,"Illinois","JUMPER","GOOD","04 Gretchen Dolan JUMPER GOOD (2 Pt)","Gretchen Dolan",4.0,6.0,7.0
+2025.0,19742.0,1,338,"Maryland","FOUL","FOUL","11 Marya Boiko FOUL (1 PF)","Marya Boiko",11.0,"",""
+2025.0,19742.0,1,338,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (1 TO)","Marya Boiko",11.0,"",""
+2025.0,19742.0,1,338,"Illinois","SUBS","SUBS","08 Jasmine Brown-Hagger OUT; 34 Maddie Webber IN","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,1,328,"Illinois","3PTR","MISS","30 Cearah Parchment 3PTR MISS","Cearah Parchment",30.0,"",""
+2025.0,19742.0,1,324,"Illinois","OFF","REBOUND","23 Berry Wallace OFF. REBOUND (1 Reb, 1 Off)","Berry Wallace",23.0,"",""
+2025.0,19742.0,1,321,"Illinois","JUMPER","MISS","23 Berry Wallace JUMPER MISS","Berry Wallace",23.0,"",""
+2025.0,19742.0,1,319,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (2 Reb, 2 Def)","Marya Boiko",11.0,"",""
+2025.0,19742.0,1,304,"Illinois","FOUL","FOUL","02 Destiny Jackson FOUL (1 PF)","Destiny Jackson",2.0,"",""
+2025.0,19742.0,1,299,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (6 Pt); 06 Saylor Poffenbarger Assist (2 Asst)","Yarden Garzon",12.0,6.0,9.0
+2025.0,19742.0,1,284,"Illinois","JUMPER","GOOD","04 Gretchen Dolan JUMPER GOOD (4 Pt)","Gretchen Dolan",4.0,8.0,9.0
+2025.0,19742.0,1,267,"Illinois","FOUL","FOUL","34 Maddie Webber FOUL (1 PF)","Maddie Webber",34.0,"",""
+2025.0,19742.0,1,267,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19742.0,1,267,"Maryland","FT","GOOD","11 Marya Boiko FT GOOD (1 Pt)","Marya Boiko",11.0,8.0,10.0
+2025.0,19742.0,1,267,"Maryland","FT","GOOD","11 Marya Boiko FT GOOD (2 Pt)","Marya Boiko",11.0,8.0,11.0
+2025.0,19742.0,1,261,"Illinois","LAYUP","MISS","34 Maddie Webber LAYUP MISS","Maddie Webber",34.0,"",""
+2025.0,19742.0,1,259,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (3 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,1,253,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,1,249,"Illinois","DEF","REBOUND","23 Berry Wallace DEF. REBOUND (2 Reb, 1 Def)","Berry Wallace",23.0,"",""
+2025.0,19742.0,1,232,"Illinois","JUMPER","MISS","04 Gretchen Dolan JUMPER MISS","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,1,232,"Illinois","OFF","REBOUND","30 Cearah Parchment OFF. REBOUND (2 Reb, 1 Off)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,1,232,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (2 PF)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,1,232,"Illinois","SUBS","SUBS","02 Destiny Jackson OUT; 34 Maddie Webber OUT; 01 Aaliyah Guyton IN; 08 Jasmine Brown-Hagger IN","Destiny Jackson",2.0,"",""
+2025.0,19742.0,1,232,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 00 Rainey Welson IN","Kyndal Walker",8.0,"",""
+2025.0,19742.0,1,215,"Illinois","JUMPER","MISS","02 Destiny Jackson JUMPER MISS","Destiny Jackson",2.0,"",""
+2025.0,19742.0,1,212,"Maryland","DEF","REBOUND","00 Rainey Welson DEF. REBOUND (1 Reb, 1 Def)","Rainey Welson",0.0,"",""
+2025.0,19742.0,1,207,"Maryland","TURNOVER","TURNOVER","00 Rainey Welson TURNOVER (1 TO)","Rainey Welson",0.0,"",""
+2025.0,19742.0,1,204,"Illinois","JUMPER","MISS","30 Cearah Parchment JUMPER MISS","Cearah Parchment",30.0,"",""
+2025.0,19742.0,1,204,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,1,200,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19742.0,1,200,"Illinois","DEF","REBOUND","23 Berry Wallace DEF. REBOUND (3 Reb, 2 Def)","Berry Wallace",23.0,"",""
+2025.0,19742.0,1,188,"Illinois","JUMPER","GOOD","23 Berry Wallace JUMPER GOOD (6 Pt)","Berry Wallace",23.0,10.0,11.0
+2025.0,19742.0,1,177,"Illinois","FOUL","FOUL","34 Maddie Webber FOUL (2 PF)","Maddie Webber",34.0,"",""
+2025.0,19742.0,1,177,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 00 Rainey Welson IN; 00 Rainey Welson OUT; 08 Kyndal Walker IN","Kyndal Walker",8.0,"",""
+2025.0,19742.0,1,177,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (4 Pt)","Oluchi Okananwa",7.0,10.0,12.0
+2025.0,19742.0,1,177,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (5 Pt)","Oluchi Okananwa",7.0,10.0,13.0
+2025.0,19742.0,1,155,"Illinois","TURNOVER","TURNOVER","04 Gretchen Dolan TURNOVER (1 TO)","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,1,155,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 10 Mir McLean IN","Rainey Welson",0.0,"",""
+2025.0,19742.0,1,140,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19742.0,1,137,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,1,137,"Illinois","FOUL","FOUL","01 Aaliyah Guyton FOUL (1 PF)","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,1,137,"Maryland","FT","MISS","10 Mir McLean FT MISS","Mir McLean",10.0,"",""
+2025.0,19742.0,1,137,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (1 Pt)","Mir McLean",10.0,10.0,14.0
+2025.0,19742.0,1,129,"Illinois","TURNOVER","TURNOVER","01 Aaliyah Guyton TURNOVER (1 TO)","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,1,129,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,1,126,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (7 Pt)","Oluchi Okananwa",7.0,10.0,16.0
+2025.0,19742.0,1,120,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+2025.0,19742.0,1,120,"Illinois","FT","MISS","08 Jasmine Brown-Hagger FT MISS","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,1,120,"Illinois","DEADB","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,1,120,"Illinois","FT","GOOD","08 Jasmine Brown-Hagger FT GOOD (1 Pt)","Jasmine Brown-Hagger",8.0,11.0,16.0
+2025.0,19742.0,1,95,"Maryland","LAYUP","GOOD","11 Marya Boiko LAYUP GOOD (4 Pt); 06 Saylor Poffenbarger Assist (3 Asst)","Marya Boiko",11.0,11.0,18.0
+2025.0,19742.0,1,94,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (2 PF)","Mir McLean",10.0,"",""
+2025.0,19742.0,1,94,"Illinois","SUBS","SUBS","02 Destiny Jackson OUT; 30 Cearah Parchment IN; 30 Cearah Parchment OUT; 35 Lety Vasconcelos IN","Destiny Jackson",2.0,"",""
+2025.0,19742.0,1,94,"Illinois","FT","GOOD","30 Cearah Parchment FT GOOD (1 Pt)","Cearah Parchment",30.0,12.0,18.0
+2025.0,19742.0,1,94,"Illinois","FT","GOOD","30 Cearah Parchment FT GOOD (2 Pt)","Cearah Parchment",30.0,13.0,18.0
+2025.0,19742.0,1,94,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 00 Rainey Welson IN","Mir McLean",10.0,"",""
+2025.0,19742.0,1,74,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,1,71,"Maryland","OFF","REBOUND","00 Rainey Welson OFF. REBOUND (2 Reb, 1 Off)","Rainey Welson",0.0,"",""
+2025.0,19742.0,1,71,"Illinois","SUBS","SUBS","04 Gretchen Dolan OUT; 02 Destiny Jackson IN","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,1,64,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,1,60,"Maryland","OFF","REBOUND","00 Rainey Welson OFF. REBOUND (3 Reb, 2 Off)","Rainey Welson",0.0,"",""
+2025.0,19742.0,1,57,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,1,54,"Illinois","DEF","REBOUND","35 Lety Vasconcelos DEF. REBOUND (1 Reb, 1 Def)","Lety Vasconcelos",35.0,"",""
+2025.0,19742.0,1,31,"Illinois","JUMPER","MISS","02 Destiny Jackson JUMPER MISS","Destiny Jackson",2.0,"",""
+2025.0,19742.0,1,31,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,1,31,"Illinois","FOUL","FOUL","35 Lety Vasconcelos FOUL (1 PF)","Lety Vasconcelos",35.0,"",""
+2025.0,19742.0,1,31,"Maryland","FT","GOOD","11 Marya Boiko FT GOOD (5 Pt)","Marya Boiko",11.0,13.0,19.0
+2025.0,19742.0,1,31,"Maryland","FT","GOOD","11 Marya Boiko FT GOOD (6 Pt)","Marya Boiko",11.0,13.0,20.0
+2025.0,19742.0,1,9,"Illinois","3PTR","GOOD","23 Berry Wallace 3PTR GOOD (9 Pt); 01 Aaliyah Guyton Assist (1 Asst)","Berry Wallace",23.0,16.0,20.0
+2025.0,19742.0,1,0,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19742.0,1,0,"Illinois","DEADB","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,2,600,"Illinois","SUBS","SUBS","01 Aaliyah Guyton OUT; 35 Lety Vasconcelos OUT; 04 Gretchen Dolan IN; 30 Cearah Parchment IN","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,2,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 11 Marya Boiko OUT; 03 Addi Mack IN; 09 Isimenme Ozzy-Momodu IN","Rainey Welson",0.0,"",""
+2025.0,19742.0,2,590,"Illinois","JUMPER","MISS","30 Cearah Parchment JUMPER MISS","Cearah Parchment",30.0,"",""
+2025.0,19742.0,2,589,"Illinois","DEADB","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,2,589,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (3 PF)","Addi Mack",3.0,"",""
+2025.0,19742.0,2,589,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 00 Rainey Welson IN","Addi Mack",3.0,"",""
+2025.0,19742.0,2,585,"Illinois","3PTR","GOOD","23 Berry Wallace 3PTR GOOD (12 Pt); 02 Destiny Jackson Assist (1 Asst)","Berry Wallace",23.0,19.0,20.0
+2025.0,19742.0,2,553,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS; 30 Cearah Parchment BLOCK (1 Blk)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,2,549,"Illinois","DEF","REBOUND","08 Jasmine Brown-Hagger DEF. REBOUND (1 Reb, 1 Def)","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,2,526,"Illinois","3PTR","MISS","04 Gretchen Dolan 3PTR MISS","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,2,523,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (4 Reb, 3 Def)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,2,518,"Illinois","FOUL","FOUL","04 Gretchen Dolan FOUL (1 PF)","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,2,518,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,2,518,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,2,518,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (8 Pt)","Oluchi Okananwa",7.0,19.0,21.0
+2025.0,19742.0,2,518,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 11 Marya Boiko IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,2,497,"Illinois","JUMPER","MISS","08 Jasmine Brown-Hagger JUMPER MISS","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,2,497,"Illinois","OFF","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,2,495,"Illinois","JUMPER","GOOD","04 Gretchen Dolan JUMPER GOOD (6 Pt); 02 Destiny Jackson Assist (2 Asst)","Gretchen Dolan",4.0,21.0,21.0
+2025.0,19742.0,2,481,"Illinois","FOUL","FOUL","02 Destiny Jackson FOUL (2 PF)","Destiny Jackson",2.0,"",""
+2025.0,19742.0,2,481,"Illinois","SUBS","SUBS","02 Destiny Jackson OUT; 01 Aaliyah Guyton IN","Destiny Jackson",2.0,"",""
+2025.0,19742.0,2,464,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (2 Pt); 11 Marya Boiko Assist (1 Asst)","Isimenme Ozzy-Momodu",9.0,21.0,23.0
+2025.0,19742.0,2,441,"Illinois","JUMPER","MISS","23 Berry Wallace JUMPER MISS","Berry Wallace",23.0,"",""
+2025.0,19742.0,2,439,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (1 Reb, 1 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,2,436,"Maryland","TURNOVER","TURNOVER","00 Rainey Welson TURNOVER (2 TO)","Rainey Welson",0.0,"",""
+2025.0,19742.0,2,436,"Illinois","SUBS","SUBS","04 Gretchen Dolan OUT; 34 Maddie Webber IN","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,2,436,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 06 Saylor Poffenbarger IN","Rainey Welson",0.0,"",""
+2025.0,19742.0,2,421,"Illinois","3PTR","MISS","08 Jasmine Brown-Hagger 3PTR MISS","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,2,418,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (2 Reb, 2 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,2,403,"Maryland","JUMPER","MISS","11 Marya Boiko JUMPER MISS","Marya Boiko",11.0,"",""
+2025.0,19742.0,2,399,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (3 Reb, 1 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,2,398,"Maryland","JUMPER","GOOD","09 Isimenme Ozzy-Momodu JUMPER GOOD (4 Pt)","Isimenme Ozzy-Momodu",9.0,21.0,25.0
+2025.0,19742.0,2,374,"Illinois","JUMPER","GOOD","23 Berry Wallace JUMPER GOOD (14 Pt)","Berry Wallace",23.0,23.0,25.0
+2025.0,19742.0,2,359,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (10 Pt)","Oluchi Okananwa",7.0,23.0,27.0
+2025.0,19742.0,2,339,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (2 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,2,339,"Illinois","SUBS","SUBS","04 Gretchen Dolan IN; 08 Jasmine Brown-Hagger OUT; 35 Lety Vasconcelos IN; 23 Berry Wallace OUT","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,2,339,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 40 Breanna Williams IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,2,339,"Illinois","FT","GOOD","30 Cearah Parchment FT GOOD (3 Pt)","Cearah Parchment",30.0,24.0,27.0
+2025.0,19742.0,2,339,"Illinois","FT","GOOD","30 Cearah Parchment FT GOOD (4 Pt)","Cearah Parchment",30.0,25.0,27.0
+2025.0,19742.0,2,325,"Maryland","3PTR","MISS","40 Breanna Williams 3PTR MISS","Breanna Williams",40.0,"",""
+2025.0,19742.0,2,318,"Illinois","DEF","REBOUND","35 Lety Vasconcelos DEF. REBOUND (2 Reb, 2 Def)","Lety Vasconcelos",35.0,"",""
+2025.0,19742.0,2,318,"Illinois","TURNOVER","TURNOVER","35 Lety Vasconcelos TURNOVER (1 TO)","Lety Vasconcelos",35.0,"",""
+2025.0,19742.0,2,303,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19742.0,2,301,"Illinois","DEF","REBOUND","30 Cearah Parchment DEF. REBOUND (3 Reb, 2 Def)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,2,278,"Illinois","JUMPER","MISS","04 Gretchen Dolan JUMPER MISS","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,2,274,"Maryland","DEF","REBOUND","40 Breanna Williams DEF. REBOUND (1 Reb, 1 Def)","Breanna Williams",40.0,"",""
+2025.0,19742.0,2,267,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (9 Pt); 06 Saylor Poffenbarger Assist (4 Asst)","Yarden Garzon",12.0,25.0,30.0
+2025.0,19742.0,2,245,"Illinois","TURNOVER","TURNOVER","01 Aaliyah Guyton TURNOVER (2 TO)","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,2,245,"Maryland","STEAL","STEAL","11 Marya Boiko STEAL (1 Stl)","Marya Boiko",11.0,"",""
+2025.0,19742.0,2,241,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (2 Pt); 11 Marya Boiko Assist (2 Asst)","Saylor Poffenbarger",6.0,25.0,32.0
+2025.0,19742.0,2,227,"Illinois","LAYUP","MISS","01 Aaliyah Guyton LAYUP MISS; 06 Saylor Poffenbarger BLOCK (1 Blk)","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,2,227,"Illinois","OFF","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,2,227,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19742.0,2,227,"Illinois","SUBS","SUBS","01 Aaliyah Guyton OUT; 30 Cearah Parchment OUT; 02 Destiny Jackson IN; 23 Berry Wallace IN","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,2,222,"Illinois","JUMPER","MISS","02 Destiny Jackson JUMPER MISS","Destiny Jackson",2.0,"",""
+2025.0,19742.0,2,218,"Illinois","OFF","REBOUND","35 Lety Vasconcelos OFF. REBOUND (3 Reb, 1 Off)","Lety Vasconcelos",35.0,"",""
+2025.0,19742.0,2,217,"Illinois","LAYUP","MISS","35 Lety Vasconcelos LAYUP MISS","Lety Vasconcelos",35.0,"",""
+2025.0,19742.0,2,217,"Illinois","OFF","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,2,204,"Illinois","3PTR","GOOD","02 Destiny Jackson 3PTR GOOD (3 Pt); 23 Berry Wallace Assist (1 Asst)","Destiny Jackson",2.0,28.0,32.0
+2025.0,19742.0,2,184,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,2,179,"Illinois","DEF","REBOUND","23 Berry Wallace DEF. REBOUND (4 Reb, 3 Def)","Berry Wallace",23.0,"",""
+2025.0,19742.0,2,164,"Illinois","JUMPER","MISS","23 Berry Wallace JUMPER MISS","Berry Wallace",23.0,"",""
+2025.0,19742.0,2,160,"Maryland","DEF","REBOUND","40 Breanna Williams DEF. REBOUND (2 Reb, 2 Def)","Breanna Williams",40.0,"",""
+2025.0,19742.0,2,144,"Maryland","JUMPER","GOOD","40 Breanna Williams JUMPER GOOD (2 Pt); 12 Yarden Garzon Assist (1 Asst)","Breanna Williams",40.0,28.0,34.0
+2025.0,19742.0,2,125,"Illinois","LAYUP","GOOD","23 Berry Wallace LAYUP GOOD (16 Pt); 04 Gretchen Dolan Assist (1 Asst)","Berry Wallace",23.0,30.0,34.0
+2025.0,19742.0,2,115,"Illinois","FOUL","FOUL","04 Gretchen Dolan FOUL (2 PF)","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,2,115,"Illinois","SUBS","SUBS","04 Gretchen Dolan OUT; 35 Lety Vasconcelos OUT; 08 Jasmine Brown-Hagger IN; 30 Cearah Parchment IN","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,2,115,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (3 Pt)","Saylor Poffenbarger",6.0,30.0,35.0
+2025.0,19742.0,2,115,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (4 Pt)","Saylor Poffenbarger",6.0,30.0,36.0
+2025.0,19742.0,2,96,"Illinois","JUMPER","MISS","30 Cearah Parchment JUMPER MISS","Cearah Parchment",30.0,"",""
+2025.0,19742.0,2,93,"Illinois","OFF","REBOUND","30 Cearah Parchment OFF. REBOUND (4 Reb, 2 Off)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,2,93,"Illinois","LAYUP","GOOD","30 Cearah Parchment LAYUP GOOD (6 Pt)","Cearah Parchment",30.0,32.0,36.0
+2025.0,19742.0,2,86,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (12 Pt); 12 Yarden Garzon Assist (2 Asst)","Oluchi Okananwa",7.0,32.0,38.0
+2025.0,19742.0,2,65,"Illinois","3PTR","MISS","23 Berry Wallace 3PTR MISS","Berry Wallace",23.0,"",""
+2025.0,19742.0,2,62,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (5 Reb, 4 Def)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,2,56,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,2,54,"Illinois","DEF","REBOUND","23 Berry Wallace DEF. REBOUND (5 Reb, 4 Def)","Berry Wallace",23.0,"",""
+2025.0,19742.0,2,30,"Illinois","LAYUP","GOOD","02 Destiny Jackson LAYUP GOOD (5 Pt)","Destiny Jackson",2.0,34.0,38.0
+2025.0,19742.0,2,5,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS; 30 Cearah Parchment BLOCK (2 Blk)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,2,5,"Maryland","OFF","REBOUND","11 Marya Boiko OFF. REBOUND (3 Reb, 1 Off)","Marya Boiko",11.0,"",""
+2025.0,19742.0,2,5,"Illinois","FOUL","FOUL","02 Destiny Jackson FOUL (3 PF)","Destiny Jackson",2.0,"",""
+2025.0,19742.0,2,5,"Illinois","SUBS","SUBS","02 Destiny Jackson OUT; 01 Aaliyah Guyton IN","Destiny Jackson",2.0,"",""
+2025.0,19742.0,2,5,"Maryland","FT","MISS","11 Marya Boiko FT MISS","Marya Boiko",11.0,"",""
+2025.0,19742.0,2,5,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,2,5,"Maryland","FT","GOOD","11 Marya Boiko FT GOOD (7 Pt)","Marya Boiko",11.0,34.0,39.0
+2025.0,19742.0,2,0,"Illinois","JUMPER","MISS","08 Jasmine Brown-Hagger JUMPER MISS","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,2,0,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,3,600,"Illinois","SUBS","SUBS","01 Aaliyah Guyton OUT; 34 Maddie Webber OUT; 02 Destiny Jackson IN; 04 Gretchen Dolan IN","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,3,600,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 40 Breanna Williams OUT; 08 Kyndal Walker IN; 09 Isimenme Ozzy-Momodu IN","Marya Boiko",11.0,"",""
+2025.0,19742.0,3,584,"Illinois","JUMPER","MISS","23 Berry Wallace JUMPER MISS","Berry Wallace",23.0,"",""
+2025.0,19742.0,3,581,"Illinois","OFF","REBOUND","30 Cearah Parchment OFF. REBOUND (5 Reb, 3 Off)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,3,581,"Illinois","LAYUP","GOOD","30 Cearah Parchment LAYUP GOOD (8 Pt)","Cearah Parchment",30.0,36.0,39.0
+2025.0,19742.0,3,567,"Illinois","FOUL","FOUL","02 Destiny Jackson FOUL (4 PF)","Destiny Jackson",2.0,"",""
+2025.0,19742.0,3,567,"Illinois","SUBS","SUBS","02 Destiny Jackson OUT; 01 Aaliyah Guyton IN","Destiny Jackson",2.0,"",""
+2025.0,19742.0,3,565,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (6 Pt); 08 Kyndal Walker Assist (1 Asst)","Isimenme Ozzy-Momodu",9.0,36.0,41.0
+2025.0,19742.0,3,541,"Illinois","JUMPER","GOOD","30 Cearah Parchment JUMPER GOOD (10 Pt); 08 Jasmine Brown-Hagger Assist (1 Asst)","Cearah Parchment",30.0,38.0,41.0
+2025.0,19742.0,3,528,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (3 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,3,511,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,3,511,"Illinois","FT","GOOD","23 Berry Wallace FT GOOD (17 Pt)","Berry Wallace",23.0,39.0,41.0
+2025.0,19742.0,3,511,"Illinois","FT","GOOD","23 Berry Wallace FT GOOD (18 Pt)","Berry Wallace",23.0,40.0,41.0
+2025.0,19742.0,3,499,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (1 TO)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,3,482,"Illinois","JUMPER","GOOD","08 Jasmine Brown-Hagger JUMPER GOOD (3 Pt)","Jasmine Brown-Hagger",8.0,42.0,41.0
+2025.0,19742.0,3,463,"Illinois","FOUL","FOUL","30 Cearah Parchment FOUL (1 PF)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,3,463,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (1 Pt)","Kyndal Walker",8.0,42.0,42.0
+2025.0,19742.0,3,463,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (2 Pt)","Kyndal Walker",8.0,42.0,43.0
+2025.0,19742.0,3,463,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,19742.0,3,446,"Illinois","LAYUP","GOOD","23 Berry Wallace LAYUP GOOD (20 Pt); 01 Aaliyah Guyton Assist (2 Asst)","Berry Wallace",23.0,44.0,43.0
+2025.0,19742.0,3,428,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19742.0,3,426,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,3,425,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,3,422,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (6 Reb, 2 Off)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,3,421,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19742.0,3,418,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (4 Reb, 2 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,3,416,"Maryland","JUMPER","MISS","09 Isimenme Ozzy-Momodu JUMPER MISS; 30 Cearah Parchment BLOCK (3 Blk)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19742.0,3,412,"Illinois","DEF","REBOUND","01 Aaliyah Guyton DEF. REBOUND (1 Reb, 1 Def)","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,3,399,"Illinois","LAYUP","GOOD","04 Gretchen Dolan LAYUP GOOD (8 Pt)","Gretchen Dolan",4.0,46.0,43.0
+2025.0,19742.0,3,399,"Maryland","TEAM","TIMEOUT","Maryland TIMEOUT Full (1st TO, 1st Full)","","","",""
+2025.0,19742.0,3,399,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 09 Isimenme Ozzy-Momodu OUT; 08 Kyndal Walker IN; 11 Marya Boiko IN","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,3,399,"Illinois","SUBS","SUBS","08 Jasmine Brown-Hagger OUT; 34 Maddie Webber IN","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,3,383,"Illinois","FOUL","FOUL","34 Maddie Webber FOUL (3 PF)","Maddie Webber",34.0,"",""
+2025.0,19742.0,3,383,"Illinois","SUBS","SUBS","34 Maddie Webber OUT; 08 Jasmine Brown-Hagger IN","Maddie Webber",34.0,"",""
+2025.0,19742.0,3,383,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (5 Pt)","Saylor Poffenbarger",6.0,46.0,44.0
+2025.0,19742.0,3,383,"Maryland","FT","MISS","06 Saylor Poffenbarger FT MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,3,381,"Illinois","DEF","REBOUND","23 Berry Wallace DEF. REBOUND (6 Reb, 5 Def)","Berry Wallace",23.0,"",""
+2025.0,19742.0,3,372,"Illinois","TURNOVER","TURNOVER","30 Cearah Parchment TURNOVER (2 TO)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,3,355,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (2 Pt)","Addi Mack",3.0,46.0,46.0
+2025.0,19742.0,3,345,"Illinois","3PTR","MISS","30 Cearah Parchment 3PTR MISS","Cearah Parchment",30.0,"",""
+2025.0,19742.0,3,342,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 4 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,3,332,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (11 Pt); 06 Saylor Poffenbarger Assist (5 Asst)","Yarden Garzon",12.0,46.0,48.0
+2025.0,19742.0,3,314,"Illinois","JUMPER","MISS","01 Aaliyah Guyton JUMPER MISS","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,3,311,"Illinois","OFF","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,3,301,"Illinois","JUMPER","GOOD","04 Gretchen Dolan JUMPER GOOD (10 Pt); 01 Aaliyah Guyton Assist (3 Asst)","Gretchen Dolan",4.0,48.0,48.0
+2025.0,19742.0,3,279,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (4 PF)","Addi Mack",3.0,"",""
+2025.0,19742.0,3,279,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (2 TO)","Addi Mack",3.0,"",""
+2025.0,19742.0,3,279,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 07 Oluchi Okananwa IN","Addi Mack",3.0,"",""
+2025.0,19742.0,3,279,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19742.0,3,279,"Illinois","SUBS","SUBS","23 Berry Wallace OUT; 35 Lety Vasconcelos IN","Berry Wallace",23.0,"",""
+2025.0,19742.0,3,256,"Illinois","JUMPER","MISS","04 Gretchen Dolan JUMPER MISS","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,3,253,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (4 Reb, 3 Def)","Marya Boiko",11.0,"",""
+2025.0,19742.0,3,248,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,3,247,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,3,247,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (2 TO)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,3,247,"Illinois","SUBS","SUBS","35 Lety Vasconcelos OUT; 23 Berry Wallace IN","Lety Vasconcelos",35.0,"",""
+2025.0,19742.0,3,246,"Illinois","JUMPER","MISS","01 Aaliyah Guyton JUMPER MISS","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,3,246,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 5 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,3,246,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (7 Pt)","Saylor Poffenbarger",6.0,48.0,50.0
+2025.0,19742.0,3,182,"Illinois","FOUL","FOUL","08 Jasmine Brown-Hagger FOUL (1 PF)","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,3,182,"Illinois","TURNOVER","TURNOVER","08 Jasmine Brown-Hagger TURNOVER (1 TO)","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,3,182,"Illinois","SUBS","SUBS","08 Jasmine Brown-Hagger OUT; 34 Maddie Webber IN","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,3,164,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19742.0,3,161,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (1 Reb, 1 Off)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,3,160,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (4 Pt)","Kyndal Walker",8.0,48.0,52.0
+2025.0,19742.0,3,137,"Illinois","JUMPER","MISS","34 Maddie Webber JUMPER MISS","Maddie Webber",34.0,"",""
+2025.0,19742.0,3,134,"Illinois","OFF","REBOUND","30 Cearah Parchment OFF. REBOUND (6 Reb, 4 Off)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,3,134,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,3,134,"Illinois","FT","GOOD","30 Cearah Parchment FT GOOD (11 Pt)","Cearah Parchment",30.0,49.0,52.0
+2025.0,19742.0,3,134,"Illinois","FT","GOOD","30 Cearah Parchment FT GOOD (12 Pt)","Cearah Parchment",30.0,50.0,52.0
+2025.0,19742.0,3,128,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (3 TO)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,3,128,"Illinois","STEAL","STEAL","01 Aaliyah Guyton STEAL (1 Stl)","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,3,118,"Illinois","TURNOVER","TURNOVER","01 Aaliyah Guyton TURNOVER (3 TO)","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,3,118,"Maryland","STEAL","STEAL","08 Kyndal Walker STEAL (1 Stl)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,3,118,"Illinois","30SEC","TIMEOUT","Illinois TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19742.0,3,110,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19742.0,3,107,"Illinois","DEF","REBOUND","34 Maddie Webber DEF. REBOUND (1 Reb, 1 Def)","Maddie Webber",34.0,"",""
+2025.0,19742.0,3,77,"Illinois","TURNOVER","TURNOVER","Illinois TURNOVER (1 TO)","","","",""
+2025.0,19742.0,3,56,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,3,56,"Illinois","DEF","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,3,50,"Illinois","LAYUP","GOOD","34 Maddie Webber LAYUP GOOD (2 Pt)","Maddie Webber",34.0,52.0,52.0
+2025.0,19742.0,3,37,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (13 Pt)","Yarden Garzon",12.0,52.0,54.0
+2025.0,19742.0,3,13,"Illinois","JUMPER","MISS","23 Berry Wallace JUMPER MISS","Berry Wallace",23.0,"",""
+2025.0,19742.0,3,10,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (6 Reb, 6 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,3,3,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19742.0,3,2,"Illinois","DEF","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,4,600,"Illinois","SUBS","SUBS","01 Aaliyah Guyton OUT; 02 Destiny Jackson IN","Aaliyah Guyton",1.0,"",""
+2025.0,19742.0,4,574,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (9 Pt)","Saylor Poffenbarger",6.0,52.0,56.0
+2025.0,19742.0,4,544,"Illinois","LAYUP","MISS","34 Maddie Webber LAYUP MISS","Maddie Webber",34.0,"",""
+2025.0,19742.0,4,543,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,4,531,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (11 Pt); 11 Marya Boiko Assist (3 Asst)","Saylor Poffenbarger",6.0,52.0,58.0
+2025.0,19742.0,4,501,"Illinois","LAYUP","GOOD","04 Gretchen Dolan LAYUP GOOD (12 Pt)","Gretchen Dolan",4.0,54.0,58.0
+2025.0,19742.0,4,501,"Maryland","FOUL","FOUL","11 Marya Boiko FOUL (2 PF)","Marya Boiko",11.0,"",""
+2025.0,19742.0,4,501,"Illinois","FT","GOOD","04 Gretchen Dolan FT GOOD (13 Pt)","Gretchen Dolan",4.0,55.0,58.0
+2025.0,19742.0,4,473,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (15 Pt); 06 Saylor Poffenbarger Assist (6 Asst)","Yarden Garzon",12.0,55.0,60.0
+2025.0,19742.0,4,455,"Maryland","FOUL","FOUL","11 Marya Boiko FOUL (3 PF)","Marya Boiko",11.0,"",""
+2025.0,19742.0,4,455,"Illinois","SUBS","SUBS","04 Gretchen Dolan OUT; 08 Jasmine Brown-Hagger IN","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,4,455,"Illinois","FT","GOOD","30 Cearah Parchment FT GOOD (13 Pt)","Cearah Parchment",30.0,56.0,60.0
+2025.0,19742.0,4,455,"Illinois","FT","GOOD","30 Cearah Parchment FT GOOD (14 Pt)","Cearah Parchment",30.0,57.0,60.0
+2025.0,19742.0,4,440,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,437,"Illinois","DEF","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,4,437,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 03 Addi Mack IN","Marya Boiko",11.0,"",""
+2025.0,19742.0,4,423,"Illinois","3PTR","MISS","23 Berry Wallace 3PTR MISS","Berry Wallace",23.0,"",""
+2025.0,19742.0,4,419,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (7 Reb, 5 Def)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,414,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,4,411,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (7 Reb, 1 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,4,410,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19742.0,4,408,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,4,406,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,403,"Illinois","DEF","REBOUND","30 Cearah Parchment DEF. REBOUND (7 Reb, 3 Def)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,393,"Illinois","3PTR","GOOD","08 Jasmine Brown-Hagger 3PTR GOOD (6 Pt); 23 Berry Wallace Assist (2 Asst)","Jasmine Brown-Hagger",8.0,60.0,60.0
+2025.0,19742.0,4,363,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,363,"Illinois","STEAL","STEAL","30 Cearah Parchment STEAL (2 Stl)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,363,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,4,357,"Illinois","LAYUP","MISS","30 Cearah Parchment LAYUP MISS","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,356,"Illinois","OFF","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,4,353,"Illinois","JUMPER","MISS","34 Maddie Webber JUMPER MISS","Maddie Webber",34.0,"",""
+2025.0,19742.0,4,350,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (2 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,4,344,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19742.0,4,342,"Illinois","DEF","REBOUND","02 Destiny Jackson DEF. REBOUND (1 Reb, 1 Def)","Destiny Jackson",2.0,"",""
+2025.0,19742.0,4,339,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,339,"Illinois","FT","GOOD","02 Destiny Jackson FT GOOD (6 Pt)","Destiny Jackson",2.0,61.0,60.0
+2025.0,19742.0,4,339,"Illinois","FT","GOOD","02 Destiny Jackson FT GOOD (7 Pt)","Destiny Jackson",2.0,62.0,60.0
+2025.0,19742.0,4,321,"Illinois","FOUL","FOUL","30 Cearah Parchment FOUL (2 PF)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,321,"Maryland","FT","MISS","06 Saylor Poffenbarger FT MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,4,321,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,4,321,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (12 Pt)","Saylor Poffenbarger",6.0,62.0,61.0
+2025.0,19742.0,4,297,"Illinois","3PTR","GOOD","30 Cearah Parchment 3PTR GOOD (17 Pt); 02 Destiny Jackson Assist (3 Asst)","Cearah Parchment",30.0,65.0,61.0
+2025.0,19742.0,4,281,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (4 Pt)","Addi Mack",3.0,65.0,63.0
+2025.0,19742.0,4,251,"Illinois","LAYUP","GOOD","02 Destiny Jackson LAYUP GOOD (9 Pt)","Destiny Jackson",2.0,67.0,63.0
+2025.0,19742.0,4,236,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (14 Pt)","Saylor Poffenbarger",6.0,67.0,65.0
+2025.0,19742.0,4,216,"Illinois","TURNOVER","TURNOVER","08 Jasmine Brown-Hagger TURNOVER (2 TO)","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,4,216,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19742.0,4,216,"Illinois","SUBS","SUBS","08 Jasmine Brown-Hagger OUT; 04 Gretchen Dolan IN","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,4,196,"Illinois","FOUL","FOUL","30 Cearah Parchment FOUL (3 PF)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,196,"Maryland","FT","MISS","06 Saylor Poffenbarger FT MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,4,196,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,4,196,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (15 Pt)","Saylor Poffenbarger",6.0,67.0,66.0
+2025.0,19742.0,4,179,"Illinois","TURNOVER","TURNOVER","23 Berry Wallace TURNOVER (1 TO)","Berry Wallace",23.0,"",""
+2025.0,19742.0,4,172,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (3 PF)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,4,172,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (4 TO)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,4,157,"Illinois","LAYUP","GOOD","04 Gretchen Dolan LAYUP GOOD (15 Pt)","Gretchen Dolan",4.0,69.0,66.0
+2025.0,19742.0,4,142,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (6 Pt)","Kyndal Walker",8.0,69.0,68.0
+2025.0,19742.0,4,125,"Illinois","LAYUP","MISS","02 Destiny Jackson LAYUP MISS","Destiny Jackson",2.0,"",""
+2025.0,19742.0,4,123,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (8 Reb, 7 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,4,100,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,97,"Illinois","DEF","REBOUND","30 Cearah Parchment DEF. REBOUND (8 Reb, 4 Def)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,79,"Illinois","LAYUP","MISS","04 Gretchen Dolan LAYUP MISS","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,4,76,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025.0,19742.0,4,69,"Illinois","SUBS","SUBS","04 Gretchen Dolan OUT; 08 Jasmine Brown-Hagger IN","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,4,69,"Illinois","FOUL","FOUL","34 Maddie Webber FOUL (4 PF)","Maddie Webber",34.0,"",""
+2025.0,19742.0,4,67,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (2 TO)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,67,"Illinois","SUBS","SUBS","08 Jasmine Brown-Hagger OUT; 04 Gretchen Dolan IN","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,4,65,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (3 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19742.0,4,65,"Illinois","FT","GOOD","04 Gretchen Dolan FT GOOD (16 Pt)","Gretchen Dolan",4.0,70.0,68.0
+2025.0,19742.0,4,65,"Illinois","FT","GOOD","04 Gretchen Dolan FT GOOD (17 Pt)","Gretchen Dolan",4.0,71.0,68.0
+2025.0,19742.0,4,65,"Illinois","SUBS","SUBS","04 Gretchen Dolan OUT; 08 Jasmine Brown-Hagger IN","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,4,50,"Illinois","FOUL","FOUL","30 Cearah Parchment FOUL (4 PF)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,50,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (16 Pt)","Yarden Garzon",12.0,71.0,69.0
+2025.0,19742.0,4,50,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (17 Pt)","Yarden Garzon",12.0,71.0,70.0
+2025.0,19742.0,4,50,"Illinois","30SEC","TIMEOUT","Illinois TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
+2025.0,19742.0,4,50,"Illinois","SUBS","SUBS","08 Jasmine Brown-Hagger OUT; 04 Gretchen Dolan IN","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,4,37,"Illinois","LAYUP","MISS","04 Gretchen Dolan LAYUP MISS","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,4,33,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19742.0,4,33,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19742.0,4,33,"Illinois","SUBS","SUBS","04 Gretchen Dolan OUT; 08 Jasmine Brown-Hagger IN","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,4,22,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (3 TO)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,22,"Illinois","STEAL","STEAL","30 Cearah Parchment STEAL (3 Stl)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,21,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (4 PF)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,4,21,"Illinois","FT","MISS","30 Cearah Parchment FT MISS","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,21,"Illinois","DEADB","REBOUND","Illinois REBOUND","","","",""
+2025.0,19742.0,4,21,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (2 Reb, 1 Def)","Kyndal Walker",8.0,"",""
+2025.0,19742.0,4,18,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS; 23 Berry Wallace BLOCK (1 Blk)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,4,18,"Illinois","DEF","REBOUND","23 Berry Wallace DEF. REBOUND (7 Reb, 6 Def)","Berry Wallace",23.0,"",""
+2025.0,19742.0,4,15,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (2 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,4,15,"Illinois","FT","GOOD","23 Berry Wallace FT GOOD (21 Pt)","Berry Wallace",23.0,72.0,70.0
+2025.0,19742.0,4,15,"Illinois","FT","GOOD","23 Berry Wallace FT GOOD (22 Pt)","Berry Wallace",23.0,73.0,70.0
+2025.0,19742.0,4,15,"Maryland","TEAM","TIMEOUT","Maryland TIMEOUT Full (2nd TO, 2nd Full)","","","",""
+2025.0,19742.0,4,10,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,10,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (4 TO)","Yarden Garzon",12.0,"",""
+2025.0,19742.0,4,10,"Illinois","SUBS","SUBS","08 Jasmine Brown-Hagger OUT; 04 Gretchen Dolan IN","Jasmine Brown-Hagger",8.0,"",""
+2025.0,19742.0,4,10,"Illinois","30SEC","TIMEOUT","Illinois TIMEOUT 30 Sec. (2nd TO, 3rd 30)","","","",""
+2025.0,19742.0,4,8,"Illinois","TURNOVER","TURNOVER","30 Cearah Parchment TURNOVER (3 TO)","Cearah Parchment",30.0,"",""
+2025.0,19742.0,4,8,"Illinois","SUBS","SUBS","04 Gretchen Dolan OUT; 08 Jasmine Brown-Hagger IN","Gretchen Dolan",4.0,"",""
+2025.0,19742.0,4,0,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19742.0,4,0,"Illinois","DEADB","REBOUND","Illinois REBOUND","","","",""
