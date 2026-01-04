@@ -1,0 +1,43 @@
+---
+title: "umd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Time Analysis
+
+
+```{r}
+maryland_time <- read_csv("~/code/umdwbb-data/maryland_time.csv", 
+     col_types = cols(date = col_date(format = "%m/%d/%Y"), 
+         home_lead_time = col_time(format = "%M:%S"), 
+         home_pct_lead = col_number(), visitor_lead_time = col_time(format = "%M:%S"), 
+         visitor_pct_lead = col_number()))
+```
+
+```{r}
+largest_visitor_leads <- maryland_time %>%
+   filter(home == 'Maryland') %>%
+   arrange(desc(visitor_largest_lead))
+```
+
+```{r}
+largest_home_leads <- maryland_time %>%
+   filter(visitor == 'Maryland') %>%
+   arrange(desc(home_largest_lead))
+
+```
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
