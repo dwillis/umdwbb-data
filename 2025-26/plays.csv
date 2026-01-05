@@ -11230,3 +11230,346 @@
 2025.0,19742.0,4,8,"Illinois","SUBS","SUBS","04 Gretchen Dolan OUT; 08 Jasmine Brown-Hagger IN","Gretchen Dolan",4.0,"",""
 2025.0,19742.0,4,0,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
 2025.0,19742.0,4,0,"Illinois","DEADB","REBOUND","Illinois REBOUND","","","",""
+2025.0,19743.0,1,582,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,1,582,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (1 Reb, 1 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,1,582,"Indiana","FOUL","FOUL","08 Edessa Noyan FOUL (1 PF)","Edessa Noyan",8.0,"",""
+2025.0,19743.0,1,575,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (3 Pt); 03 Addi Mack Assist (1 Asst)","Oluchi Okananwa",7.0,3.0,0.0
+2025.0,19743.0,1,542,"Indiana","JUMPER","MISS","03 Maya Makalusky JUMPER MISS","Maya Makalusky",3.0,"",""
+2025.0,19743.0,1,538,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (2 Reb, 1 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,1,532,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (3 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Yarden Garzon",12.0,6.0,0.0
+2025.0,19743.0,1,520,"Indiana","3PTR","GOOD","05 LenÃ©e Beaumont 3PTR GOOD (3 Pt)","LenÃ©e Beaumont",5.0,6.0,3.0
+2025.0,19743.0,1,503,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,1,502,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19743.0,1,502,"Indiana","FOUL","FOUL","08 Edessa Noyan FOUL (2 PF)","Edessa Noyan",8.0,"",""
+2025.0,19743.0,1,502,"Indiana","SUBS","SUBS","08 Edessa Noyan OUT; 23 Zania Socka-Nguemen IN","Edessa Noyan",8.0,"",""
+2025.0,19743.0,1,497,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,1,497,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (3 Reb, 2 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,1,490,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19743.0,1,490,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (4 Reb, 3 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,1,482,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,1,482,"Indiana","DEF","REBOUND","10 Shay Ciezki DEF. REBOUND (1 Reb, 1 Def)","Shay Ciezki",10.0,"",""
+2025.0,19743.0,1,473,"Indiana","TURNOVER","TURNOVER","05 LenÃ©e Beaumont TURNOVER (1 TO)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,1,449,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19743.0,1,449,"Indiana","DEF","REBOUND","10 Shay Ciezki DEF. REBOUND (2 Reb, 2 Def)","Shay Ciezki",10.0,"",""
+2025.0,19743.0,1,449,"Indiana","LAYUP","GOOD","03 Maya Makalusky LAYUP GOOD (2 Pt); 10 Shay Ciezki Assist (1 Asst)","Maya Makalusky",3.0,6.0,5.0
+2025.0,19743.0,1,449,"Maryland","LAYUP","MISS","12 Yarden Garzon LAYUP MISS","Yarden Garzon",12.0,"",""
+2025.0,19743.0,1,449,"Maryland","OFF","REBOUND","03 Addi Mack OFF. REBOUND (1 Reb, 1 Off)","Addi Mack",3.0,"",""
+2025.0,19743.0,1,448,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19743.0,1,436,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19743.0,1,436,"Indiana","FOUL","FOUL","23 Zania Socka-Nguemen FOUL (1 PF)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,1,420,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (2 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Isimenme Ozzy-Momodu",9.0,8.0,5.0
+2025.0,19743.0,1,391,"Indiana","TURNOVER","TURNOVER","02 Nevaeh Caffey TURNOVER (1 TO)","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,1,379,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (5 Pt); 03 Addi Mack Assist (2 Asst)","Yarden Garzon",12.0,10.0,5.0
+2025.0,19743.0,1,365,"Indiana","TURNOVER","TURNOVER","10 Shay Ciezki TURNOVER (1 TO)","Shay Ciezki",10.0,"",""
+2025.0,19743.0,1,365,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,1,361,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (5 Pt); 06 Saylor Poffenbarger Assist (2 Asst)","Oluchi Okananwa",7.0,12.0,5.0
+2025.0,19743.0,1,360,"Indiana","30SEC","TIMEOUT","Indiana TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19743.0,1,360,"Indiana","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19743.0,1,351,"Indiana","LAYUP","GOOD","10 Shay Ciezki LAYUP GOOD (2 Pt)","Shay Ciezki",10.0,12.0,7.0
+2025.0,19743.0,1,345,"Indiana","FOUL","FOUL","10 Shay Ciezki FOUL (1 PF)","Shay Ciezki",10.0,"",""
+2025.0,19743.0,1,345,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (6 Pt)","Oluchi Okananwa",7.0,13.0,7.0
+2025.0,19743.0,1,345,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,1,344,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (1 Reb, 1 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,1,342,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19743.0,1,339,"Indiana","DEF","REBOUND","23 Zania Socka-Nguemen DEF. REBOUND (1 Reb, 1 Def)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,1,329,"Indiana","3PTR","GOOD","03 Maya Makalusky 3PTR GOOD (5 Pt); 02 Nevaeh Caffey Assist (1 Asst)","Maya Makalusky",3.0,13.0,10.0
+2025.0,19743.0,1,306,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 00 Rainey Welson IN","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,1,306,"Indiana","SUBS","SUBS","02 Nevaeh Caffey OUT; 07 Jerni Kiaku IN","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,1,300,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,1,297,"Indiana","DEF","REBOUND","07 Jerni Kiaku DEF. REBOUND (1 Reb, 1 Def)","Jerni Kiaku",7.0,"",""
+2025.0,19743.0,1,278,"Indiana","LAYUP","GOOD","23 Zania Socka-Nguemen LAYUP GOOD (2 Pt); 07 Jerni Kiaku Assist (1 Asst)","Zania Socka-Nguemen",23.0,13.0,12.0
+2025.0,19743.0,1,263,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (1 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,1,263,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 09 Isimenme Ozzy-Momodu OUT; 08 Kyndal Walker IN; 11 Marya Boiko IN","Addi Mack",3.0,"",""
+2025.0,19743.0,1,263,"Indiana","SUBS","SUBS","23 Zania Socka-Nguemen OUT; 08 Edessa Noyan IN","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,1,242,"Indiana","LAYUP","GOOD","08 Edessa Noyan LAYUP GOOD (2 Pt); 07 Jerni Kiaku Assist (2 Asst)","Edessa Noyan",8.0,13.0,14.0
+2025.0,19743.0,1,230,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (1 TO)","Kyndal Walker",8.0,"",""
+2025.0,19743.0,1,230,"Indiana","STEAL","STEAL","10 Shay Ciezki STEAL (1 Stl)","Shay Ciezki",10.0,"",""
+2025.0,19743.0,1,216,"Indiana","3PTR","MISS","03 Maya Makalusky 3PTR MISS","Maya Makalusky",3.0,"",""
+2025.0,19743.0,1,214,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,19743.0,1,208,"Indiana","FOUL","FOUL","05 LenÃ©e Beaumont FOUL (1 PF)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,1,208,"Indiana","SUBS","SUBS","05 LenÃ©e Beaumont OUT; 02 Nevaeh Caffey IN","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,1,208,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (1 Pt)","Saylor Poffenbarger",6.0,14.0,14.0
+2025.0,19743.0,1,208,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (2 Pt)","Saylor Poffenbarger",6.0,15.0,14.0
+2025.0,19743.0,1,182,"Indiana","3PTR","MISS","03 Maya Makalusky 3PTR MISS","Maya Makalusky",3.0,"",""
+2025.0,19743.0,1,180,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (1 Reb, 1 Def)","Kyndal Walker",8.0,"",""
+2025.0,19743.0,1,175,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19743.0,1,170,"Indiana","DEF","REBOUND","08 Edessa Noyan DEF. REBOUND (1 Reb, 1 Def)","Edessa Noyan",8.0,"",""
+2025.0,19743.0,1,168,"Indiana","TURNOVER","TURNOVER","07 Jerni Kiaku TURNOVER (1 TO)","Jerni Kiaku",7.0,"",""
+2025.0,19743.0,1,161,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19743.0,1,159,"Maryland","OFF","REBOUND","11 Marya Boiko OFF. REBOUND (1 Reb, 1 Off)","Marya Boiko",11.0,"",""
+2025.0,19743.0,1,159,"Indiana","FOUL","FOUL","10 Shay Ciezki FOUL (2 PF)","Shay Ciezki",10.0,"",""
+2025.0,19743.0,1,159,"Indiana","SUBS","SUBS","03 Maya Makalusky OUT; 05 LenÃ©e Beaumont IN","Maya Makalusky",3.0,"",""
+2025.0,19743.0,1,159,"Maryland","FT","GOOD","11 Marya Boiko FT GOOD (1 Pt)","Marya Boiko",11.0,16.0,14.0
+2025.0,19743.0,1,159,"Maryland","FT","GOOD","11 Marya Boiko FT GOOD (2 Pt)","Marya Boiko",11.0,17.0,14.0
+2025.0,19743.0,1,133,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,1,133,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 09 Isimenme Ozzy-Momodu IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,1,133,"Indiana","SUBS","SUBS","08 Edessa Noyan OUT; 23 Zania Socka-Nguemen IN","Edessa Noyan",8.0,"",""
+2025.0,19743.0,1,133,"Indiana","FT","GOOD","02 Nevaeh Caffey FT GOOD (1 Pt)","Nevaeh Caffey",2.0,17.0,15.0
+2025.0,19743.0,1,133,"Indiana","FT","MISS","02 Nevaeh Caffey FT MISS","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,1,132,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (2 Reb, 1 Def)","Marya Boiko",11.0,"",""
+2025.0,19743.0,1,121,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19743.0,1,119,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (5 Reb, 4 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,1,115,"Maryland","LAYUP","GOOD","11 Marya Boiko LAYUP GOOD (4 Pt); 09 Isimenme Ozzy-Momodu Assist (1 Asst)","Marya Boiko",11.0,19.0,15.0
+2025.0,19743.0,1,91,"Indiana","LAYUP","GOOD","10 Shay Ciezki LAYUP GOOD (4 Pt)","Shay Ciezki",10.0,19.0,17.0
+2025.0,19743.0,1,69,"Indiana","FOUL","FOUL","07 Jerni Kiaku FOUL (1 PF)","Jerni Kiaku",7.0,"",""
+2025.0,19743.0,1,69,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 07 Oluchi Okananwa IN; 12 Yarden Garzon OUT; 03 Addi Mack IN","Marya Boiko",11.0,"",""
+2025.0,19743.0,1,69,"Indiana","SUBS","SUBS","07 Jerni Kiaku OUT; 10 Shay Ciezki OUT; 01 Phoenix Stotijn IN; 03 Maya Makalusky IN","Jerni Kiaku",7.0,"",""
+2025.0,19743.0,1,69,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (1 Pt)","Kyndal Walker",8.0,20.0,17.0
+2025.0,19743.0,1,69,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (2 Pt)","Kyndal Walker",8.0,21.0,17.0
+2025.0,19743.0,1,45,"Indiana","TURNOVER","TURNOVER","01 Phoenix Stotijn TURNOVER (1 TO)","Phoenix Stotijn",1.0,"",""
+2025.0,19743.0,1,35,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (2 Pt)","Addi Mack",3.0,23.0,17.0
+2025.0,19743.0,1,23,"Indiana","SUBS","SUBS","01 Phoenix Stotijn OUT; 10 Shay Ciezki IN","Phoenix Stotijn",1.0,"",""
+2025.0,19743.0,1,21,"Indiana","TURNOVER","TURNOVER","05 LenÃ©e Beaumont TURNOVER (2 TO)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,1,21,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,1,18,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (8 Pt)","Oluchi Okananwa",7.0,25.0,17.0
+2025.0,19743.0,1,4,"Indiana","3PTR","GOOD","03 Maya Makalusky 3PTR GOOD (8 Pt); 05 LenÃ©e Beaumont Assist (1 Asst)","Maya Makalusky",3.0,25.0,20.0
+2025.0,19743.0,2,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 08 Kyndal Walker OUT; 06 Saylor Poffenbarger IN; 12 Yarden Garzon IN","Rainey Welson",0.0,"",""
+2025.0,19743.0,2,600,"Indiana","SUBS","SUBS","10 Shay Ciezki OUT; 01 Phoenix Stotijn IN","Shay Ciezki",10.0,"",""
+2025.0,19743.0,2,592,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (11 Pt); 12 Yarden Garzon Assist (1 Asst)","Oluchi Okananwa",7.0,28.0,20.0
+2025.0,19743.0,2,567,"Indiana","TURNOVER","TURNOVER","03 Maya Makalusky TURNOVER (1 TO)","Maya Makalusky",3.0,"",""
+2025.0,19743.0,2,553,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,2,550,"Indiana","DEF","REBOUND","Indiana REBOUND","","","",""
+2025.0,19743.0,2,527,"Indiana","3PTR","GOOD","05 LenÃ©e Beaumont 3PTR GOOD (6 Pt); 23 Zania Socka-Nguemen Assist (1 Asst)","LenÃ©e Beaumont",5.0,28.0,23.0
+2025.0,19743.0,2,510,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (13 Pt)","Oluchi Okananwa",7.0,30.0,23.0
+2025.0,19743.0,2,510,"Indiana","FOUL","FOUL","23 Zania Socka-Nguemen FOUL (2 PF)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,2,510,"Indiana","SUBS","SUBS","02 Nevaeh Caffey OUT; 10 Shay Ciezki IN","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,2,510,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (14 Pt)","Oluchi Okananwa",7.0,31.0,23.0
+2025.0,19743.0,2,490,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,2,479,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,2,460,"Indiana","3PTR","MISS","03 Maya Makalusky 3PTR MISS","Maya Makalusky",3.0,"",""
+2025.0,19743.0,2,460,"Indiana","TURNOVER","TURNOVER","Indiana TURNOVER (1 TO)","","","",""
+2025.0,19743.0,2,456,"Indiana","DEADB","REBOUND","Indiana REBOUND","","","",""
+2025.0,19743.0,2,438,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,2,438,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19743.0,2,438,"Indiana","FOUL","FOUL","23 Zania Socka-Nguemen FOUL (3 PF)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,2,438,"Indiana","SUBS","SUBS","23 Zania Socka-Nguemen OUT; 08 Edessa Noyan IN","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,2,434,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (2 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,2,434,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,2,434,"Indiana","SUBS","SUBS","01 Phoenix Stotijn OUT; 02 Nevaeh Caffey IN","Phoenix Stotijn",1.0,"",""
+2025.0,19743.0,2,407,"Indiana","JUMPER","GOOD","02 Nevaeh Caffey JUMPER GOOD (3 Pt)","Nevaeh Caffey",2.0,31.0,25.0
+2025.0,19743.0,2,396,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19743.0,2,393,"Indiana","DEF","REBOUND","05 LenÃ©e Beaumont DEF. REBOUND (1 Reb, 1 Def)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,2,382,"Indiana","3PTR","GOOD","03 Maya Makalusky 3PTR GOOD (11 Pt); 02 Nevaeh Caffey Assist (2 Asst)","Maya Makalusky",3.0,31.0,28.0
+2025.0,19743.0,2,356,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19743.0,2,353,"Indiana","DEF","REBOUND","05 LenÃ©e Beaumont DEF. REBOUND (2 Reb, 2 Def)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,2,344,"Indiana","TURNOVER","TURNOVER","05 LenÃ©e Beaumont TURNOVER (3 TO)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,2,344,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 06 Saylor Poffenbarger OUT; 09 Isimenme Ozzy-Momodu OUT; 08 Kyndal Walker IN; 10 Mir McLean IN; 11 Marya Boiko IN","Addi Mack",3.0,"",""
+2025.0,19743.0,2,344,"Indiana","SUBS","SUBS","05 LenÃ©e Beaumont OUT; 07 Jerni Kiaku IN","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,2,327,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,2,325,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19743.0,2,314,"Maryland","JUMPER","MISS","11 Marya Boiko JUMPER MISS","Marya Boiko",11.0,"",""
+2025.0,19743.0,2,312,"Indiana","DEF","REBOUND","Indiana REBOUND","","","",""
+2025.0,19743.0,2,298,"Indiana","FOUL","FOUL","08 Edessa Noyan FOUL (3 PF)","Edessa Noyan",8.0,"",""
+2025.0,19743.0,2,298,"Indiana","TURNOVER","TURNOVER","08 Edessa Noyan TURNOVER (1 TO)","Edessa Noyan",8.0,"",""
+2025.0,19743.0,2,298,"Indiana","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19743.0,2,298,"Indiana","SUBS","SUBS","03 Maya Makalusky OUT; 08 Edessa Noyan OUT; 05 LenÃ©e Beaumont IN; 45 Jade Ondineme IN","Maya Makalusky",3.0,"",""
+2025.0,19743.0,2,281,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (16 Pt)","Oluchi Okananwa",7.0,33.0,28.0
+2025.0,19743.0,2,246,"Indiana","JUMPER","MISS","05 LenÃ©e Beaumont JUMPER MISS","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,2,246,"Indiana","OFF","REBOUND","45 Jade Ondineme OFF. REBOUND (1 Reb, 1 Off)","Jade Ondineme",45.0,"",""
+2025.0,19743.0,2,246,"Indiana","TURNOVER","TURNOVER","Indiana TURNOVER (2 TO)","","","",""
+2025.0,19743.0,2,246,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 09 Isimenme Ozzy-Momodu IN","Marya Boiko",11.0,"",""
+2025.0,19743.0,2,225,"Indiana","FOUL","FOUL","45 Jade Ondineme FOUL (1 PF)","Jade Ondineme",45.0,"",""
+2025.0,19743.0,2,225,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (1 Pt)","Mir McLean",10.0,34.0,28.0
+2025.0,19743.0,2,225,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (2 Pt)","Mir McLean",10.0,35.0,28.0
+2025.0,19743.0,2,201,"Indiana","JUMPER","MISS","05 LenÃ©e Beaumont JUMPER MISS","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,2,197,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (6 Reb, 2 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,2,188,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (4 Pt); 07 Oluchi Okananwa Assist (2 Asst)","Kyndal Walker",8.0,37.0,28.0
+2025.0,19743.0,2,176,"Indiana","TURNOVER","TURNOVER","02 Nevaeh Caffey TURNOVER (2 TO)","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,2,176,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (1 Stl)","Mir McLean",10.0,"",""
+2025.0,19743.0,2,169,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+2025.0,19743.0,2,169,"Maryland","TURNOVER","TURNOVER","10 Mir McLean TURNOVER (1 TO)","Mir McLean",10.0,"",""
+2025.0,19743.0,2,169,"Indiana","SUBS","SUBS","07 Jerni Kiaku OUT; 45 Jade Ondineme OUT; 03 Maya Makalusky IN; 23 Zania Socka-Nguemen IN","Jerni Kiaku",7.0,"",""
+2025.0,19743.0,2,164,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025.0,19743.0,2,164,"Indiana","FT","GOOD","02 Nevaeh Caffey FT GOOD (4 Pt)","Nevaeh Caffey",2.0,37.0,29.0
+2025.0,19743.0,2,164,"Indiana","FT","GOOD","02 Nevaeh Caffey FT GOOD (5 Pt)","Nevaeh Caffey",2.0,37.0,30.0
+2025.0,19743.0,2,153,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,2,150,"Indiana","DEF","REBOUND","Indiana REBOUND","","","",""
+2025.0,19743.0,2,137,"Indiana","TURNOVER","TURNOVER","02 Nevaeh Caffey TURNOVER (3 TO)","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,2,137,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (2 Stl)","Mir McLean",10.0,"",""
+2025.0,19743.0,2,132,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (2 PF)","Mir McLean",10.0,"",""
+2025.0,19743.0,2,132,"Maryland","TURNOVER","TURNOVER","10 Mir McLean TURNOVER (2 TO)","Mir McLean",10.0,"",""
+2025.0,19743.0,2,132,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 03 Addi Mack IN","Mir McLean",10.0,"",""
+2025.0,19743.0,2,118,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (2 PF)","Kyndal Walker",8.0,"",""
+2025.0,19743.0,2,118,"Indiana","FT","GOOD","10 Shay Ciezki FT GOOD (5 Pt)","Shay Ciezki",10.0,37.0,31.0
+2025.0,19743.0,2,118,"Indiana","FT","GOOD","10 Shay Ciezki FT GOOD (6 Pt)","Shay Ciezki",10.0,37.0,32.0
+2025.0,19743.0,2,118,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 06 Saylor Poffenbarger IN","Kyndal Walker",8.0,"",""
+2025.0,19743.0,2,98,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19743.0,2,94,"Indiana","DEF","REBOUND","05 LenÃ©e Beaumont DEF. REBOUND (3 Reb, 3 Def)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,2,90,"Indiana","FOUL","FOUL","23 Zania Socka-Nguemen FOUL (4 PF)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,2,90,"Indiana","TURNOVER","TURNOVER","23 Zania Socka-Nguemen TURNOVER (1 TO)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,2,90,"Indiana","SUBS","SUBS","23 Zania Socka-Nguemen OUT; 08 Edessa Noyan IN","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,2,71,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,2,47,"Indiana","TURNOVER","TURNOVER","05 LenÃ©e Beaumont TURNOVER (4 TO)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,2,27,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (4 Pt); 03 Addi Mack Assist (3 Asst)","Saylor Poffenbarger",6.0,39.0,32.0
+2025.0,19743.0,2,15,"Indiana","TURNOVER","TURNOVER","08 Edessa Noyan TURNOVER (2 TO)","Edessa Noyan",8.0,"",""
+2025.0,19743.0,2,15,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 11 Marya Boiko IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,2,15,"Indiana","SUBS","SUBS","08 Edessa Noyan OUT; 45 Jade Ondineme IN","Edessa Noyan",8.0,"",""
+2025.0,19743.0,2,3,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (3 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,2,3,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (2 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,2,3,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 10 Mir McLean IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,2,3,"Indiana","SUBS","SUBS","45 Jade Ondineme OUT; 08 Edessa Noyan IN","Jade Ondineme",45.0,"",""
+2025.0,19743.0,3,600,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 11 Marya Boiko OUT; 08 Kyndal Walker IN; 09 Isimenme Ozzy-Momodu IN","Mir McLean",10.0,"",""
+2025.0,19743.0,3,585,"Indiana","LAYUP","MISS","02 Nevaeh Caffey LAYUP MISS","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,3,584,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (7 Reb, 3 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,3,562,"Indiana","FOUL","FOUL","02 Nevaeh Caffey FOUL (1 PF)","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,3,562,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (17 Pt)","Oluchi Okananwa",7.0,40.0,32.0
+2025.0,19743.0,3,562,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (18 Pt)","Oluchi Okananwa",7.0,41.0,32.0
+2025.0,19743.0,3,534,"Indiana","3PTR","MISS","03 Maya Makalusky 3PTR MISS","Maya Makalusky",3.0,"",""
+2025.0,19743.0,3,532,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (2 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025.0,19743.0,3,513,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (4 Pt); 07 Oluchi Okananwa Assist (3 Asst)","Isimenme Ozzy-Momodu",9.0,43.0,32.0
+2025.0,19743.0,3,495,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,3,488,"Indiana","JUMPER","MISS","10 Shay Ciezki JUMPER MISS","Shay Ciezki",10.0,"",""
+2025.0,19743.0,3,485,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (3 Reb, 2 Def)","Addi Mack",3.0,"",""
+2025.0,19743.0,3,475,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,3,472,"Indiana","DEF","REBOUND","02 Nevaeh Caffey DEF. REBOUND (1 Reb, 1 Def)","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,3,469,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack",3.0,"",""
+2025.0,19743.0,3,467,"Indiana","TURNOVER","TURNOVER","10 Shay Ciezki TURNOVER (2 TO)","Shay Ciezki",10.0,"",""
+2025.0,19743.0,3,446,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (8 Pt); 03 Addi Mack Assist (4 Asst)","Yarden Garzon",12.0,46.0,32.0
+2025.0,19743.0,3,419,"Indiana","3PTR","MISS","10 Shay Ciezki 3PTR MISS","Shay Ciezki",10.0,"",""
+2025.0,19743.0,3,417,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (8 Reb, 4 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,3,407,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (20 Pt)","Oluchi Okananwa",7.0,48.0,32.0
+2025.0,19743.0,3,397,"Indiana","LAYUP","MISS","05 LenÃ©e Beaumont LAYUP MISS","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,3,394,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (9 Reb, 5 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,3,386,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (23 Pt); 03 Addi Mack Assist (5 Asst)","Oluchi Okananwa",7.0,51.0,32.0
+2025.0,19743.0,3,376,"Indiana","30SEC","TIMEOUT","Indiana TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
+2025.0,19743.0,3,376,"Indiana","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19743.0,3,376,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 00 Rainey Welson IN","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,3,376,"Indiana","SUBS","SUBS","08 Edessa Noyan OUT; 23 Zania Socka-Nguemen IN","Edessa Noyan",8.0,"",""
+2025.0,19743.0,3,358,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (3 PF)","Kyndal Walker",8.0,"",""
+2025.0,19743.0,3,357,"Indiana","FT","MISS","10 Shay Ciezki FT MISS","Shay Ciezki",10.0,"",""
+2025.0,19743.0,3,357,"Indiana","DEADB","REBOUND","Indiana REBOUND","","","",""
+2025.0,19743.0,3,357,"Indiana","FT","GOOD","10 Shay Ciezki FT GOOD (7 Pt)","Shay Ciezki",10.0,51.0,33.0
+2025.0,19743.0,3,357,"Indiana","FT","GOOD","10 Shay Ciezki FT GOOD (8 Pt)","Shay Ciezki",10.0,51.0,34.0
+2025.0,19743.0,3,329,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (6 Pt)","Kyndal Walker",8.0,53.0,34.0
+2025.0,19743.0,3,309,"Indiana","LAYUP","MISS","10 Shay Ciezki LAYUP MISS","Shay Ciezki",10.0,"",""
+2025.0,19743.0,3,307,"Indiana","OFF","REBOUND","23 Zania Socka-Nguemen OFF. REBOUND (2 Reb, 1 Off)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,3,305,"Indiana","LAYUP","GOOD","23 Zania Socka-Nguemen LAYUP GOOD (4 Pt)","Zania Socka-Nguemen",23.0,53.0,36.0
+2025.0,19743.0,3,289,"Maryland","LAYUP","MISS","00 Rainey Welson LAYUP MISS","Rainey Welson",0.0,"",""
+2025.0,19743.0,3,287,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19743.0,3,287,"Indiana","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19743.0,3,287,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 08 Kyndal Walker OUT; 09 Isimenme Ozzy-Momodu OUT; 06 Saylor Poffenbarger IN; 07 Oluchi Okananwa IN; 11 Marya Boiko IN","Rainey Welson",0.0,"",""
+2025.0,19743.0,3,287,"Indiana","FOUL","FOUL","05 LenÃ©e Beaumont FOUL (2 PF)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,3,283,"Indiana","FOUL","FOUL","05 LenÃ©e Beaumont FOUL (3 PF)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,3,278,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19743.0,3,275,"Indiana","DEF","REBOUND","02 Nevaeh Caffey DEF. REBOUND (2 Reb, 2 Def)","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,3,269,"Indiana","3PTR","GOOD","03 Maya Makalusky 3PTR GOOD (14 Pt); 05 LenÃ©e Beaumont Assist (2 Asst)","Maya Makalusky",3.0,53.0,39.0
+2025.0,19743.0,3,245,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (25 Pt)","Oluchi Okananwa",7.0,55.0,39.0
+2025.0,19743.0,3,228,"Indiana","JUMPER","MISS","03 Maya Makalusky JUMPER MISS","Maya Makalusky",3.0,"",""
+2025.0,19743.0,3,225,"Indiana","OFF","REBOUND","23 Zania Socka-Nguemen OFF. REBOUND (3 Reb, 2 Off)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,3,222,"Indiana","TURNOVER","TURNOVER","23 Zania Socka-Nguemen TURNOVER (2 TO)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,3,222,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (2 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,3,218,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (27 Pt)","Oluchi Okananwa",7.0,57.0,39.0
+2025.0,19743.0,3,203,"Indiana","JUMPER","MISS","23 Zania Socka-Nguemen JUMPER MISS","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,3,201,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,3,197,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (2 PF)","Addi Mack",3.0,"",""
+2025.0,19743.0,3,197,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+2025.0,19743.0,3,197,"Indiana","SUBS","SUBS","02 Nevaeh Caffey OUT; 23 Zania Socka-Nguemen OUT; 07 Jerni Kiaku IN; 08 Edessa Noyan IN","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,3,182,"Indiana","TURNOVER","TURNOVER","10 Shay Ciezki TURNOVER (3 TO)","Shay Ciezki",10.0,"",""
+2025.0,19743.0,3,182,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (3 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,3,177,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (29 Pt); 06 Saylor Poffenbarger Assist (3 Asst)","Oluchi Okananwa",7.0,59.0,39.0
+2025.0,19743.0,3,158,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025.0,19743.0,3,158,"Indiana","FT","MISS","05 LenÃ©e Beaumont FT MISS","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,3,158,"Indiana","DEADB","REBOUND","Indiana REBOUND","","","",""
+2025.0,19743.0,3,158,"Indiana","FT","GOOD","05 LenÃ©e Beaumont FT GOOD (7 Pt)","LenÃ©e Beaumont",5.0,59.0,40.0
+2025.0,19743.0,3,135,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (4 Pt); 11 Marya Boiko Assist (1 Asst)","Addi Mack",3.0,61.0,40.0
+2025.0,19743.0,3,113,"Indiana","LAYUP","GOOD","05 LenÃ©e Beaumont LAYUP GOOD (9 Pt)","LenÃ©e Beaumont",5.0,61.0,42.0
+2025.0,19743.0,3,100,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,3,98,"Indiana","DEF","REBOUND","07 Jerni Kiaku DEF. REBOUND (2 Reb, 2 Def)","Jerni Kiaku",7.0,"",""
+2025.0,19743.0,3,91,"Indiana","3PTR","GOOD","03 Maya Makalusky 3PTR GOOD (17 Pt); 07 Jerni Kiaku Assist (3 Asst)","Maya Makalusky",3.0,61.0,45.0
+2025.0,19743.0,3,88,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19743.0,3,88,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 08 Kyndal Walker IN","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,3,69,"Maryland","FOUL","FOUL","11 Marya Boiko FOUL (1 PF)","Marya Boiko",11.0,"",""
+2025.0,19743.0,3,69,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (1 TO)","Marya Boiko",11.0,"",""
+2025.0,19743.0,3,69,"Indiana","FT","GOOD","10 Shay Ciezki FT GOOD (9 Pt)","Shay Ciezki",10.0,61.0,46.0
+2025.0,19743.0,3,69,"Indiana","FT","GOOD","10 Shay Ciezki FT GOOD (10 Pt)","Shay Ciezki",10.0,61.0,47.0
+2025.0,19743.0,3,69,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 11 Marya Boiko OUT; 07 Oluchi Okananwa IN; 09 Isimenme Ozzy-Momodu IN","Addi Mack",3.0,"",""
+2025.0,19743.0,3,47,"Indiana","JUMPER","MISS","08 Edessa Noyan JUMPER MISS","Edessa Noyan",8.0,"",""
+2025.0,19743.0,3,44,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (10 Reb, 6 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,3,34,"Indiana","FOUL","FOUL","08 Edessa Noyan FOUL (4 PF)","Edessa Noyan",8.0,"",""
+2025.0,19743.0,3,34,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 40 Breanna Williams IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,3,34,"Indiana","FOUL","FOUL","10 Shay Ciezki FOUL (3 PF)","Shay Ciezki",10.0,"",""
+2025.0,19743.0,3,34,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,3,34,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19743.0,3,34,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (30 Pt)","Oluchi Okananwa",7.0,62.0,47.0
+2025.0,19743.0,3,4,"Indiana","LAYUP","GOOD","05 LenÃ©e Beaumont LAYUP GOOD (11 Pt)","LenÃ©e Beaumont",5.0,62.0,49.0
+2025.0,19743.0,4,600,"Maryland","SUBS","SUBS","40 Breanna Williams OUT; 09 Isimenme Ozzy-Momodu IN","Breanna Williams",40.0,"",""
+2025.0,19743.0,4,600,"Indiana","SUBS","SUBS","07 Jerni Kiaku OUT; 02 Nevaeh Caffey IN","Jerni Kiaku",7.0,"",""
+2025.0,19743.0,4,573,"Indiana","LAYUP","MISS","05 LenÃ©e Beaumont LAYUP MISS","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,4,571,"Indiana","OFF","REBOUND","Indiana REBOUND","","","",""
+2025.0,19743.0,4,551,"Indiana","3PTR","MISS","10 Shay Ciezki 3PTR MISS","Shay Ciezki",10.0,"",""
+2025.0,19743.0,4,549,"Indiana","OFF","REBOUND","Indiana REBOUND","","","",""
+2025.0,19743.0,4,531,"Indiana","3PTR","MISS","05 LenÃ©e Beaumont 3PTR MISS","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,4,528,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,4,523,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (7 Pt); 08 Kyndal Walker Assist (1 Asst)","Saylor Poffenbarger",6.0,65.0,49.0
+2025.0,19743.0,4,490,"Indiana","JUMPER","GOOD","08 Edessa Noyan JUMPER GOOD (4 Pt); 10 Shay Ciezki Assist (2 Asst)","Edessa Noyan",8.0,65.0,51.0
+2025.0,19743.0,4,476,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (6 Pt); 06 Saylor Poffenbarger Assist (4 Asst)","Isimenme Ozzy-Momodu",9.0,67.0,51.0
+2025.0,19743.0,4,462,"Indiana","3PTR","MISS","03 Maya Makalusky 3PTR MISS; 06 Saylor Poffenbarger BLOCK (1 Blk)","Maya Makalusky",3.0,"",""
+2025.0,19743.0,4,456,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (11 Reb, 7 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,4,456,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,4,456,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,4,456,"Indiana","FOUL","FOUL","03 Maya Makalusky FOUL (1 PF)","Maya Makalusky",3.0,"",""
+2025.0,19743.0,4,456,"Indiana","SUBS","SUBS","08 Edessa Noyan OUT; 23 Zania Socka-Nguemen IN","Edessa Noyan",8.0,"",""
+2025.0,19743.0,4,456,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (31 Pt)","Oluchi Okananwa",7.0,68.0,51.0
+2025.0,19743.0,4,456,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (32 Pt)","Oluchi Okananwa",7.0,69.0,51.0
+2025.0,19743.0,4,438,"Indiana","LAYUP","GOOD","10 Shay Ciezki LAYUP GOOD (12 Pt); 23 Zania Socka-Nguemen Assist (2 Asst)","Shay Ciezki",10.0,69.0,53.0
+2025.0,19743.0,4,417,"Maryland","JUMPER","GOOD","09 Isimenme Ozzy-Momodu JUMPER GOOD (8 Pt); 06 Saylor Poffenbarger Assist (5 Asst)","Isimenme Ozzy-Momodu",9.0,71.0,53.0
+2025.0,19743.0,4,407,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon",12.0,"",""
+2025.0,19743.0,4,407,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 11 Marya Boiko IN","Yarden Garzon",12.0,"",""
+2025.0,19743.0,4,407,"Indiana","FT","GOOD","02 Nevaeh Caffey FT GOOD (6 Pt)","Nevaeh Caffey",2.0,71.0,54.0
+2025.0,19743.0,4,407,"Indiana","FT","GOOD","02 Nevaeh Caffey FT GOOD (7 Pt)","Nevaeh Caffey",2.0,71.0,55.0
+2025.0,19743.0,4,395,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,4,392,"Indiana","DEF","REBOUND","05 LenÃ©e Beaumont DEF. REBOUND (4 Reb, 4 Def)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,4,386,"Indiana","3PTR","GOOD","10 Shay Ciezki 3PTR GOOD (15 Pt)","Shay Ciezki",10.0,71.0,58.0
+2025.0,19743.0,4,365,"Maryland","LAYUP","GOOD","11 Marya Boiko LAYUP GOOD (6 Pt); 06 Saylor Poffenbarger Assist (6 Asst)","Marya Boiko",11.0,73.0,58.0
+2025.0,19743.0,4,343,"Indiana","TURNOVER","TURNOVER","23 Zania Socka-Nguemen TURNOVER (3 TO)","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,4,343,"Maryland","STEAL","STEAL","08 Kyndal Walker STEAL (1 Stl)","Kyndal Walker",8.0,"",""
+2025.0,19743.0,4,337,"Maryland","JUMPER","GOOD","09 Isimenme Ozzy-Momodu JUMPER GOOD (10 Pt); 08 Kyndal Walker Assist (2 Asst)","Isimenme Ozzy-Momodu",9.0,75.0,58.0
+2025.0,19743.0,4,321,"Indiana","LAYUP","MISS","02 Nevaeh Caffey LAYUP MISS","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,4,317,"Indiana","OFF","REBOUND","02 Nevaeh Caffey OFF. REBOUND (3 Reb, 1 Off)","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,4,316,"Indiana","3PTR","MISS","05 LenÃ©e Beaumont 3PTR MISS","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,4,314,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (12 Reb, 8 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,4,297,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,4,294,"Indiana","DEF","REBOUND","02 Nevaeh Caffey DEF. REBOUND (4 Reb, 3 Def)","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,4,290,"Indiana","LAYUP","GOOD","02 Nevaeh Caffey LAYUP GOOD (9 Pt)","Nevaeh Caffey",2.0,75.0,60.0
+2025.0,19743.0,4,270,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (34 Pt)","Oluchi Okananwa",7.0,77.0,60.0
+2025.0,19743.0,4,262,"Indiana","3PTR","MISS","03 Maya Makalusky 3PTR MISS","Maya Makalusky",3.0,"",""
+2025.0,19743.0,4,258,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,4,244,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (3 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,4,244,"Indiana","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19743.0,4,244,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 12 Yarden Garzon IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19743.0,4,244,"Indiana","SUBS","SUBS","23 Zania Socka-Nguemen OUT; 08 Edessa Noyan IN","Zania Socka-Nguemen",23.0,"",""
+2025.0,19743.0,4,220,"Indiana","JUMPER","MISS","03 Maya Makalusky JUMPER MISS","Maya Makalusky",3.0,"",""
+2025.0,19743.0,4,217,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (13 Reb, 9 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,4,201,"Maryland","3PTR","MISS","08 Kyndal Walker 3PTR MISS","Kyndal Walker",8.0,"",""
+2025.0,19743.0,4,198,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (14 Reb, 5 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,4,193,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (12 Pt)","Isimenme Ozzy-Momodu",9.0,79.0,60.0
+2025.0,19743.0,4,182,"Indiana","TURNOVER","TURNOVER","05 LenÃ©e Beaumont TURNOVER (5 TO)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,4,170,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,4,168,"Indiana","DEF","REBOUND","05 LenÃ©e Beaumont DEF. REBOUND (5 Reb, 5 Def)","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,4,152,"Indiana","3PTR","MISS","03 Maya Makalusky 3PTR MISS","Maya Makalusky",3.0,"",""
+2025.0,19743.0,4,149,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (2 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,4,124,"Maryland","JUMPER","MISS","11 Marya Boiko JUMPER MISS","Marya Boiko",11.0,"",""
+2025.0,19743.0,4,121,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (15 Reb, 6 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19743.0,4,121,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 09 Isimenme Ozzy-Momodu OUT; 00 Rainey Welson IN; 40 Breanna Williams IN","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,4,119,"Maryland","TURNOVER","TURNOVER","Maryland TURNOVER (1 TO)","","","",""
+2025.0,19743.0,4,108,"Indiana","3PTR","GOOD","03 Maya Makalusky 3PTR GOOD (20 Pt); 10 Shay Ciezki Assist (3 Asst)","Maya Makalusky",3.0,79.0,63.0
+2025.0,19743.0,4,95,"Maryland","LAYUP","MISS","40 Breanna Williams LAYUP MISS","Breanna Williams",40.0,"",""
+2025.0,19743.0,4,91,"Indiana","DEF","REBOUND","08 Edessa Noyan DEF. REBOUND (2 Reb, 2 Def)","Edessa Noyan",8.0,"",""
+2025.0,19743.0,4,83,"Indiana","LAYUP","GOOD","10 Shay Ciezki LAYUP GOOD (17 Pt)","Shay Ciezki",10.0,79.0,65.0
+2025.0,19743.0,4,76,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
+2025.0,19743.0,4,76,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 07 Oluchi Okananwa IN","Rainey Welson",0.0,"",""
+2025.0,19743.0,4,66,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,4,64,"Maryland","OFF","REBOUND","40 Breanna Williams OFF. REBOUND (1 Reb, 1 Off)","Breanna Williams",40.0,"",""
+2025.0,19743.0,4,64,"Indiana","FOUL","FOUL","03 Maya Makalusky FOUL (2 PF)","Maya Makalusky",3.0,"",""
+2025.0,19743.0,4,64,"Maryland","FT","GOOD","40 Breanna Williams FT GOOD (1 Pt)","Breanna Williams",40.0,80.0,65.0
+2025.0,19743.0,4,64,"Maryland","FT","MISS","40 Breanna Williams FT MISS","Breanna Williams",40.0,"",""
+2025.0,19743.0,4,63,"Indiana","DEF","REBOUND","03 Maya Makalusky DEF. REBOUND (1 Reb, 1 Def)","Maya Makalusky",3.0,"",""
+2025.0,19743.0,4,63,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (3 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,4,63,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 10 Mir McLean IN; 12 Yarden Garzon OUT; 00 Rainey Welson IN","Oluchi Okananwa",7.0,"",""
+2025.0,19743.0,4,45,"Indiana","3PTR","MISS","05 LenÃ©e Beaumont 3PTR MISS","LenÃ©e Beaumont",5.0,"",""
+2025.0,19743.0,4,41,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (3 Reb, 2 Def)","Marya Boiko",11.0,"",""
+2025.0,19743.0,4,26,"Maryland","JUMPER","GOOD","00 Rainey Welson JUMPER GOOD (2 Pt)","Rainey Welson",0.0,82.0,65.0
+2025.0,19743.0,4,18,"Indiana","LAYUP","MISS","02 Nevaeh Caffey LAYUP MISS","Nevaeh Caffey",2.0,"",""
+2025.0,19743.0,4,17,"Indiana","TEAM","TIMEOUT","Indiana TIMEOUT Full (1st TO, 1st Full)","","","",""
+2025.0,19743.0,4,15,"Indiana","OFF","REBOUND","Indiana REBOUND","","","",""
+2025.0,19743.0,4,12,"Indiana","LAYUP","GOOD","02 Nevaeh Caffey LAYUP GOOD (11 Pt)","Nevaeh Caffey",2.0,82.0,67.0
