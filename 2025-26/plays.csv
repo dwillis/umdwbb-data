@@ -11974,3 +11974,351 @@
 2025.0,19744.0,4,1,"Rutgers","3PTR","MISS","10 Nene Ndiaye 3PTR MISS; 10 Mir McLean BLOCK (1 Blk)","Nene Ndiaye",10.0,"",""
 2025.0,19744.0,4,1,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (5 Reb, 3 Def)","Mir McLean",10.0,"",""
 2025.0,19744.0,4,1,"Rutgers","FOUL","FOUL","03 Makylah Moore FOUL (1 PF)","Makylah Moore",3.0,"",""
+2025.0,19745.0,1,579,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,1,577,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (1 Reb, 1 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,1,569,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19745.0,1,565,"Ohio St.","DEF","REBOUND","Ohio St. REBOUND","","","",""
+2025.0,19745.0,1,558,"Ohio St.","TURNOVER","TURNOVER","02 Chance Gray TURNOVER (1 TO)","Chance Gray",2.0,"",""
+2025.0,19745.0,1,537,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (2 Pt)","Oluchi Okananwa",7.0,2.0,0.0
+2025.0,19745.0,1,537,"Ohio St.","FOUL","FOUL","03 Kennedy Cambridge FOUL (1 PF)","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,1,537,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (3 Pt)","Oluchi Okananwa",7.0,3.0,0.0
+2025.0,19745.0,1,522,"Ohio St.","JUMPER","MISS","02 Chance Gray JUMPER MISS","Chance Gray",2.0,"",""
+2025.0,19745.0,1,519,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,1,512,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (5 Pt); 03 Addi Mack Assist (1 Asst)","Oluchi Okananwa",7.0,5.0,0.0
+2025.0,19745.0,1,512,"Ohio St.","FOUL","FOUL","12 Elsa LemmilÃ¤ FOUL (1 PF)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,1,512,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (6 Pt)","Oluchi Okananwa",7.0,6.0,0.0
+2025.0,19745.0,1,506,"Ohio St.","JUMPER","MISS","22 Jaloni Cambridge JUMPER MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,1,503,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (2 Reb, 1 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,1,493,"Maryland","JUMPER","MISS","09 Isimenme Ozzy-Momodu JUMPER MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,1,490,"Ohio St.","DEF","REBOUND","12 Elsa LemmilÃ¤ DEF. REBOUND (1 Reb, 1 Def)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,1,471,"Ohio St.","3PTR","GOOD","01 Kylee Kitts 3PTR GOOD (3 Pt); 22 Jaloni Cambridge Assist (1 Asst)","Kylee Kitts",1.0,6.0,3.0
+2025.0,19745.0,1,456,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (8 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Oluchi Okananwa",7.0,8.0,3.0
+2025.0,19745.0,1,442,"Ohio St.","3PTR","MISS","02 Chance Gray 3PTR MISS","Chance Gray",2.0,"",""
+2025.0,19745.0,1,439,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,1,420,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,1,420,"Ohio St.","STEAL","STEAL","03 Kennedy Cambridge STEAL (1 Stl)","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,1,412,"Ohio St.","LAYUP","MISS","01 Kylee Kitts LAYUP MISS","Kylee Kitts",1.0,"",""
+2025.0,19745.0,1,410,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,1,406,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+2025.0,19745.0,1,406,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 11 Marya Boiko IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,1,387,"Ohio St.","LAYUP","MISS","02 Chance Gray LAYUP MISS","Chance Gray",2.0,"",""
+2025.0,19745.0,1,385,"Ohio St.","OFF","REBOUND","01 Kylee Kitts OFF. REBOUND (1 Reb, 1 Off)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,1,385,"Ohio St.","LAYUP","MISS","01 Kylee Kitts LAYUP MISS; 11 Marya Boiko BLOCK (1 Blk)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,1,381,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (3 Reb, 3 Def)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,1,368,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19745.0,1,366,"Ohio St.","DEF","REBOUND","01 Kylee Kitts DEF. REBOUND (2 Reb, 1 Def)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,1,352,"Ohio St.","JUMPER","GOOD","22 Jaloni Cambridge JUMPER GOOD (2 Pt); 03 Kennedy Cambridge Assist (1 Asst)","Jaloni Cambridge",22.0,8.0,5.0
+2025.0,19745.0,1,337,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (3 Pt); 03 Addi Mack Assist (2 Asst)","Yarden Garzon",12.0,11.0,5.0
+2025.0,19745.0,1,323,"Ohio St.","3PTR","MISS","03 Kennedy Cambridge 3PTR MISS","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,1,320,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (4 Reb, 4 Def)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,1,313,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (6 Pt); 06 Saylor Poffenbarger Assist (2 Asst)","Yarden Garzon",12.0,14.0,5.0
+2025.0,19745.0,1,312,"Ohio St.","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19745.0,1,312,"Ohio St.","SUBS","SUBS","01 Kylee Kitts OUT; 05 Ava Watson IN","Kylee Kitts",1.0,"",""
+2025.0,19745.0,1,303,"Ohio St.","TURNOVER","TURNOVER","02 Chance Gray TURNOVER (2 TO)","Chance Gray",2.0,"",""
+2025.0,19745.0,1,303,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,1,298,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (10 Pt)","Oluchi Okananwa",7.0,16.0,5.0
+2025.0,19745.0,1,270,"Ohio St.","3PTR","MISS","22 Jaloni Cambridge 3PTR MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,1,266,"Ohio St.","OFF","REBOUND","12 Elsa LemmilÃ¤ OFF. REBOUND (2 Reb, 1 Off)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,1,265,"Ohio St.","LAYUP","GOOD","12 Elsa LemmilÃ¤ LAYUP GOOD (2 Pt)","Elsa LemmilÃ¤",12.0,16.0,7.0
+2025.0,19745.0,1,251,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,1,247,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (2 Reb, 1 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,1,232,"Maryland","JUMPER","GOOD","11 Marya Boiko JUMPER GOOD (2 Pt); 06 Saylor Poffenbarger Assist (3 Asst)","Marya Boiko",11.0,18.0,7.0
+2025.0,19745.0,1,218,"Ohio St.","LAYUP","GOOD","12 Elsa LemmilÃ¤ LAYUP GOOD (4 Pt); 02 Chance Gray Assist (1 Asst)","Elsa LemmilÃ¤",12.0,18.0,9.0
+2025.0,19745.0,1,206,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (2 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,1,199,"Ohio St.","3PTR","MISS","02 Chance Gray 3PTR MISS","Chance Gray",2.0,"",""
+2025.0,19745.0,1,195,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025.0,19745.0,1,187,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (9 Pt); 06 Saylor Poffenbarger Assist (4 Asst)","Yarden Garzon",12.0,21.0,9.0
+2025.0,19745.0,1,168,"Ohio St.","TURNOVER","TURNOVER","22 Jaloni Cambridge TURNOVER (1 TO)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,1,168,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (2 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,1,163,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,1,161,"Ohio St.","DEF","REBOUND","12 Elsa LemmilÃ¤ DEF. REBOUND (3 Reb, 2 Def)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,1,156,"Ohio St.","LAYUP","MISS","22 Jaloni Cambridge LAYUP MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,1,154,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (1 Reb, 1 Def)","Marya Boiko",11.0,"",""
+2025.0,19745.0,1,149,"Ohio St.","FOUL","FOUL","22 Jaloni Cambridge FOUL (1 PF)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,1,149,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 08 Kyndal Walker IN","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,1,149,"Ohio St.","SUBS","SUBS","02 Chance Gray OUT; 03 Kennedy Cambridge OUT; 04 T'yana Todd IN; 08 Bryn Martin IN","Chance Gray",2.0,"",""
+2025.0,19745.0,1,149,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (1 Pt)","Addi Mack",3.0,22.0,9.0
+2025.0,19745.0,1,149,"Maryland","FT","MISS","03 Addi Mack FT MISS","Addi Mack",3.0,"",""
+2025.0,19745.0,1,148,"Ohio St.","DEF","REBOUND","08 Bryn Martin DEF. REBOUND (1 Reb, 1 Def)","Bryn Martin",8.0,"",""
+2025.0,19745.0,1,133,"Ohio St.","LAYUP","MISS","12 Elsa LemmilÃ¤ LAYUP MISS","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,1,132,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (5 Reb, 5 Def)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,1,124,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19745.0,1,122,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (1 Reb, 1 Def)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,1,103,"Ohio St.","3PTR","MISS","22 Jaloni Cambridge 3PTR MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,1,100,"Ohio St.","OFF","REBOUND","05 Ava Watson OFF. REBOUND (1 Reb, 1 Off)","Ava Watson",5.0,"",""
+2025.0,19745.0,1,99,"Ohio St.","LAYUP","MISS","05 Ava Watson LAYUP MISS; 06 Saylor Poffenbarger BLOCK (1 Blk)","Ava Watson",5.0,"",""
+2025.0,19745.0,1,95,"Ohio St.","OFF","REBOUND","05 Ava Watson OFF. REBOUND (2 Reb, 2 Off)","Ava Watson",5.0,"",""
+2025.0,19745.0,1,94,"Ohio St.","3PTR","GOOD","08 Bryn Martin 3PTR GOOD (3 Pt); 05 Ava Watson Assist (1 Asst)","Bryn Martin",8.0,22.0,12.0
+2025.0,19745.0,1,86,"Maryland","JUMPER","GOOD","11 Marya Boiko JUMPER GOOD (4 Pt); 12 Yarden Garzon Assist (1 Asst)","Marya Boiko",11.0,24.0,12.0
+2025.0,19745.0,1,61,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 06 Saylor Poffenbarger OUT; 00 Rainey Welson IN; 07 Oluchi Okananwa IN","Addi Mack",3.0,"",""
+2025.0,19745.0,1,50,"Ohio St.","JUMPER","MISS","22 Jaloni Cambridge JUMPER MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,1,46,"Ohio St.","OFF","REBOUND","04 T'yana Todd OFF. REBOUND (1 Reb, 1 Off)","T'yana Todd",4.0,"",""
+2025.0,19745.0,1,46,"Ohio St.","LAYUP","MISS","04 T'yana Todd LAYUP MISS","T'yana Todd",4.0,"",""
+2025.0,19745.0,1,43,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (6 Reb, 6 Def)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,1,41,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,1,31,"Ohio St.","TURNOVER","TURNOVER","12 Elsa LemmilÃ¤ TURNOVER (1 TO)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,1,31,"Maryland","STEAL","STEAL","11 Marya Boiko STEAL (1 Stl)","Marya Boiko",11.0,"",""
+2025.0,19745.0,1,5,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (3 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,1,3,"Ohio St.","3PTR","MISS","22 Jaloni Cambridge 3PTR MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,1,0,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19745.0,2,600,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 09 Isimenme Ozzy-Momodu IN","Marya Boiko",11.0,"",""
+2025.0,19745.0,2,600,"Ohio St.","SUBS","SUBS","04 T'yana Todd OUT; 05 Ava Watson OUT; 08 Bryn Martin OUT; 01 Kylee Kitts IN; 02 Chance Gray IN; 03 Kennedy Cambridge IN","T'yana Todd",4.0,"",""
+2025.0,19745.0,2,591,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (12 Pt); 12 Yarden Garzon Assist (2 Asst)","Oluchi Okananwa",7.0,26.0,12.0
+2025.0,19745.0,2,562,"Maryland","FOUL","FOUL","00 Rainey Welson FOUL (1 PF)","Rainey Welson",0.0,"",""
+2025.0,19745.0,2,562,"Ohio St.","FT","GOOD","03 Kennedy Cambridge FT GOOD (1 Pt)","Kennedy Cambridge",3.0,26.0,13.0
+2025.0,19745.0,2,562,"Ohio St.","FT","MISS","03 Kennedy Cambridge FT MISS","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,2,561,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (3 Reb, 2 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,2,539,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,2,535,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (1 Reb, 1 Off)","Kyndal Walker",8.0,"",""
+2025.0,19745.0,2,535,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (2 Pt)","Kyndal Walker",8.0,28.0,13.0
+2025.0,19745.0,2,528,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,2,528,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 09 Isimenme Ozzy-Momodu OUT; 06 Saylor Poffenbarger IN; 11 Marya Boiko IN","Rainey Welson",0.0,"",""
+2025.0,19745.0,2,528,"Ohio St.","FT","GOOD","22 Jaloni Cambridge FT GOOD (3 Pt)","Jaloni Cambridge",22.0,28.0,14.0
+2025.0,19745.0,2,528,"Ohio St.","FT","GOOD","22 Jaloni Cambridge FT GOOD (4 Pt)","Jaloni Cambridge",22.0,28.0,15.0
+2025.0,19745.0,2,514,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19745.0,2,511,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (2 Reb, 2 Def)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,2,507,"Ohio St.","3PTR","GOOD","03 Kennedy Cambridge 3PTR GOOD (4 Pt); 02 Chance Gray Assist (2 Asst)","Kennedy Cambridge",3.0,28.0,18.0
+2025.0,19745.0,2,485,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,2,482,"Ohio St.","DEF","REBOUND","12 Elsa LemmilÃ¤ DEF. REBOUND (4 Reb, 3 Def)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,2,476,"Ohio St.","3PTR","GOOD","03 Kennedy Cambridge 3PTR GOOD (7 Pt); 22 Jaloni Cambridge Assist (2 Asst)","Kennedy Cambridge",3.0,28.0,21.0
+2025.0,19745.0,2,453,"Maryland","JUMPER","MISS","11 Marya Boiko JUMPER MISS; 12 Elsa LemmilÃ¤ BLOCK (1 Blk)","Marya Boiko",11.0,"",""
+2025.0,19745.0,2,453,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19745.0,2,446,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (2 Pt); 11 Marya Boiko Assist (1 Asst)","Saylor Poffenbarger",6.0,30.0,21.0
+2025.0,19745.0,2,436,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,2,434,"Ohio St.","LAYUP","GOOD","01 Kylee Kitts LAYUP GOOD (5 Pt); 22 Jaloni Cambridge Assist (3 Asst)","Kylee Kitts",1.0,30.0,23.0
+2025.0,19745.0,2,426,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,2,426,"Ohio St.","STEAL","STEAL","02 Chance Gray STEAL (1 Stl)","Chance Gray",2.0,"",""
+2025.0,19745.0,2,422,"Ohio St.","LAYUP","GOOD","02 Chance Gray LAYUP GOOD (2 Pt)","Chance Gray",2.0,30.0,25.0
+2025.0,19745.0,2,420,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19745.0,2,420,"Ohio St.","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19745.0,2,420,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,19745.0,2,420,"Ohio St.","SUBS","SUBS","12 Elsa LemmilÃ¤ OUT; 05 Ava Watson IN","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,2,406,"Ohio St.","FOUL","FOUL","05 Ava Watson FOUL (1 PF)","Ava Watson",5.0,"",""
+2025.0,19745.0,2,404,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (14 Pt)","Oluchi Okananwa",7.0,32.0,25.0
+2025.0,19745.0,2,382,"Ohio St.","LAYUP","MISS","02 Chance Gray LAYUP MISS; 11 Marya Boiko BLOCK (2 Blk)","Chance Gray",2.0,"",""
+2025.0,19745.0,2,379,"Ohio St.","OFF","REBOUND","01 Kylee Kitts OFF. REBOUND (3 Reb, 2 Off)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,2,375,"Ohio St.","3PTR","MISS","03 Kennedy Cambridge 3PTR MISS","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,2,370,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (1 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,2,370,"Ohio St.","FOUL","FOUL","03 Kennedy Cambridge FOUL (2 PF)","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,2,370,"Ohio St.","SUBS","SUBS","03 Kennedy Cambridge OUT; 12 Elsa LemmilÃ¤ IN","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,2,350,"Maryland","LAYUP","MISS","11 Marya Boiko LAYUP MISS","Marya Boiko",11.0,"",""
+2025.0,19745.0,2,346,"Ohio St.","DEF","REBOUND","12 Elsa LemmilÃ¤ DEF. REBOUND (5 Reb, 4 Def)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,2,329,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,2,316,"Ohio St.","JUMPER","MISS","22 Jaloni Cambridge JUMPER MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,2,311,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19745.0,2,298,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (4 Pt); 12 Yarden Garzon Assist (3 Asst)","Saylor Poffenbarger",6.0,34.0,25.0
+2025.0,19745.0,2,278,"Ohio St.","TURNOVER","TURNOVER","02 Chance Gray TURNOVER (3 TO)","Chance Gray",2.0,"",""
+2025.0,19745.0,2,278,"Ohio St.","SUBS","SUBS","02 Chance Gray OUT; 08 Bryn Martin IN","Chance Gray",2.0,"",""
+2025.0,19745.0,2,262,"Ohio St.","FOUL","FOUL","08 Bryn Martin FOUL (1 PF)","Bryn Martin",8.0,"",""
+2025.0,19745.0,2,256,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19745.0,2,254,"Ohio St.","DEF","REBOUND","05 Ava Watson DEF. REBOUND (3 Reb, 1 Def)","Ava Watson",5.0,"",""
+2025.0,19745.0,2,243,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,2,243,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 08 Kyndal Walker IN","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,2,243,"Ohio St.","FT","GOOD","22 Jaloni Cambridge FT GOOD (5 Pt)","Jaloni Cambridge",22.0,34.0,26.0
+2025.0,19745.0,2,243,"Ohio St.","FT","GOOD","22 Jaloni Cambridge FT GOOD (6 Pt)","Jaloni Cambridge",22.0,34.0,27.0
+2025.0,19745.0,2,239,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (2 TO)","Addi Mack",3.0,"",""
+2025.0,19745.0,2,239,"Ohio St.","STEAL","STEAL","01 Kylee Kitts STEAL (1 Stl)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,2,235,"Ohio St.","JUMPER","MISS","05 Ava Watson JUMPER MISS","Ava Watson",5.0,"",""
+2025.0,19745.0,2,232,"Ohio St.","OFF","REBOUND","01 Kylee Kitts OFF. REBOUND (4 Reb, 3 Off)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,2,231,"Ohio St.","LAYUP","MISS","01 Kylee Kitts LAYUP MISS","Kylee Kitts",1.0,"",""
+2025.0,19745.0,2,229,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (7 Reb, 7 Def)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,2,212,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (1 TO)","Marya Boiko",11.0,"",""
+2025.0,19745.0,2,201,"Ohio St.","3PTR","GOOD","05 Ava Watson 3PTR GOOD (3 Pt); 01 Kylee Kitts Assist (1 Asst)","Ava Watson",5.0,34.0,30.0
+2025.0,19745.0,2,182,"Maryland","3PTR","MISS","08 Kyndal Walker 3PTR MISS","Kyndal Walker",8.0,"",""
+2025.0,19745.0,2,179,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (3 Reb, 3 Def)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,2,174,"Ohio St.","TURNOVER","TURNOVER","22 Jaloni Cambridge TURNOVER (2 TO)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,2,174,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 09 Isimenme Ozzy-Momodu IN","Marya Boiko",11.0,"",""
+2025.0,19745.0,2,161,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (12 Pt); 06 Saylor Poffenbarger Assist (5 Asst)","Yarden Garzon",12.0,37.0,30.0
+2025.0,19745.0,2,146,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025.0,19745.0,2,146,"Ohio St.","FT","GOOD","22 Jaloni Cambridge FT GOOD (7 Pt)","Jaloni Cambridge",22.0,37.0,31.0
+2025.0,19745.0,2,146,"Ohio St.","FT","GOOD","22 Jaloni Cambridge FT GOOD (8 Pt)","Jaloni Cambridge",22.0,37.0,32.0
+2025.0,19745.0,2,138,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (2 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,2,138,"Ohio St.","STEAL","STEAL","05 Ava Watson STEAL (1 Stl)","Ava Watson",5.0,"",""
+2025.0,19745.0,2,125,"Ohio St.","JUMPER","GOOD","05 Ava Watson JUMPER GOOD (5 Pt); 01 Kylee Kitts Assist (2 Asst)","Ava Watson",5.0,37.0,34.0
+2025.0,19745.0,2,112,"Ohio St.","FOUL","FOUL","08 Bryn Martin FOUL (2 PF)","Bryn Martin",8.0,"",""
+2025.0,19745.0,2,98,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (1 TO)","Kyndal Walker",8.0,"",""
+2025.0,19745.0,2,98,"Ohio St.","STEAL","STEAL","22 Jaloni Cambridge STEAL (1 Stl)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,2,98,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (2 PF)","Kyndal Walker",8.0,"",""
+2025.0,19745.0,2,98,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 00 Rainey Welson IN","Kyndal Walker",8.0,"",""
+2025.0,19745.0,2,98,"Ohio St.","FT","GOOD","22 Jaloni Cambridge FT GOOD (9 Pt)","Jaloni Cambridge",22.0,37.0,35.0
+2025.0,19745.0,2,98,"Ohio St.","FT","GOOD","22 Jaloni Cambridge FT GOOD (10 Pt)","Jaloni Cambridge",22.0,37.0,36.0
+2025.0,19745.0,2,74,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (3 Pt); 03 Addi Mack Assist (3 Asst)","Rainey Welson",0.0,40.0,36.0
+2025.0,19745.0,2,56,"Ohio St.","JUMPER","MISS","01 Kylee Kitts JUMPER MISS","Kylee Kitts",1.0,"",""
+2025.0,19745.0,2,52,"Ohio St.","OFF","REBOUND","12 Elsa LemmilÃ¤ OFF. REBOUND (6 Reb, 2 Off)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,2,52,"Ohio St.","JUMPER","GOOD","12 Elsa LemmilÃ¤ JUMPER GOOD (6 Pt)","Elsa LemmilÃ¤",12.0,40.0,38.0
+2025.0,19745.0,2,41,"Maryland","LAYUP","MISS","12 Yarden Garzon LAYUP MISS","Yarden Garzon",12.0,"",""
+2025.0,19745.0,2,37,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (4 Reb, 4 Def)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,2,33,"Ohio St.","LAYUP","GOOD","22 Jaloni Cambridge LAYUP GOOD (12 Pt)","Jaloni Cambridge",22.0,40.0,40.0
+2025.0,19745.0,2,1,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (14 Pt)","Yarden Garzon",12.0,42.0,40.0
+2025.0,19745.0,3,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 07 Oluchi Okananwa IN","Rainey Welson",0.0,"",""
+2025.0,19745.0,3,600,"Ohio St.","SUBS","SUBS","05 Ava Watson OUT; 08 Bryn Martin OUT; 02 Chance Gray IN; 03 Kennedy Cambridge IN","Ava Watson",5.0,"",""
+2025.0,19745.0,3,577,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,3,573,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (2 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,572,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (2 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Isimenme Ozzy-Momodu",9.0,44.0,40.0
+2025.0,19745.0,3,561,"Ohio St.","LAYUP","MISS","22 Jaloni Cambridge LAYUP MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,559,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (4 Reb, 3 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,3,558,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (3 TO)","Addi Mack",3.0,"",""
+2025.0,19745.0,3,558,"Ohio St.","STEAL","STEAL","03 Kennedy Cambridge STEAL (2 Stl)","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,3,553,"Ohio St.","LAYUP","GOOD","01 Kylee Kitts LAYUP GOOD (7 Pt); 03 Kennedy Cambridge Assist (2 Asst)","Kylee Kitts",1.0,44.0,42.0
+2025.0,19745.0,3,536,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,534,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (5 Reb, 2 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,3,534,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (4 Pt)","Isimenme Ozzy-Momodu",9.0,46.0,42.0
+2025.0,19745.0,3,529,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (3 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,529,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 10 Mir McLean IN","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,506,"Ohio St.","3PTR","GOOD","01 Kylee Kitts 3PTR GOOD (10 Pt); 22 Jaloni Cambridge Assist (4 Asst)","Kylee Kitts",1.0,46.0,45.0
+2025.0,19745.0,3,486,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,3,482,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (5 Reb, 5 Def)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,478,"Ohio St.","LAYUP","MISS","03 Kennedy Cambridge LAYUP MISS","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,3,475,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean",10.0,"",""
+2025.0,19745.0,3,471,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19745.0,3,468,"Ohio St.","DEF","REBOUND","01 Kylee Kitts DEF. REBOUND (5 Reb, 2 Def)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,3,458,"Ohio St.","LAYUP","MISS","03 Kennedy Cambridge LAYUP MISS","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,3,456,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (6 Reb, 4 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,3,447,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (3 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,3,437,"Ohio St.","JUMPER","GOOD","22 Jaloni Cambridge JUMPER GOOD (14 Pt)","Jaloni Cambridge",22.0,46.0,47.0
+2025.0,19745.0,3,422,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (4 TO)","Addi Mack",3.0,"",""
+2025.0,19745.0,3,422,"Ohio St.","STEAL","STEAL","22 Jaloni Cambridge STEAL (2 Stl)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,408,"Ohio St.","3PTR","MISS","01 Kylee Kitts 3PTR MISS","Kylee Kitts",1.0,"",""
+2025.0,19745.0,3,405,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,3,375,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19745.0,3,372,"Ohio St.","DEF","REBOUND","12 Elsa LemmilÃ¤ DEF. REBOUND (7 Reb, 5 Def)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,3,369,"Ohio St.","FOUL","FOUL","01 Kylee Kitts FOUL (1 PF)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,3,369,"Ohio St.","TURNOVER","TURNOVER","01 Kylee Kitts TURNOVER (1 TO)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,3,351,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,3,351,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (2 TO)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,3,351,"Ohio St.","SUBS","SUBS","02 Chance Gray OUT; 05 Ava Watson IN","Chance Gray",2.0,"",""
+2025.0,19745.0,3,338,"Ohio St.","LAYUP","GOOD","01 Kylee Kitts LAYUP GOOD (12 Pt)","Kylee Kitts",1.0,46.0,49.0
+2025.0,19745.0,3,338,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (2 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,3,338,"Ohio St.","FT","GOOD","01 Kylee Kitts FT GOOD (13 Pt)","Kylee Kitts",1.0,46.0,50.0
+2025.0,19745.0,3,327,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (16 Pt); 06 Saylor Poffenbarger Assist (6 Asst)","Yarden Garzon",12.0,48.0,50.0
+2025.0,19745.0,3,318,"Ohio St.","TURNOVER","TURNOVER","01 Kylee Kitts TURNOVER (2 TO)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,3,318,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,3,305,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,3,302,"Ohio St.","DEF","REBOUND","12 Elsa LemmilÃ¤ DEF. REBOUND (8 Reb, 6 Def)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,3,297,"Ohio St.","3PTR","MISS","05 Ava Watson 3PTR MISS","Ava Watson",5.0,"",""
+2025.0,19745.0,3,293,"Ohio St.","OFF","REBOUND","01 Kylee Kitts OFF. REBOUND (6 Reb, 4 Off)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,3,291,"Ohio St.","JUMPER","GOOD","05 Ava Watson JUMPER GOOD (7 Pt); 01 Kylee Kitts Assist (3 Asst)","Ava Watson",5.0,48.0,52.0
+2025.0,19745.0,3,278,"Maryland","JUMPER","MISS","09 Isimenme Ozzy-Momodu JUMPER MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,3,275,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (6 Reb, 6 Def)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,271,"Ohio St.","LAYUP","MISS","22 Jaloni Cambridge LAYUP MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,269,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,3,265,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19745.0,3,262,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (7 Reb, 3 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,3,257,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19745.0,3,256,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (8 Reb, 4 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,3,256,"Ohio St.","FOUL","FOUL","05 Ava Watson FOUL (2 PF)","Ava Watson",5.0,"",""
+2025.0,19745.0,3,256,"Ohio St.","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19745.0,3,256,"Ohio St.","SUBS","SUBS","01 Kylee Kitts OUT; 04 T'yana Todd IN","Kylee Kitts",1.0,"",""
+2025.0,19745.0,3,256,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 06 Saylor Poffenbarger OUT; 00 Rainey Welson IN; 07 Oluchi Okananwa IN","Addi Mack",3.0,"",""
+2025.0,19745.0,3,256,"Maryland","FT","GOOD","09 Isimenme Ozzy-Momodu FT GOOD (5 Pt)","Isimenme Ozzy-Momodu",9.0,49.0,52.0
+2025.0,19745.0,3,256,"Maryland","FT","MISS","09 Isimenme Ozzy-Momodu FT MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,3,254,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (3 Reb, 2 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,252,"Ohio St.","FOUL","FOUL","12 Elsa LemmilÃ¤ FOUL (2 PF)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,3,252,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 11 Marya Boiko IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,3,252,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (15 Pt)","Oluchi Okananwa",7.0,50.0,52.0
+2025.0,19745.0,3,252,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (16 Pt)","Oluchi Okananwa",7.0,51.0,52.0
+2025.0,19745.0,3,242,"Ohio St.","30SEC","TIMEOUT","Ohio St. TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19745.0,3,242,"Ohio St.","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19745.0,3,237,"Ohio St.","FOUL","FOUL","22 Jaloni Cambridge FOUL (2 PF)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,237,"Ohio St.","TURNOVER","TURNOVER","22 Jaloni Cambridge TURNOVER (3 TO)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,227,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (2 TO)","Marya Boiko",11.0,"",""
+2025.0,19745.0,3,214,"Ohio St.","JUMPER","GOOD","03 Kennedy Cambridge JUMPER GOOD (9 Pt); 12 Elsa LemmilÃ¤ Assist (1 Asst)","Kennedy Cambridge",3.0,51.0,54.0
+2025.0,19745.0,3,205,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (19 Pt); 07 Oluchi Okananwa Assist (2 Asst)","Yarden Garzon",12.0,54.0,54.0
+2025.0,19745.0,3,188,"Ohio St.","3PTR","MISS","04 T'yana Todd 3PTR MISS","T'yana Todd",4.0,"",""
+2025.0,19745.0,3,184,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (2 Reb, 2 Def)","Marya Boiko",11.0,"",""
+2025.0,19745.0,3,181,"Ohio St.","FOUL","FOUL","04 T'yana Todd FOUL (1 PF)","T'yana Todd",4.0,"",""
+2025.0,19745.0,3,181,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (17 Pt)","Oluchi Okananwa",7.0,55.0,54.0
+2025.0,19745.0,3,181,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,179,"Ohio St.","DEF","REBOUND","03 Kennedy Cambridge DEF. REBOUND (1 Reb, 1 Def)","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,3,160,"Ohio St.","LAYUP","MISS","12 Elsa LemmilÃ¤ LAYUP MISS","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,3,157,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (2 Reb, 2 Def)","Mir McLean",10.0,"",""
+2025.0,19745.0,3,151,"Ohio St.","SUBS","SUBS","03 Kennedy Cambridge OUT; 02 Chance Gray IN","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,3,134,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,131,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (4 Reb, 3 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,131,"Ohio St.","FOUL","FOUL","22 Jaloni Cambridge FOUL (3 PF)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,131,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (18 Pt)","Oluchi Okananwa",7.0,56.0,54.0
+2025.0,19745.0,3,131,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (19 Pt)","Oluchi Okananwa",7.0,57.0,54.0
+2025.0,19745.0,3,117,"Ohio St.","TURNOVER","TURNOVER","04 T'yana Todd TURNOVER (1 TO)","T'yana Todd",4.0,"",""
+2025.0,19745.0,3,117,"Maryland","STEAL","STEAL","11 Marya Boiko STEAL (2 Stl)","Marya Boiko",11.0,"",""
+2025.0,19745.0,3,110,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19745.0,3,107,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (3 Reb, 1 Off)","Mir McLean",10.0,"",""
+2025.0,19745.0,3,107,"Ohio St.","FOUL","FOUL","12 Elsa LemmilÃ¤ FOUL (3 PF)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,3,107,"Ohio St.","SUBS","SUBS","04 T'yana Todd OUT; 12 Elsa LemmilÃ¤ OUT; 01 Kylee Kitts IN; 08 Bryn Martin IN","T'yana Todd",4.0,"",""
+2025.0,19745.0,3,107,"Maryland","FT","MISS","10 Mir McLean FT MISS","Mir McLean",10.0,"",""
+2025.0,19745.0,3,107,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19745.0,3,106,"Ohio St.","DEF","REBOUND","01 Kylee Kitts DEF. REBOUND (7 Reb, 3 Def)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,3,97,"Ohio St.","JUMPER","GOOD","22 Jaloni Cambridge JUMPER GOOD (16 Pt)","Jaloni Cambridge",22.0,57.0,56.0
+2025.0,19745.0,3,87,"Maryland","JUMPER","MISS","11 Marya Boiko JUMPER MISS","Marya Boiko",11.0,"",""
+2025.0,19745.0,3,84,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (7 Reb, 7 Def)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,80,"Ohio St.","TURNOVER","TURNOVER","22 Jaloni Cambridge TURNOVER (4 TO)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,80,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 06 Saylor Poffenbarger IN","Mir McLean",10.0,"",""
+2025.0,19745.0,3,72,"Ohio St.","FOUL","FOUL","08 Bryn Martin FOUL (3 PF)","Bryn Martin",8.0,"",""
+2025.0,19745.0,3,72,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (20 Pt)","Oluchi Okananwa",7.0,58.0,56.0
+2025.0,19745.0,3,72,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (21 Pt)","Oluchi Okananwa",7.0,59.0,56.0
+2025.0,19745.0,3,59,"Ohio St.","JUMPER","GOOD","02 Chance Gray JUMPER GOOD (4 Pt)","Chance Gray",2.0,59.0,58.0
+2025.0,19745.0,3,44,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,3,40,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (8 Reb, 8 Def)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,3,34,"Ohio St.","3PTR","GOOD","02 Chance Gray 3PTR GOOD (7 Pt); 22 Jaloni Cambridge Assist (5 Asst)","Chance Gray",2.0,59.0,61.0
+2025.0,19745.0,3,5,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,2,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (5 Reb, 4 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,1,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,3,0,"Ohio St.","DEF","REBOUND","01 Kylee Kitts DEF. REBOUND (8 Reb, 4 Def)","Kylee Kitts",1.0,"",""
+2025.0,19745.0,4,600,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 03 Addi Mack IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19745.0,4,600,"Ohio St.","SUBS","SUBS","05 Ava Watson OUT; 08 Bryn Martin OUT; 03 Kennedy Cambridge IN; 12 Elsa LemmilÃ¤ IN","Ava Watson",5.0,"",""
+2025.0,19745.0,4,585,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19745.0,4,579,"Ohio St.","DEF","REBOUND","Ohio St. REBOUND","","","",""
+2025.0,19745.0,4,564,"Ohio St.","LAYUP","GOOD","12 Elsa LemmilÃ¤ LAYUP GOOD (8 Pt)","Elsa LemmilÃ¤",12.0,59.0,63.0
+2025.0,19745.0,4,553,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (6 Pt); 03 Addi Mack Assist (4 Asst)","Rainey Welson",0.0,62.0,63.0
+2025.0,19745.0,4,522,"Ohio St.","LAYUP","MISS","12 Elsa LemmilÃ¤ LAYUP MISS","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,4,519,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (8 Reb, 8 Def)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,4,504,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,4,501,"Ohio St.","DEF","REBOUND","12 Elsa LemmilÃ¤ DEF. REBOUND (9 Reb, 7 Def)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,4,489,"Ohio St.","3PTR","GOOD","01 Kylee Kitts 3PTR GOOD (16 Pt); 22 Jaloni Cambridge Assist (6 Asst)","Kylee Kitts",1.0,62.0,66.0
+2025.0,19745.0,4,458,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (3 Pt)","Addi Mack",3.0,64.0,66.0
+2025.0,19745.0,4,432,"Ohio St.","LAYUP","GOOD","02 Chance Gray LAYUP GOOD (9 Pt)","Chance Gray",2.0,64.0,68.0
+2025.0,19745.0,4,423,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (9 Pt); 12 Yarden Garzon Assist (4 Asst)","Rainey Welson",0.0,67.0,68.0
+2025.0,19745.0,4,400,"Ohio St.","3PTR","GOOD","03 Kennedy Cambridge 3PTR GOOD (12 Pt); 02 Chance Gray Assist (3 Asst)","Kennedy Cambridge",3.0,67.0,71.0
+2025.0,19745.0,4,376,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,4,374,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (6 Reb, 5 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,4,374,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (23 Pt)","Oluchi Okananwa",7.0,69.0,71.0
+2025.0,19745.0,4,360,"Ohio St.","JUMPER","GOOD","22 Jaloni Cambridge JUMPER GOOD (18 Pt)","Jaloni Cambridge",22.0,69.0,73.0
+2025.0,19745.0,4,339,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (5 TO)","Addi Mack",3.0,"",""
+2025.0,19745.0,4,339,"Ohio St.","STEAL","STEAL","03 Kennedy Cambridge STEAL (3 Stl)","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,4,333,"Ohio St.","LAYUP","GOOD","01 Kylee Kitts LAYUP GOOD (18 Pt); 22 Jaloni Cambridge Assist (7 Asst)","Kylee Kitts",1.0,69.0,75.0
+2025.0,19745.0,4,332,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
+2025.0,19745.0,4,332,"Ohio St.","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19745.0,4,319,"Maryland","JUMPER","MISS","00 Rainey Welson JUMPER MISS","Rainey Welson",0.0,"",""
+2025.0,19745.0,4,315,"Ohio St.","DEF","REBOUND","12 Elsa LemmilÃ¤ DEF. REBOUND (10 Reb, 8 Def)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,4,301,"Ohio St.","3PTR","GOOD","22 Jaloni Cambridge 3PTR GOOD (21 Pt); 03 Kennedy Cambridge Assist (3 Asst)","Jaloni Cambridge",22.0,69.0,78.0
+2025.0,19745.0,4,283,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,4,281,"Ohio St.","DEF","REBOUND","02 Chance Gray DEF. REBOUND (1 Reb, 1 Def)","Chance Gray",2.0,"",""
+2025.0,19745.0,4,272,"Ohio St.","3PTR","GOOD","22 Jaloni Cambridge 3PTR GOOD (24 Pt); 12 Elsa LemmilÃ¤ Assist (2 Asst)","Jaloni Cambridge",22.0,69.0,81.0
+2025.0,19745.0,4,266,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 09 Isimenme Ozzy-Momodu IN","Addi Mack",3.0,"",""
+2025.0,19745.0,4,255,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (25 Pt)","Oluchi Okananwa",7.0,71.0,81.0
+2025.0,19745.0,4,244,"Ohio St.","LAYUP","MISS","22 Jaloni Cambridge LAYUP MISS","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,4,241,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (7 Reb, 2 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,4,238,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (27 Pt)","Oluchi Okananwa",7.0,73.0,81.0
+2025.0,19745.0,4,225,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (3 PF)","Yarden Garzon",12.0,"",""
+2025.0,19745.0,4,200,"Ohio St.","JUMPER","MISS","03 Kennedy Cambridge JUMPER MISS","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,4,199,"Ohio St.","OFF","REBOUND","Ohio St. REBOUND","","","",""
+2025.0,19745.0,4,184,"Ohio St.","3PTR","MISS","01 Kylee Kitts 3PTR MISS","Kylee Kitts",1.0,"",""
+2025.0,19745.0,4,179,"Ohio St.","OFF","REBOUND","03 Kennedy Cambridge OFF. REBOUND (2 Reb, 1 Off)","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,4,150,"Ohio St.","LAYUP","GOOD","02 Chance Gray LAYUP GOOD (11 Pt)","Chance Gray",2.0,73.0,83.0
+2025.0,19745.0,4,138,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (4 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,4,138,"Ohio St.","STEAL","STEAL","03 Kennedy Cambridge STEAL (4 Stl)","Kennedy Cambridge",3.0,"",""
+2025.0,19745.0,4,134,"Ohio St.","LAYUP","GOOD","22 Jaloni Cambridge LAYUP GOOD (26 Pt); 03 Kennedy Cambridge Assist (4 Asst)","Jaloni Cambridge",22.0,73.0,85.0
+2025.0,19745.0,4,132,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (2nd TO, 3rd 30)","","","",""
+2025.0,19745.0,4,132,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 10 Mir McLean IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19745.0,4,116,"Maryland","JUMPER","MISS","11 Marya Boiko JUMPER MISS","Marya Boiko",11.0,"",""
+2025.0,19745.0,4,113,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (8 Reb, 6 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,4,112,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19745.0,4,109,"Ohio St.","DEF","REBOUND","12 Elsa LemmilÃ¤ DEF. REBOUND (11 Reb, 9 Def)","Elsa LemmilÃ¤",12.0,"",""
+2025.0,19745.0,4,91,"Ohio St.","LAYUP","GOOD","22 Jaloni Cambridge LAYUP GOOD (28 Pt); 12 Elsa LemmilÃ¤ Assist (3 Asst)","Jaloni Cambridge",22.0,73.0,87.0
+2025.0,19745.0,4,82,"Maryland","JUMPER","MISS","00 Rainey Welson JUMPER MISS","Rainey Welson",0.0,"",""
+2025.0,19745.0,4,78,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (9 Reb, 7 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19745.0,4,65,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19745.0,4,61,"Maryland","OFF","REBOUND","11 Marya Boiko OFF. REBOUND (3 Reb, 1 Off)","Marya Boiko",11.0,"",""
+2025.0,19745.0,4,60,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19745.0,4,56,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (9 Reb, 9 Def)","Jaloni Cambridge",22.0,"",""
+2025.0,19745.0,4,32,"Ohio St.","LAYUP","GOOD","03 Kennedy Cambridge LAYUP GOOD (14 Pt); 22 Jaloni Cambridge Assist (8 Asst)","Kennedy Cambridge",3.0,73.0,89.0
+2025.0,19745.0,4,12,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (12 Pt); 12 Yarden Garzon Assist (5 Asst)","Rainey Welson",0.0,76.0,89.0
