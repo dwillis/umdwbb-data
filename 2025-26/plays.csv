@@ -12322,3 +12322,365 @@
 2025.0,19745.0,4,56,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (9 Reb, 9 Def)","Jaloni Cambridge",22.0,"",""
 2025.0,19745.0,4,32,"Ohio St.","LAYUP","GOOD","03 Kennedy Cambridge LAYUP GOOD (14 Pt); 22 Jaloni Cambridge Assist (8 Asst)","Kennedy Cambridge",3.0,73.0,89.0
 2025.0,19745.0,4,12,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (12 Pt); 12 Yarden Garzon Assist (5 Asst)","Rainey Welson",0.0,76.0,89.0
+2025.0,19746.0,1,588,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,1,584,"Southern California","OFF","REBOUND","Southern California REBOUND","","","",""
+2025.0,19746.0,1,568,"Southern California","LAYUP","MISS","03 Londynn Jones LAYUP MISS","Londynn Jones",3.0,"",""
+2025.0,19746.0,1,565,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (1 Reb, 1 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,1,561,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS; 10 Malia Samuels BLOCK (1 Blk)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,1,559,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (2 Reb, 1 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,1,557,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (3 Pt); 09 Isimenme Ozzy-Momodu Assist (1 Asst)","Saylor Poffenbarger",6.0,0.0,3.0
+2025.0,19746.0,1,517,"Southern California","3PTR","MISS","03 Londynn Jones 3PTR MISS; 06 Saylor Poffenbarger BLOCK (1 Blk)","Londynn Jones",3.0,"",""
+2025.0,19746.0,1,513,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,1,510,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (2 Pt); 12 Yarden Garzon Assist (1 Asst)","Addi Mack",3.0,0.0,5.0
+2025.0,19746.0,1,500,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,1,482,"Southern California","LAYUP","GOOD","09 Jazzy Davidson LAYUP GOOD (2 Pt)","Jazzy Davidson",9.0,2.0,5.0
+2025.0,19746.0,1,457,"Maryland","JUMPER","GOOD","09 Isimenme Ozzy-Momodu JUMPER GOOD (2 Pt); 12 Yarden Garzon Assist (2 Asst)","Isimenme Ozzy-Momodu",9.0,2.0,7.0
+2025.0,19746.0,1,437,"Southern California","JUMPER","GOOD","09 Jazzy Davidson JUMPER GOOD (4 Pt)","Jazzy Davidson",9.0,4.0,7.0
+2025.0,19746.0,1,410,"Maryland","JUMPER","MISS","09 Isimenme Ozzy-Momodu JUMPER MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,1,410,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19746.0,1,410,"Southern California","FOUL","FOUL","03 Londynn Jones FOUL (1 PF)","Londynn Jones",3.0,"",""
+2025.0,19746.0,1,405,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,1,405,"Southern California","STEAL","STEAL","25 Kara Dunn STEAL (1 Stl)","Kara Dunn",25.0,"",""
+2025.0,19746.0,1,403,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 10 Mir McLean IN","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,1,379,"Southern California","3PTR","GOOD","09 Jazzy Davidson 3PTR GOOD (7 Pt)","Jazzy Davidson",9.0,7.0,7.0
+2025.0,19746.0,1,374,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,1,374,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,1,374,"Maryland","SUBS","SUBS","08 Kyndal Walker IN; 06 Saylor Poffenbarger OUT","Kyndal Walker",8.0,"",""
+2025.0,19746.0,1,360,"Southern California","LAYUP","GOOD","06 Laura Williams LAYUP GOOD (2 Pt); 09 Jazzy Davidson Assist (1 Asst)","Laura Williams",6.0,9.0,7.0
+2025.0,19746.0,1,353,"Southern California","FOUL","FOUL","06 Laura Williams FOUL (1 PF)","Laura Williams",6.0,"",""
+2025.0,19746.0,1,353,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (1 Pt)","Kyndal Walker",8.0,9.0,8.0
+2025.0,19746.0,1,353,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (2 Pt)","Kyndal Walker",8.0,9.0,9.0
+2025.0,19746.0,1,339,"Southern California","TURNOVER","TURNOVER","10 Malia Samuels TURNOVER (1 TO)","Malia Samuels",10.0,"",""
+2025.0,19746.0,1,329,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (1 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,1,329,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 11 Marya Boiko IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,1,314,"Southern California","3PTR","MISS","25 Kara Dunn 3PTR MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,1,312,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19746.0,1,312,"Southern California","SUBS","SUBS","06 Laura Williams OUT; 08 Gerda Raulusaityte IN","Laura Williams",6.0,"",""
+2025.0,19746.0,1,300,"Southern California","FOUL","FOUL","03 Londynn Jones FOUL (2 PF)","Londynn Jones",3.0,"",""
+2025.0,19746.0,1,300,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19746.0,1,300,"Southern California","SUBS","SUBS","03 Londynn Jones OUT; 13 Dayana Mendes IN","Londynn Jones",3.0,"",""
+2025.0,19746.0,1,287,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+2025.0,19746.0,1,287,"Southern California","STEAL","STEAL","09 Jazzy Davidson STEAL (1 Stl)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,1,284,"Southern California","LAYUP","GOOD","09 Jazzy Davidson LAYUP GOOD (9 Pt)","Jazzy Davidson",9.0,11.0,9.0
+2025.0,19746.0,1,271,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (1 TO)","Marya Boiko",11.0,"",""
+2025.0,19746.0,1,271,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 10 Mir McLean OUT; 06 Saylor Poffenbarger IN; 09 Isimenme Ozzy-Momodu IN","Addi Mack",3.0,"",""
+2025.0,19746.0,1,253,"Southern California","LAYUP","MISS","09 Jazzy Davidson LAYUP MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,1,252,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,1,246,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (1 TO)","Kyndal Walker",8.0,"",""
+2025.0,19746.0,1,226,"Southern California","TURNOVER","TURNOVER","08 Gerda Raulusaityte TURNOVER (1 TO)","Gerda Raulusaityte",8.0,"",""
+2025.0,19746.0,1,209,"Maryland","3PTR","MISS","08 Kyndal Walker 3PTR MISS","Kyndal Walker",8.0,"",""
+2025.0,19746.0,1,206,"Southern California","DEF","REBOUND","25 Kara Dunn DEF. REBOUND (1 Reb, 1 Def)","Kara Dunn",25.0,"",""
+2025.0,19746.0,1,187,"Southern California","3PTR","GOOD","25 Kara Dunn 3PTR GOOD (3 Pt); 08 Gerda Raulusaityte Assist (1 Asst)","Kara Dunn",25.0,14.0,9.0
+2025.0,19746.0,1,160,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (2 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,1,142,"Southern California","LAYUP","GOOD","09 Jazzy Davidson LAYUP GOOD (11 Pt); 25 Kara Dunn Assist (1 Asst)","Jazzy Davidson",9.0,16.0,9.0
+2025.0,19746.0,1,142,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025.0,19746.0,1,142,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,19746.0,1,142,"Southern California","FT","GOOD","09 Jazzy Davidson FT GOOD (12 Pt)","Jazzy Davidson",9.0,17.0,9.0
+2025.0,19746.0,1,119,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (2 Pt); 11 Marya Boiko Assist (1 Asst)","Yarden Garzon",12.0,17.0,11.0
+2025.0,19746.0,1,109,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,1,106,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (1 Reb, 1 Def)","Marya Boiko",11.0,"",""
+2025.0,19746.0,1,99,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (6 Pt); 03 Addi Mack Assist (1 Asst)","Saylor Poffenbarger",6.0,17.0,14.0
+2025.0,19746.0,1,73,"Southern California","3PTR","MISS","25 Kara Dunn 3PTR MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,1,69,"Southern California","OFF","REBOUND","13 Dayana Mendes OFF. REBOUND (1 Reb, 1 Off)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,1,68,"Southern California","3PTR","MISS","10 Malia Samuels 3PTR MISS","Malia Samuels",10.0,"",""
+2025.0,19746.0,1,65,"Southern California","OFF","REBOUND","13 Dayana Mendes OFF. REBOUND (2 Reb, 2 Off)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,1,65,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,1,65,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 00 Rainey Welson IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,1,54,"Southern California","3PTR","GOOD","25 Kara Dunn 3PTR GOOD (6 Pt); 09 Jazzy Davidson Assist (2 Asst)","Kara Dunn",25.0,20.0,14.0
+2025.0,19746.0,1,40,"Maryland","LAYUP","GOOD","11 Marya Boiko LAYUP GOOD (2 Pt); 12 Yarden Garzon Assist (3 Asst)","Marya Boiko",11.0,20.0,16.0
+2025.0,19746.0,1,8,"Southern California","JUMPER","MISS","10 Malia Samuels JUMPER MISS","Malia Samuels",10.0,"",""
+2025.0,19746.0,1,5,"Southern California","OFF","REBOUND","Southern California REBOUND","","","",""
+2025.0,19746.0,1,1,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,1,0,"Southern California","OFF","REBOUND","25 Kara Dunn OFF. REBOUND (2 Reb, 1 Off)","Kara Dunn",25.0,"",""
+2025.0,19746.0,2,600,"Southern California","SUBS","SUBS","08 Gerda Raulusaityte OUT; 25 Kara Dunn OUT; 03 Londynn Jones IN; 06 Laura Williams IN","Gerda Raulusaityte",8.0,"",""
+2025.0,19746.0,2,600,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 07 Oluchi Okananwa IN","Yarden Garzon",12.0,"",""
+2025.0,19746.0,2,580,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (2 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,2,563,"Southern California","3PTR","MISS","10 Malia Samuels 3PTR MISS","Malia Samuels",10.0,"",""
+2025.0,19746.0,2,558,"Southern California","DEADB","REBOUND","Southern California REBOUND","","","",""
+2025.0,19746.0,2,558,"Maryland","FOUL","FOUL","00 Rainey Welson FOUL (1 PF)","Rainey Welson",0.0,"",""
+2025.0,19746.0,2,558,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 12 Yarden Garzon IN","Rainey Welson",0.0,"",""
+2025.0,19746.0,2,542,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,2,539,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19746.0,2,539,"Southern California","FOUL","FOUL","13 Dayana Mendes FOUL (1 PF)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,2,515,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,2,511,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,2,511,"Maryland","TIPIN","GOOD","07 Oluchi Okananwa TIPIN GOOD (2 Pt)","Oluchi Okananwa",7.0,20.0,18.0
+2025.0,19746.0,2,492,"Southern California","LAYUP","GOOD","06 Laura Williams LAYUP GOOD (4 Pt); 13 Dayana Mendes Assist (1 Asst)","Laura Williams",6.0,22.0,18.0
+2025.0,19746.0,2,468,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19746.0,2,465,"Southern California","DEF","REBOUND","09 Jazzy Davidson DEF. REBOUND (1 Reb, 1 Def)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,2,453,"Southern California","JUMPER","MISS","09 Jazzy Davidson JUMPER MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,2,450,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (2 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,2,442,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,2,440,"Southern California","DEF","REBOUND","13 Dayana Mendes DEF. REBOUND (3 Reb, 1 Def)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,2,434,"Southern California","3PTR","MISS","13 Dayana Mendes 3PTR MISS; 06 Saylor Poffenbarger BLOCK (2 Blk)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,2,429,"Southern California","OFF","REBOUND","13 Dayana Mendes OFF. REBOUND (4 Reb, 3 Off)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,2,428,"Southern California","LAYUP","GOOD","10 Malia Samuels LAYUP GOOD (2 Pt); 13 Dayana Mendes Assist (2 Asst)","Malia Samuels",10.0,24.0,18.0
+2025.0,19746.0,2,419,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS; 10 Malia Samuels BLOCK (2 Blk)","Addi Mack",3.0,"",""
+2025.0,19746.0,2,416,"Maryland","OFF","REBOUND","11 Marya Boiko OFF. REBOUND (2 Reb, 1 Off)","Marya Boiko",11.0,"",""
+2025.0,19746.0,2,410,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,2,408,"Southern California","DEF","REBOUND","13 Dayana Mendes DEF. REBOUND (5 Reb, 2 Def)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,2,392,"Southern California","JUMPER","MISS","09 Jazzy Davidson JUMPER MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,2,389,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,19746.0,2,371,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,2,368,"Southern California","DEF","REBOUND","06 Laura Williams DEF. REBOUND (1 Reb, 1 Def)","Laura Williams",6.0,"",""
+2025.0,19746.0,2,358,"Southern California","3PTR","MISS","03 Londynn Jones 3PTR MISS","Londynn Jones",3.0,"",""
+2025.0,19746.0,2,354,"Southern California","OFF","REBOUND","09 Jazzy Davidson OFF. REBOUND (2 Reb, 1 Off)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,2,342,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,2,342,"Southern California","SUBS","SUBS","13 Dayana Mendes OUT; 25 Kara Dunn IN","Dayana Mendes",13.0,"",""
+2025.0,19746.0,2,342,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 07 Oluchi Okananwa OUT; 11 Marya Boiko OUT; 08 Kyndal Walker IN; 09 Isimenme Ozzy-Momodu IN; 10 Mir McLean IN","Addi Mack",3.0,"",""
+2025.0,19746.0,2,329,"Southern California","3PTR","MISS","03 Londynn Jones 3PTR MISS","Londynn Jones",3.0,"",""
+2025.0,19746.0,2,327,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean",10.0,"",""
+2025.0,19746.0,2,305,"Maryland","JUMPER","GOOD","09 Isimenme Ozzy-Momodu JUMPER GOOD (4 Pt); 12 Yarden Garzon Assist (4 Asst)","Isimenme Ozzy-Momodu",9.0,24.0,20.0
+2025.0,19746.0,2,293,"Southern California","LAYUP","MISS","06 Laura Williams LAYUP MISS","Laura Williams",6.0,"",""
+2025.0,19746.0,2,290,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,2,269,"Southern California","FOUL","FOUL","10 Malia Samuels FOUL (1 PF)","Malia Samuels",10.0,"",""
+2025.0,19746.0,2,269,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19746.0,2,269,"Southern California","SUBS","SUBS","06 Laura Williams OUT; 08 Gerda Raulusaityte IN","Laura Williams",6.0,"",""
+2025.0,19746.0,2,258,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (2 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,2,248,"Southern California","TURNOVER","TURNOVER","10 Malia Samuels TURNOVER (2 TO)","Malia Samuels",10.0,"",""
+2025.0,19746.0,2,231,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (3 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,2,231,"Southern California","STEAL","STEAL","10 Malia Samuels STEAL (1 Stl)","Malia Samuels",10.0,"",""
+2025.0,19746.0,2,213,"Southern California","LAYUP","MISS","10 Malia Samuels LAYUP MISS","Malia Samuels",10.0,"",""
+2025.0,19746.0,2,212,"Southern California","OFF","REBOUND","Southern California REBOUND","","","",""
+2025.0,19746.0,2,207,"Southern California","3PTR","MISS","03 Londynn Jones 3PTR MISS","Londynn Jones",3.0,"",""
+2025.0,19746.0,2,204,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (3 Reb, 2 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,2,193,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (5 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Yarden Garzon",12.0,24.0,23.0
+2025.0,19746.0,2,176,"Southern California","LAYUP","GOOD","08 Gerda Raulusaityte LAYUP GOOD (2 Pt); 25 Kara Dunn Assist (2 Asst)","Gerda Raulusaityte",8.0,26.0,23.0
+2025.0,19746.0,2,158,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19746.0,2,156,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (2 Reb, 1 Off)","Mir McLean",10.0,"",""
+2025.0,19746.0,2,153,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025.0,19746.0,2,153,"Southern California","SUBS","SUBS","10 Malia Samuels OUT; 13 Dayana Mendes IN","Malia Samuels",10.0,"",""
+2025.0,19746.0,2,144,"Southern California","3PTR","MISS","25 Kara Dunn 3PTR MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,2,141,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+2025.0,19746.0,2,138,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (2 TO)","Yarden Garzon",12.0,"",""
+2025.0,19746.0,2,124,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (2 PF)","Kyndal Walker",8.0,"",""
+2025.0,19746.0,2,124,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,19746.0,2,111,"Southern California","JUMPER","MISS","03 Londynn Jones JUMPER MISS","Londynn Jones",3.0,"",""
+2025.0,19746.0,2,108,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (4 Reb, 3 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,2,102,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (4 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,2,102,"Southern California","STEAL","STEAL","09 Jazzy Davidson STEAL (2 Stl)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,2,101,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025.0,19746.0,2,101,"Southern California","SUBS","SUBS","03 Londynn Jones OUT; 10 Malia Samuels IN","Londynn Jones",3.0,"",""
+2025.0,19746.0,2,101,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 40 Breanna Williams IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,2,84,"Southern California","JUMPER","MISS","09 Jazzy Davidson JUMPER MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,2,82,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (5 Reb, 4 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,2,68,"Maryland","LAYUP","GOOD","40 Breanna Williams LAYUP GOOD (2 Pt); 10 Mir McLean Assist (1 Asst)","Breanna Williams",40.0,26.0,25.0
+2025.0,19746.0,2,45,"Southern California","LAYUP","GOOD","13 Dayana Mendes LAYUP GOOD (2 Pt); 25 Kara Dunn Assist (3 Asst)","Dayana Mendes",13.0,28.0,25.0
+2025.0,19746.0,2,16,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (4 Pt)","Addi Mack",3.0,28.0,27.0
+2025.0,19746.0,2,1,"Southern California","3PTR","MISS","25 Kara Dunn 3PTR MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,2,0,"Southern California","DEADB","REBOUND","Southern California REBOUND","","","",""
+2025.0,19746.0,3,600,"Southern California","SUBS","SUBS","08 Gerda Raulusaityte OUT; 13 Dayana Mendes OUT; 03 Londynn Jones IN; 06 Laura Williams IN","Gerda Raulusaityte",8.0,"",""
+2025.0,19746.0,3,600,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 40 Breanna Williams OUT; 06 Saylor Poffenbarger IN; 07 Oluchi Okananwa IN","Mir McLean",10.0,"",""
+2025.0,19746.0,3,593,"Southern California","FOUL","FOUL","09 Jazzy Davidson FOUL (1 PF)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,582,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19746.0,3,577,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (3 Reb, 2 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,3,577,"Maryland","TIPIN","GOOD","07 Oluchi Okananwa TIPIN GOOD (4 Pt)","Oluchi Okananwa",7.0,28.0,29.0
+2025.0,19746.0,3,550,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack",3.0,"",""
+2025.0,19746.0,3,550,"Southern California","FT","GOOD","03 Londynn Jones FT GOOD (1 Pt)","Londynn Jones",3.0,29.0,29.0
+2025.0,19746.0,3,550,"Southern California","FT","GOOD","03 Londynn Jones FT GOOD (2 Pt)","Londynn Jones",3.0,30.0,29.0
+2025.0,19746.0,3,544,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19746.0,3,540,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (3 Reb, 1 Off)","Yarden Garzon",12.0,"",""
+2025.0,19746.0,3,540,"Southern California","FOUL","FOUL","06 Laura Williams FOUL (2 PF)","Laura Williams",6.0,"",""
+2025.0,19746.0,3,540,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (6 Pt)","Yarden Garzon",12.0,30.0,30.0
+2025.0,19746.0,3,540,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (7 Pt)","Yarden Garzon",12.0,30.0,31.0
+2025.0,19746.0,3,526,"Southern California","JUMPER","MISS","09 Jazzy Davidson JUMPER MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,524,"Southern California","OFF","REBOUND","09 Jazzy Davidson OFF. REBOUND (3 Reb, 2 Off)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,519,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 40 Breanna Williams IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,3,514,"Southern California","3PTR","MISS","25 Kara Dunn 3PTR MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,3,510,"Southern California","OFF","REBOUND","10 Malia Samuels OFF. REBOUND (1 Reb, 1 Off)","Malia Samuels",10.0,"",""
+2025.0,19746.0,3,499,"Southern California","JUMPER","GOOD","03 Londynn Jones JUMPER GOOD (4 Pt); 25 Kara Dunn Assist (4 Asst)","Londynn Jones",3.0,32.0,31.0
+2025.0,19746.0,3,492,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS; 03 Londynn Jones BLOCK (1 Blk)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,3,490,"Southern California","DEF","REBOUND","Southern California REBOUND","","","",""
+2025.0,19746.0,3,490,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025.0,19746.0,3,474,"Southern California","TURNOVER","TURNOVER","09 Jazzy Davidson TURNOVER (1 TO)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,474,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,3,473,"Southern California","FOUL","FOUL","09 Jazzy Davidson FOUL (2 PF)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,473,"Maryland","SUBS","SUBS","40 Breanna Williams OUT; 09 Isimenme Ozzy-Momodu IN","Breanna Williams",40.0,"",""
+2025.0,19746.0,3,456,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (6 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Isimenme Ozzy-Momodu",9.0,32.0,33.0
+2025.0,19746.0,3,431,"Southern California","LAYUP","MISS","09 Jazzy Davidson LAYUP MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,428,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (6 Reb, 5 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,3,426,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (3 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,3,426,"Southern California","SUBS","SUBS","06 Laura Williams OUT; 00 Vivian Iwuchukwu IN; 25 Kara Dunn OUT; 13 Dayana Mendes IN","Laura Williams",6.0,"",""
+2025.0,19746.0,3,415,"Southern California","FOUL","FOUL","00 Vivian Iwuchukwu FOUL (1 PF)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,415,"Southern California","TURNOVER","TURNOVER","00 Vivian Iwuchukwu TURNOVER (1 TO)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,394,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,3,390,"Southern California","DEF","REBOUND","03 Londynn Jones DEF. REBOUND (1 Reb, 1 Def)","Londynn Jones",3.0,"",""
+2025.0,19746.0,3,386,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,383,"Southern California","OFF","REBOUND","10 Malia Samuels OFF. REBOUND (2 Reb, 2 Off)","Malia Samuels",10.0,"",""
+2025.0,19746.0,3,377,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (2 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,3,377,"Southern California","FT","GOOD","00 Vivian Iwuchukwu FT GOOD (1 Pt)","Vivian Iwuchukwu",0.0,33.0,33.0
+2025.0,19746.0,3,377,"Southern California","FT","GOOD","00 Vivian Iwuchukwu FT GOOD (2 Pt)","Vivian Iwuchukwu",0.0,34.0,33.0
+2025.0,19746.0,3,377,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 03 Addi Mack IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,3,357,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,3,355,"Southern California","DEF","REBOUND","00 Vivian Iwuchukwu DEF. REBOUND (1 Reb, 1 Def)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,349,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,345,"Southern California","OFF","REBOUND","03 Londynn Jones OFF. REBOUND (2 Reb, 1 Off)","Londynn Jones",3.0,"",""
+2025.0,19746.0,3,337,"Southern California","TURNOVER","TURNOVER","03 Londynn Jones TURNOVER (1 TO)","Londynn Jones",3.0,"",""
+2025.0,19746.0,3,337,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (1 Stl)","Addi Mack",3.0,"",""
+2025.0,19746.0,3,327,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19746.0,3,325,"Southern California","DEF","REBOUND","00 Vivian Iwuchukwu DEF. REBOUND (2 Reb, 2 Def)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,323,"Southern California","TURNOVER","TURNOVER","00 Vivian Iwuchukwu TURNOVER (2 TO)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,314,"Southern California","FOUL","FOUL","13 Dayana Mendes FOUL (2 PF)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,3,314,"Southern California","SUBS","SUBS","03 Londynn Jones OUT; 25 Kara Dunn IN","Londynn Jones",3.0,"",""
+2025.0,19746.0,3,314,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (3 Pt)","Kyndal Walker",8.0,34.0,34.0
+2025.0,19746.0,3,314,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (4 Pt)","Kyndal Walker",8.0,34.0,35.0
+2025.0,19746.0,3,286,"Southern California","LAYUP","MISS","10 Malia Samuels LAYUP MISS","Malia Samuels",10.0,"",""
+2025.0,19746.0,3,286,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19746.0,3,286,"Southern California","FOUL","FOUL","13 Dayana Mendes FOUL (3 PF)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,3,286,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19746.0,3,286,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (5 Pt)","Kyndal Walker",8.0,34.0,36.0
+2025.0,19746.0,3,286,"Maryland","FT","MISS","08 Kyndal Walker FT MISS","Kyndal Walker",8.0,"",""
+2025.0,19746.0,3,285,"Southern California","DEF","REBOUND","09 Jazzy Davidson DEF. REBOUND (4 Reb, 2 Def)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,272,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (3 PF)","Kyndal Walker",8.0,"",""
+2025.0,19746.0,3,256,"Southern California","3PTR","MISS","10 Malia Samuels 3PTR MISS","Malia Samuels",10.0,"",""
+2025.0,19746.0,3,252,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (4 Reb, 2 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,3,244,"Maryland","TURNOVER","TURNOVER","Maryland TURNOVER (1 TO)","","","",""
+2025.0,19746.0,3,239,"Southern California","3PTR","GOOD","25 Kara Dunn 3PTR GOOD (9 Pt); 10 Malia Samuels Assist (1 Asst)","Kara Dunn",25.0,37.0,36.0
+2025.0,19746.0,3,223,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (6 Pt); 08 Kyndal Walker Assist (1 Asst)","Addi Mack",3.0,37.0,38.0
+2025.0,19746.0,3,209,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (2 PF)","Addi Mack",3.0,"",""
+2025.0,19746.0,3,209,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 06 Saylor Poffenbarger IN","Yarden Garzon",12.0,"",""
+2025.0,19746.0,3,191,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (3 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,3,191,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 40 Breanna Williams IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,3,191,"Southern California","FT","GOOD","00 Vivian Iwuchukwu FT GOOD (3 Pt)","Vivian Iwuchukwu",0.0,38.0,38.0
+2025.0,19746.0,3,190,"Southern California","FT","MISS","00 Vivian Iwuchukwu FT MISS","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,189,"Maryland","DEF","REBOUND","40 Breanna Williams DEF. REBOUND (1 Reb, 1 Def)","Breanna Williams",40.0,"",""
+2025.0,19746.0,3,184,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,3,180,"Maryland","OFF","REBOUND","40 Breanna Williams OFF. REBOUND (2 Reb, 1 Off)","Breanna Williams",40.0,"",""
+2025.0,19746.0,3,177,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (5 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,3,177,"Southern California","STEAL","STEAL","00 Vivian Iwuchukwu STEAL (1 Stl)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,172,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,166,"Southern California","OFF","REBOUND","10 Malia Samuels OFF. REBOUND (3 Reb, 3 Off)","Malia Samuels",10.0,"",""
+2025.0,19746.0,3,166,"Southern California","SUBS","SUBS","09 Jazzy Davidson OUT; 03 Londynn Jones IN","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,3,148,"Southern California","3PTR","MISS","25 Kara Dunn 3PTR MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,3,146,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19746.0,3,135,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19746.0,3,133,"Southern California","DEF","REBOUND","00 Vivian Iwuchukwu DEF. REBOUND (3 Reb, 3 Def)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,105,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (3 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,3,105,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 12 Yarden Garzon IN","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,3,105,"Southern California","FT","GOOD","03 Londynn Jones FT GOOD (5 Pt)","Londynn Jones",3.0,39.0,38.0
+2025.0,19746.0,3,105,"Southern California","FT","GOOD","03 Londynn Jones FT GOOD (6 Pt)","Londynn Jones",3.0,40.0,38.0
+2025.0,19746.0,3,84,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (8 Pt)","Saylor Poffenbarger",6.0,40.0,40.0
+2025.0,19746.0,3,84,"Southern California","FOUL","FOUL","00 Vivian Iwuchukwu FOUL (2 PF)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,84,"Southern California","SUBS","SUBS","00 Vivian Iwuchukwu OUT; 08 Gerda Raulusaityte IN","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,3,84,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (9 Pt)","Saylor Poffenbarger",6.0,40.0,41.0
+2025.0,19746.0,3,65,"Southern California","LAYUP","MISS","13 Dayana Mendes LAYUP MISS","Dayana Mendes",13.0,"",""
+2025.0,19746.0,3,63,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 4 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,3,55,"Maryland","LAYUP","MISS","08 Kyndal Walker LAYUP MISS","Kyndal Walker",8.0,"",""
+2025.0,19746.0,3,53,"Southern California","DEF","REBOUND","03 Londynn Jones DEF. REBOUND (3 Reb, 2 Def)","Londynn Jones",3.0,"",""
+2025.0,19746.0,3,50,"Southern California","TURNOVER","TURNOVER","03 Londynn Jones TURNOVER (2 TO)","Londynn Jones",3.0,"",""
+2025.0,19746.0,3,50,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19746.0,3,47,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (8 Pt); 08 Kyndal Walker Assist (2 Asst)","Addi Mack",3.0,40.0,43.0
+2025.0,19746.0,3,47,"Southern California","FOUL","FOUL","10 Malia Samuels FOUL (2 PF)","Malia Samuels",10.0,"",""
+2025.0,19746.0,3,47,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (9 Pt)","Addi Mack",3.0,40.0,44.0
+2025.0,19746.0,3,33,"Southern California","JUMPER","MISS","10 Malia Samuels JUMPER MISS","Malia Samuels",10.0,"",""
+2025.0,19746.0,3,30,"Southern California","OFF","REBOUND","25 Kara Dunn OFF. REBOUND (3 Reb, 2 Off)","Kara Dunn",25.0,"",""
+2025.0,19746.0,3,30,"Maryland","FOUL","FOUL","40 Breanna Williams FOUL (1 PF)","Breanna Williams",40.0,"",""
+2025.0,19746.0,3,30,"Southern California","FT","GOOD","25 Kara Dunn FT GOOD (10 Pt)","Kara Dunn",25.0,41.0,44.0
+2025.0,19746.0,3,30,"Southern California","FT","GOOD","25 Kara Dunn FT GOOD (11 Pt)","Kara Dunn",25.0,42.0,44.0
+2025.0,19746.0,3,3,"Southern California","FOUL","FOUL","03 Londynn Jones FOUL (3 PF)","Londynn Jones",3.0,"",""
+2025.0,19746.0,3,3,"Southern California","SUBS","SUBS","03 Londynn Jones OUT; 09 Jazzy Davidson IN","Londynn Jones",3.0,"",""
+2025.0,19746.0,3,3,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (6 Pt)","Kyndal Walker",8.0,42.0,45.0
+2025.0,19746.0,3,3,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (7 Pt)","Kyndal Walker",8.0,42.0,46.0
+2025.0,19746.0,4,600,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 07 Oluchi Okananwa IN","Addi Mack",3.0,"",""
+2025.0,19746.0,4,584,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,581,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (5 Reb, 3 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,4,566,"Southern California","FOUL","FOUL","09 Jazzy Davidson FOUL (3 PF)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,560,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19746.0,4,558,"Maryland","OFF","REBOUND","40 Breanna Williams OFF. REBOUND (3 Reb, 2 Off)","Breanna Williams",40.0,"",""
+2025.0,19746.0,4,557,"Southern California","FOUL","FOUL","13 Dayana Mendes FOUL (4 PF)","Dayana Mendes",13.0,"",""
+2025.0,19746.0,4,557,"Southern California","SUBS","SUBS","08 Gerda Raulusaityte OUT; 00 Vivian Iwuchukwu IN; 13 Dayana Mendes OUT; 03 Londynn Jones IN","Gerda Raulusaityte",8.0,"",""
+2025.0,19746.0,4,557,"Maryland","FT","MISS","40 Breanna Williams FT MISS","Breanna Williams",40.0,"",""
+2025.0,19746.0,4,557,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19746.0,4,557,"Maryland","FT","GOOD","40 Breanna Williams FT GOOD (3 Pt)","Breanna Williams",40.0,42.0,47.0
+2025.0,19746.0,4,527,"Southern California","JUMPER","MISS","10 Malia Samuels JUMPER MISS","Malia Samuels",10.0,"",""
+2025.0,19746.0,4,523,"Maryland","DEF","REBOUND","40 Breanna Williams DEF. REBOUND (4 Reb, 2 Def)","Breanna Williams",40.0,"",""
+2025.0,19746.0,4,512,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,4,510,"Southern California","DEF","REBOUND","Southern California REBOUND","","","",""
+2025.0,19746.0,4,485,"Southern California","JUMPER","MISS","09 Jazzy Davidson JUMPER MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,483,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 5 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,4,472,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19746.0,4,472,"Maryland","TURNOVER","TURNOVER","40 Breanna Williams TURNOVER (1 TO)","Breanna Williams",40.0,"",""
+2025.0,19746.0,4,449,"Maryland","FOUL","FOUL","40 Breanna Williams FOUL (2 PF)","Breanna Williams",40.0,"",""
+2025.0,19746.0,4,449,"Maryland","SUBS","SUBS","40 Breanna Williams OUT; 09 Isimenme Ozzy-Momodu IN","Breanna Williams",40.0,"",""
+2025.0,19746.0,4,443,"Southern California","LAYUP","GOOD","25 Kara Dunn LAYUP GOOD (13 Pt); 09 Jazzy Davidson Assist (3 Asst)","Kara Dunn",25.0,44.0,47.0
+2025.0,19746.0,4,436,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19746.0,4,432,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (6 Reb, 3 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,4,428,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (4 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,4,428,"Southern California","STEAL","STEAL","09 Jazzy Davidson STEAL (3 Stl)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,421,"Southern California","TURNOVER","TURNOVER","09 Jazzy Davidson TURNOVER (2 TO)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,409,"Southern California","FOUL","FOUL","03 Londynn Jones FOUL (4 PF)","Londynn Jones",3.0,"",""
+2025.0,19746.0,4,409,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (5 Pt)","Oluchi Okananwa",7.0,44.0,48.0
+2025.0,19746.0,4,409,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (6 Pt)","Oluchi Okananwa",7.0,44.0,49.0
+2025.0,19746.0,4,383,"Southern California","LAYUP","GOOD","25 Kara Dunn LAYUP GOOD (15 Pt); 09 Jazzy Davidson Assist (4 Asst)","Kara Dunn",25.0,46.0,49.0
+2025.0,19746.0,4,369,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,4,366,"Southern California","DEF","REBOUND","25 Kara Dunn DEF. REBOUND (4 Reb, 2 Def)","Kara Dunn",25.0,"",""
+2025.0,19746.0,4,362,"Southern California","LAYUP","GOOD","00 Vivian Iwuchukwu LAYUP GOOD (5 Pt); 25 Kara Dunn Assist (5 Asst)","Vivian Iwuchukwu",0.0,48.0,49.0
+2025.0,19746.0,4,361,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19746.0,4,361,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19746.0,4,350,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (5 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,4,333,"Southern California","JUMPER","MISS","09 Jazzy Davidson JUMPER MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,331,"Southern California","OFF","REBOUND","Southern California REBOUND","","","",""
+2025.0,19746.0,4,316,"Southern California","3PTR","GOOD","25 Kara Dunn 3PTR GOOD (18 Pt)","Kara Dunn",25.0,51.0,49.0
+2025.0,19746.0,4,295,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,4,293,"Southern California","DEF","REBOUND","10 Malia Samuels DEF. REBOUND (4 Reb, 1 Def)","Malia Samuels",10.0,"",""
+2025.0,19746.0,4,280,"Southern California","LAYUP","MISS","03 Londynn Jones LAYUP MISS","Londynn Jones",3.0,"",""
+2025.0,19746.0,4,278,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (6 Reb, 6 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,4,274,"Southern California","FOUL","FOUL","25 Kara Dunn FOUL (1 PF)","Kara Dunn",25.0,"",""
+2025.0,19746.0,4,274,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 03 Addi Mack IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19746.0,4,274,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (7 Pt)","Oluchi Okananwa",7.0,51.0,50.0
+2025.0,19746.0,4,274,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,4,273,"Southern California","DEF","REBOUND","09 Jazzy Davidson DEF. REBOUND (5 Reb, 3 Def)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,251,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,247,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025.0,19746.0,4,227,"Southern California","FOUL","FOUL","00 Vivian Iwuchukwu FOUL (3 PF)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,4,227,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (8 Pt)","Kyndal Walker",8.0,51.0,51.0
+2025.0,19746.0,4,227,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (9 Pt)","Kyndal Walker",8.0,51.0,52.0
+2025.0,19746.0,4,210,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon",12.0,"",""
+2025.0,19746.0,4,210,"Southern California","FT","GOOD","25 Kara Dunn FT GOOD (19 Pt)","Kara Dunn",25.0,52.0,52.0
+2025.0,19746.0,4,210,"Southern California","FT","MISS","25 Kara Dunn FT MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,4,208,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (7 Reb, 4 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,4,192,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19746.0,4,191,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (7 Reb, 2 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,4,191,"Southern California","FOUL","FOUL","09 Jazzy Davidson FOUL (4 PF)","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,191,"Maryland","FT","GOOD","09 Isimenme Ozzy-Momodu FT GOOD (7 Pt)","Isimenme Ozzy-Momodu",9.0,52.0,53.0
+2025.0,19746.0,4,191,"Maryland","FT","GOOD","09 Isimenme Ozzy-Momodu FT GOOD (8 Pt)","Isimenme Ozzy-Momodu",9.0,52.0,54.0
+2025.0,19746.0,4,169,"Southern California","JUMPER","GOOD","25 Kara Dunn JUMPER GOOD (21 Pt); 09 Jazzy Davidson Assist (5 Asst)","Kara Dunn",25.0,54.0,54.0
+2025.0,19746.0,4,158,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (10 Pt); 08 Kyndal Walker Assist (3 Asst)","Yarden Garzon",12.0,54.0,57.0
+2025.0,19746.0,4,145,"Southern California","30SEC","TIMEOUT","Southern California TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19746.0,4,135,"Southern California","3PTR","MISS","09 Jazzy Davidson 3PTR MISS","Jazzy Davidson",9.0,"",""
+2025.0,19746.0,4,132,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (2 Reb, 2 Def)","Addi Mack",3.0,"",""
+2025.0,19746.0,4,117,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS; 09 Jazzy Davidson BLOCK (1 Blk)","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,4,114,"Southern California","DEF","REBOUND","00 Vivian Iwuchukwu DEF. REBOUND (4 Reb, 4 Def)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,4,100,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (4 PF)","Kyndal Walker",8.0,"",""
+2025.0,19746.0,4,100,"Southern California","FT","GOOD","03 Londynn Jones FT GOOD (7 Pt)","Londynn Jones",3.0,55.0,57.0
+2025.0,19746.0,4,100,"Southern California","FT","MISS","03 Londynn Jones FT MISS","Londynn Jones",3.0,"",""
+2025.0,19746.0,4,99,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (8 Reb, 6 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,4,82,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19746.0,4,79,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (1 Reb, 1 Off)","Kyndal Walker",8.0,"",""
+2025.0,19746.0,4,79,"Maryland","LAYUP","MISS","08 Kyndal Walker LAYUP MISS","Kyndal Walker",8.0,"",""
+2025.0,19746.0,4,78,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (9 Reb, 3 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19746.0,4,77,"Maryland","TIPIN","GOOD","09 Isimenme Ozzy-Momodu TIPIN GOOD (10 Pt)","Isimenme Ozzy-Momodu",9.0,55.0,59.0
+2025.0,19746.0,4,67,"Southern California","30SEC","TIMEOUT","Southern California TIMEOUT 30 Sec. (2nd TO, 2nd 30)","","","",""
+2025.0,19746.0,4,53,"Southern California","LAYUP","MISS","25 Kara Dunn LAYUP MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,4,52,"Southern California","OFF","REBOUND","00 Vivian Iwuchukwu OFF. REBOUND (5 Reb, 1 Off)","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,4,51,"Southern California","TIPIN","MISS","00 Vivian Iwuchukwu TIPIN MISS","Vivian Iwuchukwu",0.0,"",""
+2025.0,19746.0,4,49,"Southern California","OFF","REBOUND","25 Kara Dunn OFF. REBOUND (5 Reb, 3 Off)","Kara Dunn",25.0,"",""
+2025.0,19746.0,4,33,"Southern California","LAYUP","MISS","10 Malia Samuels LAYUP MISS; 09 Isimenme Ozzy-Momodu BLOCK (1 Blk)","Malia Samuels",10.0,"",""
+2025.0,19746.0,4,29,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (2 Reb, 1 Def)","Kyndal Walker",8.0,"",""
+2025.0,19746.0,4,20,"Southern California","FOUL","FOUL","03 Londynn Jones FOUL (5 PF)","Londynn Jones",3.0,"",""
+2025.0,19746.0,4,20,"Southern California","SUBS","SUBS","03 Londynn Jones OUT; 13 Dayana Mendes IN","Londynn Jones",3.0,"",""
+2025.0,19746.0,4,20,"Maryland","FT","MISS","03 Addi Mack FT MISS","Addi Mack",3.0,"",""
+2025.0,19746.0,4,20,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (10 Pt)","Addi Mack",3.0,55.0,60.0
+2025.0,19746.0,4,20,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19746.0,4,20,"Southern California","30SEC","TIMEOUT","Southern California TIMEOUT 30 Sec. (3rd TO, 3rd 30)","","","",""
+2025.0,19746.0,4,19,"Southern California","3PTR","MISS","25 Kara Dunn 3PTR MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,4,16,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (3 Reb, 3 Def)","Addi Mack",3.0,"",""
+2025.0,19746.0,4,16,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (2nd TO, 2nd 30)","","","",""
+2025.0,19746.0,4,14,"Southern California","FOUL","FOUL","25 Kara Dunn FOUL (2 PF)","Kara Dunn",25.0,"",""
+2025.0,19746.0,4,14,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (11 Pt)","Addi Mack",3.0,55.0,61.0
+2025.0,19746.0,4,14,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (12 Pt)","Addi Mack",3.0,55.0,62.0
+2025.0,19746.0,4,14,"Southern California","TEAM","TIMEOUT","Southern California TIMEOUT Full (4th TO, 1st Full)","","","",""
+2025.0,19746.0,4,7,"Southern California","3PTR","MISS","25 Kara Dunn 3PTR MISS","Kara Dunn",25.0,"",""
+2025.0,19746.0,4,4,"Southern California","OFF","REBOUND","10 Malia Samuels OFF. REBOUND (5 Reb, 4 Off)","Malia Samuels",10.0,"",""
+2025.0,19746.0,4,1,"Southern California","3PTR","MISS","10 Malia Samuels 3PTR MISS","Malia Samuels",10.0,"",""
+2025.0,19746.0,4,0,"Southern California","DEADB","REBOUND","Southern California REBOUND","","","",""
