@@ -27,7 +27,7 @@ def fetch_game_ids(season):
     else:
         season_html = BeautifulSoup(r.text, features="html.parser")
         games = season_html.find('section', {'id': 'game-team'}).find_all('a')
-        game_ids = [x['href'].split("id=")[1].replace("&path=wbball","") for x in games]
+        game_ids = [re.sub(r'&path=.*', '', x['href'].split("id=")[1]) for x in games]
     return game_ids
 
 def parse_games(season, game_ids):
