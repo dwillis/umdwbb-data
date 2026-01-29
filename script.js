@@ -363,7 +363,10 @@ function renderPlays() {
         return;
     }
 
-    container.innerHTML = filteredPlays.map(play => {
+    // Show result count at the top
+    const resultCount = `<div class="filter-result-count"><strong>${filteredPlays.length}</strong> play${filteredPlays.length !== 1 ? 's' : ''} found</div>`;
+
+    container.innerHTML = resultCount + filteredPlays.map(play => {
         const score = play.home_team_score || play.visiting_team_score ?
             `<span class="play-score">${play.home_team_score ? parseInt(play.home_team_score) : '-'} - ${play.visiting_team_score ? parseInt(play.visiting_team_score) : '-'}</span>` : '';
 
