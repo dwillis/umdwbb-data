@@ -354,6 +354,16 @@ header h1 {
     overflow-y: auto;
 }
 
+.filter-result-count {
+    background: var(--maryland-light-gold);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    margin-bottom: 0.75rem;
+    border-left: 4px solid var(--maryland-red);
+    font-size: 0.95rem;
+    color: var(--maryland-black);
+}
+
 .play-item {
     background: var(--maryland-white);
     border-left: 3px solid var(--maryland-gold);
