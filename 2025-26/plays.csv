@@ -16980,3 +16980,372 @@
 2025.0,19749.0,6,1,"Washington","FT","GOOD","00 Sayvia Sellers FT GOOD (38 Pt)","Sayvia Sellers",0.0,80.0,83.0
 2025.0,19749.0,6,1,"Washington","FT","MISS","00 Sayvia Sellers FT MISS","Sayvia Sellers",0.0,"",""
 2025.0,19749.0,6,0,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (3 Reb, 3 Def)","Kyndal Walker",8.0,"",""
+2025.0,19750.0,1,590,"Oregon","3PTR","MISS","14 Ari Long 3PTR MISS","Ari Long",14.0,"",""
+2025.0,19750.0,1,587,"Oregon","OFF","REBOUND","35 Ehis Etute OFF. REBOUND (1 Reb, 1 Off)","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,581,"Oregon","JUMPER","MISS","01 Mia Jacobs JUMPER MISS","Mia Jacobs",1.0,"",""
+2025.0,19750.0,1,578,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (1 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,1,574,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (2 Pt)","Oluchi Okananwa",7.0,2.0,0.0
+2025.0,19750.0,1,565,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,1,565,"Oregon","FT","GOOD","35 Ehis Etute FT GOOD (1 Pt)","Ehis Etute",35.0,2.0,1.0
+2025.0,19750.0,1,565,"Oregon","FT","MISS","35 Ehis Etute FT MISS","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,564,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,1,538,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (4 Pt)","Oluchi Okananwa",7.0,4.0,1.0
+2025.0,19750.0,1,531,"Oregon","3PTR","MISS","14 Ari Long 3PTR MISS","Ari Long",14.0,"",""
+2025.0,19750.0,1,526,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025.0,19750.0,1,523,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+2025.0,19750.0,1,523,"Oregon","STEAL","STEAL","35 Ehis Etute STEAL (1 Stl)","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,508,"Oregon","TURNOVER","TURNOVER","02 Katie Fiso TURNOVER (1 TO)","Katie Fiso",2.0,"",""
+2025.0,19750.0,1,504,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (6 Pt)","Oluchi Okananwa",7.0,6.0,1.0
+2025.0,19750.0,1,504,"Oregon","FOUL","FOUL","01 Mia Jacobs FOUL (1 PF)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,1,504,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (7 Pt)","Oluchi Okananwa",7.0,7.0,1.0
+2025.0,19750.0,1,491,"Oregon","3PTR","GOOD","01 Mia Jacobs 3PTR GOOD (3 Pt); 14 Ari Long Assist (1 Asst)","Mia Jacobs",1.0,7.0,4.0
+2025.0,19750.0,1,473,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,1,471,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (2 Reb, 1 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,1,469,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (9 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Oluchi Okananwa",7.0,9.0,4.0
+2025.0,19750.0,1,457,"Oregon","LAYUP","MISS","35 Ehis Etute LAYUP MISS","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,455,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (1 Reb, 1 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,1,446,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,1,446,"Oregon","STEAL","STEAL","14 Ari Long STEAL (1 Stl)","Ari Long",14.0,"",""
+2025.0,19750.0,1,437,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,1,436,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 11 Marya Boiko IN; 06 Saylor Poffenbarger OUT; 08 Kyndal Walker IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,1,436,"Oregon","FT","GOOD","35 Ehis Etute FT GOOD (2 Pt)","Ehis Etute",35.0,9.0,5.0
+2025.0,19750.0,1,436,"Oregon","FT","GOOD","35 Ehis Etute FT GOOD (3 Pt)","Ehis Etute",35.0,9.0,6.0
+2025.0,19750.0,1,425,"Maryland","FOUL","FOUL","11 Marya Boiko FOUL (1 PF)","Marya Boiko",11.0,"",""
+2025.0,19750.0,1,425,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (1 TO)","Marya Boiko",11.0,"",""
+2025.0,19750.0,1,420,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 10 Mir McLean IN","Marya Boiko",11.0,"",""
+2025.0,19750.0,1,415,"Oregon","LAYUP","GOOD","35 Ehis Etute LAYUP GOOD (5 Pt); 01 Mia Jacobs Assist (1 Asst)","Ehis Etute",35.0,9.0,8.0
+2025.0,19750.0,1,392,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,1,388,"Oregon","DEF","REBOUND","35 Ehis Etute DEF. REBOUND (2 Reb, 1 Def)","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,376,"Oregon","FOUL","FOUL","35 Ehis Etute FOUL (1 PF)","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,376,"Oregon","TURNOVER","TURNOVER","35 Ehis Etute TURNOVER (1 TO)","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,363,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+2025.0,19750.0,1,363,"Maryland","TURNOVER","TURNOVER","10 Mir McLean TURNOVER (1 TO)","Mir McLean",10.0,"",""
+2025.0,19750.0,1,363,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 40 Breanna Williams IN","Mir McLean",10.0,"",""
+2025.0,19750.0,1,363,"Oregon","SUBS","SUBS","35 Ehis Etute OUT; 23 Sarah Rambus IN","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,351,"Oregon","3PTR","MISS","01 Mia Jacobs 3PTR MISS","Mia Jacobs",1.0,"",""
+2025.0,19750.0,1,348,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (2 Reb, 2 Def)","Addi Mack",3.0,"",""
+2025.0,19750.0,1,335,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS; 01 Mia Jacobs BLOCK (1 Blk)","Kyndal Walker",8.0,"",""
+2025.0,19750.0,1,334,"Maryland","OFF","REBOUND","40 Breanna Williams OFF. REBOUND (1 Reb, 1 Off)","Breanna Williams",40.0,"",""
+2025.0,19750.0,1,334,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,1,334,"Maryland","OFF","REBOUND","03 Addi Mack OFF. REBOUND (3 Reb, 1 Off)","Addi Mack",3.0,"",""
+2025.0,19750.0,1,326,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (2 TO)","Addi Mack",3.0,"",""
+2025.0,19750.0,1,316,"Oregon","JUMPER","MISS","02 Katie Fiso JUMPER MISS","Katie Fiso",2.0,"",""
+2025.0,19750.0,1,312,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (1 Reb, 1 Def)","Kyndal Walker",8.0,"",""
+2025.0,19750.0,1,312,"Oregon","FOUL","FOUL","14 Ari Long FOUL (1 PF)","Ari Long",14.0,"",""
+2025.0,19750.0,1,312,"Oregon","SUBS","SUBS","14 Ari Long OUT; 42 Avary Cain IN","Ari Long",14.0,"",""
+2025.0,19750.0,1,298,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS; 01 Mia Jacobs BLOCK (2 Blk)","Addi Mack",3.0,"",""
+2025.0,19750.0,1,293,"Oregon","DEF","REBOUND","02 Katie Fiso DEF. REBOUND (1 Reb, 1 Def)","Katie Fiso",2.0,"",""
+2025.0,19750.0,1,277,"Oregon","LAYUP","GOOD","01 Mia Jacobs LAYUP GOOD (5 Pt)","Mia Jacobs",1.0,9.0,10.0
+2025.0,19750.0,1,277,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF); 23 Sarah Rambus Assist (1 Asst)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,1,277,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 06 Saylor Poffenbarger IN","Yarden Garzon",12.0,"",""
+2025.0,19750.0,1,277,"Oregon","FT","MISS","01 Mia Jacobs FT MISS","Mia Jacobs",1.0,"",""
+2025.0,19750.0,1,276,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,1,257,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19750.0,1,252,"Oregon","DEF","REBOUND","02 Katie Fiso DEF. REBOUND (2 Reb, 2 Def)","Katie Fiso",2.0,"",""
+2025.0,19750.0,1,252,"Oregon","FOUL","FOUL","23 Sarah Rambus FOUL (1 PF)","Sarah Rambus",23.0,"",""
+2025.0,19750.0,1,252,"Oregon","TURNOVER","TURNOVER","23 Sarah Rambus TURNOVER (1 TO)","Sarah Rambus",23.0,"",""
+2025.0,19750.0,1,252,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 12 Yarden Garzon IN","Kyndal Walker",8.0,"",""
+2025.0,19750.0,1,230,"Oregon","FOUL","FOUL","23 Sarah Rambus FOUL (2 PF)","Sarah Rambus",23.0,"",""
+2025.0,19750.0,1,230,"Oregon","SUBS","SUBS","23 Sarah Rambus OUT; 35 Ehis Etute IN","Sarah Rambus",23.0,"",""
+2025.0,19750.0,1,230,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (1 Pt)","Addi Mack",3.0,10.0,10.0
+2025.0,19750.0,1,230,"Maryland","FT","MISS","03 Addi Mack FT MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,1,228,"Oregon","DEF","REBOUND","42 Avary Cain DEF. REBOUND (1 Reb, 1 Def)","Avary Cain",42.0,"",""
+2025.0,19750.0,1,203,"Oregon","JUMPER","MISS","03 Sofia Bell JUMPER MISS","Sofia Bell",3.0,"",""
+2025.0,19750.0,1,199,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (4 Reb, 3 Def)","Addi Mack",3.0,"",""
+2025.0,19750.0,1,196,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS; 02 Katie Fiso BLOCK (1 Blk)","Addi Mack",3.0,"",""
+2025.0,19750.0,1,196,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19750.0,1,175,"Maryland","JUMPER","MISS","40 Breanna Williams JUMPER MISS","Breanna Williams",40.0,"",""
+2025.0,19750.0,1,172,"Oregon","DEF","REBOUND","35 Ehis Etute DEF. REBOUND (3 Reb, 2 Def)","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,164,"Oregon","TURNOVER","TURNOVER","01 Mia Jacobs TURNOVER (1 TO)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,1,149,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,1,144,"Oregon","DEF","REBOUND","02 Katie Fiso DEF. REBOUND (3 Reb, 3 Def)","Katie Fiso",2.0,"",""
+2025.0,19750.0,1,128,"Oregon","3PTR","MISS","01 Mia Jacobs 3PTR MISS","Mia Jacobs",1.0,"",""
+2025.0,19750.0,1,125,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (2 Reb, 2 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,1,120,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,1,120,"Oregon","DEF","REBOUND","42 Avary Cain DEF. REBOUND (2 Reb, 2 Def)","Avary Cain",42.0,"",""
+2025.0,19750.0,1,110,"Oregon","3PTR","MISS","01 Mia Jacobs 3PTR MISS; 42 Avary Cain BLOCK (1 Blk)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,1,108,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (5 Reb, 4 Def)","Addi Mack",3.0,"",""
+2025.0,19750.0,1,87,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,1,84,"Oregon","DEF","REBOUND","42 Avary Cain DEF. REBOUND (3 Reb, 3 Def)","Avary Cain",42.0,"",""
+2025.0,19750.0,1,80,"Oregon","LAYUP","GOOD","35 Ehis Etute LAYUP GOOD (7 Pt); 02 Katie Fiso Assist (1 Asst)","Ehis Etute",35.0,10.0,12.0
+2025.0,19750.0,1,58,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,1,55,"Oregon","DEF","REBOUND","02 Katie Fiso DEF. REBOUND (4 Reb, 4 Def)","Katie Fiso",2.0,"",""
+2025.0,19750.0,1,53,"Oregon","JUMPER","MISS","02 Katie Fiso JUMPER MISS","Katie Fiso",2.0,"",""
+2025.0,19750.0,1,50,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,1,46,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (3 Pt)","Addi Mack",3.0,12.0,12.0
+2025.0,19750.0,1,46,"Oregon","FOUL","FOUL","02 Katie Fiso FOUL (1 PF)","Katie Fiso",2.0,"",""
+2025.0,19750.0,1,46,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 40 Breanna Williams OUT; 08 Kyndal Walker IN; 09 Isimenme Ozzy-Momodu IN","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,1,46,"Oregon","SUBS","SUBS","01 Mia Jacobs OUT; 05 Amina Muhammad IN","Mia Jacobs",1.0,"",""
+2025.0,19750.0,1,46,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (4 Pt)","Addi Mack",3.0,13.0,12.0
+2025.0,19750.0,1,34,"Oregon","LAYUP","MISS","35 Ehis Etute LAYUP MISS","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,32,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 4 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,1,28,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,1,25,"Oregon","DEF","REBOUND","05 Amina Muhammad DEF. REBOUND (1 Reb, 1 Def)","Amina Muhammad",5.0,"",""
+2025.0,19750.0,1,7,"Oregon","JUMPER","MISS","35 Ehis Etute JUMPER MISS","Ehis Etute",35.0,"",""
+2025.0,19750.0,1,3,"Oregon","OFF","REBOUND","05 Amina Muhammad OFF. REBOUND (2 Reb, 1 Off)","Amina Muhammad",5.0,"",""
+2025.0,19750.0,1,2,"Oregon","LAYUP","GOOD","05 Amina Muhammad LAYUP GOOD (2 Pt)","Amina Muhammad",5.0,13.0,14.0
+2025.0,19750.0,2,600,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 07 Oluchi Okananwa IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,2,580,"Oregon","3PTR","GOOD","42 Avary Cain 3PTR GOOD (3 Pt); 02 Katie Fiso Assist (2 Asst)","Avary Cain",42.0,13.0,17.0
+2025.0,19750.0,2,565,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,2,563,"Oregon","DEF","REBOUND","02 Katie Fiso DEF. REBOUND (5 Reb, 5 Def)","Katie Fiso",2.0,"",""
+2025.0,19750.0,2,546,"Oregon","LAYUP","GOOD","35 Ehis Etute LAYUP GOOD (9 Pt); 05 Amina Muhammad Assist (1 Asst)","Ehis Etute",35.0,13.0,19.0
+2025.0,19750.0,2,526,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19750.0,2,523,"Oregon","DEF","REBOUND","Oregon REBOUND","","","",""
+2025.0,19750.0,2,523,"Oregon","SUBS","SUBS","03 Sofia Bell OUT; 14 Ari Long IN","Sofia Bell",3.0,"",""
+2025.0,19750.0,2,494,"Oregon","JUMPER","GOOD","02 Katie Fiso JUMPER GOOD (2 Pt)","Katie Fiso",2.0,13.0,21.0
+2025.0,19750.0,2,473,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (2 Pt)","Kyndal Walker",8.0,15.0,21.0
+2025.0,19750.0,2,449,"Oregon","3PTR","MISS","02 Katie Fiso 3PTR MISS","Katie Fiso",2.0,"",""
+2025.0,19750.0,2,446,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (2 Reb, 2 Def)","Kyndal Walker",8.0,"",""
+2025.0,19750.0,2,435,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (2 Pt); 08 Kyndal Walker Assist (1 Asst)","Isimenme Ozzy-Momodu",9.0,17.0,21.0
+2025.0,19750.0,2,422,"Oregon","JUMPER","MISS","05 Amina Muhammad JUMPER MISS","Amina Muhammad",5.0,"",""
+2025.0,19750.0,2,419,"Oregon","OFF","REBOUND","35 Ehis Etute OFF. REBOUND (4 Reb, 2 Off)","Ehis Etute",35.0,"",""
+2025.0,19750.0,2,419,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,2,419,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 06 Saylor Poffenbarger IN","Addi Mack",3.0,"",""
+2025.0,19750.0,2,419,"Oregon","SUBS","SUBS","02 Katie Fiso OUT; 00 Astera Tuhina IN","Katie Fiso",2.0,"",""
+2025.0,19750.0,2,419,"Oregon","FT","GOOD","35 Ehis Etute FT GOOD (10 Pt)","Ehis Etute",35.0,17.0,22.0
+2025.0,19750.0,2,419,"Oregon","FT","MISS","35 Ehis Etute FT MISS","Ehis Etute",35.0,"",""
+2025.0,19750.0,2,418,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (3 Reb, 3 Def)","Kyndal Walker",8.0,"",""
+2025.0,19750.0,2,390,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,2,390,"Oregon","STEAL","STEAL","42 Avary Cain STEAL (1 Stl)","Avary Cain",42.0,"",""
+2025.0,19750.0,2,377,"Oregon","JUMPER","MISS","05 Amina Muhammad JUMPER MISS","Amina Muhammad",5.0,"",""
+2025.0,19750.0,2,374,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (6 Reb, 5 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,2,364,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,2,360,"Oregon","DEF","REBOUND","35 Ehis Etute DEF. REBOUND (5 Reb, 3 Def)","Ehis Etute",35.0,"",""
+2025.0,19750.0,2,347,"Oregon","TURNOVER","TURNOVER","42 Avary Cain TURNOVER (1 TO)","Avary Cain",42.0,"",""
+2025.0,19750.0,2,347,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 12 Yarden Garzon OUT; 10 Mir McLean IN; 11 Marya Boiko IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,2,347,"Oregon","SUBS","SUBS","35 Ehis Etute OUT; 42 Avary Cain OUT; 01 Mia Jacobs IN; 03 Sofia Bell IN","Ehis Etute",35.0,"",""
+2025.0,19750.0,2,325,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (11 Pt)","Oluchi Okananwa",7.0,19.0,22.0
+2025.0,19750.0,2,309,"Oregon","3PTR","GOOD","00 Astera Tuhina 3PTR GOOD (3 Pt)","Astera Tuhina",0.0,19.0,25.0
+2025.0,19750.0,2,292,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (13 Pt)","Oluchi Okananwa",7.0,21.0,25.0
+2025.0,19750.0,2,292,"Oregon","FOUL","FOUL","14 Ari Long FOUL (2 PF)","Ari Long",14.0,"",""
+2025.0,19750.0,2,292,"Oregon","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19750.0,2,292,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (14 Pt)","Oluchi Okananwa",7.0,22.0,25.0
+2025.0,19750.0,2,270,"Oregon","3PTR","GOOD","03 Sofia Bell 3PTR GOOD (3 Pt); 14 Ari Long Assist (2 Asst)","Sofia Bell",3.0,22.0,28.0
+2025.0,19750.0,2,247,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,2,247,"Oregon","STEAL","STEAL","05 Amina Muhammad STEAL (1 Stl)","Amina Muhammad",5.0,"",""
+2025.0,19750.0,2,236,"Oregon","3PTR","MISS","03 Sofia Bell 3PTR MISS","Sofia Bell",3.0,"",""
+2025.0,19750.0,2,235,"Oregon","OFF","REBOUND","01 Mia Jacobs OFF. REBOUND (1 Reb, 1 Off)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,2,235,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (2 PF)","Mir McLean",10.0,"",""
+2025.0,19750.0,2,235,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 11 Marya Boiko OUT; 03 Addi Mack IN; 12 Yarden Garzon IN; 08 Kyndal Walker OUT; 09 Isimenme Ozzy-Momodu IN","Mir McLean",10.0,"",""
+2025.0,19750.0,2,235,"Oregon","SUBS","SUBS","14 Ari Long OUT; 02 Katie Fiso IN","Ari Long",14.0,"",""
+2025.0,19750.0,2,221,"Oregon","JUMPER","GOOD","03 Sofia Bell JUMPER GOOD (5 Pt); 02 Katie Fiso Assist (3 Asst)","Sofia Bell",3.0,22.0,30.0
+2025.0,19750.0,2,199,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (3 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Yarden Garzon",12.0,25.0,30.0
+2025.0,19750.0,2,177,"Oregon","TURNOVER","TURNOVER","01 Mia Jacobs TURNOVER (2 TO)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,2,177,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,2,162,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (1 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,2,162,"Oregon","SUBS","SUBS","05 Amina Muhammad OUT; 35 Ehis Etute IN","Amina Muhammad",5.0,"",""
+2025.0,19750.0,2,145,"Oregon","JUMPER","MISS","02 Katie Fiso JUMPER MISS","Katie Fiso",2.0,"",""
+2025.0,19750.0,2,142,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (3 Reb, 3 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,2,137,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (16 Pt)","Oluchi Okananwa",7.0,27.0,30.0
+2025.0,19750.0,2,137,"Oregon","FOUL","FOUL","03 Sofia Bell FOUL (1 PF)","Sofia Bell",3.0,"",""
+2025.0,19750.0,2,137,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (17 Pt)","Oluchi Okananwa",7.0,28.0,30.0
+2025.0,19750.0,2,116,"Oregon","3PTR","MISS","03 Sofia Bell 3PTR MISS","Sofia Bell",3.0,"",""
+2025.0,19750.0,2,114,"Oregon","OFF","REBOUND","35 Ehis Etute OFF. REBOUND (6 Reb, 3 Off)","Ehis Etute",35.0,"",""
+2025.0,19750.0,2,114,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (2 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,2,114,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 40 Breanna Williams IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,2,110,"Oregon","LAYUP","MISS","01 Mia Jacobs LAYUP MISS","Mia Jacobs",1.0,"",""
+2025.0,19750.0,2,108,"Oregon","OFF","REBOUND","01 Mia Jacobs OFF. REBOUND (2 Reb, 2 Off)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,2,100,"Oregon","3PTR","MISS","01 Mia Jacobs 3PTR MISS","Mia Jacobs",1.0,"",""
+2025.0,19750.0,2,97,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (4 Reb, 4 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,2,88,"Maryland","LAYUP","GOOD","40 Breanna Williams LAYUP GOOD (2 Pt); 06 Saylor Poffenbarger Assist (2 Asst)","Breanna Williams",40.0,30.0,30.0
+2025.0,19750.0,2,64,"Oregon","TURNOVER","TURNOVER","00 Astera Tuhina TURNOVER (1 TO)","Astera Tuhina",0.0,"",""
+2025.0,19750.0,2,64,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,2,61,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (19 Pt)","Oluchi Okananwa",7.0,32.0,30.0
+2025.0,19750.0,2,48,"Oregon","LAYUP","MISS","01 Mia Jacobs LAYUP MISS","Mia Jacobs",1.0,"",""
+2025.0,19750.0,2,45,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,2,42,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (21 Pt); 12 Yarden Garzon Assist (1 Asst)","Oluchi Okananwa",7.0,34.0,30.0
+2025.0,19750.0,2,12,"Oregon","3PTR","MISS","01 Mia Jacobs 3PTR MISS","Mia Jacobs",1.0,"",""
+2025.0,19750.0,2,10,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (7 Reb, 6 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,2,10,"Oregon","FOUL","FOUL","00 Astera Tuhina FOUL (1 PF)","Astera Tuhina",0.0,"",""
+2025.0,19750.0,2,10,"Oregon","SUBS","SUBS","00 Astera Tuhina OUT; 42 Avary Cain IN; 01 Mia Jacobs OUT; 05 Amina Muhammad IN","Astera Tuhina",0.0,"",""
+2025.0,19750.0,2,2,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (23 Pt)","Oluchi Okananwa",7.0,36.0,30.0
+2025.0,19750.0,3,600,"Maryland","SUBS","SUBS","40 Breanna Williams OUT; 09 Isimenme Ozzy-Momodu IN","Breanna Williams",40.0,"",""
+2025.0,19750.0,3,600,"Oregon","SUBS","SUBS","05 Amina Muhammad OUT; 42 Avary Cain OUT; 01 Mia Jacobs IN; 14 Ari Long IN","Amina Muhammad",5.0,"",""
+2025.0,19750.0,3,590,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (4 Pt); 12 Yarden Garzon Assist (2 Asst)","Isimenme Ozzy-Momodu",9.0,38.0,30.0
+2025.0,19750.0,3,575,"Oregon","JUMPER","GOOD","14 Ari Long JUMPER GOOD (2 Pt)","Ari Long",14.0,38.0,32.0
+2025.0,19750.0,3,554,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (2 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,3,535,"Oregon","LAYUP","GOOD","35 Ehis Etute LAYUP GOOD (12 Pt); 03 Sofia Bell Assist (1 Asst)","Ehis Etute",35.0,38.0,34.0
+2025.0,19750.0,3,507,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,3,506,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (2 Reb, 1 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,3,503,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (2 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,3,503,"Oregon","STEAL","STEAL","35 Ehis Etute STEAL (2 Stl)","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,503,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 08 Kyndal Walker IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,3,484,"Oregon","LAYUP","GOOD","35 Ehis Etute LAYUP GOOD (14 Pt); 01 Mia Jacobs Assist (2 Asst)","Ehis Etute",35.0,38.0,36.0
+2025.0,19750.0,3,460,"Maryland","3PTR","MISS","08 Kyndal Walker 3PTR MISS","Kyndal Walker",8.0,"",""
+2025.0,19750.0,3,457,"Oregon","DEF","REBOUND","35 Ehis Etute DEF. REBOUND (7 Reb, 4 Def)","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,449,"Oregon","LAYUP","MISS","35 Ehis Etute LAYUP MISS","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,448,"Oregon","OFF","REBOUND","35 Ehis Etute OFF. REBOUND (8 Reb, 4 Off)","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,448,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (3 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,3,448,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 40 Breanna Williams IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,3,448,"Oregon","FT","GOOD","35 Ehis Etute FT GOOD (15 Pt)","Ehis Etute",35.0,38.0,37.0
+2025.0,19750.0,3,448,"Oregon","FT","GOOD","35 Ehis Etute FT GOOD (16 Pt)","Ehis Etute",35.0,38.0,38.0
+2025.0,19750.0,3,432,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,3,428,"Oregon","DEF","REBOUND","01 Mia Jacobs DEF. REBOUND (3 Reb, 1 Def)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,3,414,"Oregon","FOUL","FOUL","01 Mia Jacobs FOUL (2 PF)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,3,414,"Oregon","TURNOVER","TURNOVER","01 Mia Jacobs TURNOVER (3 TO)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,3,400,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,3,398,"Oregon","DEF","REBOUND","35 Ehis Etute DEF. REBOUND (9 Reb, 5 Def)","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,393,"Oregon","LAYUP","MISS","14 Ari Long LAYUP MISS","Ari Long",14.0,"",""
+2025.0,19750.0,3,391,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,3,387,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS; 35 Ehis Etute BLOCK (1 Blk)","Addi Mack",3.0,"",""
+2025.0,19750.0,3,386,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19750.0,3,374,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19750.0,3,371,"Oregon","DEF","REBOUND","02 Katie Fiso DEF. REBOUND (6 Reb, 6 Def)","Katie Fiso",2.0,"",""
+2025.0,19750.0,3,365,"Oregon","FOUL","FOUL","14 Ari Long FOUL (3 PF)","Ari Long",14.0,"",""
+2025.0,19750.0,3,365,"Oregon","TURNOVER","TURNOVER","14 Ari Long TURNOVER (1 TO)","Ari Long",14.0,"",""
+2025.0,19750.0,3,365,"Oregon","SUBS","SUBS","14 Ari Long OUT; 42 Avary Cain IN","Ari Long",14.0,"",""
+2025.0,19750.0,3,365,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 06 Saylor Poffenbarger IN","Kyndal Walker",8.0,"",""
+2025.0,19750.0,3,346,"Maryland","3PTR","MISS","40 Breanna Williams 3PTR MISS","Breanna Williams",40.0,"",""
+2025.0,19750.0,3,342,"Oregon","DEF","REBOUND","35 Ehis Etute DEF. REBOUND (10 Reb, 6 Def)","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,338,"Oregon","JUMPER","GOOD","35 Ehis Etute JUMPER GOOD (18 Pt)","Ehis Etute",35.0,38.0,40.0
+2025.0,19750.0,3,320,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (7 Pt); 07 Oluchi Okananwa Assist (2 Asst)","Addi Mack",3.0,41.0,40.0
+2025.0,19750.0,3,302,"Oregon","FOUL","FOUL","02 Katie Fiso FOUL (2 PF)","Katie Fiso",2.0,"",""
+2025.0,19750.0,3,302,"Oregon","TURNOVER","TURNOVER","02 Katie Fiso TURNOVER (2 TO)","Katie Fiso",2.0,"",""
+2025.0,19750.0,3,285,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS; 03 Sofia Bell BLOCK (1 Blk)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,3,285,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19750.0,3,285,"Oregon","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19750.0,3,280,"Oregon","FOUL","FOUL","42 Avary Cain FOUL (1 PF)","Avary Cain",42.0,"",""
+2025.0,19750.0,3,280,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (24 Pt)","Oluchi Okananwa",7.0,42.0,40.0
+2025.0,19750.0,3,280,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,3,279,"Maryland","OFF","REBOUND","40 Breanna Williams OFF. REBOUND (2 Reb, 2 Off)","Breanna Williams",40.0,"",""
+2025.0,19750.0,3,270,"Maryland","LAYUP","GOOD","40 Breanna Williams LAYUP GOOD (4 Pt)","Breanna Williams",40.0,44.0,40.0
+2025.0,19750.0,3,248,"Oregon","TURNOVER","TURNOVER","01 Mia Jacobs TURNOVER (4 TO)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,3,248,"Oregon","SUBS","SUBS","01 Mia Jacobs OUT; 23 Sarah Rambus IN","Mia Jacobs",1.0,"",""
+2025.0,19750.0,3,232,"Maryland","3PTR","MISS","40 Breanna Williams 3PTR MISS","Breanna Williams",40.0,"",""
+2025.0,19750.0,3,229,"Oregon","DEF","REBOUND","35 Ehis Etute DEF. REBOUND (11 Reb, 7 Def)","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,220,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,3,211,"Oregon","LAYUP","GOOD","02 Katie Fiso LAYUP GOOD (4 Pt)","Katie Fiso",2.0,44.0,42.0
+2025.0,19750.0,3,191,"Maryland","TURNOVER","TURNOVER","40 Breanna Williams TURNOVER (1 TO)","Breanna Williams",40.0,"",""
+2025.0,19750.0,3,191,"Oregon","STEAL","STEAL","35 Ehis Etute STEAL (3 Stl)","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,183,"Oregon","TURNOVER","TURNOVER","35 Ehis Etute TURNOVER (2 TO)","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,183,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (1 Stl)","Addi Mack",3.0,"",""
+2025.0,19750.0,3,164,"Maryland","LAYUP","MISS","40 Breanna Williams LAYUP MISS; 23 Sarah Rambus BLOCK (1 Blk)","Breanna Williams",40.0,"",""
+2025.0,19750.0,3,161,"Oregon","DEF","REBOUND","23 Sarah Rambus DEF. REBOUND (1 Reb, 1 Def)","Sarah Rambus",23.0,"",""
+2025.0,19750.0,3,158,"Oregon","3PTR","MISS","42 Avary Cain 3PTR MISS","Avary Cain",42.0,"",""
+2025.0,19750.0,3,153,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (8 Reb, 7 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,3,144,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,3,142,"Maryland","OFF","REBOUND","03 Addi Mack OFF. REBOUND (6 Reb, 2 Off)","Addi Mack",3.0,"",""
+2025.0,19750.0,3,142,"Oregon","FOUL","FOUL","23 Sarah Rambus FOUL (3 PF)","Sarah Rambus",23.0,"",""
+2025.0,19750.0,3,142,"Maryland","SUBS","SUBS","40 Breanna Williams OUT; 09 Isimenme Ozzy-Momodu IN; 07 Oluchi Okananwa OUT; 08 Kyndal Walker IN","Breanna Williams",40.0,"",""
+2025.0,19750.0,3,142,"Oregon","SUBS","SUBS","35 Ehis Etute OUT; 05 Amina Muhammad IN","Ehis Etute",35.0,"",""
+2025.0,19750.0,3,142,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (8 Pt)","Addi Mack",3.0,45.0,42.0
+2025.0,19750.0,3,142,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (9 Pt)","Addi Mack",3.0,46.0,42.0
+2025.0,19750.0,3,124,"Oregon","3PTR","MISS","23 Sarah Rambus 3PTR MISS","Sarah Rambus",23.0,"",""
+2025.0,19750.0,3,120,"Oregon","OFF","REBOUND","02 Katie Fiso OFF. REBOUND (7 Reb, 1 Off)","Katie Fiso",2.0,"",""
+2025.0,19750.0,3,120,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack",3.0,"",""
+2025.0,19750.0,3,97,"Oregon","JUMPER","GOOD","02 Katie Fiso JUMPER GOOD (6 Pt)","Katie Fiso",2.0,46.0,44.0
+2025.0,19750.0,3,92,"Oregon","FOUL","FOUL","42 Avary Cain FOUL (2 PF)","Avary Cain",42.0,"",""
+2025.0,19750.0,3,92,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (3 Pt)","Kyndal Walker",8.0,47.0,44.0
+2025.0,19750.0,3,92,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (4 Pt)","Kyndal Walker",8.0,48.0,44.0
+2025.0,19750.0,3,92,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 07 Oluchi Okananwa IN","Addi Mack",3.0,"",""
+2025.0,19750.0,3,68,"Oregon","TURNOVER","TURNOVER","23 Sarah Rambus TURNOVER (2 TO)","Sarah Rambus",23.0,"",""
+2025.0,19750.0,3,68,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (2 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,3,54,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19750.0,3,52,"Oregon","DEF","REBOUND","23 Sarah Rambus DEF. REBOUND (2 Reb, 2 Def)","Sarah Rambus",23.0,"",""
+2025.0,19750.0,3,52,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (4 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,3,52,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 11 Marya Boiko IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,3,31,"Oregon","TURNOVER","TURNOVER","02 Katie Fiso TURNOVER (3 TO)","Katie Fiso",2.0,"",""
+2025.0,19750.0,3,31,"Maryland","STEAL","STEAL","11 Marya Boiko STEAL (1 Stl)","Marya Boiko",11.0,"",""
+2025.0,19750.0,3,2,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (26 Pt); 08 Kyndal Walker Assist (2 Asst)","Oluchi Okananwa",7.0,50.0,44.0
+2025.0,19750.0,4,600,"Oregon","SUBS","SUBS","23 Sarah Rambus OUT; 35 Ehis Etute IN","Sarah Rambus",23.0,"",""
+2025.0,19750.0,4,592,"Oregon","TURNOVER","TURNOVER","02 Katie Fiso TURNOVER (4 TO)","Katie Fiso",2.0,"",""
+2025.0,19750.0,4,592,"Oregon","SUBS","SUBS","42 Avary Cain OUT; 14 Ari Long IN","Avary Cain",42.0,"",""
+2025.0,19750.0,4,586,"Oregon","FOUL","FOUL","14 Ari Long FOUL (4 PF)","Ari Long",14.0,"",""
+2025.0,19750.0,4,586,"Maryland","SUBS","SUBS","11 Marya Boiko OUT; 40 Breanna Williams IN","Marya Boiko",11.0,"",""
+2025.0,19750.0,4,582,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19750.0,4,580,"Oregon","DEF","REBOUND","03 Sofia Bell DEF. REBOUND (1 Reb, 1 Def)","Sofia Bell",3.0,"",""
+2025.0,19750.0,4,564,"Oregon","3PTR","MISS","14 Ari Long 3PTR MISS","Ari Long",14.0,"",""
+2025.0,19750.0,4,563,"Oregon","OFF","REBOUND","05 Amina Muhammad OFF. REBOUND (3 Reb, 2 Off)","Amina Muhammad",5.0,"",""
+2025.0,19750.0,4,563,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (2 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,4,547,"Oregon","LAYUP","GOOD","35 Ehis Etute LAYUP GOOD (20 Pt); 05 Amina Muhammad Assist (2 Asst)","Ehis Etute",35.0,50.0,46.0
+2025.0,19750.0,4,523,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (2 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,4,523,"Oregon","STEAL","STEAL","05 Amina Muhammad STEAL (2 Stl)","Amina Muhammad",5.0,"",""
+2025.0,19750.0,4,518,"Oregon","TURNOVER","TURNOVER","35 Ehis Etute TURNOVER (3 TO)","Ehis Etute",35.0,"",""
+2025.0,19750.0,4,518,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,4,511,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 03 Addi Mack IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,4,495,"Oregon","SUBS","SUBS","02 Katie Fiso OUT; 00 Astera Tuhina IN","Katie Fiso",2.0,"",""
+2025.0,19750.0,4,486,"Maryland","3PTR","MISS","40 Breanna Williams 3PTR MISS","Breanna Williams",40.0,"",""
+2025.0,19750.0,4,483,"Oregon","DEF","REBOUND","00 Astera Tuhina DEF. REBOUND (1 Reb, 1 Def)","Astera Tuhina",0.0,"",""
+2025.0,19750.0,4,477,"Oregon","LAYUP","GOOD","35 Ehis Etute LAYUP GOOD (22 Pt); 03 Sofia Bell Assist (2 Asst)","Ehis Etute",35.0,50.0,48.0
+2025.0,19750.0,4,475,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19750.0,4,475,"Oregon","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19750.0,4,451,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,4,448,"Maryland","OFF","REBOUND","40 Breanna Williams OFF. REBOUND (3 Reb, 3 Off)","Breanna Williams",40.0,"",""
+2025.0,19750.0,4,443,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (11 Pt)","Addi Mack",3.0,52.0,48.0
+2025.0,19750.0,4,426,"Oregon","LAYUP","GOOD","35 Ehis Etute LAYUP GOOD (24 Pt)","Ehis Etute",35.0,52.0,50.0
+2025.0,19750.0,4,418,"Maryland","LAYUP","MISS","08 Kyndal Walker LAYUP MISS","Kyndal Walker",8.0,"",""
+2025.0,19750.0,4,415,"Oregon","DEF","REBOUND","00 Astera Tuhina DEF. REBOUND (2 Reb, 2 Def)","Astera Tuhina",0.0,"",""
+2025.0,19750.0,4,408,"Oregon","JUMPER","MISS","00 Astera Tuhina JUMPER MISS","Astera Tuhina",0.0,"",""
+2025.0,19750.0,4,404,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (5 Reb, 5 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,4,391,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (13 Pt)","Addi Mack",3.0,54.0,50.0
+2025.0,19750.0,4,367,"Oregon","LAYUP","GOOD","35 Ehis Etute LAYUP GOOD (26 Pt); 14 Ari Long Assist (3 Asst)","Ehis Etute",35.0,54.0,52.0
+2025.0,19750.0,4,366,"Oregon","30SEC","TIMEOUT","Oregon TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19750.0,4,366,"Oregon","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19750.0,4,366,"Maryland","SUBS","SUBS","40 Breanna Williams OUT; 09 Isimenme Ozzy-Momodu IN","Breanna Williams",40.0,"",""
+2025.0,19750.0,4,366,"Oregon","SUBS","SUBS","00 Astera Tuhina OUT; 05 Amina Muhammad OUT; 14 Ari Long OUT; 01 Mia Jacobs IN; 02 Katie Fiso IN; 42 Avary Cain IN","Astera Tuhina",0.0,"",""
+2025.0,19750.0,4,357,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,4,355,"Oregon","DEF","REBOUND","02 Katie Fiso DEF. REBOUND (8 Reb, 7 Def)","Katie Fiso",2.0,"",""
+2025.0,19750.0,4,340,"Oregon","3PTR","GOOD","03 Sofia Bell 3PTR GOOD (8 Pt); 35 Ehis Etute Assist (1 Asst)","Sofia Bell",3.0,54.0,55.0
+2025.0,19750.0,4,321,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (3 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,4,321,"Oregon","STEAL","STEAL","03 Sofia Bell STEAL (1 Stl)","Sofia Bell",3.0,"",""
+2025.0,19750.0,4,298,"Oregon","3PTR","MISS","02 Katie Fiso 3PTR MISS","Katie Fiso",2.0,"",""
+2025.0,19750.0,4,295,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (3 Reb, 3 Def)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,4,281,"Oregon","FOUL","FOUL","01 Mia Jacobs FOUL (3 PF)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,4,276,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,4,273,"Oregon","DEF","REBOUND","42 Avary Cain DEF. REBOUND (4 Reb, 4 Def)","Avary Cain",42.0,"",""
+2025.0,19750.0,4,255,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (3 PF)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,4,255,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 06 Saylor Poffenbarger IN","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,4,251,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (2 PF)","Addi Mack",3.0,"",""
+2025.0,19750.0,4,244,"Oregon","LAYUP","MISS","35 Ehis Etute LAYUP MISS","Ehis Etute",35.0,"",""
+2025.0,19750.0,4,241,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (3 Reb, 2 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,4,230,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,4,226,"Oregon","DEF","REBOUND","01 Mia Jacobs DEF. REBOUND (4 Reb, 2 Def)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,4,202,"Oregon","3PTR","GOOD","03 Sofia Bell 3PTR GOOD (11 Pt); 42 Avary Cain Assist (1 Asst)","Sofia Bell",3.0,54.0,58.0
+2025.0,19750.0,4,189,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,4,186,"Oregon","DEF","REBOUND","02 Katie Fiso DEF. REBOUND (9 Reb, 8 Def)","Katie Fiso",2.0,"",""
+2025.0,19750.0,4,170,"Oregon","TURNOVER","TURNOVER","02 Katie Fiso TURNOVER (5 TO)","Katie Fiso",2.0,"",""
+2025.0,19750.0,4,170,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (2 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,4,166,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (4 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,4,166,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 07 Oluchi Okananwa IN","Kyndal Walker",8.0,"",""
+2025.0,19750.0,4,159,"Oregon","3PTR","GOOD","03 Sofia Bell 3PTR GOOD (14 Pt); 35 Ehis Etute Assist (2 Asst)","Sofia Bell",3.0,54.0,61.0
+2025.0,19750.0,4,135,"Oregon","FOUL","FOUL","01 Mia Jacobs FOUL (4 PF)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,4,135,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 08 Kyndal Walker IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19750.0,4,135,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,4,135,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19750.0,4,135,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (27 Pt)","Oluchi Okananwa",7.0,55.0,61.0
+2025.0,19750.0,4,131,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19750.0,4,129,"Oregon","TURNOVER","TURNOVER","02 Katie Fiso TURNOVER (6 TO)","Katie Fiso",2.0,"",""
+2025.0,19750.0,4,129,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (2 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,4,123,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (2 Pt)","Saylor Poffenbarger",6.0,57.0,61.0
+2025.0,19750.0,4,120,"Oregon","30SEC","TIMEOUT","Oregon TIMEOUT 30 Sec. (2nd TO, 2nd 30)","","","",""
+2025.0,19750.0,4,120,"Oregon","SUBS","SUBS","42 Avary Cain OUT; 14 Ari Long IN","Avary Cain",42.0,"",""
+2025.0,19750.0,4,90,"Oregon","JUMPER","GOOD","14 Ari Long JUMPER GOOD (4 Pt); 35 Ehis Etute Assist (3 Asst)","Ari Long",14.0,57.0,63.0
+2025.0,19750.0,4,77,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,4,74,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (4 Reb, 1 Off)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,4,69,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (15 Pt)","Addi Mack",3.0,59.0,63.0
+2025.0,19750.0,4,30,"Oregon","TURNOVER","TURNOVER","35 Ehis Etute TURNOVER (4 TO)","Ehis Etute",35.0,"",""
+2025.0,19750.0,4,30,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (3 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,4,27,"Oregon","FOUL","FOUL","02 Katie Fiso FOUL (3 PF)","Katie Fiso",2.0,"",""
+2025.0,19750.0,4,27,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (16 Pt)","Addi Mack",3.0,60.0,63.0
+2025.0,19750.0,4,27,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (17 Pt)","Addi Mack",3.0,61.0,63.0
+2025.0,19750.0,4,27,"Oregon","30SEC","TIMEOUT","Oregon TIMEOUT 30 Sec. (3rd TO, 3rd 30)","","","",""
+2025.0,19750.0,4,23,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (3 PF)","Addi Mack",3.0,"",""
+2025.0,19750.0,4,23,"Oregon","FT","GOOD","02 Katie Fiso FT GOOD (7 Pt)","Katie Fiso",2.0,61.0,64.0
+2025.0,19750.0,4,23,"Oregon","FT","GOOD","02 Katie Fiso FT GOOD (8 Pt)","Katie Fiso",2.0,61.0,65.0
+2025.0,19750.0,4,23,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (2nd TO, 2nd 30)","","","",""
+2025.0,19750.0,4,18,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19750.0,4,16,"Oregon","TEAM","TIMEOUT","Oregon TIMEOUT Full (4th TO, 1st Full)","","","",""
+2025.0,19750.0,4,15,"Oregon","DEF","REBOUND","01 Mia Jacobs DEF. REBOUND (5 Reb, 3 Def)","Mia Jacobs",1.0,"",""
+2025.0,19750.0,4,14,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (4 PF)","Yarden Garzon",12.0,"",""
+2025.0,19750.0,4,14,"Oregon","FT","MISS","01 Mia Jacobs FT MISS","Mia Jacobs",1.0,"",""
+2025.0,19750.0,4,14,"Oregon","DEADB","REBOUND","Oregon REBOUND","","","",""
+2025.0,19750.0,4,14,"Oregon","FT","GOOD","01 Mia Jacobs FT GOOD (6 Pt)","Mia Jacobs",1.0,61.0,66.0
+2025.0,19750.0,4,14,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (3rd TO, 3rd 30)","","","",""
+2025.0,19750.0,4,9,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19750.0,4,9,"Oregon","DEF","REBOUND","Oregon REBOUND","","","",""
+2025.0,19750.0,4,7,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (3 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,4,7,"Oregon","FT","GOOD","03 Sofia Bell FT GOOD (15 Pt)","Sofia Bell",3.0,61.0,67.0
+2025.0,19750.0,4,7,"Oregon","FT","GOOD","03 Sofia Bell FT GOOD (16 Pt)","Sofia Bell",3.0,61.0,68.0
+2025.0,19750.0,4,7,"Maryland","TEAM","TIMEOUT","Maryland TIMEOUT Full (4th TO, 1st Full)","","","",""
+2025.0,19750.0,4,0,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19750.0,4,0,"Oregon","DEADB","REBOUND","Oregon REBOUND","","","",""
