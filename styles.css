@@ -815,3 +815,151 @@ footer {
 .assist-combo-detail strong {
     color: var(--maryland-black);
 }
+
+/* Game Timeline Selector */
+.game-timeline-selector {
+    background: linear-gradient(135deg, var(--maryland-white) 0%, var(--maryland-light-gold) 100%);
+    padding: 1.25rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    border: 2px solid var(--maryland-gold);
+    box-shadow: var(--shadow);
+}
+
+.game-timeline-selector h3 {
+    color: var(--maryland-red);
+    margin-bottom: 0.25rem;
+    font-size: 1.2rem;
+}
+
+.timeline-description {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.timeline-controls {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.timeline-slider-container {
+    flex: 2;
+    min-width: 250px;
+}
+
+.timeline-slider-container input[type="range"] {
+    width: 100%;
+    height: 8px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: linear-gradient(to right, var(--maryland-red) 0%, var(--maryland-gold) 100%);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.timeline-slider-container input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 24px;
+    height: 24px;
+    background: var(--maryland-red);
+    border: 3px solid var(--maryland-white);
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease;
+}
+
+.timeline-slider-container input[type="range"]::-webkit-slider-thumb:hover {
+    transform: scale(1.15);
+}
+
+.timeline-slider-container input[type="range"]::-moz-range-thumb {
+    width: 24px;
+    height: 24px;
+    background: var(--maryland-red);
+    border: 3px solid var(--maryland-white);
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.timeline-labels {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: #666;
+}
+
+.timeline-info {
+    flex: 1;
+    min-width: 200px;
+    background: var(--maryland-white);
+    padding: 1rem;
+    border-radius: 6px;
+    border-left: 4px solid var(--maryland-red);
+}
+
+.timeline-current {
+    margin-bottom: 0.5rem;
+}
+
+.timeline-label {
+    font-size: 0.85rem;
+    color: #666;
+}
+
+.timeline-value {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--maryland-red);
+    display: block;
+}
+
+.timeline-date {
+    font-size: 0.95rem;
+    color: var(--maryland-black);
+    margin-bottom: 0.5rem;
+}
+
+.timeline-date span {
+    display: block;
+}
+
+#timeline-opponent {
+    font-weight: 600;
+    color: var(--maryland-red);
+}
+
+.timeline-record {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--maryland-black);
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--maryland-gold);
+}
+
+.timeline-record .wins {
+    color: #28a745;
+}
+
+.timeline-record .losses {
+    color: #dc3545;
+}
+
+@media (max-width: 768px) {
+    .timeline-controls {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .timeline-slider-container,
+    .timeline-info {
+        width: 100%;
+        min-width: auto;
+    }
+}
