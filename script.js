@@ -15,6 +15,11 @@ let assistNetwork = [];
 let assistLeaders = [];
 let assistReceivers = [];
 
+// Timeline state
+let sortedGames = [];           // Games sorted chronologically (oldest first)
+let selectedGameIndex = -1;     // Index into sortedGames (0-based, -1 means all games)
+let allSeasonStats = [];        // All player stats for the season (preserved for filtering)
+
 // Available seasons (most recent first)
 const seasons = [
     '2025-26', '2024-25', '2023-24', '2022-23', '2021-22', '2020-21',
@@ -109,7 +114,7 @@ async function selectSeason(season) {
     document.getElementById('season-stats-season').textContent = season;
 
     // Load games, player stats, team season totals, and assist data for this season
-    [allGames, allStats, seasonTeamTotals, assistNetwork, assistLeaders, assistReceivers] = await Promise.all([
+    [allGames, allSeasonStats, seasonTeamTotals, assistNetwork, assistLeaders, assistReceivers] = await Promise.all([
         loadCSV(season, 'game_info.csv'),
         loadCSV(season, 'player_stats.csv'),
         loadCSV(season, 'team_season_totals.csv'),
@@ -118,8 +123,11 @@ async function selectSeason(season) {
         loadCSV(season, 'assist_receivers.csv')
     ]);
 
-    // Aggregate player stats for the season
-    aggregateSeasonStats();
+    // Store all stats for filtering
+    allStats = [...allSeasonStats];
+
+    // Setup the game timeline
+    setupGameTimeline();
 
     // Show sections
     document.getElementById('games-section').style.display = 'block';
@@ -127,12 +135,224 @@ async function selectSeason(season) {
     document.getElementById('game-details-section').style.display = 'none';
 
     renderGames();
-    renderSeasonTeamTotals();
-    // Apply Maryland filter by default
-    applySeasonStatsFilter();
 
     // Scroll to season stats section
     document.getElementById('season-stats-section').scrollIntoView({ behavior: 'smooth' });
+}
+
+// Setup the game timeline selector
+function setupGameTimeline() {
+    // Remove duplicates and sort games chronologically (oldest first)
+    const uniqueGames = [];
+    const seenIds = new Set();
+
+    for (const game of allGames) {
+        if (!seenIds.has(game.file_id)) {
+            seenIds.add(game.file_id);
+            uniqueGames.push(game);
+        }
+    }
+
+    // Sort by date (oldest first for timeline)
+    sortedGames = uniqueGames.sort((a, b) => new Date(a.date) - new Date(b.date));
+
+    // Filter to only Maryland games
+    sortedGames = sortedGames.filter(game =>
+        game.home_team === 'Maryland' || game.visiting_team === 'Maryland'
+    );
+
+    if (sortedGames.length === 0) {
+        document.getElementById('game-timeline-container').style.display = 'none';
+        // Aggregate all stats if no Maryland games
+        aggregateSeasonStats(allSeasonStats);
+        renderSeasonTeamTotals();
+        applySeasonStatsFilter();
+        return;
+    }
+
+    document.getElementById('game-timeline-container').style.display = 'block';
+
+    // Setup slider
+    const slider = document.getElementById('game-timeline-slider');
+    slider.min = 1;
+    slider.max = sortedGames.length;
+    slider.value = sortedGames.length; // Start at most recent (all games)
+
+    // Update labels
+    document.getElementById('timeline-start-label').textContent = 'Game 1';
+    document.getElementById('timeline-end-label').textContent = `Game ${sortedGames.length}`;
+
+    // Set initial state to show all games
+    selectedGameIndex = sortedGames.length - 1;
+    updateGameTimeline(sortedGames.length);
+}
+
+// Update the game timeline when slider changes
+function updateGameTimeline(gameNumber) {
+    const index = parseInt(gameNumber) - 1; // Convert to 0-based index
+    selectedGameIndex = index;
+
+    const game = sortedGames[index];
+    if (!game) return;
+
+    // Update display info
+    document.getElementById('timeline-current-game').textContent = `Game ${gameNumber} of ${sortedGames.length}`;
+    document.getElementById('timeline-current-date').textContent = game.date;
+
+    // Determine opponent
+    const isHome = game.home_team === 'Maryland';
+    const opponent = isHome ? game.visiting_team : game.home_team;
+    const marylandScore = isHome ? parseInt(game.home_score) : parseInt(game.visiting_score);
+    const opponentScore = isHome ? parseInt(game.visiting_score) : parseInt(game.home_score);
+    const result = marylandScore > opponentScore ? 'W' : 'L';
+
+    document.getElementById('timeline-opponent').textContent =
+        `${result} vs ${opponent} (${marylandScore}-${opponentScore})`;
+
+    // Calculate record through this game
+    let wins = 0, losses = 0;
+    for (let i = 0; i <= index; i++) {
+        const g = sortedGames[i];
+        const gIsHome = g.home_team === 'Maryland';
+        const gMarylandScore = gIsHome ? parseInt(g.home_score) : parseInt(g.visiting_score);
+        const gOpponentScore = gIsHome ? parseInt(g.visiting_score) : parseInt(g.home_score);
+        if (gMarylandScore > gOpponentScore) {
+            wins++;
+        } else {
+            losses++;
+        }
+    }
+
+    document.getElementById('timeline-record').innerHTML =
+        `Record: <span class="wins">${wins}</span>-<span class="losses">${losses}</span>`;
+
+    // Get file_ids for games through this point
+    const gameIdsThrough = new Set(sortedGames.slice(0, index + 1).map(g => g.file_id));
+
+    // Filter stats to only include games through this point
+    const filteredStats = allSeasonStats.filter(stat => gameIdsThrough.has(stat.file_id));
+
+    // Aggregate stats for selected timeframe
+    aggregateSeasonStats(filteredStats);
+
+    // Compute team season totals dynamically
+    computeTeamSeasonTotals(sortedGames.slice(0, index + 1), filteredStats);
+
+    // Apply current filter and render
+    applySeasonStatsFilter();
+}
+
+// Compute team season totals dynamically based on filtered games
+function computeTeamSeasonTotals(games, playerStats) {
+    // Calculate Maryland's stats
+    const teamStats = {
+        maryland: {
+            games: 0,
+            wins: 0,
+            losses: 0,
+            points: 0,
+            pointsAllowed: 0,
+            rebounds: 0,
+            assists: 0,
+            steals: 0,
+            blocks: 0,
+            turnovers: 0,
+            fgMade: 0,
+            fgAttempted: 0,
+            threeMade: 0,
+            threeAttempted: 0,
+            ftMade: 0,
+            ftAttempted: 0
+        }
+    };
+
+    // Process each game for team-level stats
+    games.forEach(game => {
+        const isHome = game.home_team === 'Maryland';
+        const marylandScore = isHome ? parseInt(game.home_score) : parseInt(game.visiting_score);
+        const opponentScore = isHome ? parseInt(game.visiting_score) : parseInt(game.home_score);
+
+        teamStats.maryland.games++;
+        teamStats.maryland.points += marylandScore;
+        teamStats.maryland.pointsAllowed += opponentScore;
+
+        if (marylandScore > opponentScore) {
+            teamStats.maryland.wins++;
+        } else {
+            teamStats.maryland.losses++;
+        }
+    });
+
+    // Aggregate player stats for Maryland
+    playerStats.filter(s => s.team === 'Maryland').forEach(stat => {
+        teamStats.maryland.rebounds += parseInt(stat.rebounds) || 0;
+        teamStats.maryland.assists += parseInt(stat.assists) || 0;
+        teamStats.maryland.steals += parseInt(stat.steals) || 0;
+        teamStats.maryland.blocks += parseInt(stat.blocks) || 0;
+        teamStats.maryland.turnovers += parseInt(stat.turnovers) || 0;
+
+        if (stat.field_goals) {
+            const [made, attempted] = stat.field_goals.split('-').map(n => parseInt(n) || 0);
+            teamStats.maryland.fgMade += made;
+            teamStats.maryland.fgAttempted += attempted;
+        }
+        if (stat.three_pointers) {
+            const [made, attempted] = stat.three_pointers.split('-').map(n => parseInt(n) || 0);
+            teamStats.maryland.threeMade += made;
+            teamStats.maryland.threeAttempted += attempted;
+        }
+        if (stat.free_throws) {
+            const [made, attempted] = stat.free_throws.split('-').map(n => parseInt(n) || 0);
+            teamStats.maryland.ftMade += made;
+            teamStats.maryland.ftAttempted += attempted;
+        }
+    });
+
+    const md = teamStats.maryland;
+    const gamesPlayed = md.games || 1;
+
+    // Calculate percentages and per-game stats
+    const fgPct = md.fgAttempted > 0 ? (md.fgMade / md.fgAttempted * 100) : 0;
+    const threePtPct = md.threeAttempted > 0 ? (md.threeMade / md.threeAttempted * 100) : 0;
+    const ftPct = md.ftAttempted > 0 ? (md.ftMade / md.ftAttempted * 100) : 0;
+
+    // Advanced stats
+    const efgPct = md.fgAttempted > 0 ? ((md.fgMade + 0.5 * md.threeMade) / md.fgAttempted * 100) : 0;
+    const tsPct = (md.fgAttempted + 0.44 * md.ftAttempted) > 0
+        ? (md.points / (2 * (md.fgAttempted + 0.44 * md.ftAttempted)) * 100) : 0;
+    const ftRate = md.fgAttempted > 0 ? (md.ftAttempted / md.fgAttempted) : 0;
+    const astToRatio = md.turnovers > 0 ? (md.assists / md.turnovers) : md.assists;
+
+    const offRating = md.points / gamesPlayed;
+    const defRating = md.pointsAllowed / gamesPlayed;
+    const netRating = offRating - defRating;
+
+    // Create computed season totals object
+    seasonTeamTotals = [{
+        team: 'Maryland',
+        games: md.games,
+        wins: md.wins,
+        losses: md.losses,
+        win_pct: md.games > 0 ? (md.wins / md.games * 100) : 0,
+        ppg: (md.points / gamesPlayed).toFixed(1),
+        rpg: (md.rebounds / gamesPlayed).toFixed(1),
+        apg: (md.assists / gamesPlayed).toFixed(1),
+        spg: (md.steals / gamesPlayed).toFixed(1),
+        bpg: (md.blocks / gamesPlayed).toFixed(1),
+        tpg: (md.turnovers / gamesPlayed).toFixed(1),
+        fg_pct: fgPct.toFixed(1),
+        three_pt_pct: threePtPct.toFixed(1),
+        ft_pct: ftPct.toFixed(1),
+        efg_pct: efgPct.toFixed(1),
+        ts_pct: tsPct.toFixed(1),
+        ft_rate: ftRate.toFixed(2),
+        ast_to_ratio: astToRatio.toFixed(2),
+        off_rating: offRating.toFixed(1),
+        def_rating: defRating.toFixed(1),
+        net_rating: netRating.toFixed(1)
+    }];
+
+    renderSeasonTeamTotals();
 }
 
 // Render games list
@@ -661,10 +881,10 @@ function backToGames() {
 }
 
 // Aggregate season stats
-function aggregateSeasonStats() {
+function aggregateSeasonStats(stats = allSeasonStats) {
     const playerMap = new Map();
 
-    allStats.forEach(stat => {
+    stats.forEach(stat => {
         const key = `${stat.name}-${stat.team}`;
 
         if (!playerMap.has(key)) {
@@ -946,10 +1166,17 @@ function renderSeasonTeamTotals() {
     const maryland = seasonTeamTotals.filter(team => team.team === 'Maryland');
     const opponents = seasonTeamTotals.filter(team => team.team !== 'Maryland');
 
+    // Get context about which games are included
+    const gamesIncluded = selectedGameIndex >= 0 ? selectedGameIndex + 1 : sortedGames.length;
+    const totalGames = sortedGames.length;
+    const throughGame = gamesIncluded < totalGames
+        ? `through Game ${gamesIncluded} of ${totalGames}`
+        : `for all ${totalGames} games`;
+
     container.innerHTML = `
         <div style="margin-bottom: 1.5rem;">
             <h3 style="margin-bottom: 0.5rem;">Season Summary</h3>
-            <p style="font-size: 0.9rem; color: #666;">Comprehensive team statistics aggregated across all games in the season.</p>
+            <p style="font-size: 0.9rem; color: #666;">Comprehensive team statistics ${throughGame}.</p>
         </div>
 
         ${maryland.length > 0 ? `
