@@ -17349,3 +17349,384 @@
 2025.0,19750.0,4,7,"Maryland","TEAM","TIMEOUT","Maryland TIMEOUT Full (4th TO, 1st Full)","","","",""
 2025.0,19750.0,4,0,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
 2025.0,19750.0,4,0,"Oregon","DEADB","REBOUND","Oregon REBOUND","","","",""
+2025.0,19751.0,1,580,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (2 Pt)","Oluchi Okananwa",7.0,0.0,2.0
+2025.0,19751.0,1,557,"Michigan St.","JUMPER","MISS","14 Grace VanSlooten JUMPER MISS","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,1,555,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (1 Reb, 1 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,1,544,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,1,525,"Michigan St.","TURNOVER","TURNOVER","01 Rashunda Jones TURNOVER (1 TO)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,508,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (1 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,1,508,"Michigan St.","STEAL","STEAL","14 Grace VanSlooten STEAL (1 Stl)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,1,502,"Michigan St.","LAYUP","MISS","10 Ines Sotelo LAYUP MISS","Ines Sotelo",10.0,"",""
+2025.0,19751.0,1,499,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19751.0,1,475,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,1,472,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (2 Reb, 1 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,1,472,"Michigan St.","FOUL","FOUL","10 Ines Sotelo FOUL (1 PF)","Ines Sotelo",10.0,"",""
+2025.0,19751.0,1,472,"Maryland","FT","GOOD","09 Isimenme Ozzy-Momodu FT GOOD (1 Pt)","Isimenme Ozzy-Momodu",9.0,0.0,3.0
+2025.0,19751.0,1,472,"Maryland","FT","GOOD","09 Isimenme Ozzy-Momodu FT GOOD (2 Pt)","Isimenme Ozzy-Momodu",9.0,0.0,4.0
+2025.0,19751.0,1,457,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,1,453,"Michigan St.","JUMPER","GOOD","35 Kennedy Blair JUMPER GOOD (2 Pt); 14 Grace VanSlooten Assist (1 Asst)","Kennedy Blair",35.0,2.0,4.0
+2025.0,19751.0,1,446,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19751.0,1,442,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,1,442,"Michigan St.","FOUL","FOUL","10 Ines Sotelo FOUL (2 PF)","Ines Sotelo",10.0,"",""
+2025.0,19751.0,1,442,"Michigan St.","SUBS","SUBS","10 Ines Sotelo OUT; 05 Emma Shumate IN","Ines Sotelo",10.0,"",""
+2025.0,19751.0,1,442,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,1,442,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19751.0,1,442,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (3 Pt)","Oluchi Okananwa",7.0,2.0,5.0
+2025.0,19751.0,1,427,"Michigan St.","3PTR","MISS","35 Kennedy Blair 3PTR MISS","Kennedy Blair",35.0,"",""
+2025.0,19751.0,1,423,"Michigan St.","OFF","REBOUND","01 Rashunda Jones OFF. REBOUND (1 Reb, 1 Off)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,423,"Michigan St.","JUMPER","MISS","01 Rashunda Jones JUMPER MISS","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,420,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025.0,19751.0,1,414,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS; 23 Jalyn Brown BLOCK (1 Blk)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,1,410,"Michigan St.","DEF","REBOUND","35 Kennedy Blair DEF. REBOUND (1 Reb, 1 Def)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,1,408,"Michigan St.","TURNOVER","TURNOVER","35 Kennedy Blair TURNOVER (1 TO)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,1,398,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19751.0,1,395,"Michigan St.","DEF","REBOUND","05 Emma Shumate DEF. REBOUND (1 Reb, 1 Def)","Emma Shumate",5.0,"",""
+2025.0,19751.0,1,395,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,1,395,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 40 Breanna Williams IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,1,382,"Michigan St.","TURNOVER","TURNOVER","01 Rashunda Jones TURNOVER (2 TO)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,382,"Michigan St.","SUBS","SUBS","01 Rashunda Jones OUT; 09 Sara Sambolic IN","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,373,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+2025.0,19751.0,1,373,"Michigan St.","STEAL","STEAL","35 Kennedy Blair STEAL (1 Stl)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,1,370,"Michigan St.","LAYUP","GOOD","35 Kennedy Blair LAYUP GOOD (4 Pt)","Kennedy Blair",35.0,4.0,5.0
+2025.0,19751.0,1,355,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (3 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Saylor Poffenbarger",6.0,4.0,8.0
+2025.0,19751.0,1,339,"Michigan St.","LAYUP","GOOD","14 Grace VanSlooten LAYUP GOOD (2 Pt)","Grace VanSlooten",14.0,6.0,8.0
+2025.0,19751.0,1,333,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (3 Pt); 03 Addi Mack Assist (1 Asst)","Yarden Garzon",12.0,6.0,11.0
+2025.0,19751.0,1,315,"Michigan St.","JUMPER","GOOD","14 Grace VanSlooten JUMPER GOOD (4 Pt); 05 Emma Shumate Assist (1 Asst)","Grace VanSlooten",14.0,8.0,11.0
+2025.0,19751.0,1,300,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19751.0,1,298,"Maryland","OFF","REBOUND","40 Breanna Williams OFF. REBOUND (1 Reb, 1 Off)","Breanna Williams",40.0,"",""
+2025.0,19751.0,1,296,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,1,292,"Michigan St.","DEF","REBOUND","Michigan St. REBOUND","","","",""
+2025.0,19751.0,1,292,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19751.0,1,292,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 07 Oluchi Okananwa OUT; 00 Rainey Welson IN; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025.0,19751.0,1,275,"Maryland","FOUL","FOUL","40 Breanna Williams FOUL (1 PF)","Breanna Williams",40.0,"",""
+2025.0,19751.0,1,275,"Michigan St.","SUBS","SUBS","09 Sara Sambolic OUT; 23 Jalyn Brown OUT; 01 Rashunda Jones IN; 32 Marah Dykstra IN","Sara Sambolic",9.0,"",""
+2025.0,19751.0,1,275,"Michigan St.","FT","GOOD","14 Grace VanSlooten FT GOOD (5 Pt)","Grace VanSlooten",14.0,9.0,11.0
+2025.0,19751.0,1,275,"Michigan St.","FT","GOOD","14 Grace VanSlooten FT GOOD (6 Pt)","Grace VanSlooten",14.0,10.0,11.0
+2025.0,19751.0,1,265,"Maryland","JUMPER","GOOD","40 Breanna Williams JUMPER GOOD (2 Pt); 12 Yarden Garzon Assist (1 Asst)","Breanna Williams",40.0,10.0,13.0
+2025.0,19751.0,1,236,"Michigan St.","JUMPER","MISS","01 Rashunda Jones JUMPER MISS","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,233,"Michigan St.","OFF","REBOUND","14 Grace VanSlooten OFF. REBOUND (1 Reb, 1 Off)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,1,229,"Michigan St.","TURNOVER","TURNOVER","Michigan St. TURNOVER (1 TO)","","","",""
+2025.0,19751.0,1,211,"Maryland","TURNOVER","TURNOVER","40 Breanna Williams TURNOVER (1 TO)","Breanna Williams",40.0,"",""
+2025.0,19751.0,1,211,"Michigan St.","STEAL","STEAL","05 Emma Shumate STEAL (1 Stl)","Emma Shumate",5.0,"",""
+2025.0,19751.0,1,203,"Michigan St.","TURNOVER","TURNOVER","35 Kennedy Blair TURNOVER (2 TO)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,1,203,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,1,194,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (6 Pt)","Saylor Poffenbarger",6.0,10.0,16.0
+2025.0,19751.0,1,180,"Michigan St.","3PTR","GOOD","32 Marah Dykstra 3PTR GOOD (3 Pt); 01 Rashunda Jones Assist (1 Asst)","Marah Dykstra",32.0,13.0,16.0
+2025.0,19751.0,1,170,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,1,170,"Michigan St.","STEAL","STEAL","14 Grace VanSlooten STEAL (2 Stl)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,1,160,"Michigan St.","3PTR","MISS","05 Emma Shumate 3PTR MISS","Emma Shumate",5.0,"",""
+2025.0,19751.0,1,157,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,1,146,"Michigan St.","SUBS","SUBS","14 Grace VanSlooten OUT; 35 Kennedy Blair OUT; 23 Jalyn Brown IN; 33 Juliann Woodard IN","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,1,146,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 08 Kyndal Walker OUT; 40 Breanna Williams OUT; 03 Addi Mack IN; 07 Oluchi Okananwa IN; 11 Marya Boiko IN","Rainey Welson",0.0,"",""
+2025.0,19751.0,1,141,"Michigan St.","FOUL","FOUL","01 Rashunda Jones FOUL (1 PF)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,141,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (4 Pt)","Oluchi Okananwa",7.0,13.0,17.0
+2025.0,19751.0,1,141,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (5 Pt)","Oluchi Okananwa",7.0,13.0,18.0
+2025.0,19751.0,1,131,"Michigan St.","JUMPER","MISS","01 Rashunda Jones JUMPER MISS; 11 Marya Boiko BLOCK (1 Blk)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,131,"Michigan St.","OFF","REBOUND","Michigan St. REBOUND","","","",""
+2025.0,19751.0,1,127,"Michigan St.","LAYUP","GOOD","23 Jalyn Brown LAYUP GOOD (2 Pt)","Jalyn Brown",23.0,15.0,18.0
+2025.0,19751.0,1,106,"Michigan St.","FOUL","FOUL","01 Rashunda Jones FOUL (2 PF)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,106,"Michigan St.","SUBS","SUBS","01 Rashunda Jones OUT; 35 Kennedy Blair IN","Rashunda Jones",1.0,"",""
+2025.0,19751.0,1,103,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (5 Pt); 11 Marya Boiko Assist (1 Asst)","Yarden Garzon",12.0,15.0,20.0
+2025.0,19751.0,1,89,"Michigan St.","LAYUP","GOOD","23 Jalyn Brown LAYUP GOOD (4 Pt)","Jalyn Brown",23.0,17.0,20.0
+2025.0,19751.0,1,70,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19751.0,1,67,"Michigan St.","DEF","REBOUND","Michigan St. REBOUND","","","",""
+2025.0,19751.0,1,67,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 00 Rainey Welson IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,1,61,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,1,61,"Michigan St.","SUBS","SUBS","33 Juliann Woodard OUT; 14 Grace VanSlooten IN","Juliann Woodard",33.0,"",""
+2025.0,19751.0,1,61,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 10 Mir McLean IN","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,1,48,"Michigan St.","LAYUP","GOOD","32 Marah Dykstra LAYUP GOOD (5 Pt); 14 Grace VanSlooten Assist (2 Asst)","Marah Dykstra",32.0,19.0,20.0
+2025.0,19751.0,1,26,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (2 TO)","Addi Mack",3.0,"",""
+2025.0,19751.0,1,26,"Michigan St.","STEAL","STEAL","14 Grace VanSlooten STEAL (3 Stl)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,1,21,"Maryland","FOUL","FOUL","00 Rainey Welson FOUL (1 PF)","Rainey Welson",0.0,"",""
+2025.0,19751.0,1,21,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 10 Mir McLean OUT; 06 Saylor Poffenbarger IN; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025.0,19751.0,1,21,"Michigan St.","FT","GOOD","35 Kennedy Blair FT GOOD (5 Pt)","Kennedy Blair",35.0,20.0,20.0
+2025.0,19751.0,1,21,"Michigan St.","FT","MISS","35 Kennedy Blair FT MISS","Kennedy Blair",35.0,"",""
+2025.0,19751.0,1,20,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,1,4,"Maryland","LAYUP","MISS","08 Kyndal Walker LAYUP MISS","Kyndal Walker",8.0,"",""
+2025.0,19751.0,1,0,"Michigan St.","DEF","REBOUND","23 Jalyn Brown DEF. REBOUND (1 Reb, 1 Def)","Jalyn Brown",23.0,"",""
+2025.0,19751.0,2,600,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 11 Marya Boiko OUT; 03 Addi Mack IN; 09 Isimenme Ozzy-Momodu IN","Kyndal Walker",8.0,"",""
+2025.0,19751.0,2,592,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (2 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,2,592,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 40 Breanna Williams IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,2,570,"Michigan St.","JUMPER","MISS","23 Jalyn Brown JUMPER MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,2,568,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,2,556,"Michigan St.","FOUL","FOUL","23 Jalyn Brown FOUL (1 PF)","Jalyn Brown",23.0,"",""
+2025.0,19751.0,2,556,"Maryland","FT","MISS","03 Addi Mack FT MISS","Addi Mack",3.0,"",""
+2025.0,19751.0,2,556,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19751.0,2,555,"Michigan St.","DEF","REBOUND","32 Marah Dykstra DEF. REBOUND (1 Reb, 1 Def)","Marah Dykstra",32.0,"",""
+2025.0,19751.0,2,548,"Michigan St.","3PTR","MISS","05 Emma Shumate 3PTR MISS","Emma Shumate",5.0,"",""
+2025.0,19751.0,2,545,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (2 Reb, 2 Def)","Addi Mack",3.0,"",""
+2025.0,19751.0,2,539,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (7 Pt)","Yarden Garzon",12.0,20.0,22.0
+2025.0,19751.0,2,532,"Michigan St.","LAYUP","MISS","23 Jalyn Brown LAYUP MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,2,530,"Michigan St.","OFF","REBOUND","14 Grace VanSlooten OFF. REBOUND (2 Reb, 2 Off)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,2,529,"Maryland","FOUL","FOUL","40 Breanna Williams FOUL (2 PF)","Breanna Williams",40.0,"",""
+2025.0,19751.0,2,529,"Maryland","SUBS","SUBS","40 Breanna Williams OUT; 11 Marya Boiko IN","Breanna Williams",40.0,"",""
+2025.0,19751.0,2,529,"Michigan St.","SUBS","SUBS","32 Marah Dykstra OUT; 10 Ines Sotelo IN; 05 Emma Shumate OUT; 01 Rashunda Jones IN","Marah Dykstra",32.0,"",""
+2025.0,19751.0,2,529,"Michigan St.","FT","GOOD","14 Grace VanSlooten FT GOOD (7 Pt)","Grace VanSlooten",14.0,21.0,22.0
+2025.0,19751.0,2,529,"Michigan St.","FT","GOOD","14 Grace VanSlooten FT GOOD (8 Pt)","Grace VanSlooten",14.0,22.0,22.0
+2025.0,19751.0,2,517,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19751.0,2,514,"Michigan St.","DEF","REBOUND","23 Jalyn Brown DEF. REBOUND (2 Reb, 2 Def)","Jalyn Brown",23.0,"",""
+2025.0,19751.0,2,508,"Michigan St.","JUMPER","GOOD","10 Ines Sotelo JUMPER GOOD (2 Pt); 35 Kennedy Blair Assist (1 Asst)","Ines Sotelo",10.0,24.0,22.0
+2025.0,19751.0,2,490,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,2,487,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (3 Reb, 1 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,2,482,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19751.0,2,479,"Michigan St.","DEF","REBOUND","14 Grace VanSlooten DEF. REBOUND (3 Reb, 1 Def)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,2,473,"Michigan St.","LAYUP","MISS","35 Kennedy Blair LAYUP MISS","Kennedy Blair",35.0,"",""
+2025.0,19751.0,2,471,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (3 Reb, 3 Def)","Addi Mack",3.0,"",""
+2025.0,19751.0,2,447,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19751.0,2,445,"Michigan St.","DEF","REBOUND","01 Rashunda Jones DEF. REBOUND (2 Reb, 1 Def)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,2,439,"Michigan St.","LAYUP","GOOD","23 Jalyn Brown LAYUP GOOD (6 Pt); 01 Rashunda Jones Assist (2 Asst)","Jalyn Brown",23.0,26.0,22.0
+2025.0,19751.0,2,414,"Maryland","JUMPER","MISS","11 Marya Boiko JUMPER MISS","Marya Boiko",11.0,"",""
+2025.0,19751.0,2,409,"Michigan St.","DEF","REBOUND","35 Kennedy Blair DEF. REBOUND (2 Reb, 2 Def)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,2,407,"Michigan St.","LAYUP","GOOD","23 Jalyn Brown LAYUP GOOD (8 Pt); 35 Kennedy Blair Assist (2 Asst)","Jalyn Brown",23.0,28.0,22.0
+2025.0,19751.0,2,406,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19751.0,2,406,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19751.0,2,406,"Michigan St.","SUBS","SUBS","35 Kennedy Blair OUT; 05 Emma Shumate IN","Kennedy Blair",35.0,"",""
+2025.0,19751.0,2,406,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 11 Marya Boiko OUT; 12 Yarden Garzon OUT; 07 Oluchi Okananwa IN; 08 Kyndal Walker IN; 10 Mir McLean IN","Addi Mack",3.0,"",""
+2025.0,19751.0,2,396,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (7 Pt)","Oluchi Okananwa",7.0,28.0,24.0
+2025.0,19751.0,2,396,"Michigan St.","FOUL","FOUL","05 Emma Shumate FOUL (1 PF)","Emma Shumate",5.0,"",""
+2025.0,19751.0,2,396,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 12 Yarden Garzon IN","Rainey Welson",0.0,"",""
+2025.0,19751.0,2,396,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (8 Pt)","Oluchi Okananwa",7.0,28.0,25.0
+2025.0,19751.0,2,386,"Michigan St.","TURNOVER","TURNOVER","01 Rashunda Jones TURNOVER (3 TO)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,2,373,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS; 14 Grace VanSlooten BLOCK (1 Blk)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,2,371,"Michigan St.","DEF","REBOUND","14 Grace VanSlooten DEF. REBOUND (4 Reb, 2 Def)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,2,360,"Michigan St.","TURNOVER","TURNOVER","10 Ines Sotelo TURNOVER (1 TO)","Ines Sotelo",10.0,"",""
+2025.0,19751.0,2,360,"Michigan St.","SUBS","SUBS","01 Rashunda Jones OUT; 35 Kennedy Blair IN","Rashunda Jones",1.0,"",""
+2025.0,19751.0,2,351,"Michigan St.","FOUL","FOUL","35 Kennedy Blair FOUL (1 PF)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,2,351,"Michigan St.","SUBS","SUBS","10 Ines Sotelo OUT; 32 Marah Dykstra IN","Ines Sotelo",10.0,"",""
+2025.0,19751.0,2,338,"Michigan St.","FOUL","FOUL","32 Marah Dykstra FOUL (1 PF)","Marah Dykstra",32.0,"",""
+2025.0,19751.0,2,328,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (2 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Kyndal Walker",8.0,28.0,27.0
+2025.0,19751.0,2,311,"Michigan St.","TURNOVER","TURNOVER","35 Kennedy Blair TURNOVER (3 TO)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,2,311,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,2,304,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (2 Pt); 07 Oluchi Okananwa Assist (2 Asst)","Mir McLean",10.0,28.0,29.0
+2025.0,19751.0,2,290,"Michigan St.","JUMPER","MISS","35 Kennedy Blair JUMPER MISS","Kennedy Blair",35.0,"",""
+2025.0,19751.0,2,288,"Michigan St.","OFF","REBOUND","32 Marah Dykstra OFF. REBOUND (2 Reb, 1 Off)","Marah Dykstra",32.0,"",""
+2025.0,19751.0,2,282,"Michigan St.","LAYUP","GOOD","23 Jalyn Brown LAYUP GOOD (10 Pt)","Jalyn Brown",23.0,30.0,29.0
+2025.0,19751.0,2,275,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,2,275,"Michigan St.","SUBS","SUBS","14 Grace VanSlooten OUT; 33 Juliann Woodard IN","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,2,257,"Michigan St.","JUMPER","MISS","23 Jalyn Brown JUMPER MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,2,255,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,2,248,"Michigan St.","FOUL","FOUL","33 Juliann Woodard FOUL (1 PF)","Juliann Woodard",33.0,"",""
+2025.0,19751.0,2,248,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 00 Rainey Welson IN","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,2,248,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (7 Pt)","Saylor Poffenbarger",6.0,30.0,30.0
+2025.0,19751.0,2,248,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (8 Pt)","Saylor Poffenbarger",6.0,30.0,31.0
+2025.0,19751.0,2,235,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,2,235,"Michigan St.","SUBS","SUBS","33 Juliann Woodard OUT; 14 Grace VanSlooten IN","Juliann Woodard",33.0,"",""
+2025.0,19751.0,2,219,"Michigan St.","TURNOVER","TURNOVER","23 Jalyn Brown TURNOVER (1 TO)","Jalyn Brown",23.0,"",""
+2025.0,19751.0,2,219,"Maryland","STEAL","STEAL","08 Kyndal Walker STEAL (1 Stl)","Kyndal Walker",8.0,"",""
+2025.0,19751.0,2,209,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (4 Pt)","Kyndal Walker",8.0,30.0,33.0
+2025.0,19751.0,2,187,"Michigan St.","TURNOVER","TURNOVER","14 Grace VanSlooten TURNOVER (1 TO)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,2,187,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (1 Stl)","Mir McLean",10.0,"",""
+2025.0,19751.0,2,179,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (6 Pt)","Kyndal Walker",8.0,30.0,35.0
+2025.0,19751.0,2,176,"Michigan St.","30SEC","TIMEOUT","Michigan St. TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19751.0,2,176,"Michigan St.","SUBS","SUBS","23 Jalyn Brown OUT; 32 Marah Dykstra OUT; 01 Rashunda Jones IN; 10 Ines Sotelo IN","Jalyn Brown",23.0,"",""
+2025.0,19751.0,2,167,"Michigan St.","3PTR","MISS","10 Ines Sotelo 3PTR MISS","Ines Sotelo",10.0,"",""
+2025.0,19751.0,2,164,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 4 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,2,159,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (4 Pt); 06 Saylor Poffenbarger Assist (2 Asst)","Mir McLean",10.0,30.0,37.0
+2025.0,19751.0,2,142,"Michigan St.","3PTR","GOOD","05 Emma Shumate 3PTR GOOD (3 Pt); 14 Grace VanSlooten Assist (3 Asst)","Emma Shumate",5.0,33.0,37.0
+2025.0,19751.0,2,116,"Maryland","JUMPER","GOOD","10 Mir McLean JUMPER GOOD (6 Pt)","Mir McLean",10.0,33.0,39.0
+2025.0,19751.0,2,95,"Michigan St.","JUMPER","MISS","14 Grace VanSlooten JUMPER MISS","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,2,94,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19751.0,2,80,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (8 Pt); 12 Yarden Garzon Assist (2 Asst)","Kyndal Walker",8.0,33.0,41.0
+2025.0,19751.0,2,61,"Michigan St.","3PTR","MISS","05 Emma Shumate 3PTR MISS","Emma Shumate",5.0,"",""
+2025.0,19751.0,2,57,"Michigan St.","OFF","REBOUND","01 Rashunda Jones OFF. REBOUND (3 Reb, 2 Off)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,2,54,"Michigan St.","TURNOVER","TURNOVER","01 Rashunda Jones TURNOVER (4 TO)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,2,54,"Michigan St.","SUBS","SUBS","01 Rashunda Jones OUT; 23 Jalyn Brown IN","Rashunda Jones",1.0,"",""
+2025.0,19751.0,2,36,"Maryland","JUMPER","GOOD","10 Mir McLean JUMPER GOOD (8 Pt)","Mir McLean",10.0,33.0,43.0
+2025.0,19751.0,2,8,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+2025.0,19751.0,2,8,"Michigan St.","FT","MISS","35 Kennedy Blair FT MISS","Kennedy Blair",35.0,"",""
+2025.0,19751.0,2,8,"Michigan St.","DEADB","REBOUND","Michigan St. REBOUND","","","",""
+2025.0,19751.0,2,5,"Maryland","DEF","REBOUND","00 Rainey Welson DEF. REBOUND (1 Reb, 1 Def)","Rainey Welson",0.0,"",""
+2025.0,19751.0,3,600,"Michigan St.","SUBS","SUBS","05 Emma Shumate OUT; 01 Rashunda Jones IN","Emma Shumate",5.0,"",""
+2025.0,19751.0,3,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 08 Kyndal Walker OUT; 10 Mir McLean OUT; 03 Addi Mack IN; 07 Oluchi Okananwa IN; 09 Isimenme Ozzy-Momodu IN","Rainey Welson",0.0,"",""
+2025.0,19751.0,3,592,"Michigan St.","LAYUP","MISS","10 Ines Sotelo LAYUP MISS","Ines Sotelo",10.0,"",""
+2025.0,19751.0,3,590,"Michigan St.","OFF","REBOUND","10 Ines Sotelo OFF. REBOUND (1 Reb, 1 Off)","Ines Sotelo",10.0,"",""
+2025.0,19751.0,3,585,"Michigan St.","3PTR","MISS","23 Jalyn Brown 3PTR MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,3,578,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (2 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,3,575,"Michigan St.","FOUL","FOUL","01 Rashunda Jones FOUL (3 PF)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,3,575,"Michigan St.","SUBS","SUBS","01 Rashunda Jones OUT; 05 Emma Shumate IN","Rashunda Jones",1.0,"",""
+2025.0,19751.0,3,548,"Maryland","JUMPER","MISS","09 Isimenme Ozzy-Momodu JUMPER MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,3,545,"Michigan St.","DEF","REBOUND","35 Kennedy Blair DEF. REBOUND (3 Reb, 3 Def)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,3,535,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (3 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,3,535,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 10 Mir McLean IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19751.0,3,535,"Michigan St.","FT","MISS","23 Jalyn Brown FT MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,3,535,"Michigan St.","DEADB","REBOUND","Michigan St. REBOUND","","","",""
+2025.0,19751.0,3,535,"Michigan St.","FT","GOOD","23 Jalyn Brown FT GOOD (11 Pt)","Jalyn Brown",23.0,34.0,43.0
+2025.0,19751.0,3,523,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19751.0,3,520,"Michigan St.","DEF","REBOUND","14 Grace VanSlooten DEF. REBOUND (5 Reb, 3 Def)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,3,494,"Michigan St.","JUMPER","MISS","10 Ines Sotelo JUMPER MISS","Ines Sotelo",10.0,"",""
+2025.0,19751.0,3,489,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (6 Reb, 5 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,3,484,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,3,480,"Michigan St.","DEF","REBOUND","23 Jalyn Brown DEF. REBOUND (3 Reb, 3 Def)","Jalyn Brown",23.0,"",""
+2025.0,19751.0,3,474,"Michigan St.","3PTR","GOOD","05 Emma Shumate 3PTR GOOD (6 Pt); 23 Jalyn Brown Assist (1 Asst)","Emma Shumate",5.0,37.0,43.0
+2025.0,19751.0,3,454,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (10 Pt); 10 Mir McLean Assist (1 Asst)","Oluchi Okananwa",7.0,37.0,45.0
+2025.0,19751.0,3,453,"Michigan St.","FOUL","FOUL","05 Emma Shumate FOUL (2 PF)","Emma Shumate",5.0,"",""
+2025.0,19751.0,3,453,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (11 Pt)","Oluchi Okananwa",7.0,37.0,46.0
+2025.0,19751.0,3,441,"Michigan St.","JUMPER","MISS","35 Kennedy Blair JUMPER MISS","Kennedy Blair",35.0,"",""
+2025.0,19751.0,3,439,"Michigan St.","OFF","REBOUND","14 Grace VanSlooten OFF. REBOUND (6 Reb, 3 Off)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,3,438,"Michigan St.","LAYUP","GOOD","14 Grace VanSlooten LAYUP GOOD (10 Pt)","Grace VanSlooten",14.0,39.0,46.0
+2025.0,19751.0,3,428,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (10 Pt); 07 Oluchi Okananwa Assist (3 Asst)","Yarden Garzon",12.0,39.0,49.0
+2025.0,19751.0,3,403,"Michigan St.","3PTR","MISS","35 Kennedy Blair 3PTR MISS","Kennedy Blair",35.0,"",""
+2025.0,19751.0,3,400,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (3 Reb, 2 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,3,391,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (14 Pt); 03 Addi Mack Assist (2 Asst)","Oluchi Okananwa",7.0,39.0,52.0
+2025.0,19751.0,3,376,"Michigan St.","JUMPER","MISS","23 Jalyn Brown JUMPER MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,3,373,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,3,369,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS; 14 Grace VanSlooten BLOCK (2 Blk)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,3,366,"Michigan St.","DEF","REBOUND","35 Kennedy Blair DEF. REBOUND (4 Reb, 4 Def)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,3,353,"Michigan St.","TURNOVER","TURNOVER","14 Grace VanSlooten TURNOVER (2 TO)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,3,353,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (2 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,3,353,"Michigan St.","SUBS","SUBS","10 Ines Sotelo OUT; 35 Kennedy Blair OUT; 01 Rashunda Jones IN; 32 Marah Dykstra IN","Ines Sotelo",10.0,"",""
+2025.0,19751.0,3,353,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 07 Oluchi Okananwa OUT; 10 Mir McLean OUT; 00 Rainey Welson IN; 08 Kyndal Walker IN; 40 Breanna Williams IN","Addi Mack",3.0,"",""
+2025.0,19751.0,3,344,"Maryland","TURNOVER","TURNOVER","Maryland TURNOVER (1 TO)","","","",""
+2025.0,19751.0,3,328,"Michigan St.","TURNOVER","TURNOVER","14 Grace VanSlooten TURNOVER (3 TO)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,3,320,"Maryland","LAYUP","GOOD","00 Rainey Welson LAYUP GOOD (2 Pt); 40 Breanna Williams Assist (1 Asst)","Rainey Welson",0.0,39.0,54.0
+2025.0,19751.0,3,313,"Michigan St.","30SEC","TIMEOUT","Michigan St. TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
+2025.0,19751.0,3,313,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19751.0,3,299,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025.0,19751.0,3,299,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19751.0,3,299,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 07 Oluchi Okananwa IN","Rainey Welson",0.0,"",""
+2025.0,19751.0,3,295,"Michigan St.","JUMPER","GOOD","01 Rashunda Jones JUMPER GOOD (2 Pt)","Rashunda Jones",1.0,41.0,54.0
+2025.0,19751.0,3,294,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (2 PF)","Kyndal Walker",8.0,"",""
+2025.0,19751.0,3,294,"Michigan St.","FT","GOOD","01 Rashunda Jones FT GOOD (3 Pt)","Rashunda Jones",1.0,42.0,54.0
+2025.0,19751.0,3,286,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,3,280,"Maryland","OFF","REBOUND","40 Breanna Williams OFF. REBOUND (2 Reb, 2 Off)","Breanna Williams",40.0,"",""
+2025.0,19751.0,3,280,"Michigan St.","FOUL","FOUL","14 Grace VanSlooten FOUL (1 PF)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,3,264,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (10 Pt); 07 Oluchi Okananwa Assist (4 Asst)","Saylor Poffenbarger",6.0,42.0,56.0
+2025.0,19751.0,3,249,"Michigan St.","JUMPER","MISS","14 Grace VanSlooten JUMPER MISS","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,3,246,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (3 Reb, 3 Def)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,3,235,"Maryland","3PTR","MISS","40 Breanna Williams 3PTR MISS","Breanna Williams",40.0,"",""
+2025.0,19751.0,3,232,"Michigan St.","DEF","REBOUND","32 Marah Dykstra DEF. REBOUND (3 Reb, 2 Def)","Marah Dykstra",32.0,"",""
+2025.0,19751.0,3,231,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (3 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,3,231,"Michigan St.","SUBS","SUBS","32 Marah Dykstra OUT; 35 Kennedy Blair IN; 14 Grace VanSlooten OUT; 10 Ines Sotelo IN","Marah Dykstra",32.0,"",""
+2025.0,19751.0,3,231,"Maryland","SUBS","SUBS","40 Breanna Williams OUT; 10 Mir McLean IN","Breanna Williams",40.0,"",""
+2025.0,19751.0,3,207,"Michigan St.","LAYUP","MISS","23 Jalyn Brown LAYUP MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,3,202,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean",10.0,"",""
+2025.0,19751.0,3,194,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (12 Pt)","Yarden Garzon",12.0,42.0,58.0
+2025.0,19751.0,3,186,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (4 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,3,186,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 00 Rainey Welson IN","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,3,186,"Michigan St.","FT","GOOD","35 Kennedy Blair FT GOOD (6 Pt)","Kennedy Blair",35.0,43.0,58.0
+2025.0,19751.0,3,186,"Michigan St.","FT","GOOD","35 Kennedy Blair FT GOOD (7 Pt)","Kennedy Blair",35.0,44.0,58.0
+2025.0,19751.0,3,172,"Maryland","TURNOVER","TURNOVER","10 Mir McLean TURNOVER (1 TO)","Mir McLean",10.0,"",""
+2025.0,19751.0,3,172,"Michigan St.","STEAL","STEAL","10 Ines Sotelo STEAL (1 Stl)","Ines Sotelo",10.0,"",""
+2025.0,19751.0,3,164,"Michigan St.","3PTR","MISS","23 Jalyn Brown 3PTR MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,3,161,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (2 Reb, 2 Def)","Mir McLean",10.0,"",""
+2025.0,19751.0,3,152,"Michigan St.","FOUL","FOUL","35 Kennedy Blair FOUL (2 PF)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,3,152,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (9 Pt)","Kyndal Walker",8.0,44.0,59.0
+2025.0,19751.0,3,152,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (10 Pt)","Kyndal Walker",8.0,44.0,60.0
+2025.0,19751.0,3,141,"Michigan St.","3PTR","MISS","01 Rashunda Jones 3PTR MISS","Rashunda Jones",1.0,"",""
+2025.0,19751.0,3,138,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (4 Reb, 4 Def)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,3,132,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (5 Pt); 08 Kyndal Walker Assist (1 Asst)","Rainey Welson",0.0,44.0,63.0
+2025.0,19751.0,3,121,"Michigan St.","3PTR","GOOD","05 Emma Shumate 3PTR GOOD (9 Pt); 35 Kennedy Blair Assist (3 Asst)","Emma Shumate",5.0,47.0,63.0
+2025.0,19751.0,3,108,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19751.0,3,106,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (5 Reb, 1 Off)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,3,104,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19751.0,3,102,"Michigan St.","DEF","REBOUND","Michigan St. REBOUND","","","",""
+2025.0,19751.0,3,102,"Michigan St.","SUBS","SUBS","23 Jalyn Brown OUT; 14 Grace VanSlooten IN","Jalyn Brown",23.0,"",""
+2025.0,19751.0,3,85,"Michigan St.","TURNOVER","TURNOVER","01 Rashunda Jones TURNOVER (5 TO)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,3,85,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (2 Stl)","Mir McLean",10.0,"",""
+2025.0,19751.0,3,76,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (2 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,3,62,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,3,62,"Michigan St.","FT","GOOD","14 Grace VanSlooten FT GOOD (11 Pt)","Grace VanSlooten",14.0,48.0,63.0
+2025.0,19751.0,3,62,"Michigan St.","FT","GOOD","14 Grace VanSlooten FT GOOD (12 Pt)","Grace VanSlooten",14.0,49.0,63.0
+2025.0,19751.0,3,54,"Michigan St.","FOUL","FOUL","10 Ines Sotelo FOUL (3 PF)","Ines Sotelo",10.0,"",""
+2025.0,19751.0,3,54,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (13 Pt)","Yarden Garzon",12.0,49.0,64.0
+2025.0,19751.0,3,54,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (14 Pt)","Yarden Garzon",12.0,49.0,65.0
+2025.0,19751.0,3,50,"Michigan St.","LAYUP","GOOD","14 Grace VanSlooten LAYUP GOOD (14 Pt); 35 Kennedy Blair Assist (4 Asst)","Grace VanSlooten",14.0,51.0,65.0
+2025.0,19751.0,3,24,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (12 Pt)","Kyndal Walker",8.0,51.0,67.0
+2025.0,19751.0,3,13,"Michigan St.","TURNOVER","TURNOVER","01 Rashunda Jones TURNOVER (6 TO)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,3,13,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (3 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,3,8,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (3 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,3,1,"Michigan St.","JUMPER","GOOD","10 Ines Sotelo JUMPER GOOD (4 Pt)","Ines Sotelo",10.0,53.0,67.0
+2025.0,19751.0,4,600,"Michigan St.","SUBS","SUBS","01 Rashunda Jones OUT; 23 Jalyn Brown IN","Rashunda Jones",1.0,"",""
+2025.0,19751.0,4,591,"Michigan St.","3PTR","MISS","23 Jalyn Brown 3PTR MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,4,587,"Maryland","DEF","REBOUND","00 Rainey Welson DEF. REBOUND (2 Reb, 2 Def)","Rainey Welson",0.0,"",""
+2025.0,19751.0,4,567,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19751.0,4,564,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (1 Reb, 1 Off)","Kyndal Walker",8.0,"",""
+2025.0,19751.0,4,562,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19751.0,4,559,"Michigan St.","DEF","REBOUND","35 Kennedy Blair DEF. REBOUND (5 Reb, 5 Def)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,4,552,"Michigan St.","LAYUP","GOOD","10 Ines Sotelo LAYUP GOOD (6 Pt); 35 Kennedy Blair Assist (5 Asst)","Ines Sotelo",10.0,55.0,67.0
+2025.0,19751.0,4,533,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (14 Pt)","Kyndal Walker",8.0,55.0,69.0
+2025.0,19751.0,4,524,"Michigan St.","TURNOVER","TURNOVER","23 Jalyn Brown TURNOVER (2 TO)","Jalyn Brown",23.0,"",""
+2025.0,19751.0,4,524,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (2 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,4,513,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19751.0,4,511,"Michigan St.","DEF","REBOUND","10 Ines Sotelo DEF. REBOUND (2 Reb, 1 Def)","Ines Sotelo",10.0,"",""
+2025.0,19751.0,4,504,"Michigan St.","3PTR","MISS","05 Emma Shumate 3PTR MISS","Emma Shumate",5.0,"",""
+2025.0,19751.0,4,499,"Maryland","DEF","REBOUND","00 Rainey Welson DEF. REBOUND (3 Reb, 3 Def)","Rainey Welson",0.0,"",""
+2025.0,19751.0,4,494,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (13 Pt)","Saylor Poffenbarger",6.0,55.0,72.0
+2025.0,19751.0,4,476,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,4,476,"Michigan St.","FT","MISS","35 Kennedy Blair FT MISS","Kennedy Blair",35.0,"",""
+2025.0,19751.0,4,476,"Michigan St.","DEADB","REBOUND","Michigan St. REBOUND","","","",""
+2025.0,19751.0,4,476,"Michigan St.","FT","GOOD","35 Kennedy Blair FT GOOD (8 Pt)","Kennedy Blair",35.0,56.0,72.0
+2025.0,19751.0,4,453,"Michigan St.","FOUL","FOUL","05 Emma Shumate FOUL (3 PF)","Emma Shumate",5.0,"",""
+2025.0,19751.0,4,453,"Michigan St.","SUBS","SUBS","23 Jalyn Brown OUT; 01 Rashunda Jones IN","Jalyn Brown",23.0,"",""
+2025.0,19751.0,4,453,"Maryland","FT","MISS","00 Rainey Welson FT MISS","Rainey Welson",0.0,"",""
+2025.0,19751.0,4,453,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19751.0,4,453,"Maryland","FT","GOOD","00 Rainey Welson FT GOOD (6 Pt)","Rainey Welson",0.0,56.0,73.0
+2025.0,19751.0,4,441,"Michigan St.","TURNOVER","TURNOVER","10 Ines Sotelo TURNOVER (2 TO)","Ines Sotelo",10.0,"",""
+2025.0,19751.0,4,441,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (3 Stl)","Mir McLean",10.0,"",""
+2025.0,19751.0,4,437,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,4,434,"Michigan St.","DEF","REBOUND","01 Rashunda Jones DEF. REBOUND (4 Reb, 2 Def)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,4,428,"Michigan St.","LAYUP","GOOD","14 Grace VanSlooten LAYUP GOOD (16 Pt); 35 Kennedy Blair Assist (6 Asst)","Grace VanSlooten",14.0,58.0,73.0
+2025.0,19751.0,4,428,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (2 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,4,428,"Michigan St.","SUBS","SUBS","10 Ines Sotelo OUT; 32 Marah Dykstra IN","Ines Sotelo",10.0,"",""
+2025.0,19751.0,4,428,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 07 Oluchi Okananwa IN","Rainey Welson",0.0,"",""
+2025.0,19751.0,4,428,"Michigan St.","FT","MISS","14 Grace VanSlooten FT MISS","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,4,427,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (3 Reb, 3 Def)","Mir McLean",10.0,"",""
+2025.0,19751.0,4,416,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,4,413,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (4 Reb, 1 Off)","Mir McLean",10.0,"",""
+2025.0,19751.0,4,412,"Maryland","JUMPER","GOOD","10 Mir McLean JUMPER GOOD (10 Pt)","Mir McLean",10.0,58.0,75.0
+2025.0,19751.0,4,404,"Michigan St.","LAYUP","GOOD","35 Kennedy Blair LAYUP GOOD (10 Pt)","Kennedy Blair",35.0,60.0,75.0
+2025.0,19751.0,4,378,"Maryland","LAYUP","MISS","10 Mir McLean LAYUP MISS; 14 Grace VanSlooten BLOCK (3 Blk)","Mir McLean",10.0,"",""
+2025.0,19751.0,4,375,"Michigan St.","DEF","REBOUND","14 Grace VanSlooten DEF. REBOUND (7 Reb, 4 Def)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,4,372,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (3 PF)","Yarden Garzon",12.0,"",""
+2025.0,19751.0,4,372,"Michigan St.","FT","GOOD","35 Kennedy Blair FT GOOD (11 Pt)","Kennedy Blair",35.0,61.0,75.0
+2025.0,19751.0,4,372,"Michigan St.","FT","GOOD","35 Kennedy Blair FT GOOD (12 Pt)","Kennedy Blair",35.0,62.0,75.0
+2025.0,19751.0,4,351,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (16 Pt); 06 Saylor Poffenbarger Assist (3 Asst)","Oluchi Okananwa",7.0,62.0,77.0
+2025.0,19751.0,4,351,"Michigan St.","FOUL","FOUL","35 Kennedy Blair FOUL (3 PF)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,4,351,"Michigan St.","TURNOVER","TURNOVER","35 Kennedy Blair TURNOVER (4 TO)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,4,351,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 00 Rainey Welson IN","Mir McLean",10.0,"",""
+2025.0,19751.0,4,340,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19751.0,4,337,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (4 Reb, 2 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,4,337,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (18 Pt)","Oluchi Okananwa",7.0,62.0,79.0
+2025.0,19751.0,4,316,"Michigan St.","JUMPER","MISS","01 Rashunda Jones JUMPER MISS","Rashunda Jones",1.0,"",""
+2025.0,19751.0,4,314,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (7 Reb, 6 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,4,292,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19751.0,4,289,"Michigan St.","DEF","REBOUND","35 Kennedy Blair DEF. REBOUND (6 Reb, 6 Def)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,4,284,"Michigan St.","LAYUP","GOOD","35 Kennedy Blair LAYUP GOOD (14 Pt)","Kennedy Blair",35.0,64.0,79.0
+2025.0,19751.0,4,284,"Maryland","FOUL","FOUL","00 Rainey Welson FOUL (2 PF)","Rainey Welson",0.0,"",""
+2025.0,19751.0,4,284,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19751.0,4,284,"Michigan St.","SUBS","SUBS","32 Marah Dykstra OUT; 23 Jalyn Brown IN; 35 Kennedy Blair OUT; 10 Ines Sotelo IN","Marah Dykstra",32.0,"",""
+2025.0,19751.0,4,284,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 10 Mir McLean IN","Rainey Welson",0.0,"",""
+2025.0,19751.0,4,284,"Michigan St.","FT","GOOD","35 Kennedy Blair FT GOOD (15 Pt)","Kennedy Blair",35.0,65.0,79.0
+2025.0,19751.0,4,256,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,4,254,"Michigan St.","DEF","REBOUND","14 Grace VanSlooten DEF. REBOUND (8 Reb, 5 Def)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,4,234,"Michigan St.","JUMPER","MISS","14 Grace VanSlooten JUMPER MISS","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,4,232,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (8 Reb, 7 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,4,204,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19751.0,4,200,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19751.0,4,195,"Maryland","JUMPER","MISS","10 Mir McLean JUMPER MISS; 14 Grace VanSlooten BLOCK (4 Blk)","Mir McLean",10.0,"",""
+2025.0,19751.0,4,195,"Michigan St.","DEF","REBOUND","Michigan St. REBOUND","","","",""
+2025.0,19751.0,4,195,"Michigan St.","SUBS","SUBS","05 Emma Shumate OUT; 35 Kennedy Blair IN","Emma Shumate",5.0,"",""
+2025.0,19751.0,4,178,"Michigan St.","SUBS","SUBS","10 Ines Sotelo OUT; 05 Emma Shumate IN","Ines Sotelo",10.0,"",""
+2025.0,19751.0,4,174,"Michigan St.","LAYUP","GOOD","14 Grace VanSlooten LAYUP GOOD (18 Pt); 35 Kennedy Blair Assist (7 Asst)","Grace VanSlooten",14.0,67.0,79.0
+2025.0,19751.0,4,174,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (3 PF)","Kyndal Walker",8.0,"",""
+2025.0,19751.0,4,174,"Michigan St.","FT","GOOD","14 Grace VanSlooten FT GOOD (19 Pt)","Grace VanSlooten",14.0,68.0,79.0
+2025.0,19751.0,4,155,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (20 Pt)","Oluchi Okananwa",7.0,68.0,81.0
+2025.0,19751.0,4,135,"Michigan St.","TURNOVER","TURNOVER","35 Kennedy Blair TURNOVER (5 TO)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,4,135,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19751.0,4,117,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (23 Pt); 08 Kyndal Walker Assist (2 Asst)","Oluchi Okananwa",7.0,68.0,84.0
+2025.0,19751.0,4,99,"Michigan St.","TURNOVER","TURNOVER","01 Rashunda Jones TURNOVER (7 TO)","Rashunda Jones",1.0,"",""
+2025.0,19751.0,4,99,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (4 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19751.0,4,77,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (16 Pt); 07 Oluchi Okananwa Assist (5 Asst)","Yarden Garzon",12.0,68.0,86.0
+2025.0,19751.0,4,48,"Michigan St.","LAYUP","GOOD","23 Jalyn Brown LAYUP GOOD (13 Pt)","Jalyn Brown",23.0,70.0,86.0
+2025.0,19751.0,4,48,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
+2025.0,19751.0,4,48,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,19751.0,4,47,"Michigan St.","FOUL","FOUL","35 Kennedy Blair FOUL (4 PF)","Kennedy Blair",35.0,"",""
+2025.0,19751.0,4,39,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (2nd TO, 3rd 30)","","","",""
+2025.0,19751.0,4,18,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (3 TO)","Addi Mack",3.0,"",""
+2025.0,19751.0,4,18,"Michigan St.","STEAL","STEAL","23 Jalyn Brown STEAL (1 Stl)","Jalyn Brown",23.0,"",""
+2025.0,19751.0,4,15,"Michigan St.","LAYUP","MISS","23 Jalyn Brown LAYUP MISS","Jalyn Brown",23.0,"",""
+2025.0,19751.0,4,13,"Michigan St.","OFF","REBOUND","14 Grace VanSlooten OFF. REBOUND (9 Reb, 4 Off)","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,4,12,"Michigan St.","JUMPER","MISS","14 Grace VanSlooten JUMPER MISS","Grace VanSlooten",14.0,"",""
+2025.0,19751.0,4,10,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (4 Reb, 4 Def)","Addi Mack",3.0,"",""
+2025.0,19751.0,4,10,"Maryland","TEAM","TIMEOUT","Maryland TIMEOUT Full (3rd TO, 1st Full)","","","",""
+2025.0,19751.0,4,10,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 00 Rainey Welson IN","Mir McLean",10.0,"",""
