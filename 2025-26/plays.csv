@@ -18889,3 +18889,359 @@
 2025.0,19754.0,4,3,"Ohio St.","DEF","REBOUND","22 Jaloni Cambridge DEF. REBOUND (8 Reb, 6 Def)","Jaloni Cambridge",22.0,"",""
 2025.0,19754.0,4,0,"Ohio St.","3PTR","MISS","22 Jaloni Cambridge 3PTR MISS","Jaloni Cambridge",22.0,"",""
 2025.0,19754.0,4,0,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19755.0,1,586,"Maryland","JUMPER","GOOD","10 Mir McLean JUMPER GOOD (2 Pt); 12 Yarden Garzon Assist (1 Asst)","Mir McLean",10.0,2.0,0.0
+2025.0,19755.0,1,561,"Purdue","LAYUP","GOOD","03 Nya Smith LAYUP GOOD (2 Pt)","Nya Smith",3.0,2.0,2.0
+2025.0,19755.0,1,546,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (2 Pt)","Oluchi Okananwa",7.0,4.0,2.0
+2025.0,19755.0,1,529,"Purdue","FOUL","FOUL","22 Kendall Puryear FOUL (1 PF)","Kendall Puryear",22.0,"",""
+2025.0,19755.0,1,529,"Purdue","TURNOVER","TURNOVER","22 Kendall Puryear TURNOVER (1 TO)","Kendall Puryear",22.0,"",""
+2025.0,19755.0,1,529,"Purdue","SUBS","SUBS","22 Kendall Puryear OUT; 35 Lana McCarthy IN","Kendall Puryear",22.0,"",""
+2025.0,19755.0,1,518,"Purdue","FOUL","FOUL","35 Lana McCarthy FOUL (1 PF)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,1,512,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (4 Pt)","Oluchi Okananwa",7.0,6.0,2.0
+2025.0,19755.0,1,500,"Purdue","TURNOVER","TURNOVER","23 Kiki Smith TURNOVER (1 TO)","Kiki Smith",23.0,"",""
+2025.0,19755.0,1,500,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19755.0,1,500,"Maryland","JUMPER","GOOD","10 Mir McLean JUMPER GOOD (4 Pt); 12 Yarden Garzon Assist (2 Asst)","Mir McLean",10.0,8.0,2.0
+2025.0,19755.0,1,487,"Purdue","3PTR","MISS","03 Nya Smith 3PTR MISS","Nya Smith",3.0,"",""
+2025.0,19755.0,1,485,"Purdue","OFF","REBOUND","35 Lana McCarthy OFF. REBOUND (1 Reb, 1 Off)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,1,485,"Purdue","LAYUP","GOOD","35 Lana McCarthy LAYUP GOOD (2 Pt)","Lana McCarthy",35.0,8.0,4.0
+2025.0,19755.0,1,475,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19755.0,1,473,"Purdue","DEF","REBOUND","35 Lana McCarthy DEF. REBOUND (2 Reb, 1 Def)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,1,455,"Purdue","LAYUP","MISS","44 Tara Daye LAYUP MISS","Tara Daye",44.0,"",""
+2025.0,19755.0,1,453,"Purdue","OFF","REBOUND","35 Lana McCarthy OFF. REBOUND (3 Reb, 2 Off)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,1,452,"Purdue","LAYUP","GOOD","35 Lana McCarthy LAYUP GOOD (4 Pt)","Lana McCarthy",35.0,8.0,6.0
+2025.0,19755.0,1,430,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (6 Pt); 12 Yarden Garzon Assist (3 Asst)","Oluchi Okananwa",7.0,10.0,6.0
+2025.0,19755.0,1,420,"Purdue","LAYUP","GOOD","35 Lana McCarthy LAYUP GOOD (6 Pt); 44 Tara Daye Assist (1 Asst)","Lana McCarthy",35.0,10.0,8.0
+2025.0,19755.0,1,403,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+2025.0,19755.0,1,403,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 40 Breanna Williams IN","Mir McLean",10.0,"",""
+2025.0,19755.0,1,385,"Purdue","3PTR","MISS","11 McKenna Layden 3PTR MISS","McKenna Layden",11.0,"",""
+2025.0,19755.0,1,383,"Purdue","OFF","REBOUND","35 Lana McCarthy OFF. REBOUND (4 Reb, 3 Off)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,1,383,"Maryland","FOUL","FOUL","40 Breanna Williams FOUL (1 PF)","Breanna Williams",40.0,"",""
+2025.0,19755.0,1,383,"Maryland","SUBS","SUBS","40 Breanna Williams OUT; 11 Marya Boiko IN","Breanna Williams",40.0,"",""
+2025.0,19755.0,1,381,"Purdue","3PTR","MISS","23 Kiki Smith 3PTR MISS","Kiki Smith",23.0,"",""
+2025.0,19755.0,1,378,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,1,374,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19755.0,1,370,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,1,367,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (8 Pt)","Oluchi Okananwa",7.0,12.0,8.0
+2025.0,19755.0,1,358,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,1,358,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 12 Yarden Garzon OUT; 00 Rainey Welson IN; 08 Kyndal Walker IN","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,1,340,"Purdue","JUMPER","MISS","23 Kiki Smith JUMPER MISS","Kiki Smith",23.0,"",""
+2025.0,19755.0,1,337,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,1,333,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS; 03 Nya Smith BLOCK (1 Blk)","Addi Mack",3.0,"",""
+2025.0,19755.0,1,333,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19755.0,1,333,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 12 Yarden Garzon IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,1,333,"Purdue","SUBS","SUBS","11 McKenna Layden OUT; 35 Lana McCarthy OUT; 08 Hila Karsh IN; 55 Avery Gordon IN","McKenna Layden",11.0,"",""
+2025.0,19755.0,1,331,"Maryland","TURNOVER","TURNOVER","11 Marya Boiko TURNOVER (1 TO)","Marya Boiko",11.0,"",""
+2025.0,19755.0,1,331,"Purdue","STEAL","STEAL","03 Nya Smith STEAL (1 Stl)","Nya Smith",3.0,"",""
+2025.0,19755.0,1,318,"Purdue","TURNOVER","TURNOVER","03 Nya Smith TURNOVER (1 TO)","Nya Smith",3.0,"",""
+2025.0,19755.0,1,318,"Maryland","STEAL","STEAL","08 Kyndal Walker STEAL (1 Stl)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,1,307,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (2 Pt)","Kyndal Walker",8.0,14.0,8.0
+2025.0,19755.0,1,287,"Purdue","3PTR","GOOD","23 Kiki Smith 3PTR GOOD (3 Pt); 08 Hila Karsh Assist (1 Asst)","Kiki Smith",23.0,14.0,11.0
+2025.0,19755.0,1,261,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS; 55 Avery Gordon BLOCK (1 Blk)","Addi Mack",3.0,"",""
+2025.0,19755.0,1,257,"Purdue","DEF","REBOUND","23 Kiki Smith DEF. REBOUND (1 Reb, 1 Def)","Kiki Smith",23.0,"",""
+2025.0,19755.0,1,249,"Purdue","TURNOVER","TURNOVER","44 Tara Daye TURNOVER (1 TO)","Tara Daye",44.0,"",""
+2025.0,19755.0,1,249,"Maryland","STEAL","STEAL","08 Kyndal Walker STEAL (2 Stl)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,1,242,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19755.0,1,239,"Maryland","OFF","REBOUND","03 Addi Mack OFF. REBOUND (1 Reb, 1 Off)","Addi Mack",3.0,"",""
+2025.0,19755.0,1,228,"Maryland","JUMPER","MISS","11 Marya Boiko JUMPER MISS","Marya Boiko",11.0,"",""
+2025.0,19755.0,1,226,"Purdue","DEF","REBOUND","03 Nya Smith DEF. REBOUND (1 Reb, 1 Def)","Nya Smith",3.0,"",""
+2025.0,19755.0,1,209,"Purdue","FOUL","FOUL","44 Tara Daye FOUL (1 PF)","Tara Daye",44.0,"",""
+2025.0,19755.0,1,209,"Purdue","TURNOVER","TURNOVER","44 Tara Daye TURNOVER (2 TO)","Tara Daye",44.0,"",""
+2025.0,19755.0,1,209,"Purdue","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19755.0,1,209,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 11 Marya Boiko OUT; 06 Saylor Poffenbarger IN; 07 Oluchi Okananwa IN","Addi Mack",3.0,"",""
+2025.0,19755.0,1,209,"Purdue","SUBS","SUBS","44 Tara Daye OUT; 55 Avery Gordon OUT; 13 Saige Stahl IN; 35 Lana McCarthy IN","Tara Daye",44.0,"",""
+2025.0,19755.0,1,200,"Purdue","FOUL","FOUL","23 Kiki Smith FOUL (1 PF)","Kiki Smith",23.0,"",""
+2025.0,19755.0,1,200,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,1,200,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19755.0,1,200,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (9 Pt)","Oluchi Okananwa",7.0,15.0,11.0
+2025.0,19755.0,1,173,"Purdue","3PTR","GOOD","03 Nya Smith 3PTR GOOD (5 Pt); 23 Kiki Smith Assist (1 Asst)","Nya Smith",3.0,15.0,14.0
+2025.0,19755.0,1,161,"Maryland","3PTR","GOOD","08 Kyndal Walker 3PTR GOOD (5 Pt); 00 Rainey Welson Assist (1 Asst)","Kyndal Walker",8.0,18.0,14.0
+2025.0,19755.0,1,137,"Purdue","TURNOVER","TURNOVER","13 Saige Stahl TURNOVER (1 TO)","Saige Stahl",13.0,"",""
+2025.0,19755.0,1,137,"Maryland","STEAL","STEAL","08 Kyndal Walker STEAL (3 Stl)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,1,132,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 10 Mir McLean IN","Rainey Welson",0.0,"",""
+2025.0,19755.0,1,125,"Maryland","LAYUP","MISS","12 Yarden Garzon LAYUP MISS","Yarden Garzon",12.0,"",""
+2025.0,19755.0,1,123,"Purdue","DEF","REBOUND","13 Saige Stahl DEF. REBOUND (1 Reb, 1 Def)","Saige Stahl",13.0,"",""
+2025.0,19755.0,1,115,"Purdue","TURNOVER","TURNOVER","23 Kiki Smith TURNOVER (2 TO)","Kiki Smith",23.0,"",""
+2025.0,19755.0,1,115,"Purdue","SUBS","SUBS","13 Saige Stahl OUT; 23 Kiki Smith OUT; 11 McKenna Layden IN; 44 Tara Daye IN","Saige Stahl",13.0,"",""
+2025.0,19755.0,1,98,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (7 Pt); 10 Mir McLean Assist (1 Asst)","Kyndal Walker",8.0,20.0,14.0
+2025.0,19755.0,1,78,"Purdue","LAYUP","MISS","35 Lana McCarthy LAYUP MISS","Lana McCarthy",35.0,"",""
+2025.0,19755.0,1,76,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,1,66,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,1,66,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 03 Addi Mack IN","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,1,66,"Purdue","SUBS","SUBS","08 Hila Karsh OUT; 35 Lana McCarthy OUT; 22 Kendall Puryear IN; 23 Kiki Smith IN","Hila Karsh",8.0,"",""
+2025.0,19755.0,1,57,"Purdue","3PTR","MISS","03 Nya Smith 3PTR MISS","Nya Smith",3.0,"",""
+2025.0,19755.0,1,53,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 4 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,1,48,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025.0,19755.0,1,33,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025.0,19755.0,1,33,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 00 Rainey Welson IN","Yarden Garzon",12.0,"",""
+2025.0,19755.0,1,31,"Purdue","3PTR","GOOD","23 Kiki Smith 3PTR GOOD (6 Pt); 22 Kendall Puryear Assist (1 Asst)","Kiki Smith",23.0,20.0,17.0
+2025.0,19755.0,1,4,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (9 Pt); 03 Addi Mack Assist (1 Asst)","Kyndal Walker",8.0,22.0,17.0
+2025.0,19755.0,2,584,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,2,584,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 03 Addi Mack OUT; 07 Oluchi Okananwa IN; 12 Yarden Garzon IN","Rainey Welson",0.0,"",""
+2025.0,19755.0,2,584,"Purdue","FT","GOOD","03 Nya Smith FT GOOD (6 Pt)","Nya Smith",3.0,22.0,18.0
+2025.0,19755.0,2,584,"Purdue","FT","GOOD","03 Nya Smith FT GOOD (7 Pt)","Nya Smith",3.0,22.0,19.0
+2025.0,19755.0,2,566,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19755.0,2,562,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19755.0,2,556,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (11 Pt)","Oluchi Okananwa",7.0,24.0,19.0
+2025.0,19755.0,2,534,"Purdue","SUBS","SUBS","11 McKenna Layden OUT; 08 Hila Karsh IN","McKenna Layden",11.0,"",""
+2025.0,19755.0,2,523,"Purdue","JUMPER","MISS","08 Hila Karsh JUMPER MISS","Hila Karsh",8.0,"",""
+2025.0,19755.0,2,523,"Purdue","DEADB","REBOUND","Purdue REBOUND","","","",""
+2025.0,19755.0,2,523,"Purdue","TURNOVER","TURNOVER","Purdue TURNOVER (1 TO)","","","",""
+2025.0,19755.0,2,523,"Purdue","SUBS","SUBS","22 Kendall Puryear OUT; 35 Lana McCarthy IN","Kendall Puryear",22.0,"",""
+2025.0,19755.0,2,512,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,2,509,"Purdue","DEF","REBOUND","03 Nya Smith DEF. REBOUND (2 Reb, 2 Def)","Nya Smith",3.0,"",""
+2025.0,19755.0,2,507,"Purdue","3PTR","MISS","23 Kiki Smith 3PTR MISS","Kiki Smith",23.0,"",""
+2025.0,19755.0,2,502,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 5 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,2,497,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (3 Pt); 12 Yarden Garzon Assist (4 Asst)","Saylor Poffenbarger",6.0,27.0,19.0
+2025.0,19755.0,2,488,"Purdue","JUMPER","MISS","35 Lana McCarthy JUMPER MISS","Lana McCarthy",35.0,"",""
+2025.0,19755.0,2,486,"Purdue","OFF","REBOUND","35 Lana McCarthy OFF. REBOUND (5 Reb, 4 Off)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,2,483,"Purdue","TURNOVER","TURNOVER","35 Lana McCarthy TURNOVER (1 TO)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,2,483,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (2 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19755.0,2,480,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,2,478,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (2 Reb, 2 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,2,468,"Maryland","JUMPER","GOOD","10 Mir McLean JUMPER GOOD (6 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Mir McLean",10.0,29.0,19.0
+2025.0,19755.0,2,456,"Purdue","30SEC","TIMEOUT","Purdue TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19755.0,2,456,"Purdue","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19755.0,2,456,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 40 Breanna Williams IN","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,2,444,"Purdue","3PTR","GOOD","03 Nya Smith 3PTR GOOD (10 Pt); 08 Hila Karsh Assist (2 Asst)","Nya Smith",3.0,29.0,22.0
+2025.0,19755.0,2,423,"Maryland","JUMPER","MISS","10 Mir McLean JUMPER MISS","Mir McLean",10.0,"",""
+2025.0,19755.0,2,419,"Purdue","DEF","REBOUND","44 Tara Daye DEF. REBOUND (1 Reb, 1 Def)","Tara Daye",44.0,"",""
+2025.0,19755.0,2,403,"Purdue","JUMPER","GOOD","44 Tara Daye JUMPER GOOD (2 Pt)","Tara Daye",44.0,29.0,24.0
+2025.0,19755.0,2,386,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19755.0,2,384,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (6 Reb, 1 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,2,384,"Purdue","FOUL","FOUL","08 Hila Karsh FOUL (1 PF)","Hila Karsh",8.0,"",""
+2025.0,19755.0,2,384,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 10 Mir McLean OUT; 40 Breanna Williams OUT; 00 Rainey Welson IN; 03 Addi Mack IN; 07 Oluchi Okananwa IN","Kyndal Walker",8.0,"",""
+2025.0,19755.0,2,384,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (4 Pt)","Saylor Poffenbarger",6.0,30.0,24.0
+2025.0,19755.0,2,384,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (5 Pt)","Saylor Poffenbarger",6.0,31.0,24.0
+2025.0,19755.0,2,384,"Purdue","SUBS","SUBS","35 Lana McCarthy OUT; 13 Saige Stahl IN","Lana McCarthy",35.0,"",""
+2025.0,19755.0,2,357,"Purdue","TURNOVER","TURNOVER","44 Tara Daye TURNOVER (3 TO)","Tara Daye",44.0,"",""
+2025.0,19755.0,2,341,"Purdue","FOUL","FOUL","44 Tara Daye FOUL (2 PF)","Tara Daye",44.0,"",""
+2025.0,19755.0,2,341,"Purdue","SUBS","SUBS","44 Tara Daye OUT; 11 McKenna Layden IN","Tara Daye",44.0,"",""
+2025.0,19755.0,2,336,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (2 Pt); 00 Rainey Welson Assist (2 Asst)","Addi Mack",3.0,33.0,24.0
+2025.0,19755.0,2,336,"Purdue","FOUL","FOUL","03 Nya Smith FOUL (1 PF)","Nya Smith",3.0,"",""
+2025.0,19755.0,2,336,"Purdue","SUBS","SUBS","03 Nya Smith OUT; 44 Tara Daye IN; 13 Saige Stahl OUT; 44 Tara Daye OUT; 03 Nya Smith IN; 55 Avery Gordon IN","Nya Smith",3.0,"",""
+2025.0,19755.0,2,336,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (3 Pt)","Addi Mack",3.0,34.0,24.0
+2025.0,19755.0,2,309,"Purdue","LAYUP","MISS","55 Avery Gordon LAYUP MISS","Avery Gordon",55.0,"",""
+2025.0,19755.0,2,307,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (7 Reb, 6 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,2,300,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (3 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Rainey Welson",0.0,37.0,24.0
+2025.0,19755.0,2,273,"Purdue","3PTR","MISS","23 Kiki Smith 3PTR MISS; 03 Addi Mack BLOCK (1 Blk)","Kiki Smith",23.0,"",""
+2025.0,19755.0,2,271,"Purdue","OFF","REBOUND","55 Avery Gordon OFF. REBOUND (1 Reb, 1 Off)","Avery Gordon",55.0,"",""
+2025.0,19755.0,2,271,"Purdue","TURNOVER","TURNOVER","55 Avery Gordon TURNOVER (1 TO)","Avery Gordon",55.0,"",""
+2025.0,19755.0,2,257,"Purdue","SUBS","SUBS","55 Avery Gordon OUT; 22 Kendall Puryear IN","Avery Gordon",55.0,"",""
+2025.0,19755.0,2,252,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,2,250,"Purdue","DEF","REBOUND","11 McKenna Layden DEF. REBOUND (1 Reb, 1 Def)","McKenna Layden",11.0,"",""
+2025.0,19755.0,2,236,"Purdue","3PTR","GOOD","23 Kiki Smith 3PTR GOOD (9 Pt); 03 Nya Smith Assist (1 Asst)","Kiki Smith",23.0,37.0,27.0
+2025.0,19755.0,2,210,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (8 Pt); 12 Yarden Garzon Assist (5 Asst)","Saylor Poffenbarger",6.0,40.0,27.0
+2025.0,19755.0,2,193,"Purdue","LAYUP","MISS","23 Kiki Smith LAYUP MISS","Kiki Smith",23.0,"",""
+2025.0,19755.0,2,191,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (8 Reb, 7 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,2,187,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19755.0,2,183,"Purdue","DEF","REBOUND","08 Hila Karsh DEF. REBOUND (1 Reb, 1 Def)","Hila Karsh",8.0,"",""
+2025.0,19755.0,2,171,"Purdue","TURNOVER","TURNOVER","08 Hila Karsh TURNOVER (1 TO)","Hila Karsh",8.0,"",""
+2025.0,19755.0,2,171,"Purdue","30SEC","TIMEOUT","Purdue TIMEOUT 30 Sec. (2nd TO, 2nd 30)","","","",""
+2025.0,19755.0,2,171,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 08 Kyndal Walker IN","Rainey Welson",0.0,"",""
+2025.0,19755.0,2,171,"Purdue","SUBS","SUBS","23 Kiki Smith OUT; 44 Tara Daye IN","Kiki Smith",23.0,"",""
+2025.0,19755.0,2,159,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (2 TO)","Yarden Garzon",12.0,"",""
+2025.0,19755.0,2,159,"Purdue","STEAL","STEAL","11 McKenna Layden STEAL (1 Stl)","McKenna Layden",11.0,"",""
+2025.0,19755.0,2,141,"Purdue","TURNOVER","TURNOVER","22 Kendall Puryear TURNOVER (2 TO)","Kendall Puryear",22.0,"",""
+2025.0,19755.0,2,127,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,2,124,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (3 Reb, 3 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,2,124,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (13 Pt)","Oluchi Okananwa",7.0,42.0,27.0
+2025.0,19755.0,2,109,"Purdue","SUBS","SUBS","22 Kendall Puryear OUT; 35 Lana McCarthy IN","Kendall Puryear",22.0,"",""
+2025.0,19755.0,2,98,"Purdue","LAYUP","MISS","44 Tara Daye LAYUP MISS; 06 Saylor Poffenbarger BLOCK (1 Blk)","Tara Daye",44.0,"",""
+2025.0,19755.0,2,94,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,19755.0,2,88,"Purdue","FOUL","FOUL","35 Lana McCarthy FOUL (2 PF)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,2,88,"Purdue","SUBS","SUBS","35 Lana McCarthy OUT; 13 Saige Stahl IN","Lana McCarthy",35.0,"",""
+2025.0,19755.0,2,79,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (10 Pt)","Saylor Poffenbarger",6.0,44.0,27.0
+2025.0,19755.0,2,79,"Purdue","FOUL","FOUL","13 Saige Stahl FOUL (1 PF)","Saige Stahl",13.0,"",""
+2025.0,19755.0,2,79,"Maryland","FT","GOOD","06 Saylor Poffenbarger FT GOOD (11 Pt)","Saylor Poffenbarger",6.0,45.0,27.0
+2025.0,19755.0,2,79,"Purdue","SUBS","SUBS","44 Tara Daye OUT; 23 Kiki Smith IN","Tara Daye",44.0,"",""
+2025.0,19755.0,2,69,"Purdue","3PTR","GOOD","08 Hila Karsh 3PTR GOOD (3 Pt)","Hila Karsh",8.0,45.0,30.0
+2025.0,19755.0,2,57,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (16 Pt); 06 Saylor Poffenbarger Assist (2 Asst)","Oluchi Okananwa",7.0,48.0,30.0
+2025.0,19755.0,2,40,"Purdue","JUMPER","GOOD","08 Hila Karsh JUMPER GOOD (5 Pt)","Hila Karsh",8.0,48.0,32.0
+2025.0,19755.0,2,13,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19755.0,2,10,"Purdue","DEF","REBOUND","08 Hila Karsh DEF. REBOUND (2 Reb, 2 Def)","Hila Karsh",8.0,"",""
+2025.0,19755.0,2,6,"Purdue","3PTR","MISS","03 Nya Smith 3PTR MISS","Nya Smith",3.0,"",""
+2025.0,19755.0,2,3,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (1 Reb, 1 Def)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,2,0,"Purdue","FOUL","FOUL","23 Kiki Smith FOUL (2 PF)","Kiki Smith",23.0,"",""
+2025.0,19755.0,2,0,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (4 Pt)","Addi Mack",3.0,49.0,32.0
+2025.0,19755.0,2,0,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (5 Pt)","Addi Mack",3.0,50.0,32.0
+2025.0,19755.0,2,0,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (6 Pt)","Addi Mack",3.0,51.0,32.0
+2025.0,19755.0,3,600,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 10 Mir McLean IN","Kyndal Walker",8.0,"",""
+2025.0,19755.0,3,600,"Purdue","SUBS","SUBS","08 Hila Karsh OUT; 13 Saige Stahl OUT; 22 Kendall Puryear IN; 44 Tara Daye IN","Hila Karsh",8.0,"",""
+2025.0,19755.0,3,576,"Purdue","LAYUP","GOOD","03 Nya Smith LAYUP GOOD (12 Pt)","Nya Smith",3.0,51.0,34.0
+2025.0,19755.0,3,557,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (9 Pt); 12 Yarden Garzon Assist (6 Asst)","Addi Mack",3.0,54.0,34.0
+2025.0,19755.0,3,544,"Purdue","TURNOVER","TURNOVER","11 McKenna Layden TURNOVER (1 TO)","McKenna Layden",11.0,"",""
+2025.0,19755.0,3,544,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,3,535,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19755.0,3,533,"Purdue","DEF","REBOUND","44 Tara Daye DEF. REBOUND (2 Reb, 2 Def)","Tara Daye",44.0,"",""
+2025.0,19755.0,3,519,"Purdue","TURNOVER","TURNOVER","11 McKenna Layden TURNOVER (2 TO)","McKenna Layden",11.0,"",""
+2025.0,19755.0,3,519,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,3,517,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (18 Pt)","Oluchi Okananwa",7.0,56.0,34.0
+2025.0,19755.0,3,504,"Purdue","3PTR","GOOD","23 Kiki Smith 3PTR GOOD (12 Pt); 44 Tara Daye Assist (2 Asst)","Kiki Smith",23.0,56.0,37.0
+2025.0,19755.0,3,491,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,3,488,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (4 Reb, 4 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,3,486,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (20 Pt)","Oluchi Okananwa",7.0,58.0,37.0
+2025.0,19755.0,3,462,"Purdue","LAYUP","GOOD","23 Kiki Smith LAYUP GOOD (14 Pt); 03 Nya Smith Assist (2 Asst)","Kiki Smith",23.0,58.0,39.0
+2025.0,19755.0,3,432,"Maryland","LAYUP","MISS","10 Mir McLean LAYUP MISS","Mir McLean",10.0,"",""
+2025.0,19755.0,3,429,"Purdue","DEF","REBOUND","22 Kendall Puryear DEF. REBOUND (1 Reb, 1 Def)","Kendall Puryear",22.0,"",""
+2025.0,19755.0,3,420,"Purdue","LAYUP","MISS","03 Nya Smith LAYUP MISS","Nya Smith",3.0,"",""
+2025.0,19755.0,3,418,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean",10.0,"",""
+2025.0,19755.0,3,412,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,3,412,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 07 Oluchi Okananwa OUT; 00 Rainey Welson IN; 40 Breanna Williams IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,3,412,"Purdue","SUBS","SUBS","11 McKenna Layden OUT; 22 Kendall Puryear OUT; 08 Hila Karsh IN; 35 Lana McCarthy IN","McKenna Layden",11.0,"",""
+2025.0,19755.0,3,380,"Purdue","TURNOVER","TURNOVER","Purdue TURNOVER (2 TO)","","","",""
+2025.0,19755.0,3,358,"Purdue","FOUL","FOUL","44 Tara Daye FOUL (3 PF)","Tara Daye",44.0,"",""
+2025.0,19755.0,3,358,"Maryland","FT","MISS","10 Mir McLean FT MISS","Mir McLean",10.0,"",""
+2025.0,19755.0,3,358,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19755.0,3,356,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (2 Reb, 1 Off)","Yarden Garzon",12.0,"",""
+2025.0,19755.0,3,356,"Purdue","SUBS","SUBS","44 Tara Daye OUT; 13 Saige Stahl IN","Tara Daye",44.0,"",""
+2025.0,19755.0,3,348,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (8 Pt)","Mir McLean",10.0,60.0,39.0
+2025.0,19755.0,3,339,"Purdue","LAYUP","MISS","23 Kiki Smith LAYUP MISS","Kiki Smith",23.0,"",""
+2025.0,19755.0,3,337,"Purdue","OFF","REBOUND","23 Kiki Smith OFF. REBOUND (2 Reb, 1 Off)","Kiki Smith",23.0,"",""
+2025.0,19755.0,3,329,"Purdue","LAYUP","GOOD","35 Lana McCarthy LAYUP GOOD (8 Pt)","Lana McCarthy",35.0,60.0,41.0
+2025.0,19755.0,3,321,"Maryland","LAYUP","GOOD","00 Rainey Welson LAYUP GOOD (5 Pt); 12 Yarden Garzon Assist (7 Asst)","Rainey Welson",0.0,62.0,41.0
+2025.0,19755.0,3,305,"Purdue","JUMPER","GOOD","03 Nya Smith JUMPER GOOD (14 Pt)","Nya Smith",3.0,62.0,43.0
+2025.0,19755.0,3,280,"Maryland","JUMPER","GOOD","40 Breanna Williams JUMPER GOOD (2 Pt); 03 Addi Mack Assist (2 Asst)","Breanna Williams",40.0,64.0,43.0
+2025.0,19755.0,3,263,"Purdue","JUMPER","MISS","23 Kiki Smith JUMPER MISS; 10 Mir McLean BLOCK (1 Blk)","Kiki Smith",23.0,"",""
+2025.0,19755.0,3,260,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (2 Reb, 2 Def)","Mir McLean",10.0,"",""
+2025.0,19755.0,3,256,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (3 Pt); 03 Addi Mack Assist (3 Asst)","Yarden Garzon",12.0,67.0,43.0
+2025.0,19755.0,3,249,"Purdue","30SEC","TIMEOUT","Purdue TIMEOUT 30 Sec. (1st TO, 3rd 30)","","","",""
+2025.0,19755.0,3,249,"Purdue","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19755.0,3,249,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 10 Mir McLean OUT; 12 Yarden Garzon OUT; 06 Saylor Poffenbarger IN; 07 Oluchi Okananwa IN; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025.0,19755.0,3,247,"Purdue","TURNOVER","TURNOVER","08 Hila Karsh TURNOVER (2 TO)","Hila Karsh",8.0,"",""
+2025.0,19755.0,3,247,"Maryland","STEAL","STEAL","00 Rainey Welson STEAL (1 Stl)","Rainey Welson",0.0,"",""
+2025.0,19755.0,3,238,"Purdue","FOUL","FOUL","13 Saige Stahl FOUL (2 PF)","Saige Stahl",13.0,"",""
+2025.0,19755.0,3,238,"Purdue","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19755.0,3,236,"Purdue","FOUL","FOUL","35 Lana McCarthy FOUL (3 PF)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,3,236,"Purdue","SUBS","SUBS","35 Lana McCarthy OUT; 55 Avery Gordon IN","Lana McCarthy",35.0,"",""
+2025.0,19755.0,3,227,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,3,223,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (5 Reb, 5 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,3,218,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,3,215,"Purdue","DEF","REBOUND","03 Nya Smith DEF. REBOUND (3 Reb, 3 Def)","Nya Smith",3.0,"",""
+2025.0,19755.0,3,215,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,3,202,"Purdue","TURNOVER","TURNOVER","08 Hila Karsh TURNOVER (3 TO)","Hila Karsh",8.0,"",""
+2025.0,19755.0,3,202,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (2 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,3,197,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (22 Pt)","Oluchi Okananwa",7.0,69.0,43.0
+2025.0,19755.0,3,179,"Purdue","LAYUP","MISS","08 Hila Karsh LAYUP MISS","Hila Karsh",8.0,"",""
+2025.0,19755.0,3,177,"Purdue","OFF","REBOUND","08 Hila Karsh OFF. REBOUND (3 Reb, 1 Off)","Hila Karsh",8.0,"",""
+2025.0,19755.0,3,174,"Purdue","JUMPER","MISS","03 Nya Smith JUMPER MISS","Nya Smith",3.0,"",""
+2025.0,19755.0,3,172,"Purdue","OFF","REBOUND","55 Avery Gordon OFF. REBOUND (2 Reb, 2 Off)","Avery Gordon",55.0,"",""
+2025.0,19755.0,3,171,"Purdue","LAYUP","MISS","55 Avery Gordon LAYUP MISS","Avery Gordon",55.0,"",""
+2025.0,19755.0,3,170,"Purdue","OFF","REBOUND","55 Avery Gordon OFF. REBOUND (3 Reb, 3 Off)","Avery Gordon",55.0,"",""
+2025.0,19755.0,3,170,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (2 PF)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,3,170,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 40 Breanna Williams OUT; 03 Addi Mack IN; 11 Marya Boiko IN","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,3,170,"Purdue","FT","MISS","55 Avery Gordon FT MISS","Avery Gordon",55.0,"",""
+2025.0,19755.0,3,170,"Purdue","DEADB","REBOUND","Purdue REBOUND","","","",""
+2025.0,19755.0,3,170,"Purdue","FT","GOOD","55 Avery Gordon FT GOOD (1 Pt)","Avery Gordon",55.0,69.0,44.0
+2025.0,19755.0,3,155,"Maryland","3PTR","MISS","08 Kyndal Walker 3PTR MISS","Kyndal Walker",8.0,"",""
+2025.0,19755.0,3,153,"Purdue","DEF","REBOUND","55 Avery Gordon DEF. REBOUND (4 Reb, 1 Def)","Avery Gordon",55.0,"",""
+2025.0,19755.0,3,136,"Purdue","LAYUP","GOOD","03 Nya Smith LAYUP GOOD (16 Pt)","Nya Smith",3.0,69.0,46.0
+2025.0,19755.0,3,123,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,19755.0,3,120,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (2 Reb, 1 Off)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,3,118,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (11 Pt)","Kyndal Walker",8.0,71.0,46.0
+2025.0,19755.0,3,118,"Purdue","FOUL","FOUL","03 Nya Smith FOUL (2 PF)","Nya Smith",3.0,"",""
+2025.0,19755.0,3,118,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (12 Pt)","Kyndal Walker",8.0,72.0,46.0
+2025.0,19755.0,3,118,"Purdue","SUBS","SUBS","23 Kiki Smith OUT; 44 Tara Daye IN","Kiki Smith",23.0,"",""
+2025.0,19755.0,3,97,"Purdue","LAYUP","GOOD","08 Hila Karsh LAYUP GOOD (7 Pt)","Hila Karsh",8.0,72.0,48.0
+2025.0,19755.0,3,76,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (2 TO)","Addi Mack",3.0,"",""
+2025.0,19755.0,3,76,"Purdue","STEAL","STEAL","13 Saige Stahl STEAL (1 Stl)","Saige Stahl",13.0,"",""
+2025.0,19755.0,3,66,"Purdue","JUMPER","MISS","03 Nya Smith JUMPER MISS","Nya Smith",3.0,"",""
+2025.0,19755.0,3,63,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (9 Reb, 8 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,3,58,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (12 Pt); 08 Kyndal Walker Assist (1 Asst)","Addi Mack",3.0,75.0,48.0
+2025.0,19755.0,3,35,"Purdue","3PTR","MISS","08 Hila Karsh 3PTR MISS","Hila Karsh",8.0,"",""
+2025.0,19755.0,3,33,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19755.0,3,33,"Purdue","FOUL","FOUL","44 Tara Daye FOUL (4 PF)","Tara Daye",44.0,"",""
+2025.0,19755.0,3,33,"Purdue","SUBS","SUBS","13 Saige Stahl OUT; 44 Tara Daye OUT; 55 Avery Gordon OUT; 11 McKenna Layden IN; 22 Kendall Puryear IN; 23 Kiki Smith IN","Saige Stahl",13.0,"",""
+2025.0,19755.0,3,33,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (13 Pt)","Kyndal Walker",8.0,76.0,48.0
+2025.0,19755.0,3,33,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (14 Pt)","Kyndal Walker",8.0,77.0,48.0
+2025.0,19755.0,3,5,"Maryland","FOUL","FOUL","00 Rainey Welson FOUL (1 PF)","Rainey Welson",0.0,"",""
+2025.0,19755.0,3,5,"Purdue","FT","MISS","22 Kendall Puryear FT MISS","Kendall Puryear",22.0,"",""
+2025.0,19755.0,3,5,"Purdue","DEADB","REBOUND","Purdue REBOUND","","","",""
+2025.0,19755.0,3,5,"Purdue","OFF","REBOUND","Purdue REBOUND","","","",""
+2025.0,19755.0,3,1,"Purdue","JUMPER","MISS","23 Kiki Smith JUMPER MISS; 11 Marya Boiko BLOCK (1 Blk)","Kiki Smith",23.0,"",""
+2025.0,19755.0,3,0,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (3 Reb, 2 Def)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,4,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 06 Saylor Poffenbarger OUT; 10 Mir McLean IN; 12 Yarden Garzon IN","Rainey Welson",0.0,"",""
+2025.0,19755.0,4,580,"Purdue","LAYUP","MISS","22 Kendall Puryear LAYUP MISS; 11 Marya Boiko BLOCK (2 Blk)","Kendall Puryear",22.0,"",""
+2025.0,19755.0,4,576,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (1 Reb, 1 Def)","Marya Boiko",11.0,"",""
+2025.0,19755.0,4,571,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (16 Pt)","Kyndal Walker",8.0,79.0,48.0
+2025.0,19755.0,4,559,"Purdue","LAYUP","MISS","03 Nya Smith LAYUP MISS","Nya Smith",3.0,"",""
+2025.0,19755.0,4,557,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (2 Reb, 2 Def)","Marya Boiko",11.0,"",""
+2025.0,19755.0,4,556,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (1 TO)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,4,543,"Purdue","JUMPER","GOOD","11 McKenna Layden JUMPER GOOD (2 Pt); 03 Nya Smith Assist (3 Asst)","McKenna Layden",11.0,79.0,50.0
+2025.0,19755.0,4,519,"Maryland","LAYUP","MISS","10 Mir McLean LAYUP MISS","Mir McLean",10.0,"",""
+2025.0,19755.0,4,516,"Purdue","DEF","REBOUND","11 McKenna Layden DEF. REBOUND (2 Reb, 2 Def)","McKenna Layden",11.0,"",""
+2025.0,19755.0,4,510,"Purdue","TURNOVER","TURNOVER","23 Kiki Smith TURNOVER (3 TO)","Kiki Smith",23.0,"",""
+2025.0,19755.0,4,510,"Purdue","SUBS","SUBS","22 Kendall Puryear OUT; 23 Kiki Smith OUT; 35 Lana McCarthy IN; 44 Tara Daye IN","Kendall Puryear",22.0,"",""
+2025.0,19755.0,4,492,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (10 Pt)","Mir McLean",10.0,81.0,50.0
+2025.0,19755.0,4,492,"Purdue","FOUL","FOUL","11 McKenna Layden FOUL (1 PF)","McKenna Layden",11.0,"",""
+2025.0,19755.0,4,492,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (11 Pt)","Mir McLean",10.0,82.0,50.0
+2025.0,19755.0,4,480,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+2025.0,19755.0,4,480,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 00 Rainey Welson IN","Mir McLean",10.0,"",""
+2025.0,19755.0,4,471,"Purdue","3PTR","GOOD","11 McKenna Layden 3PTR GOOD (5 Pt); 03 Nya Smith Assist (4 Asst)","McKenna Layden",11.0,82.0,53.0
+2025.0,19755.0,4,454,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (2 TO)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,4,454,"Purdue","STEAL","STEAL","44 Tara Daye STEAL (1 Stl)","Tara Daye",44.0,"",""
+2025.0,19755.0,4,447,"Purdue","3PTR","MISS","08 Hila Karsh 3PTR MISS","Hila Karsh",8.0,"",""
+2025.0,19755.0,4,444,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19755.0,4,444,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 07 Oluchi Okananwa IN","Addi Mack",3.0,"",""
+2025.0,19755.0,4,444,"Purdue","SUBS","SUBS","08 Hila Karsh OUT; 23 Kiki Smith IN","Hila Karsh",8.0,"",""
+2025.0,19755.0,4,435,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (6 Pt); 08 Kyndal Walker Assist (2 Asst)","Yarden Garzon",12.0,85.0,53.0
+2025.0,19755.0,4,412,"Purdue","LAYUP","MISS","35 Lana McCarthy LAYUP MISS; 11 Marya Boiko BLOCK (3 Blk)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,4,408,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (3 Reb, 3 Def)","Marya Boiko",11.0,"",""
+2025.0,19755.0,4,406,"Purdue","FOUL","FOUL","23 Kiki Smith FOUL (3 PF)","Kiki Smith",23.0,"",""
+2025.0,19755.0,4,406,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,4,406,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19755.0,4,406,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (23 Pt)","Oluchi Okananwa",7.0,86.0,53.0
+2025.0,19755.0,4,390,"Purdue","3PTR","MISS","44 Tara Daye 3PTR MISS","Tara Daye",44.0,"",""
+2025.0,19755.0,4,388,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (4 Reb, 3 Def)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,4,379,"Maryland","LAYUP","MISS","11 Marya Boiko LAYUP MISS","Marya Boiko",11.0,"",""
+2025.0,19755.0,4,377,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (5 Reb, 2 Off)","Kyndal Walker",8.0,"",""
+2025.0,19755.0,4,375,"Maryland","3PTR","GOOD","07 Oluchi Okananwa 3PTR GOOD (26 Pt); 08 Kyndal Walker Assist (3 Asst)","Oluchi Okananwa",7.0,89.0,53.0
+2025.0,19755.0,4,363,"Purdue","LAYUP","MISS","35 Lana McCarthy LAYUP MISS","Lana McCarthy",35.0,"",""
+2025.0,19755.0,4,360,"Purdue","OFF","REBOUND","44 Tara Daye OFF. REBOUND (3 Reb, 1 Off)","Tara Daye",44.0,"",""
+2025.0,19755.0,4,359,"Purdue","TURNOVER","TURNOVER","44 Tara Daye TURNOVER (4 TO)","Tara Daye",44.0,"",""
+2025.0,19755.0,4,359,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (3 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19755.0,4,359,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 40 Breanna Williams IN","Oluchi Okananwa",7.0,"",""
+2025.0,19755.0,4,345,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19755.0,4,341,"Purdue","DEF","REBOUND","23 Kiki Smith DEF. REBOUND (3 Reb, 2 Def)","Kiki Smith",23.0,"",""
+2025.0,19755.0,4,341,"Maryland","FOUL","FOUL","11 Marya Boiko FOUL (1 PF)","Marya Boiko",11.0,"",""
+2025.0,19755.0,4,341,"Purdue","SUBS","SUBS","11 McKenna Layden OUT; 13 Saige Stahl IN","McKenna Layden",11.0,"",""
+2025.0,19755.0,4,326,"Purdue","LAYUP","GOOD","23 Kiki Smith LAYUP GOOD (16 Pt); 03 Nya Smith Assist (5 Asst)","Kiki Smith",23.0,89.0,55.0
+2025.0,19755.0,4,306,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19755.0,4,306,"Purdue","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19755.0,4,303,"Maryland","FOUL","FOUL","40 Breanna Williams FOUL (2 PF)","Breanna Williams",40.0,"",""
+2025.0,19755.0,4,303,"Maryland","TURNOVER","TURNOVER","40 Breanna Williams TURNOVER (1 TO)","Breanna Williams",40.0,"",""
+2025.0,19755.0,4,303,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 06 Saylor Poffenbarger IN","Yarden Garzon",12.0,"",""
+2025.0,19755.0,4,286,"Purdue","LAYUP","GOOD","44 Tara Daye LAYUP GOOD (4 Pt)","Tara Daye",44.0,89.0,57.0
+2025.0,19755.0,4,274,"Maryland","TURNOVER","TURNOVER","00 Rainey Welson TURNOVER (1 TO)","Rainey Welson",0.0,"",""
+2025.0,19755.0,4,259,"Purdue","LAYUP","MISS","44 Tara Daye LAYUP MISS; 40 Breanna Williams BLOCK (1 Blk)","Tara Daye",44.0,"",""
+2025.0,19755.0,4,256,"Purdue","OFF","REBOUND","44 Tara Daye OFF. REBOUND (4 Reb, 2 Off)","Tara Daye",44.0,"",""
+2025.0,19755.0,4,256,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (2 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,4,256,"Purdue","FT","GOOD","44 Tara Daye FT GOOD (5 Pt)","Tara Daye",44.0,89.0,58.0
+2025.0,19755.0,4,256,"Purdue","FT","GOOD","44 Tara Daye FT GOOD (6 Pt)","Tara Daye",44.0,89.0,59.0
+2025.0,19755.0,4,240,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19755.0,4,237,"Purdue","DEF","REBOUND","35 Lana McCarthy DEF. REBOUND (6 Reb, 2 Def)","Lana McCarthy",35.0,"",""
+2025.0,19755.0,4,237,"Purdue","SUBS","SUBS","35 Lana McCarthy OUT; 55 Avery Gordon IN","Lana McCarthy",35.0,"",""
+2025.0,19755.0,4,215,"Maryland","FOUL","FOUL","00 Rainey Welson FOUL (2 PF)","Rainey Welson",0.0,"",""
+2025.0,19755.0,4,215,"Purdue","FT","MISS","23 Kiki Smith FT MISS","Kiki Smith",23.0,"",""
+2025.0,19755.0,4,215,"Purdue","DEADB","REBOUND","Purdue REBOUND","","","",""
+2025.0,19755.0,4,215,"Purdue","FT","GOOD","23 Kiki Smith FT GOOD (17 Pt)","Kiki Smith",23.0,89.0,60.0
+2025.0,19755.0,4,200,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (8 Pt); 06 Saylor Poffenbarger Assist (3 Asst)","Rainey Welson",0.0,92.0,60.0
+2025.0,19755.0,4,186,"Purdue","3PTR","MISS","03 Nya Smith 3PTR MISS","Nya Smith",3.0,"",""
+2025.0,19755.0,4,183,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (4 Reb, 4 Def)","Marya Boiko",11.0,"",""
+2025.0,19755.0,4,174,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (11 Pt); 06 Saylor Poffenbarger Assist (4 Asst)","Rainey Welson",0.0,95.0,60.0
+2025.0,19755.0,4,150,"Purdue","LAYUP","MISS","03 Nya Smith LAYUP MISS; 11 Marya Boiko BLOCK (4 Blk)","Nya Smith",3.0,"",""
+2025.0,19755.0,4,146,"Maryland","DEF","REBOUND","00 Rainey Welson DEF. REBOUND (1 Reb, 1 Def)","Rainey Welson",0.0,"",""
+2025.0,19755.0,4,127,"Purdue","FOUL","FOUL","23 Kiki Smith FOUL (4 PF)","Kiki Smith",23.0,"",""
+2025.0,19755.0,4,127,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 06 Saylor Poffenbarger OUT; 03 Addi Mack IN; 21 Nicole Fritea IN","Rainey Welson",0.0,"",""
+2025.0,19755.0,4,127,"Purdue","SUBS","SUBS","55 Avery Gordon OUT; 22 Kendall Puryear IN; 44 Tara Daye OUT; 08 Hila Karsh IN","Avery Gordon",55.0,"",""
+2025.0,19755.0,4,116,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (18 Pt)","Kyndal Walker",8.0,97.0,60.0
+2025.0,19755.0,4,88,"Purdue","JUMPER","GOOD","23 Kiki Smith JUMPER GOOD (19 Pt)","Kiki Smith",23.0,97.0,62.0
+2025.0,19755.0,4,70,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19755.0,4,67,"Purdue","DEF","REBOUND","03 Nya Smith DEF. REBOUND (4 Reb, 4 Def)","Nya Smith",3.0,"",""
+2025.0,19755.0,4,52,"Purdue","LAYUP","MISS","03 Nya Smith LAYUP MISS; 11 Marya Boiko BLOCK (5 Blk)","Nya Smith",3.0,"",""
+2025.0,19755.0,4,49,"Purdue","OFF","REBOUND","03 Nya Smith OFF. REBOUND (5 Reb, 1 Off)","Nya Smith",3.0,"",""
+2025.0,19755.0,4,47,"Purdue","JUMPER","GOOD","22 Kendall Puryear JUMPER GOOD (2 Pt); 03 Nya Smith Assist (6 Asst)","Kendall Puryear",22.0,97.0,64.0
+2025.0,19755.0,4,39,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (3 TO)","Addi Mack",3.0,"",""
+2025.0,19755.0,4,39,"Purdue","STEAL","STEAL","23 Kiki Smith STEAL (1 Stl)","Kiki Smith",23.0,"",""
+2025.0,19755.0,4,34,"Purdue","LAYUP","GOOD","03 Nya Smith LAYUP GOOD (18 Pt); 23 Kiki Smith Assist (2 Asst)","Nya Smith",3.0,97.0,66.0
+2025.0,19755.0,4,12,"Maryland","3PTR","MISS","40 Breanna Williams 3PTR MISS","Breanna Williams",40.0,"",""
+2025.0,19755.0,4,10,"Maryland","OFF","REBOUND","03 Addi Mack OFF. REBOUND (2 Reb, 2 Off)","Addi Mack",3.0,"",""
+2025.0,19755.0,4,8,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (14 Pt)","Addi Mack",3.0,99.0,66.0
