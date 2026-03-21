@@ -20317,3 +20317,382 @@
 2025.0,19793.0,4,4,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
 2025.0,19793.0,4,0,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
 2025.0,19793.0,4,0,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19794.0,1,582,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,1,582,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19794.0,1,580,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19794.0,1,575,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,1,574,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (2 Pt)","Oluchi Okananwa",7.0,2.0,0.0
+2025.0,19794.0,1,545,"Murray St.","LAYUP","MISS","02 Haven Ford LAYUP MISS; 07 Oluchi Okananwa BLOCK (1 Blk)","Haven Ford",2.0,"",""
+2025.0,19794.0,1,540,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean",10.0,"",""
+2025.0,19794.0,1,524,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,520,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (2 Reb, 1 Off)","Mir McLean",10.0,"",""
+2025.0,19794.0,1,518,"Maryland","3PTR","GOOD","12 Yarden Garzon 3PTR GOOD (3 Pt); 03 Addi Mack Assist (1 Asst)","Yarden Garzon",12.0,5.0,0.0
+2025.0,19794.0,1,497,"Murray St.","LAYUP","GOOD","23 Sharnecce Currie-Jelks LAYUP GOOD (2 Pt)","Sharnecce Currie-Jelks",23.0,5.0,2.0
+2025.0,19794.0,1,488,"Murray St.","FOUL","FOUL","23 Sharnecce Currie-Jelks FOUL (1 PF)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,1,488,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (1 Pt)","Mir McLean",10.0,6.0,2.0
+2025.0,19794.0,1,488,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (2 Pt)","Mir McLean",10.0,7.0,2.0
+2025.0,19794.0,1,487,"Murray St.","LAYUP","GOOD","01 Halli Poock LAYUP GOOD (2 Pt); 02 Haven Ford Assist (1 Asst)","Halli Poock",1.0,7.0,4.0
+2025.0,19794.0,1,486,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,1,486,"Murray St.","FT","GOOD","01 Halli Poock FT GOOD (3 Pt)","Halli Poock",1.0,7.0,5.0
+2025.0,19794.0,1,478,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19794.0,1,474,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (3 Reb, 2 Off)","Mir McLean",10.0,"",""
+2025.0,19794.0,1,473,"Maryland","LAYUP","MISS","10 Mir McLean LAYUP MISS","Mir McLean",10.0,"",""
+2025.0,19794.0,1,473,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19794.0,1,473,"Murray St.","FOUL","FOUL","02 Haven Ford FOUL (1 PF)","Haven Ford",2.0,"",""
+2025.0,19794.0,1,471,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (5 Pt); 06 Saylor Poffenbarger Assist (1 Asst)","Yarden Garzon",12.0,9.0,5.0
+2025.0,19794.0,1,454,"Murray St.","3PTR","MISS","02 Haven Ford 3PTR MISS","Haven Ford",2.0,"",""
+2025.0,19794.0,1,451,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,447,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,1,443,"Murray St.","DEF","REBOUND","23 Sharnecce Currie-Jelks DEF. REBOUND (1 Reb, 1 Def)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,1,438,"Murray St.","LAYUP","MISS","01 Halli Poock LAYUP MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,1,436,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,19794.0,1,426,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,426,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (1 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,426,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 08 Kyndal Walker IN","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,1,426,"Murray St.","SUBS","SUBS","02 Haven Ford OUT; 03 Briley Pena OUT; 00 Jada Cook IN; 20 Braxcynn Baker IN","Haven Ford",2.0,"",""
+2025.0,19794.0,1,415,"Murray St.","LAYUP","GOOD","01 Halli Poock LAYUP GOOD (5 Pt)","Halli Poock",1.0,9.0,7.0
+2025.0,19794.0,1,403,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (2 Pt)","Kyndal Walker",8.0,11.0,7.0
+2025.0,19794.0,1,373,"Murray St.","3PTR","MISS","01 Halli Poock 3PTR MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,1,370,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,367,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (4 Pt); 06 Saylor Poffenbarger Assist (2 Asst)","Mir McLean",10.0,13.0,7.0
+2025.0,19794.0,1,353,"Murray St.","FOUL","FOUL","23 Sharnecce Currie-Jelks FOUL (2 PF)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,1,353,"Murray St.","TURNOVER","TURNOVER","23 Sharnecce Currie-Jelks TURNOVER (1 TO)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,1,353,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 09 Isimenme Ozzy-Momodu IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,353,"Murray St.","SUBS","SUBS","01 Halli Poock OUT; 23 Sharnecce Currie-Jelks OUT; 02 Haven Ford IN; 25 Destiny Thomas IN","Halli Poock",1.0,"",""
+2025.0,19794.0,1,341,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (1 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,1,337,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 00 Rainey Welson IN","Addi Mack",3.0,"",""
+2025.0,19794.0,1,329,"Murray St.","LAYUP","MISS","11 Keslyn Secrist LAYUP MISS","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,1,325,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,19794.0,1,319,"Maryland","JUMPER","MISS","00 Rainey Welson JUMPER MISS","Rainey Welson",0.0,"",""
+2025.0,19794.0,1,318,"Murray St.","DEF","REBOUND","25 Destiny Thomas DEF. REBOUND (1 Reb, 1 Def)","Destiny Thomas",25.0,"",""
+2025.0,19794.0,1,318,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,1,318,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 40 Breanna Williams IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,1,303,"Murray St.","LAYUP","MISS","11 Keslyn Secrist LAYUP MISS; 12 Yarden Garzon BLOCK (1 Blk)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,1,303,"Murray St.","OFF","REBOUND","Murray St. REBOUND","","","",""
+2025.0,19794.0,1,303,"Murray St.","SUBS","SUBS","00 Jada Cook OUT; 20 Braxcynn Baker OUT; 01 Halli Poock IN; 03 Briley Pena IN","Jada Cook",0.0,"",""
+2025.0,19794.0,1,295,"Murray St.","JUMPER","MISS","01 Halli Poock JUMPER MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,1,290,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (4 Reb, 2 Def)","Mir McLean",10.0,"",""
+2025.0,19794.0,1,278,"Maryland","TURNOVER","TURNOVER","08 Kyndal Walker TURNOVER (1 TO)","Kyndal Walker",8.0,"",""
+2025.0,19794.0,1,278,"Murray St.","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19794.0,1,278,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 03 Addi Mack IN","Mir McLean",10.0,"",""
+2025.0,19794.0,1,266,"Murray St.","LAYUP","MISS","25 Destiny Thomas LAYUP MISS; 40 Breanna Williams BLOCK (1 Blk)","Destiny Thomas",25.0,"",""
+2025.0,19794.0,1,261,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (2 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+2025.0,19794.0,1,260,"Maryland","LAYUP","GOOD","00 Rainey Welson LAYUP GOOD (2 Pt); 12 Yarden Garzon Assist (1 Asst)","Rainey Welson",0.0,15.0,7.0
+2025.0,19794.0,1,244,"Murray St.","LAYUP","GOOD","02 Haven Ford LAYUP GOOD (2 Pt)","Haven Ford",2.0,15.0,9.0
+2025.0,19794.0,1,225,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (4 Pt)","Kyndal Walker",8.0,17.0,9.0
+2025.0,19794.0,1,208,"Murray St.","JUMPER","GOOD","01 Halli Poock JUMPER GOOD (7 Pt)","Halli Poock",1.0,17.0,11.0
+2025.0,19794.0,1,195,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,19794.0,1,191,"Murray St.","DEF","REBOUND","02 Haven Ford DEF. REBOUND (1 Reb, 1 Def)","Haven Ford",2.0,"",""
+2025.0,19794.0,1,184,"Murray St.","3PTR","GOOD","11 Keslyn Secrist 3PTR GOOD (3 Pt); 02 Haven Ford Assist (2 Asst)","Keslyn Secrist",11.0,17.0,14.0
+2025.0,19794.0,1,168,"Murray St.","FOUL","FOUL","03 Briley Pena FOUL (1 PF)","Briley Pena",3.0,"",""
+2025.0,19794.0,1,168,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 40 Breanna Williams OUT; 07 Oluchi Okananwa IN; 10 Mir McLean IN","Rainey Welson",0.0,"",""
+2025.0,19794.0,1,168,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (5 Pt)","Kyndal Walker",8.0,18.0,14.0
+2025.0,19794.0,1,168,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (6 Pt)","Kyndal Walker",8.0,19.0,14.0
+2025.0,19794.0,1,150,"Murray St.","LAYUP","MISS","02 Haven Ford LAYUP MISS","Haven Ford",2.0,"",""
+2025.0,19794.0,1,147,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (5 Reb, 3 Def)","Mir McLean",10.0,"",""
+2025.0,19794.0,1,143,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (3 Pt); 08 Kyndal Walker Assist (1 Asst)","Addi Mack",3.0,22.0,14.0
+2025.0,19794.0,1,121,"Murray St.","3PTR","GOOD","01 Halli Poock 3PTR GOOD (10 Pt)","Halli Poock",1.0,22.0,17.0
+2025.0,19794.0,1,110,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,1,107,"Murray St.","DEF","REBOUND","Murray St. REBOUND","","","",""
+2025.0,19794.0,1,107,"Murray St.","SUBS","SUBS","02 Haven Ford OUT; 03 Briley Pena OUT; 00 Jada Cook IN; 20 Braxcynn Baker IN","Haven Ford",2.0,"",""
+2025.0,19794.0,1,107,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 06 Saylor Poffenbarger IN","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,1,94,"Murray St.","LAYUP","MISS","01 Halli Poock LAYUP MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,1,91,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,88,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack",3.0,"",""
+2025.0,19794.0,1,88,"Maryland","TURNOVER","TURNOVER","03 Addi Mack TURNOVER (1 TO)","Addi Mack",3.0,"",""
+2025.0,19794.0,1,74,"Murray St.","JUMPER","MISS","01 Halli Poock JUMPER MISS; 06 Saylor Poffenbarger BLOCK (1 Blk)","Halli Poock",1.0,"",""
+2025.0,19794.0,1,69,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 4 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,64,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (6 Pt)","Mir McLean",10.0,24.0,17.0
+2025.0,19794.0,1,54,"Murray St.","LAYUP","GOOD","01 Halli Poock LAYUP GOOD (12 Pt)","Halli Poock",1.0,24.0,19.0
+2025.0,19794.0,1,46,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (8 Pt)","Kyndal Walker",8.0,26.0,19.0
+2025.0,19794.0,1,22,"Murray St.","JUMPER","MISS","11 Keslyn Secrist JUMPER MISS","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,1,17,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 5 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,7,"Murray St.","FOUL","FOUL","25 Destiny Thomas FOUL (1 PF)","Destiny Thomas",25.0,"",""
+2025.0,19794.0,1,7,"Murray St.","SUBS","SUBS","01 Halli Poock OUT; 02 Haven Ford IN","Halli Poock",1.0,"",""
+2025.0,19794.0,1,7,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (4 Pt)","Addi Mack",3.0,27.0,19.0
+2025.0,19794.0,1,7,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (5 Pt)","Addi Mack",3.0,28.0,19.0
+2025.0,19794.0,1,7,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 07 Oluchi Okananwa IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,1,0,"Murray St.","3PTR","MISS","02 Haven Ford 3PTR MISS","Haven Ford",2.0,"",""
+2025.0,19794.0,1,0,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19794.0,2,600,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 09 Isimenme Ozzy-Momodu IN","Yarden Garzon",12.0,"",""
+2025.0,19794.0,2,600,"Murray St.","SUBS","SUBS","00 Jada Cook OUT; 20 Braxcynn Baker OUT; 25 Destiny Thomas OUT; 01 Halli Poock IN; 03 Briley Pena IN; 23 Sharnecce Currie-Jelks IN","Jada Cook",0.0,"",""
+2025.0,19794.0,2,592,"Murray St.","LAYUP","MISS","01 Halli Poock LAYUP MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,2,589,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (1 Reb, 1 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,2,586,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (8 Pt); 08 Kyndal Walker Assist (2 Asst)","Addi Mack",3.0,31.0,19.0
+2025.0,19794.0,2,562,"Murray St.","3PTR","MISS","11 Keslyn Secrist 3PTR MISS","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,2,558,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (6 Reb, 4 Def)","Mir McLean",10.0,"",""
+2025.0,19794.0,2,536,"Maryland","3PTR","MISS","08 Kyndal Walker 3PTR MISS","Kyndal Walker",8.0,"",""
+2025.0,19794.0,2,530,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (7 Reb, 3 Off)","Mir McLean",10.0,"",""
+2025.0,19794.0,2,528,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (8 Pt)","Mir McLean",10.0,33.0,19.0
+2025.0,19794.0,2,526,"Murray St.","30SEC","TIMEOUT","Murray St. TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19794.0,2,517,"Murray St.","TURNOVER","TURNOVER","02 Haven Ford TURNOVER (1 TO)","Haven Ford",2.0,"",""
+2025.0,19794.0,2,517,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,2,513,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (4 Pt)","Oluchi Okananwa",7.0,35.0,19.0
+2025.0,19794.0,2,513,"Murray St.","FOUL","FOUL","02 Haven Ford FOUL (2 PF)","Haven Ford",2.0,"",""
+2025.0,19794.0,2,513,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (5 Pt)","Oluchi Okananwa",7.0,36.0,19.0
+2025.0,19794.0,2,505,"Murray St.","TURNOVER","TURNOVER","01 Halli Poock TURNOVER (1 TO)","Halli Poock",1.0,"",""
+2025.0,19794.0,2,505,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (1 Stl)","Addi Mack",3.0,"",""
+2025.0,19794.0,2,500,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (10 Pt)","Addi Mack",3.0,38.0,19.0
+2025.0,19794.0,2,500,"Murray St.","30SEC","TIMEOUT","Murray St. TIMEOUT 30 Sec. (2nd TO, 2nd 30)","","","",""
+2025.0,19794.0,2,474,"Murray St.","LAYUP","MISS","01 Halli Poock LAYUP MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,2,471,"Maryland","DEF","REBOUND","07 Oluchi Okananwa DEF. REBOUND (2 Reb, 1 Def)","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,2,465,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,2,459,"Murray St.","DEF","REBOUND","23 Sharnecce Currie-Jelks DEF. REBOUND (2 Reb, 2 Def)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,2,452,"Murray St.","3PTR","GOOD","02 Haven Ford 3PTR GOOD (5 Pt)","Haven Ford",2.0,38.0,22.0
+2025.0,19794.0,2,437,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,2,436,"Murray St.","DEF","REBOUND","02 Haven Ford DEF. REBOUND (2 Reb, 2 Def)","Haven Ford",2.0,"",""
+2025.0,19794.0,2,436,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,2,436,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 09 Isimenme Ozzy-Momodu OUT; 06 Saylor Poffenbarger IN; 12 Yarden Garzon IN","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,2,436,"Murray St.","SUBS","SUBS","02 Haven Ford OUT; 03 Briley Pena OUT; 00 Jada Cook IN; 20 Braxcynn Baker IN","Haven Ford",2.0,"",""
+2025.0,19794.0,2,406,"Murray St.","LAYUP","MISS","11 Keslyn Secrist LAYUP MISS","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,2,404,"Murray St.","OFF","REBOUND","11 Keslyn Secrist OFF. REBOUND (1 Reb, 1 Off)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,2,403,"Murray St.","LAYUP","GOOD","11 Keslyn Secrist LAYUP GOOD (5 Pt)","Keslyn Secrist",11.0,38.0,24.0
+2025.0,19794.0,2,396,"Maryland","TURNOVER","TURNOVER","10 Mir McLean TURNOVER (1 TO)","Mir McLean",10.0,"",""
+2025.0,19794.0,2,386,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025.0,19794.0,2,386,"Murray St.","FT","GOOD","01 Halli Poock FT GOOD (13 Pt)","Halli Poock",1.0,38.0,25.0
+2025.0,19794.0,2,386,"Murray St.","FT","GOOD","01 Halli Poock FT GOOD (14 Pt)","Halli Poock",1.0,38.0,26.0
+2025.0,19794.0,2,362,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (10 Pt)","Kyndal Walker",8.0,40.0,26.0
+2025.0,19794.0,2,339,"Murray St.","JUMPER","GOOD","23 Sharnecce Currie-Jelks JUMPER GOOD (4 Pt); 01 Halli Poock Assist (1 Asst)","Sharnecce Currie-Jelks",23.0,40.0,28.0
+2025.0,19794.0,2,321,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (12 Pt)","Kyndal Walker",8.0,42.0,28.0
+2025.0,19794.0,2,301,"Murray St.","TURNOVER","TURNOVER","11 Keslyn Secrist TURNOVER (1 TO)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,2,301,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,2,293,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19794.0,2,289,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (8 Reb, 4 Off)","Mir McLean",10.0,"",""
+2025.0,19794.0,2,288,"Maryland","JUMPER","GOOD","08 Kyndal Walker JUMPER GOOD (14 Pt); 10 Mir McLean Assist (1 Asst)","Kyndal Walker",8.0,44.0,28.0
+2025.0,19794.0,2,274,"Murray St.","LAYUP","MISS","01 Halli Poock LAYUP MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,2,273,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19794.0,2,273,"Murray St.","FOUL","FOUL","23 Sharnecce Currie-Jelks FOUL (3 PF)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,2,273,"Murray St.","SUBS","SUBS","01 Halli Poock OUT; 20 Braxcynn Baker OUT; 23 Sharnecce Currie-Jelks OUT; 02 Haven Ford IN; 03 Briley Pena IN; 25 Destiny Thomas IN","Halli Poock",1.0,"",""
+2025.0,19794.0,2,258,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 09 Isimenme Ozzy-Momodu IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,2,242,"Maryland","TURNOVER","TURNOVER","Maryland TURNOVER (1 TO)","","","",""
+2025.0,19794.0,2,224,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (2 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,2,224,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 00 Rainey Welson IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,2,224,"Murray St.","SUBS","SUBS","00 Jada Cook OUT; 01 Halli Poock IN","Jada Cook",0.0,"",""
+2025.0,19794.0,2,221,"Murray St.","3PTR","MISS","02 Haven Ford 3PTR MISS","Haven Ford",2.0,"",""
+2025.0,19794.0,2,217,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (1 Reb, 1 Def)","Kyndal Walker",8.0,"",""
+2025.0,19794.0,2,214,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19794.0,2,209,"Murray St.","DEF","REBOUND","Murray St. REBOUND","","","",""
+2025.0,19794.0,2,209,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 06 Saylor Poffenbarger IN","Yarden Garzon",12.0,"",""
+2025.0,19794.0,2,196,"Murray St.","JUMPER","GOOD","02 Haven Ford JUMPER GOOD (7 Pt); 11 Keslyn Secrist Assist (1 Asst)","Haven Ford",2.0,44.0,30.0
+2025.0,19794.0,2,186,"Maryland","LAYUP","MISS","08 Kyndal Walker LAYUP MISS","Kyndal Walker",8.0,"",""
+2025.0,19794.0,2,185,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (9 Reb, 5 Off)","Mir McLean",10.0,"",""
+2025.0,19794.0,2,185,"Murray St.","FOUL","FOUL","25 Destiny Thomas FOUL (2 PF)","Destiny Thomas",25.0,"",""
+2025.0,19794.0,2,177,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19794.0,2,174,"Maryland","OFF","REBOUND","00 Rainey Welson OFF. REBOUND (1 Reb, 1 Off)","Rainey Welson",0.0,"",""
+2025.0,19794.0,2,172,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (12 Pt)","Addi Mack",3.0,46.0,30.0
+2025.0,19794.0,2,152,"Murray St.","TURNOVER","TURNOVER","01 Halli Poock TURNOVER (2 TO)","Halli Poock",1.0,"",""
+2025.0,19794.0,2,152,"Maryland","STEAL","STEAL","00 Rainey Welson STEAL (1 Stl)","Rainey Welson",0.0,"",""
+2025.0,19794.0,2,144,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (3 Pt); 00 Rainey Welson Assist (1 Asst)","Saylor Poffenbarger",6.0,49.0,30.0
+2025.0,19794.0,2,112,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (2 PF)","Addi Mack",3.0,"",""
+2025.0,19794.0,2,112,"Murray St.","SUBS","SUBS","25 Destiny Thomas OUT; 12 Ellery Minch IN","Destiny Thomas",25.0,"",""
+2025.0,19794.0,2,94,"Murray St.","JUMPER","GOOD","01 Halli Poock JUMPER GOOD (16 Pt)","Halli Poock",1.0,49.0,32.0
+2025.0,19794.0,2,94,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+2025.0,19794.0,2,94,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 12 Yarden Garzon IN","Addi Mack",3.0,"",""
+2025.0,19794.0,2,94,"Murray St.","SUBS","SUBS","02 Haven Ford OUT; 00 Jada Cook IN","Haven Ford",2.0,"",""
+2025.0,19794.0,2,94,"Murray St.","FT","GOOD","01 Halli Poock FT GOOD (17 Pt)","Halli Poock",1.0,49.0,33.0
+2025.0,19794.0,2,68,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19794.0,2,67,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (2 Reb, 1 Off)","Kyndal Walker",8.0,"",""
+2025.0,19794.0,2,67,"Murray St.","FOUL","FOUL","11 Keslyn Secrist FOUL (1 PF)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,2,64,"Murray St.","FOUL","FOUL","03 Briley Pena FOUL (2 PF)","Briley Pena",3.0,"",""
+2025.0,19794.0,2,64,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (6 Pt)","Yarden Garzon",12.0,50.0,33.0
+2025.0,19794.0,2,64,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (7 Pt)","Yarden Garzon",12.0,51.0,33.0
+2025.0,19794.0,2,64,"Murray St.","SUBS","SUBS","00 Jada Cook OUT; 02 Haven Ford IN","Jada Cook",0.0,"",""
+2025.0,19794.0,2,50,"Murray St.","JUMPER","GOOD","02 Haven Ford JUMPER GOOD (9 Pt)","Haven Ford",2.0,51.0,35.0
+2025.0,19794.0,2,26,"Maryland","JUMPER","MISS","00 Rainey Welson JUMPER MISS","Rainey Welson",0.0,"",""
+2025.0,19794.0,2,24,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (10 Reb, 6 Off)","Mir McLean",10.0,"",""
+2025.0,19794.0,2,20,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19794.0,2,16,"Murray St.","DEF","REBOUND","12 Ellery Minch DEF. REBOUND (1 Reb, 1 Def)","Ellery Minch",12.0,"",""
+2025.0,19794.0,2,2,"Murray St.","TURNOVER","TURNOVER","01 Halli Poock TURNOVER (3 TO)","Halli Poock",1.0,"",""
+2025.0,19794.0,2,2,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (1 Stl)","Mir McLean",10.0,"",""
+2025.0,19794.0,3,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 08 Kyndal Walker OUT; 03 Addi Mack IN; 07 Oluchi Okananwa IN","Rainey Welson",0.0,"",""
+2025.0,19794.0,3,600,"Murray St.","SUBS","SUBS","12 Ellery Minch OUT; 23 Sharnecce Currie-Jelks IN","Ellery Minch",12.0,"",""
+2025.0,19794.0,3,581,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,3,578,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (3 Reb, 2 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,3,577,"Murray St.","FOUL","FOUL","03 Briley Pena FOUL (3 PF)","Briley Pena",3.0,"",""
+2025.0,19794.0,3,571,"Maryland","JUMPER","MISS","10 Mir McLean JUMPER MISS","Mir McLean",10.0,"",""
+2025.0,19794.0,3,568,"Murray St.","DEF","REBOUND","23 Sharnecce Currie-Jelks DEF. REBOUND (3 Reb, 3 Def)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,3,548,"Murray St.","LAYUP","GOOD","02 Haven Ford LAYUP GOOD (11 Pt)","Haven Ford",2.0,51.0,37.0
+2025.0,19794.0,3,533,"Murray St.","FOUL","FOUL","02 Haven Ford FOUL (3 PF)","Haven Ford",2.0,"",""
+2025.0,19794.0,3,526,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19794.0,3,521,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (3 Reb, 1 Off)","Yarden Garzon",12.0,"",""
+2025.0,19794.0,3,521,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (9 Pt)","Yarden Garzon",12.0,53.0,37.0
+2025.0,19794.0,3,494,"Murray St.","3PTR","MISS","02 Haven Ford 3PTR MISS","Haven Ford",2.0,"",""
+2025.0,19794.0,3,492,"Murray St.","OFF","REBOUND","23 Sharnecce Currie-Jelks OFF. REBOUND (4 Reb, 1 Off)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,3,492,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (2 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,3,492,"Murray St.","SUBS","SUBS","02 Haven Ford OUT; 00 Jada Cook IN","Haven Ford",2.0,"",""
+2025.0,19794.0,3,485,"Murray St.","JUMPER","MISS","23 Sharnecce Currie-Jelks JUMPER MISS","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,3,482,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (4 Reb, 3 Def)","Yarden Garzon",12.0,"",""
+2025.0,19794.0,3,476,"Maryland","JUMPER","GOOD","06 Saylor Poffenbarger JUMPER GOOD (5 Pt)","Saylor Poffenbarger",6.0,55.0,37.0
+2025.0,19794.0,3,457,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (3 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,3,457,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 09 Isimenme Ozzy-Momodu IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,3,457,"Murray St.","FT","GOOD","01 Halli Poock FT GOOD (18 Pt)","Halli Poock",1.0,55.0,38.0
+2025.0,19794.0,3,457,"Murray St.","FT","GOOD","01 Halli Poock FT GOOD (19 Pt)","Halli Poock",1.0,55.0,39.0
+2025.0,19794.0,3,444,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,19794.0,3,439,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (2 Reb, 1 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,3,438,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (2 Pt)","Isimenme Ozzy-Momodu",9.0,57.0,39.0
+2025.0,19794.0,3,422,"Murray St.","3PTR","GOOD","01 Halli Poock 3PTR GOOD (22 Pt)","Halli Poock",1.0,57.0,42.0
+2025.0,19794.0,3,410,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,3,407,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (11 Reb, 7 Off)","Mir McLean",10.0,"",""
+2025.0,19794.0,3,406,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (10 Pt)","Mir McLean",10.0,59.0,42.0
+2025.0,19794.0,3,397,"Murray St.","FOUL","FOUL","00 Jada Cook FOUL (1 PF)","Jada Cook",0.0,"",""
+2025.0,19794.0,3,397,"Murray St.","TURNOVER","TURNOVER","00 Jada Cook TURNOVER (1 TO)","Jada Cook",0.0,"",""
+2025.0,19794.0,3,397,"Murray St.","SUBS","SUBS","03 Briley Pena OUT; 20 Braxcynn Baker IN","Briley Pena",3.0,"",""
+2025.0,19794.0,3,388,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (2 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,3,375,"Murray St.","LAYUP","MISS","01 Halli Poock LAYUP MISS; 09 Isimenme Ozzy-Momodu BLOCK (1 Blk)","Halli Poock",1.0,"",""
+2025.0,19794.0,3,375,"Murray St.","OFF","REBOUND","Murray St. REBOUND","","","",""
+2025.0,19794.0,3,375,"Murray St.","SUBS","SUBS","01 Halli Poock OUT; 02 Haven Ford IN","Halli Poock",1.0,"",""
+2025.0,19794.0,3,372,"Murray St.","JUMPER","MISS","00 Jada Cook JUMPER MISS","Jada Cook",0.0,"",""
+2025.0,19794.0,3,369,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (3 Reb, 2 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,3,357,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (14 Pt)","Addi Mack",3.0,61.0,42.0
+2025.0,19794.0,3,357,"Murray St.","FOUL","FOUL","00 Jada Cook FOUL (2 PF)","Jada Cook",0.0,"",""
+2025.0,19794.0,3,357,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 08 Kyndal Walker IN","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,3,352,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19794.0,3,348,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (4 Reb, 2 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,3,337,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025.0,19794.0,3,337,"Murray St.","STEAL","STEAL","11 Keslyn Secrist STEAL (1 Stl)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,3,326,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (2 PF)","Kyndal Walker",8.0,"",""
+2025.0,19794.0,3,324,"Murray St.","TURNOVER","TURNOVER","00 Jada Cook TURNOVER (2 TO)","Jada Cook",0.0,"",""
+2025.0,19794.0,3,324,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (2 Stl)","Mir McLean",10.0,"",""
+2025.0,19794.0,3,320,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (12 Pt)","Mir McLean",10.0,63.0,42.0
+2025.0,19794.0,3,299,"Murray St.","TURNOVER","TURNOVER","20 Braxcynn Baker TURNOVER (1 TO)","Braxcynn Baker",20.0,"",""
+2025.0,19794.0,3,299,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon",12.0,"",""
+2025.0,19794.0,3,294,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (16 Pt); 12 Yarden Garzon Assist (2 Asst)","Addi Mack",3.0,65.0,42.0
+2025.0,19794.0,3,293,"Murray St.","30SEC","TIMEOUT","Murray St. TIMEOUT 30 Sec. (1st TO, 3rd 30)","","","",""
+2025.0,19794.0,3,293,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 00 Rainey Welson IN","Yarden Garzon",12.0,"",""
+2025.0,19794.0,3,293,"Murray St.","SUBS","SUBS","00 Jada Cook OUT; 20 Braxcynn Baker OUT; 01 Halli Poock IN; 03 Briley Pena IN","Jada Cook",0.0,"",""
+2025.0,19794.0,3,288,"Maryland","FOUL","FOUL","00 Rainey Welson FOUL (1 PF)","Rainey Welson",0.0,"",""
+2025.0,19794.0,3,287,"Murray St.","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,19794.0,3,283,"Murray St.","LAYUP","GOOD","11 Keslyn Secrist LAYUP GOOD (7 Pt); 02 Haven Ford Assist (3 Asst)","Keslyn Secrist",11.0,65.0,44.0
+2025.0,19794.0,3,259,"Maryland","TURNOVER","TURNOVER","09 Isimenme Ozzy-Momodu TURNOVER (3 TO)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,3,250,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (3 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,3,250,"Murray St.","FT","GOOD","23 Sharnecce Currie-Jelks FT GOOD (5 Pt)","Sharnecce Currie-Jelks",23.0,65.0,45.0
+2025.0,19794.0,3,250,"Murray St.","FT","GOOD","23 Sharnecce Currie-Jelks FT GOOD (6 Pt)","Sharnecce Currie-Jelks",23.0,65.0,46.0
+2025.0,19794.0,3,250,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 12 Yarden Garzon IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,3,223,"Maryland","TURNOVER","TURNOVER","00 Rainey Welson TURNOVER (1 TO)","Rainey Welson",0.0,"",""
+2025.0,19794.0,3,206,"Murray St.","LAYUP","GOOD","02 Haven Ford LAYUP GOOD (13 Pt)","Haven Ford",2.0,65.0,48.0
+2025.0,19794.0,3,199,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (14 Pt)","Mir McLean",10.0,67.0,48.0
+2025.0,19794.0,3,184,"Murray St.","LAYUP","MISS","01 Halli Poock LAYUP MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,3,181,"Murray St.","OFF","REBOUND","23 Sharnecce Currie-Jelks OFF. REBOUND (5 Reb, 2 Off)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,3,181,"Murray St.","LAYUP","MISS","23 Sharnecce Currie-Jelks LAYUP MISS","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,3,177,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025.0,19794.0,3,172,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 10 Mir McLean OUT; 06 Saylor Poffenbarger IN; 07 Oluchi Okananwa IN","Rainey Welson",0.0,"",""
+2025.0,19794.0,3,158,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19794.0,3,155,"Murray St.","DEF","REBOUND","23 Sharnecce Currie-Jelks DEF. REBOUND (6 Reb, 4 Def)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,3,149,"Murray St.","3PTR","MISS","03 Briley Pena 3PTR MISS","Briley Pena",3.0,"",""
+2025.0,19794.0,3,144,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (6 Reb, 6 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,3,142,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,19794.0,3,139,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (7 Reb, 1 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,3,137,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,3,135,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (8 Reb, 2 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,3,133,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,19794.0,3,132,"Maryland","OFF","REBOUND","08 Kyndal Walker OFF. REBOUND (3 Reb, 2 Off)","Kyndal Walker",8.0,"",""
+2025.0,19794.0,3,132,"Murray St.","FOUL","FOUL","23 Sharnecce Currie-Jelks FOUL (4 PF)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,3,132,"Murray St.","SUBS","SUBS","23 Sharnecce Currie-Jelks OUT; 25 Destiny Thomas IN","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,3,132,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (15 Pt)","Kyndal Walker",8.0,68.0,48.0
+2025.0,19794.0,3,132,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (16 Pt)","Kyndal Walker",8.0,69.0,48.0
+2025.0,19794.0,3,114,"Murray St.","LAYUP","MISS","01 Halli Poock LAYUP MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,3,112,"Murray St.","OFF","REBOUND","01 Halli Poock OFF. REBOUND (1 Reb, 1 Off)","Halli Poock",1.0,"",""
+2025.0,19794.0,3,111,"Murray St.","LAYUP","GOOD","01 Halli Poock LAYUP GOOD (24 Pt)","Halli Poock",1.0,69.0,50.0
+2025.0,19794.0,3,111,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (3 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,3,111,"Murray St.","FT","GOOD","01 Halli Poock FT GOOD (25 Pt)","Halli Poock",1.0,69.0,51.0
+2025.0,19794.0,3,100,"Murray St.","FOUL","FOUL","25 Destiny Thomas FOUL (3 PF)","Destiny Thomas",25.0,"",""
+2025.0,19794.0,3,100,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (6 Pt)","Oluchi Okananwa",7.0,70.0,51.0
+2025.0,19794.0,3,100,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (7 Pt)","Oluchi Okananwa",7.0,71.0,51.0
+2025.0,19794.0,3,83,"Murray St.","LAYUP","GOOD","02 Haven Ford LAYUP GOOD (15 Pt)","Haven Ford",2.0,71.0,53.0
+2025.0,19794.0,3,77,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,19794.0,3,73,"Murray St.","DEF","REBOUND","01 Halli Poock DEF. REBOUND (2 Reb, 1 Def)","Halli Poock",1.0,"",""
+2025.0,19794.0,3,70,"Murray St.","3PTR","GOOD","11 Keslyn Secrist 3PTR GOOD (10 Pt); 01 Halli Poock Assist (2 Asst)","Keslyn Secrist",11.0,71.0,56.0
+2025.0,19794.0,3,65,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,19794.0,3,37,"Murray St.","FOUL","FOUL","11 Keslyn Secrist FOUL (2 PF)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,3,37,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 00 Rainey Welson IN; 12 Yarden Garzon OUT; 10 Mir McLean IN","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,3,37,"Murray St.","SUBS","SUBS","03 Briley Pena OUT; 00 Jada Cook IN","Briley Pena",3.0,"",""
+2025.0,19794.0,3,37,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (10 Pt)","Yarden Garzon",12.0,72.0,56.0
+2025.0,19794.0,3,37,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (11 Pt)","Yarden Garzon",12.0,73.0,56.0
+2025.0,19794.0,3,8,"Murray St.","LAYUP","MISS","01 Halli Poock LAYUP MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,3,5,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (12 Reb, 5 Def)","Mir McLean",10.0,"",""
+2025.0,19794.0,3,2,"Maryland","TURNOVER","TURNOVER","10 Mir McLean TURNOVER (2 TO)","Mir McLean",10.0,"",""
+2025.0,19794.0,3,2,"Murray St.","STEAL","STEAL","02 Haven Ford STEAL (1 Stl)","Haven Ford",2.0,"",""
+2025.0,19794.0,3,0,"Murray St.","JUMPER","GOOD","11 Keslyn Secrist JUMPER GOOD (12 Pt); 02 Haven Ford Assist (4 Asst)","Keslyn Secrist",11.0,73.0,58.0
+2025.0,19794.0,3,0,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (4 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,19794.0,3,0,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 07 Oluchi Okananwa OUT; 06 Saylor Poffenbarger IN; 12 Yarden Garzon IN; 00 Rainey Welson OUT; 03 Addi Mack IN","Addi Mack",3.0,"",""
+2025.0,19794.0,3,0,"Murray St.","FT","GOOD","11 Keslyn Secrist FT GOOD (13 Pt)","Keslyn Secrist",11.0,73.0,59.0
+2025.0,19794.0,4,600,"Murray St.","SUBS","SUBS","00 Jada Cook OUT; 25 Destiny Thomas OUT; 03 Briley Pena IN; 23 Sharnecce Currie-Jelks IN","Jada Cook",0.0,"",""
+2025.0,19794.0,4,588,"Maryland","TURNOVER","TURNOVER","06 Saylor Poffenbarger TURNOVER (2 TO)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,4,561,"Murray St.","3PTR","MISS","01 Halli Poock 3PTR MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,4,557,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (2 Reb, 2 Def)","Addi Mack",3.0,"",""
+2025.0,19794.0,4,539,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,4,536,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (13 Reb, 8 Off)","Mir McLean",10.0,"",""
+2025.0,19794.0,4,536,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (16 Pt)","Mir McLean",10.0,75.0,59.0
+2025.0,19794.0,4,536,"Murray St.","FOUL","FOUL","02 Haven Ford FOUL (4 PF)","Haven Ford",2.0,"",""
+2025.0,19794.0,4,536,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (17 Pt)","Mir McLean",10.0,76.0,59.0
+2025.0,19794.0,4,510,"Murray St.","LAYUP","MISS","23 Sharnecce Currie-Jelks LAYUP MISS","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,4,508,"Murray St.","OFF","REBOUND","11 Keslyn Secrist OFF. REBOUND (2 Reb, 2 Off)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,4,507,"Murray St.","LAYUP","MISS","11 Keslyn Secrist LAYUP MISS","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,4,504,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (5 Reb, 4 Def)","Yarden Garzon",12.0,"",""
+2025.0,19794.0,4,490,"Murray St.","FOUL","FOUL","11 Keslyn Secrist FOUL (3 PF)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,4,490,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (17 Pt)","Addi Mack",3.0,77.0,59.0
+2025.0,19794.0,4,490,"Maryland","FT","GOOD","03 Addi Mack FT GOOD (18 Pt)","Addi Mack",3.0,78.0,59.0
+2025.0,19794.0,4,479,"Murray St.","LAYUP","GOOD","01 Halli Poock LAYUP GOOD (27 Pt)","Halli Poock",1.0,78.0,61.0
+2025.0,19794.0,4,460,"Maryland","3PTR","GOOD","06 Saylor Poffenbarger 3PTR GOOD (8 Pt); 12 Yarden Garzon Assist (3 Asst)","Saylor Poffenbarger",6.0,81.0,61.0
+2025.0,19794.0,4,440,"Murray St.","TURNOVER","TURNOVER","23 Sharnecce Currie-Jelks TURNOVER (2 TO)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,4,425,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (18 Pt)","Kyndal Walker",8.0,83.0,61.0
+2025.0,19794.0,4,413,"Murray St.","FOUL","FOUL","01 Halli Poock FOUL (1 PF)","Halli Poock",1.0,"",""
+2025.0,19794.0,4,413,"Murray St.","TURNOVER","TURNOVER","01 Halli Poock TURNOVER (4 TO)","Halli Poock",1.0,"",""
+2025.0,19794.0,4,395,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,4,393,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (9 Reb, 3 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,4,392,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (19 Pt); 06 Saylor Poffenbarger Assist (3 Asst)","Mir McLean",10.0,85.0,61.0
+2025.0,19794.0,4,372,"Murray St.","LAYUP","MISS","11 Keslyn Secrist LAYUP MISS","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,4,369,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (4 Reb, 2 Def)","Kyndal Walker",8.0,"",""
+2025.0,19794.0,4,352,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19794.0,4,349,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (14 Reb, 9 Off)","Mir McLean",10.0,"",""
+2025.0,19794.0,4,348,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (10 Pt); 10 Mir McLean Assist (2 Asst)","Saylor Poffenbarger",6.0,87.0,61.0
+2025.0,19794.0,4,347,"Murray St.","30SEC","TIMEOUT","Murray St. TIMEOUT 30 Sec. (1st TO, 4th 30)","","","",""
+2025.0,19794.0,4,347,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 10 Mir McLean OUT; 00 Rainey Welson IN; 09 Isimenme Ozzy-Momodu IN","Addi Mack",3.0,"",""
+2025.0,19794.0,4,337,"Murray St.","TURNOVER","TURNOVER","23 Sharnecce Currie-Jelks TURNOVER (3 TO)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,4,337,"Maryland","STEAL","STEAL","09 Isimenme Ozzy-Momodu STEAL (1 Stl)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,4,332,"Maryland","LAYUP","GOOD","00 Rainey Welson LAYUP GOOD (4 Pt)","Rainey Welson",0.0,89.0,61.0
+2025.0,19794.0,4,321,"Murray St.","3PTR","MISS","02 Haven Ford 3PTR MISS","Haven Ford",2.0,"",""
+2025.0,19794.0,4,316,"Murray St.","OFF","REBOUND","23 Sharnecce Currie-Jelks OFF. REBOUND (7 Reb, 3 Off)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,4,310,"Murray St.","3PTR","MISS","02 Haven Ford 3PTR MISS","Haven Ford",2.0,"",""
+2025.0,19794.0,4,307,"Murray St.","DEADB","REBOUND","Murray St. REBOUND","","","",""
+2025.0,19794.0,4,307,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025.0,19794.0,4,307,"Murray St.","FOUL","FOUL","11 Keslyn Secrist FOUL (4 PF)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,4,307,"Murray St.","TURNOVER","TURNOVER","11 Keslyn Secrist TURNOVER (2 TO)","Keslyn Secrist",11.0,"",""
+2025.0,19794.0,4,307,"Maryland","FT","MISS","12 Yarden Garzon FT MISS","Yarden Garzon",12.0,"",""
+2025.0,19794.0,4,307,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19794.0,4,307,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (12 Pt)","Yarden Garzon",12.0,90.0,61.0
+2025.0,19794.0,4,287,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (4 Pt); 06 Saylor Poffenbarger Assist (4 Asst)","Isimenme Ozzy-Momodu",9.0,92.0,61.0
+2025.0,19794.0,4,275,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (4 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,4,275,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 40 Breanna Williams IN","Yarden Garzon",12.0,"",""
+2025.0,19794.0,4,272,"Murray St.","LAYUP","GOOD","11 Keslyn Secrist LAYUP GOOD (15 Pt); 23 Sharnecce Currie-Jelks Assist (1 Asst)","Keslyn Secrist",11.0,92.0,63.0
+2025.0,19794.0,4,247,"Maryland","LAYUP","GOOD","09 Isimenme Ozzy-Momodu LAYUP GOOD (6 Pt); 00 Rainey Welson Assist (2 Asst)","Isimenme Ozzy-Momodu",9.0,94.0,63.0
+2025.0,19794.0,4,229,"Murray St.","3PTR","MISS","01 Halli Poock 3PTR MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,4,225,"Maryland","DEF","REBOUND","09 Isimenme Ozzy-Momodu DEF. REBOUND (5 Reb, 3 Def)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,4,214,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (20 Pt)","Kyndal Walker",8.0,96.0,63.0
+2025.0,19794.0,4,203,"Murray St.","JUMPER","GOOD","02 Haven Ford JUMPER GOOD (17 Pt)","Haven Ford",2.0,96.0,65.0
+2025.0,19794.0,4,187,"Murray St.","FOUL","FOUL","23 Sharnecce Currie-Jelks FOUL (5 PF)","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,4,187,"Murray St.","SUBS","SUBS","23 Sharnecce Currie-Jelks OUT; 25 Destiny Thomas IN","Sharnecce Currie-Jelks",23.0,"",""
+2025.0,19794.0,4,187,"Maryland","FT","MISS","09 Isimenme Ozzy-Momodu FT MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,4,187,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,19794.0,4,187,"Maryland","OFF","REBOUND","09 Isimenme Ozzy-Momodu OFF. REBOUND (6 Reb, 3 Off)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,4,173,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,19794.0,4,171,"Murray St.","DEF","REBOUND","25 Destiny Thomas DEF. REBOUND (2 Reb, 2 Def)","Destiny Thomas",25.0,"",""
+2025.0,19794.0,4,171,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (5 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,4,171,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 11 Marya Boiko IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,19794.0,4,161,"Murray St.","LAYUP","GOOD","11 Keslyn Secrist LAYUP GOOD (17 Pt)","Keslyn Secrist",11.0,96.0,67.0
+2025.0,19794.0,4,137,"Maryland","FOUL","FOUL","40 Breanna Williams FOUL (1 PF)","Breanna Williams",40.0,"",""
+2025.0,19794.0,4,137,"Maryland","TURNOVER","TURNOVER","40 Breanna Williams TURNOVER (1 TO)","Breanna Williams",40.0,"",""
+2025.0,19794.0,4,124,"Murray St.","3PTR","MISS","03 Briley Pena 3PTR MISS","Briley Pena",3.0,"",""
+2025.0,19794.0,4,121,"Maryland","DEF","REBOUND","11 Marya Boiko DEF. REBOUND (1 Reb, 1 Def)","Marya Boiko",11.0,"",""
+2025.0,19794.0,4,113,"Maryland","JUMPER","MISS","11 Marya Boiko JUMPER MISS","Marya Boiko",11.0,"",""
+2025.0,19794.0,4,110,"Maryland","OFF","REBOUND","06 Saylor Poffenbarger OFF. REBOUND (10 Reb, 4 Off)","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,4,108,"Maryland","3PTR","GOOD","00 Rainey Welson 3PTR GOOD (7 Pt); 06 Saylor Poffenbarger Assist (5 Asst)","Rainey Welson",0.0,99.0,67.0
+2025.0,19794.0,4,84,"Murray St.","3PTR","MISS","01 Halli Poock 3PTR MISS","Halli Poock",1.0,"",""
+2025.0,19794.0,4,81,"Maryland","DEF","REBOUND","08 Kyndal Walker DEF. REBOUND (5 Reb, 3 Def)","Kyndal Walker",8.0,"",""
+2025.0,19794.0,4,61,"Maryland","JUMPER","MISS","06 Saylor Poffenbarger JUMPER MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,19794.0,4,56,"Maryland","OFF","REBOUND","11 Marya Boiko OFF. REBOUND (2 Reb, 1 Off)","Marya Boiko",11.0,"",""
+2025.0,19794.0,4,52,"Murray St.","SUBS","SUBS","01 Halli Poock OUT; 02 Haven Ford OUT; 03 Briley Pena OUT; 11 Keslyn Secrist OUT; 00 Jada Cook IN; 12 Ellery Minch IN; 20 Braxcynn Baker IN; 22 Cam Hoover IN","Halli Poock",1.0,"",""
+2025.0,19794.0,4,42,"Maryland","3PTR","MISS","40 Breanna Williams 3PTR MISS","Breanna Williams",40.0,"",""
+2025.0,19794.0,4,39,"Murray St.","DEF","REBOUND","25 Destiny Thomas DEF. REBOUND (3 Reb, 3 Def)","Destiny Thomas",25.0,"",""
+2025.0,19794.0,4,17,"Murray St.","JUMPER","MISS","20 Braxcynn Baker JUMPER MISS","Braxcynn Baker",20.0,"",""
+2025.0,19794.0,4,13,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (11 Reb, 7 Def)","Saylor Poffenbarger",6.0,"",""
