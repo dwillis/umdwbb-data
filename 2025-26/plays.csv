@@ -20696,3 +20696,417 @@
 2025.0,19794.0,4,39,"Murray St.","DEF","REBOUND","25 Destiny Thomas DEF. REBOUND (3 Reb, 3 Def)","Destiny Thomas",25.0,"",""
 2025.0,19794.0,4,17,"Murray St.","JUMPER","MISS","20 Braxcynn Baker JUMPER MISS","Braxcynn Baker",20.0,"",""
 2025.0,19794.0,4,13,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (11 Reb, 7 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,1,589,"North Carolina","LAYUP","GOOD","17 Elina Aarnisalo LAYUP GOOD (2 Pt)","Elina Aarnisalo",17.0,2.0,0.0
+2025.0,20082.0,1,560,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (2 Pt); 12 Yarden Garzon Assist (1 Asst)","Mir McLean",10.0,2.0,2.0
+2025.0,20082.0,1,558,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,20082.0,1,558,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 08 Kyndal Walker IN","Yarden Garzon",12.0,"",""
+2025.0,20082.0,1,541,"North Carolina","LAYUP","MISS","00 Lanie Grant LAYUP MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,1,539,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (1 Reb, 1 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,1,536,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (3 Pt); 08 Kyndal Walker Assist (1 Asst)","Addi Mack",3.0,2.0,5.0
+2025.0,20082.0,1,508,"North Carolina","LAYUP","MISS","24 Indya Nivar LAYUP MISS","Indya Nivar",24.0,"",""
+2025.0,20082.0,1,506,"North Carolina","OFF","REBOUND","02 Nyla Harris OFF. REBOUND (1 Reb, 1 Off)","Nyla Harris",2.0,"",""
+2025.0,20082.0,1,505,"North Carolina","JUMPER","MISS","02 Nyla Harris JUMPER MISS","Nyla Harris",2.0,"",""
+2025.0,20082.0,1,503,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (1 Reb, 1 Def)","Mir McLean",10.0,"",""
+2025.0,20082.0,1,488,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (1 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,1,472,"North Carolina","FOUL","FOUL","02 Nyla Harris FOUL (1 PF)","Nyla Harris",2.0,"",""
+2025.0,20082.0,1,472,"North Carolina","TURNOVER","TURNOVER","02 Nyla Harris TURNOVER (1 TO)","Nyla Harris",2.0,"",""
+2025.0,20082.0,1,456,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,20082.0,1,454,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (1 Reb, 1 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,1,452,"North Carolina","FOUL","FOUL","21 Ciera Toomey FOUL (1 PF)","Ciera Toomey",21.0,"",""
+2025.0,20082.0,1,452,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,1,452,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,1,452,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (1 Pt)","Oluchi Okananwa",7.0,2.0,6.0
+2025.0,20082.0,1,445,"North Carolina","LAYUP","GOOD","17 Elina Aarnisalo LAYUP GOOD (4 Pt)","Elina Aarnisalo",17.0,4.0,6.0
+2025.0,20082.0,1,438,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,1,434,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (2 Reb, 2 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,1,433,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (2 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,1,422,"North Carolina","JUMPER","MISS","02 Nyla Harris JUMPER MISS","Nyla Harris",2.0,"",""
+2025.0,20082.0,1,418,"North Carolina","OFF","REBOUND","24 Indya Nivar OFF. REBOUND (1 Reb, 1 Off)","Indya Nivar",24.0,"",""
+2025.0,20082.0,1,416,"North Carolina","JUMPER","MISS","24 Indya Nivar JUMPER MISS","Indya Nivar",24.0,"",""
+2025.0,20082.0,1,413,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (2 Reb, 2 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,1,400,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,20082.0,1,397,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (2 Reb, 1 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,1,387,"North Carolina","FOUL","FOUL","00 Lanie Grant FOUL (1 PF)","Lanie Grant",0.0,"",""
+2025.0,20082.0,1,387,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 12 Yarden Garzon IN","Addi Mack",3.0,"",""
+2025.0,20082.0,1,370,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (3 Pt)","Oluchi Okananwa",7.0,4.0,8.0
+2025.0,20082.0,1,343,"North Carolina","TURNOVER","TURNOVER","24 Indya Nivar TURNOVER (1 TO)","Indya Nivar",24.0,"",""
+2025.0,20082.0,1,343,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (1 Stl)","Mir McLean",10.0,"",""
+2025.0,20082.0,1,320,"Maryland","LAYUP","GOOD","08 Kyndal Walker LAYUP GOOD (2 Pt)","Kyndal Walker",8.0,4.0,10.0
+2025.0,20082.0,1,313,"North Carolina","TURNOVER","TURNOVER","02 Nyla Harris TURNOVER (2 TO)","Nyla Harris",2.0,"",""
+2025.0,20082.0,1,313,"North Carolina","SUBS","SUBS","21 Ciera Toomey OUT; 07 Nyla Brooks IN","Ciera Toomey",21.0,"",""
+2025.0,20082.0,1,313,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 09 Isimenme Ozzy-Momodu IN","Mir McLean",10.0,"",""
+2025.0,20082.0,1,301,"Maryland","3PTR","MISS","07 Oluchi Okananwa 3PTR MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,1,298,"North Carolina","DEF","REBOUND","02 Nyla Harris DEF. REBOUND (2 Reb, 1 Def)","Nyla Harris",2.0,"",""
+2025.0,20082.0,1,288,"North Carolina","LAYUP","GOOD","02 Nyla Harris LAYUP GOOD (2 Pt); 00 Lanie Grant Assist (1 Asst)","Nyla Harris",2.0,6.0,10.0
+2025.0,20082.0,1,278,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,1,274,"North Carolina","DEF","REBOUND","17 Elina Aarnisalo DEF. REBOUND (1 Reb, 1 Def)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,1,267,"North Carolina","LAYUP","MISS","17 Elina Aarnisalo LAYUP MISS; 09 Isimenme Ozzy-Momodu BLOCK (1 Blk)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,1,266,"North Carolina","OFF","REBOUND","North Carolina REBOUND","","","",""
+2025.0,20082.0,1,266,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,20082.0,1,266,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 03 Addi Mack IN","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,1,259,"North Carolina","JUMPER","GOOD","00 Lanie Grant JUMPER GOOD (2 Pt)","Lanie Grant",0.0,8.0,10.0
+2025.0,20082.0,1,242,"North Carolina","FOUL","FOUL","24 Indya Nivar FOUL (1 PF)","Indya Nivar",24.0,"",""
+2025.0,20082.0,1,242,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,1,242,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,1,240,"North Carolina","DEF","REBOUND","17 Elina Aarnisalo DEF. REBOUND (2 Reb, 2 Def)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,1,231,"North Carolina","LAYUP","GOOD","00 Lanie Grant LAYUP GOOD (4 Pt)","Lanie Grant",0.0,10.0,10.0
+2025.0,20082.0,1,210,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,20082.0,1,208,"North Carolina","DEF","REBOUND","07 Nyla Brooks DEF. REBOUND (1 Reb, 1 Def)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,1,192,"North Carolina","LAYUP","GOOD","24 Indya Nivar LAYUP GOOD (2 Pt)","Indya Nivar",24.0,12.0,10.0
+2025.0,20082.0,1,192,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (1 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,1,192,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 09 Isimenme Ozzy-Momodu OUT; 06 Saylor Poffenbarger IN; 10 Mir McLean IN","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,1,192,"North Carolina","FT","GOOD","24 Indya Nivar FT GOOD (3 Pt)","Indya Nivar",24.0,13.0,10.0
+2025.0,20082.0,1,182,"North Carolina","FOUL","FOUL","07 Nyla Brooks FOUL (1 PF)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,1,182,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (3 Pt)","Mir McLean",10.0,13.0,11.0
+2025.0,20082.0,1,182,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (4 Pt)","Mir McLean",10.0,13.0,12.0
+2025.0,20082.0,1,175,"North Carolina","LAYUP","MISS","24 Indya Nivar LAYUP MISS; 06 Saylor Poffenbarger BLOCK (1 Blk)","Indya Nivar",24.0,"",""
+2025.0,20082.0,1,172,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (1 Reb, 1 Def)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,1,171,"North Carolina","FOUL","FOUL","24 Indya Nivar FOUL (2 PF)","Indya Nivar",24.0,"",""
+2025.0,20082.0,1,171,"North Carolina","SUBS","SUBS","24 Indya Nivar OUT; 04 Laila Hull IN","Indya Nivar",24.0,"",""
+2025.0,20082.0,1,171,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (1 Pt)","Yarden Garzon",12.0,13.0,13.0
+2025.0,20082.0,1,171,"Maryland","FT","GOOD","12 Yarden Garzon FT GOOD (2 Pt)","Yarden Garzon",12.0,13.0,14.0
+2025.0,20082.0,1,162,"North Carolina","LAYUP","GOOD","02 Nyla Harris LAYUP GOOD (4 Pt); 00 Lanie Grant Assist (2 Asst)","Nyla Harris",2.0,15.0,14.0
+2025.0,20082.0,1,146,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,20082.0,1,144,"North Carolina","DEF","REBOUND","02 Nyla Harris DEF. REBOUND (3 Reb, 2 Def)","Nyla Harris",2.0,"",""
+2025.0,20082.0,1,139,"North Carolina","LAYUP","GOOD","17 Elina Aarnisalo LAYUP GOOD (6 Pt)","Elina Aarnisalo",17.0,17.0,14.0
+2025.0,20082.0,1,123,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,1,120,"North Carolina","DEF","REBOUND","07 Nyla Brooks DEF. REBOUND (2 Reb, 2 Def)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,1,120,"North Carolina","TURNOVER","TURNOVER","17 Elina Aarnisalo TURNOVER (1 TO)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,1,120,"North Carolina","SUBS","SUBS","02 Nyla Harris OUT; 21 Ciera Toomey IN","Nyla Harris",2.0,"",""
+2025.0,20082.0,1,120,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 00 Rainey Welson IN","Addi Mack",3.0,"",""
+2025.0,20082.0,1,100,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,1,96,"North Carolina","DEF","REBOUND","21 Ciera Toomey DEF. REBOUND (1 Reb, 1 Def)","Ciera Toomey",21.0,"",""
+2025.0,20082.0,1,91,"North Carolina","LAYUP","GOOD","17 Elina Aarnisalo LAYUP GOOD (8 Pt)","Elina Aarnisalo",17.0,19.0,14.0
+2025.0,20082.0,1,83,"North Carolina","FOUL","FOUL","17 Elina Aarnisalo FOUL (1 PF)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,1,83,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (3 Pt)","Kyndal Walker",8.0,19.0,15.0
+2025.0,20082.0,1,83,"Maryland","FT","MISS","08 Kyndal Walker FT MISS","Kyndal Walker",8.0,"",""
+2025.0,20082.0,1,81,"North Carolina","DEF","REBOUND","07 Nyla Brooks DEF. REBOUND (3 Reb, 3 Def)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,1,69,"North Carolina","TURNOVER","TURNOVER","07 Nyla Brooks TURNOVER (1 TO)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,1,69,"Maryland","STEAL","STEAL","12 Yarden Garzon STEAL (1 Stl)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,1,50,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,20082.0,1,46,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (3 Reb, 2 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,1,44,"Maryland","TURNOVER","TURNOVER","10 Mir McLean TURNOVER (1 TO)","Mir McLean",10.0,"",""
+2025.0,20082.0,1,44,"North Carolina","STEAL","STEAL","17 Elina Aarnisalo STEAL (1 Stl)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,1,35,"North Carolina","3PTR","GOOD","07 Nyla Brooks 3PTR GOOD (3 Pt); 04 Laila Hull Assist (1 Asst)","Nyla Brooks",7.0,22.0,15.0
+2025.0,20082.0,1,7,"Maryland","JUMPER","GOOD","12 Yarden Garzon JUMPER GOOD (4 Pt)","Yarden Garzon",12.0,22.0,17.0
+2025.0,20082.0,2,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 08 Kyndal Walker OUT; 03 Addi Mack IN; 07 Oluchi Okananwa IN","Rainey Welson",0.0,"",""
+2025.0,20082.0,2,599,"North Carolina","TURNOVER","TURNOVER","00 Lanie Grant TURNOVER (1 TO)","Lanie Grant",0.0,"",""
+2025.0,20082.0,2,599,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (1 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,596,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (5 Pt)","Oluchi Okananwa",7.0,22.0,19.0
+2025.0,20082.0,2,586,"North Carolina","LAYUP","GOOD","21 Ciera Toomey LAYUP GOOD (2 Pt); 00 Lanie Grant Assist (3 Asst)","Ciera Toomey",21.0,24.0,19.0
+2025.0,20082.0,2,579,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,576,"Maryland","OFF","REBOUND","12 Yarden Garzon OFF. REBOUND (2 Reb, 1 Off)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,2,575,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,2,572,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (3 Reb, 3 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,572,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (7 Pt)","Oluchi Okananwa",7.0,24.0,21.0
+2025.0,20082.0,2,550,"North Carolina","JUMPER","MISS","17 Elina Aarnisalo JUMPER MISS","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,2,548,"North Carolina","OFF","REBOUND","North Carolina REBOUND","","","",""
+2025.0,20082.0,2,548,"Maryland","SUBS","SUBS","06 Saylor Poffenbarger OUT; 09 Isimenme Ozzy-Momodu IN","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,2,533,"North Carolina","TURNOVER","TURNOVER","21 Ciera Toomey TURNOVER (1 TO)","Ciera Toomey",21.0,"",""
+2025.0,20082.0,2,509,"Maryland","LAYUP","MISS","09 Isimenme Ozzy-Momodu LAYUP MISS","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,20082.0,2,507,"Maryland","FOUL","FOUL","09 Isimenme Ozzy-Momodu FOUL (1 PF)","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,20082.0,2,506,"North Carolina","DEF","REBOUND","07 Nyla Brooks DEF. REBOUND (4 Reb, 4 Def)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,2,494,"North Carolina","3PTR","GOOD","00 Lanie Grant 3PTR GOOD (7 Pt)","Lanie Grant",0.0,27.0,21.0
+2025.0,20082.0,2,485,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS; 04 Laila Hull BLOCK (1 Blk)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,484,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (4 Reb, 3 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,2,484,"North Carolina","SUBS","SUBS","21 Ciera Toomey OUT; 02 Nyla Harris IN","Ciera Toomey",21.0,"",""
+2025.0,20082.0,2,484,"Maryland","SUBS","SUBS","09 Isimenme Ozzy-Momodu OUT; 06 Saylor Poffenbarger IN","Isimenme Ozzy-Momodu",9.0,"",""
+2025.0,20082.0,2,482,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (3 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,469,"North Carolina","LAYUP","GOOD","00 Lanie Grant LAYUP GOOD (9 Pt)","Lanie Grant",0.0,29.0,21.0
+2025.0,20082.0,2,469,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (1 PF)","Addi Mack",3.0,"",""
+2025.0,20082.0,2,469,"North Carolina","FT","MISS","00 Lanie Grant FT MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,2,468,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (3 Reb, 3 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,2,449,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (1 TO)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,2,428,"North Carolina","LAYUP","MISS","07 Nyla Brooks LAYUP MISS","Nyla Brooks",7.0,"",""
+2025.0,20082.0,2,426,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (4 Reb, 4 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,2,418,"Maryland","JUMPER","MISS","07 Oluchi Okananwa JUMPER MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,417,"North Carolina","DEF","REBOUND","North Carolina REBOUND","","","",""
+2025.0,20082.0,2,417,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 08 Kyndal Walker IN","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,400,"North Carolina","TURNOVER","TURNOVER","02 Nyla Harris TURNOVER (3 TO)","Nyla Harris",2.0,"",""
+2025.0,20082.0,2,400,"Maryland","STEAL","STEAL","03 Addi Mack STEAL (1 Stl)","Addi Mack",3.0,"",""
+2025.0,20082.0,2,395,"Maryland","LAYUP","GOOD","03 Addi Mack LAYUP GOOD (5 Pt)","Addi Mack",3.0,29.0,23.0
+2025.0,20082.0,2,383,"North Carolina","3PTR","MISS","00 Lanie Grant 3PTR MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,2,380,"Maryland","DEF","REBOUND","12 Yarden Garzon DEF. REBOUND (3 Reb, 2 Def)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,2,375,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,20082.0,2,371,"North Carolina","DEF","REBOUND","04 Laila Hull DEF. REBOUND (1 Reb, 1 Def)","Laila Hull",4.0,"",""
+2025.0,20082.0,2,364,"North Carolina","SUBS","SUBS","00 Lanie Grant OUT; 24 Indya Nivar IN","Lanie Grant",0.0,"",""
+2025.0,20082.0,2,358,"North Carolina","TURNOVER","TURNOVER","07 Nyla Brooks TURNOVER (2 TO)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,2,358,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (1 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,2,347,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,2,344,"North Carolina","DEF","REBOUND","24 Indya Nivar DEF. REBOUND (2 Reb, 1 Def)","Indya Nivar",24.0,"",""
+2025.0,20082.0,2,335,"North Carolina","3PTR","MISS","04 Laila Hull 3PTR MISS","Laila Hull",4.0,"",""
+2025.0,20082.0,2,333,"North Carolina","LAYUP","GOOD","02 Nyla Harris LAYUP GOOD (6 Pt)","Nyla Harris",2.0,31.0,23.0
+2025.0,20082.0,2,333,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (1 PF)","Mir McLean",10.0,"",""
+2025.0,20082.0,2,333,"North Carolina","SUBS","SUBS","07 Nyla Brooks OUT; 03 Taliyah Henderson IN","Nyla Brooks",7.0,"",""
+2025.0,20082.0,2,333,"North Carolina","FT","GOOD","02 Nyla Harris FT GOOD (7 Pt)","Nyla Harris",2.0,32.0,23.0
+2025.0,20082.0,2,332,"North Carolina","OFF","REBOUND","02 Nyla Harris OFF. REBOUND (4 Reb, 2 Off)","Nyla Harris",2.0,"",""
+2025.0,20082.0,2,308,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,20082.0,2,306,"North Carolina","DEF","REBOUND","04 Laila Hull DEF. REBOUND (2 Reb, 2 Def)","Laila Hull",4.0,"",""
+2025.0,20082.0,2,300,"North Carolina","LAYUP","GOOD","02 Nyla Harris LAYUP GOOD (9 Pt); 17 Elina Aarnisalo Assist (1 Asst)","Nyla Harris",2.0,34.0,23.0
+2025.0,20082.0,2,298,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,20082.0,2,298,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,20082.0,2,298,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 07 Oluchi Okananwa IN","Mir McLean",10.0,"",""
+2025.0,20082.0,2,285,"North Carolina","FOUL","FOUL","03 Taliyah Henderson FOUL (1 PF)","Taliyah Henderson",3.0,"",""
+2025.0,20082.0,2,273,"Maryland","JUMPER","GOOD","03 Addi Mack JUMPER GOOD (7 Pt)","Addi Mack",3.0,34.0,25.0
+2025.0,20082.0,2,243,"North Carolina","3PTR","MISS","04 Laila Hull 3PTR MISS","Laila Hull",4.0,"",""
+2025.0,20082.0,2,240,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (5 Reb, 5 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,2,232,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,20082.0,2,231,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,2,231,"North Carolina","SUBS","SUBS","03 Taliyah Henderson OUT; 07 Nyla Brooks IN","Taliyah Henderson",3.0,"",""
+2025.0,20082.0,2,226,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,2,222,"North Carolina","DEF","REBOUND","17 Elina Aarnisalo DEF. REBOUND (3 Reb, 3 Def)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,2,201,"North Carolina","TURNOVER","TURNOVER","17 Elina Aarnisalo TURNOVER (2 TO)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,2,201,"Maryland","STEAL","STEAL","07 Oluchi Okananwa STEAL (2 Stl)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,198,"North Carolina","FOUL","FOUL","17 Elina Aarnisalo FOUL (2 PF)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,2,198,"North Carolina","SUBS","SUBS","04 Laila Hull OUT; 00 Lanie Grant IN","Laila Hull",4.0,"",""
+2025.0,20082.0,2,198,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,198,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,2,198,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (8 Pt)","Oluchi Okananwa",7.0,34.0,26.0
+2025.0,20082.0,2,177,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (1 PF)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,2,177,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 00 Rainey Welson IN","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,2,175,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (2 PF)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,2,175,"North Carolina","FT","GOOD","24 Indya Nivar FT GOOD (4 Pt)","Indya Nivar",24.0,35.0,26.0
+2025.0,20082.0,2,175,"North Carolina","FT","GOOD","24 Indya Nivar FT GOOD (5 Pt)","Indya Nivar",24.0,36.0,26.0
+2025.0,20082.0,2,161,"Maryland","TURNOVER","TURNOVER","12 Yarden Garzon TURNOVER (2 TO)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,2,161,"North Carolina","STEAL","STEAL","00 Lanie Grant STEAL (1 Stl)","Lanie Grant",0.0,"",""
+2025.0,20082.0,2,149,"North Carolina","LAYUP","MISS","24 Indya Nivar LAYUP MISS","Indya Nivar",24.0,"",""
+2025.0,20082.0,2,146,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (1 Reb, 1 Def)","Addi Mack",3.0,"",""
+2025.0,20082.0,2,135,"Maryland","LAYUP","GOOD","12 Yarden Garzon LAYUP GOOD (6 Pt)","Yarden Garzon",12.0,36.0,28.0
+2025.0,20082.0,2,121,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (1 PF)","Kyndal Walker",8.0,"",""
+2025.0,20082.0,2,121,"North Carolina","FT","MISS","24 Indya Nivar FT MISS","Indya Nivar",24.0,"",""
+2025.0,20082.0,2,121,"North Carolina","DEADB","REBOUND","North Carolina REBOUND","","","",""
+2025.0,20082.0,2,121,"North Carolina","FT","GOOD","24 Indya Nivar FT GOOD (6 Pt)","Indya Nivar",24.0,37.0,28.0
+2025.0,20082.0,2,121,"North Carolina","SUBS","SUBS","24 Indya Nivar OUT; 04 Laila Hull IN","Indya Nivar",24.0,"",""
+2025.0,20082.0,2,108,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,2,105,"Maryland","OFF","REBOUND","03 Addi Mack OFF. REBOUND (2 Reb, 1 Off)","Addi Mack",3.0,"",""
+2025.0,20082.0,2,104,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (10 Pt)","Addi Mack",3.0,37.0,31.0
+2025.0,20082.0,2,75,"North Carolina","LAYUP","GOOD","17 Elina Aarnisalo LAYUP GOOD (10 Pt)","Elina Aarnisalo",17.0,39.0,31.0
+2025.0,20082.0,2,55,"Maryland","3PTR","MISS","00 Rainey Welson 3PTR MISS","Rainey Welson",0.0,"",""
+2025.0,20082.0,2,53,"Maryland","OFF","REBOUND","00 Rainey Welson OFF. REBOUND (1 Reb, 1 Off)","Rainey Welson",0.0,"",""
+2025.0,20082.0,2,51,"Maryland","LAYUP","GOOD","00 Rainey Welson LAYUP GOOD (2 Pt)","Rainey Welson",0.0,39.0,33.0
+2025.0,20082.0,2,31,"North Carolina","3PTR","GOOD","17 Elina Aarnisalo 3PTR GOOD (13 Pt); 04 Laila Hull Assist (2 Asst)","Elina Aarnisalo",17.0,42.0,33.0
+2025.0,20082.0,2,6,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS; 04 Laila Hull BLOCK (2 Blk)","Addi Mack",3.0,"",""
+2025.0,20082.0,2,2,"North Carolina","DEF","REBOUND","07 Nyla Brooks DEF. REBOUND (5 Reb, 5 Def)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,3,600,"North Carolina","SUBS","SUBS","04 Laila Hull OUT; 07 Nyla Brooks OUT; 21 Ciera Toomey IN; 24 Indya Nivar IN","Laila Hull",4.0,"",""
+2025.0,20082.0,3,600,"Maryland","SUBS","SUBS","00 Rainey Welson OUT; 08 Kyndal Walker OUT; 07 Oluchi Okananwa IN; 10 Mir McLean IN","Rainey Welson",0.0,"",""
+2025.0,20082.0,3,588,"Maryland","3PTR","GOOD","03 Addi Mack 3PTR GOOD (13 Pt); 07 Oluchi Okananwa Assist (1 Asst)","Addi Mack",3.0,42.0,36.0
+2025.0,20082.0,3,561,"North Carolina","JUMPER","MISS","00 Lanie Grant JUMPER MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,3,559,"North Carolina","OFF","REBOUND","00 Lanie Grant OFF. REBOUND (1 Reb, 1 Off)","Lanie Grant",0.0,"",""
+2025.0,20082.0,3,557,"North Carolina","LAYUP","MISS","00 Lanie Grant LAYUP MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,3,555,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (5 Reb, 2 Def)","Mir McLean",10.0,"",""
+2025.0,20082.0,3,545,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (4 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,539,"North Carolina","TURNOVER","TURNOVER","17 Elina Aarnisalo TURNOVER (3 TO)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,539,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (2 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,520,"Maryland","LAYUP","MISS","06 Saylor Poffenbarger LAYUP MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,518,"North Carolina","DEF","REBOUND","02 Nyla Harris DEF. REBOUND (5 Reb, 3 Def)","Nyla Harris",2.0,"",""
+2025.0,20082.0,3,505,"North Carolina","JUMPER","MISS","17 Elina Aarnisalo JUMPER MISS","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,502,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (6 Reb, 6 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,484,"North Carolina","FOUL","FOUL","24 Indya Nivar FOUL (3 PF)","Indya Nivar",24.0,"",""
+2025.0,20082.0,3,484,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,484,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,3,484,"Maryland","FT","GOOD","07 Oluchi Okananwa FT GOOD (9 Pt)","Oluchi Okananwa",7.0,42.0,37.0
+2025.0,20082.0,3,462,"North Carolina","3PTR","MISS","17 Elina Aarnisalo 3PTR MISS","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,460,"Maryland","DEF","REBOUND","03 Addi Mack DEF. REBOUND (3 Reb, 2 Def)","Addi Mack",3.0,"",""
+2025.0,20082.0,3,452,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,450,"North Carolina","DEF","REBOUND","24 Indya Nivar DEF. REBOUND (3 Reb, 2 Def)","Indya Nivar",24.0,"",""
+2025.0,20082.0,3,441,"North Carolina","3PTR","MISS","00 Lanie Grant 3PTR MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,3,438,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (6 Reb, 3 Def)","Mir McLean",10.0,"",""
+2025.0,20082.0,3,432,"Maryland","LAYUP","MISS","03 Addi Mack LAYUP MISS","Addi Mack",3.0,"",""
+2025.0,20082.0,3,428,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (7 Reb, 4 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,3,426,"North Carolina","FOUL","FOUL","24 Indya Nivar FOUL (4 PF)","Indya Nivar",24.0,"",""
+2025.0,20082.0,3,426,"North Carolina","SUBS","SUBS","24 Indya Nivar OUT; 07 Nyla Brooks IN","Indya Nivar",24.0,"",""
+2025.0,20082.0,3,426,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,426,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,3,425,"North Carolina","DEF","REBOUND","02 Nyla Harris DEF. REBOUND (6 Reb, 4 Def)","Nyla Harris",2.0,"",""
+2025.0,20082.0,3,406,"North Carolina","TURNOVER","TURNOVER","17 Elina Aarnisalo TURNOVER (4 TO)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,406,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (3 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,400,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,398,"North Carolina","DEF","REBOUND","17 Elina Aarnisalo DEF. REBOUND (4 Reb, 4 Def)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,398,"North Carolina","SUBS","SUBS","02 Nyla Harris OUT; 21 Ciera Toomey OUT; 04 Laila Hull IN; 26 Taissa Queiroz IN","Nyla Harris",2.0,"",""
+2025.0,20082.0,3,398,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 08 Kyndal Walker IN","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,384,"North Carolina","LAYUP","GOOD","17 Elina Aarnisalo LAYUP GOOD (15 Pt)","Elina Aarnisalo",17.0,44.0,37.0
+2025.0,20082.0,3,363,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (6 Pt)","Mir McLean",10.0,44.0,39.0
+2025.0,20082.0,3,349,"North Carolina","JUMPER","GOOD","17 Elina Aarnisalo JUMPER GOOD (17 Pt)","Elina Aarnisalo",17.0,46.0,39.0
+2025.0,20082.0,3,327,"Maryland","SUBS","SUBS","10 Mir McLean OUT; 07 Oluchi Okananwa IN","Mir McLean",10.0,"",""
+2025.0,20082.0,3,315,"Maryland","JUMPER","GOOD","07 Oluchi Okananwa JUMPER GOOD (11 Pt)","Oluchi Okananwa",7.0,46.0,41.0
+2025.0,20082.0,3,304,"North Carolina","30SEC","TIMEOUT","North Carolina TIMEOUT 30 Sec. (1st TO, 1st 30)","","","",""
+2025.0,20082.0,3,304,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,20082.0,3,282,"North Carolina","JUMPER","GOOD","00 Lanie Grant JUMPER GOOD (11 Pt)","Lanie Grant",0.0,48.0,41.0
+2025.0,20082.0,3,265,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,261,"North Carolina","DEF","REBOUND","07 Nyla Brooks DEF. REBOUND (6 Reb, 6 Def)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,3,252,"North Carolina","JUMPER","MISS","07 Nyla Brooks JUMPER MISS","Nyla Brooks",7.0,"",""
+2025.0,20082.0,3,251,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (7 Reb, 7 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,251,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,20082.0,3,251,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 10 Mir McLean IN","Addi Mack",3.0,"",""
+2025.0,20082.0,3,235,"Maryland","JUMPER","MISS","12 Yarden Garzon JUMPER MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,3,233,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (8 Reb, 5 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,3,230,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (13 Pt)","Oluchi Okananwa",7.0,48.0,43.0
+2025.0,20082.0,3,216,"North Carolina","LAYUP","MISS","00 Lanie Grant LAYUP MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,3,214,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (8 Reb, 8 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,209,"North Carolina","FOUL","FOUL","17 Elina Aarnisalo FOUL (3 PF)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,209,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (4 Pt)","Kyndal Walker",8.0,48.0,44.0
+2025.0,20082.0,3,209,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (5 Pt)","Kyndal Walker",8.0,48.0,45.0
+2025.0,20082.0,3,187,"North Carolina","LAYUP","MISS","00 Lanie Grant LAYUP MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,3,186,"North Carolina","OFF","REBOUND","00 Lanie Grant OFF. REBOUND (2 Reb, 2 Off)","Lanie Grant",0.0,"",""
+2025.0,20082.0,3,185,"North Carolina","LAYUP","GOOD","00 Lanie Grant LAYUP GOOD (13 Pt)","Lanie Grant",0.0,50.0,45.0
+2025.0,20082.0,3,177,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,175,"North Carolina","DEF","REBOUND","17 Elina Aarnisalo DEF. REBOUND (5 Reb, 5 Def)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,170,"North Carolina","TURNOVER","TURNOVER","17 Elina Aarnisalo TURNOVER (5 TO)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,170,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (2 Stl)","Mir McLean",10.0,"",""
+2025.0,20082.0,3,166,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (15 Pt)","Oluchi Okananwa",7.0,50.0,47.0
+2025.0,20082.0,3,166,"North Carolina","FOUL","FOUL","04 Laila Hull FOUL (1 PF)","Laila Hull",4.0,"",""
+2025.0,20082.0,3,166,"Maryland","FT","MISS","07 Oluchi Okananwa FT MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,165,"North Carolina","DEF","REBOUND","North Carolina REBOUND","","","",""
+2025.0,20082.0,3,150,"Maryland","FOUL","FOUL","08 Kyndal Walker FOUL (2 PF)","Kyndal Walker",8.0,"",""
+2025.0,20082.0,3,142,"North Carolina","JUMPER","MISS","07 Nyla Brooks JUMPER MISS","Nyla Brooks",7.0,"",""
+2025.0,20082.0,3,139,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,3,122,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS; 04 Laila Hull BLOCK (3 Blk)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,122,"North Carolina","DEF","REBOUND","07 Nyla Brooks DEF. REBOUND (7 Reb, 7 Def)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,3,117,"North Carolina","TURNOVER","TURNOVER","07 Nyla Brooks TURNOVER (3 TO)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,3,117,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (3 Stl)","Mir McLean",10.0,"",""
+2025.0,20082.0,3,109,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,3,105,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (4 Reb, 4 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,104,"North Carolina","FOUL","FOUL","17 Elina Aarnisalo FOUL (4 PF)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,104,"North Carolina","SUBS","SUBS","04 Laila Hull OUT; 26 Taissa Queiroz OUT; 02 Nyla Harris IN; 24 Indya Nivar IN","Laila Hull",4.0,"",""
+2025.0,20082.0,3,104,"Maryland","FT","MISS","08 Kyndal Walker FT MISS","Kyndal Walker",8.0,"",""
+2025.0,20082.0,3,104,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,3,104,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (6 Pt)","Kyndal Walker",8.0,50.0,48.0
+2025.0,20082.0,3,90,"North Carolina","3PTR","MISS","17 Elina Aarnisalo 3PTR MISS","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,88,"Maryland","DEF","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,3,70,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (5 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,70,"North Carolina","STEAL","STEAL","00 Lanie Grant STEAL (2 Stl)","Lanie Grant",0.0,"",""
+2025.0,20082.0,3,68,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (3 PF)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,3,68,"North Carolina","SUBS","SUBS","17 Elina Aarnisalo OUT; 26 Taissa Queiroz IN","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,3,49,"North Carolina","3PTR","MISS","26 Taissa Queiroz 3PTR MISS","Taissa Queiroz",26.0,"",""
+2025.0,20082.0,3,46,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,3,46,"North Carolina","FOUL","FOUL","02 Nyla Harris FOUL (2 PF)","Nyla Harris",2.0,"",""
+2025.0,20082.0,3,46,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (7 Pt)","Kyndal Walker",8.0,50.0,49.0
+2025.0,20082.0,3,46,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (8 Pt)","Kyndal Walker",8.0,50.0,50.0
+2025.0,20082.0,3,37,"North Carolina","TURNOVER","TURNOVER","26 Taissa Queiroz TURNOVER (1 TO)","Taissa Queiroz",26.0,"",""
+2025.0,20082.0,3,37,"Maryland","STEAL","STEAL","06 Saylor Poffenbarger STEAL (4 Stl)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,33,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,3,30,"North Carolina","DEF","REBOUND","24 Indya Nivar DEF. REBOUND (4 Reb, 3 Def)","Indya Nivar",24.0,"",""
+2025.0,20082.0,3,30,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (2 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,3,2,"North Carolina","LAYUP","MISS","00 Lanie Grant LAYUP MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,3,0,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,4,600,"North Carolina","SUBS","SUBS","26 Taissa Queiroz OUT; 04 Laila Hull IN","Taissa Queiroz",26.0,"",""
+2025.0,20082.0,4,593,"North Carolina","JUMPER","MISS","24 Indya Nivar JUMPER MISS","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,590,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (9 Reb, 9 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,4,586,"North Carolina","FOUL","FOUL","07 Nyla Brooks FOUL (2 PF)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,4,586,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (9 Pt)","Kyndal Walker",8.0,50.0,51.0
+2025.0,20082.0,4,586,"Maryland","FT","GOOD","08 Kyndal Walker FT GOOD (10 Pt)","Kyndal Walker",8.0,50.0,52.0
+2025.0,20082.0,4,586,"North Carolina","SUBS","SUBS","04 Laila Hull OUT; 17 Elina Aarnisalo IN","Laila Hull",4.0,"",""
+2025.0,20082.0,4,565,"North Carolina","LAYUP","GOOD","02 Nyla Harris LAYUP GOOD (11 Pt); 24 Indya Nivar Assist (1 Asst)","Nyla Harris",2.0,52.0,52.0
+2025.0,20082.0,4,540,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,4,538,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (5 Reb, 5 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,4,537,"Maryland","TURNOVER","TURNOVER","07 Oluchi Okananwa TURNOVER (6 TO)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,4,523,"North Carolina","LAYUP","GOOD","24 Indya Nivar LAYUP GOOD (8 Pt); 02 Nyla Harris Assist (1 Asst)","Indya Nivar",24.0,54.0,52.0
+2025.0,20082.0,4,506,"Maryland","JUMPER","MISS","10 Mir McLean JUMPER MISS","Mir McLean",10.0,"",""
+2025.0,20082.0,4,503,"North Carolina","DEF","REBOUND","00 Lanie Grant DEF. REBOUND (3 Reb, 1 Def)","Lanie Grant",0.0,"",""
+2025.0,20082.0,4,486,"North Carolina","LAYUP","GOOD","00 Lanie Grant LAYUP GOOD (15 Pt)","Lanie Grant",0.0,56.0,52.0
+2025.0,20082.0,4,486,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (2 PF)","Mir McLean",10.0,"",""
+2025.0,20082.0,4,486,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,20082.0,4,486,"North Carolina","FT","GOOD","00 Lanie Grant FT GOOD (16 Pt)","Lanie Grant",0.0,57.0,52.0
+2025.0,20082.0,4,469,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,4,466,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (9 Reb, 6 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,4,465,"Maryland","LAYUP","MISS","10 Mir McLean LAYUP MISS","Mir McLean",10.0,"",""
+2025.0,20082.0,4,463,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (10 Reb, 7 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,4,462,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (8 Pt)","Mir McLean",10.0,57.0,54.0
+2025.0,20082.0,4,436,"North Carolina","JUMPER","MISS","17 Elina Aarnisalo JUMPER MISS","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,4,432,"North Carolina","OFF","REBOUND","17 Elina Aarnisalo OFF. REBOUND (6 Reb, 1 Off)","Elina Aarnisalo",17.0,"",""
+2025.0,20082.0,4,417,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (1 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,4,417,"North Carolina","FT","MISS","24 Indya Nivar FT MISS","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,417,"North Carolina","DEADB","REBOUND","North Carolina REBOUND","","","",""
+2025.0,20082.0,4,417,"North Carolina","FT","GOOD","24 Indya Nivar FT GOOD (9 Pt)","Indya Nivar",24.0,58.0,54.0
+2025.0,20082.0,4,404,"Maryland","3PTR","MISS","03 Addi Mack 3PTR MISS","Addi Mack",3.0,"",""
+2025.0,20082.0,4,402,"North Carolina","DEF","REBOUND","02 Nyla Harris DEF. REBOUND (7 Reb, 5 Def)","Nyla Harris",2.0,"",""
+2025.0,20082.0,4,401,"Maryland","FOUL","FOUL","12 Yarden Garzon FOUL (4 PF)","Yarden Garzon",12.0,"",""
+2025.0,20082.0,4,401,"Maryland","SUBS","SUBS","12 Yarden Garzon OUT; 08 Kyndal Walker IN","Yarden Garzon",12.0,"",""
+2025.0,20082.0,4,378,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (2 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,4,378,"North Carolina","SUBS","SUBS","24 Indya Nivar OUT; 26 Taissa Queiroz IN","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,378,"North Carolina","FT","MISS","02 Nyla Harris FT MISS","Nyla Harris",2.0,"",""
+2025.0,20082.0,4,378,"North Carolina","DEADB","REBOUND","North Carolina REBOUND","","","",""
+2025.0,20082.0,4,378,"North Carolina","FT","GOOD","02 Nyla Harris FT GOOD (12 Pt)","Nyla Harris",2.0,59.0,54.0
+2025.0,20082.0,4,357,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,4,353,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (11 Reb, 8 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,4,353,"North Carolina","FOUL","FOUL","02 Nyla Harris FOUL (3 PF)","Nyla Harris",2.0,"",""
+2025.0,20082.0,4,353,"Maryland","FT","MISS","10 Mir McLean FT MISS","Mir McLean",10.0,"",""
+2025.0,20082.0,4,353,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,4,353,"North Carolina","DEF","REBOUND","00 Lanie Grant DEF. REBOUND (4 Reb, 2 Def)","Lanie Grant",0.0,"",""
+2025.0,20082.0,4,346,"North Carolina","TURNOVER","TURNOVER","00 Lanie Grant TURNOVER (2 TO)","Lanie Grant",0.0,"",""
+2025.0,20082.0,4,346,"Maryland","STEAL","STEAL","10 Mir McLean STEAL (4 Stl)","Mir McLean",10.0,"",""
+2025.0,20082.0,4,342,"Maryland","LAYUP","GOOD","10 Mir McLean LAYUP GOOD (10 Pt)","Mir McLean",10.0,59.0,56.0
+2025.0,20082.0,4,327,"Maryland","FOUL","FOUL","10 Mir McLean FOUL (3 PF)","Mir McLean",10.0,"",""
+2025.0,20082.0,4,327,"North Carolina","SUBS","SUBS","07 Nyla Brooks OUT; 24 Indya Nivar IN","Nyla Brooks",7.0,"",""
+2025.0,20082.0,4,327,"Maryland","SUBS","SUBS","07 Oluchi Okananwa OUT; 12 Yarden Garzon IN","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,4,327,"North Carolina","FT","GOOD","17 Elina Aarnisalo FT GOOD (18 Pt)","Elina Aarnisalo",17.0,60.0,56.0
+2025.0,20082.0,4,327,"North Carolina","FT","GOOD","17 Elina Aarnisalo FT GOOD (19 Pt)","Elina Aarnisalo",17.0,61.0,56.0
+2025.0,20082.0,4,310,"Maryland","JUMPER","MISS","08 Kyndal Walker JUMPER MISS","Kyndal Walker",8.0,"",""
+2025.0,20082.0,4,306,"North Carolina","DEF","REBOUND","24 Indya Nivar DEF. REBOUND (5 Reb, 4 Def)","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,279,"North Carolina","LAYUP","MISS","00 Lanie Grant LAYUP MISS","Lanie Grant",0.0,"",""
+2025.0,20082.0,4,277,"North Carolina","OFF","REBOUND","02 Nyla Harris OFF. REBOUND (8 Reb, 3 Off)","Nyla Harris",2.0,"",""
+2025.0,20082.0,4,259,"North Carolina","JUMPER","GOOD","24 Indya Nivar JUMPER GOOD (11 Pt)","Indya Nivar",24.0,63.0,56.0
+2025.0,20082.0,4,243,"Maryland","LAYUP","GOOD","06 Saylor Poffenbarger LAYUP GOOD (2 Pt)","Saylor Poffenbarger",6.0,63.0,58.0
+2025.0,20082.0,4,219,"North Carolina","LAYUP","MISS","24 Indya Nivar LAYUP MISS","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,217,"Maryland","DEF","REBOUND","06 Saylor Poffenbarger DEF. REBOUND (10 Reb, 10 Def)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,4,210,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,4,207,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (12 Reb, 9 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,4,207,"North Carolina","FOUL","FOUL","26 Taissa Queiroz FOUL (1 PF)","Taissa Queiroz",26.0,"",""
+2025.0,20082.0,4,207,"Maryland","MEDIA","TIMEOUT","Media Timeout","","","",""
+2025.0,20082.0,4,207,"North Carolina","SUBS","SUBS","26 Taissa Queiroz OUT; 07 Nyla Brooks IN","Taissa Queiroz",26.0,"",""
+2025.0,20082.0,4,207,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 07 Oluchi Okananwa IN","Kyndal Walker",8.0,"",""
+2025.0,20082.0,4,189,"Maryland","3PTR","MISS","12 Yarden Garzon 3PTR MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,4,189,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,4,189,"North Carolina","FOUL","FOUL","00 Lanie Grant FOUL (2 PF)","Lanie Grant",0.0,"",""
+2025.0,20082.0,4,188,"Maryland","JUMPER","MISS","03 Addi Mack JUMPER MISS","Addi Mack",3.0,"",""
+2025.0,20082.0,4,185,"Maryland","OFF","REBOUND","07 Oluchi Okananwa OFF. REBOUND (6 Reb, 6 Off)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,4,183,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (17 Pt)","Oluchi Okananwa",7.0,63.0,60.0
+2025.0,20082.0,4,172,"Maryland","FOUL","FOUL","07 Oluchi Okananwa FOUL (3 PF)","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,4,172,"North Carolina","FT","MISS","24 Indya Nivar FT MISS","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,172,"North Carolina","DEADB","REBOUND","North Carolina REBOUND","","","",""
+2025.0,20082.0,4,171,"Maryland","DEF","REBOUND","10 Mir McLean DEF. REBOUND (13 Reb, 4 Def)","Mir McLean",10.0,"",""
+2025.0,20082.0,4,148,"Maryland","LAYUP","MISS","12 Yarden Garzon LAYUP MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,4,145,"North Carolina","DEF","REBOUND","24 Indya Nivar DEF. REBOUND (6 Reb, 5 Def)","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,128,"Maryland","FOUL","FOUL","03 Addi Mack FOUL (2 PF)","Addi Mack",3.0,"",""
+2025.0,20082.0,4,128,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025.0,20082.0,4,128,"North Carolina","FT","GOOD","17 Elina Aarnisalo FT GOOD (20 Pt)","Elina Aarnisalo",17.0,64.0,60.0
+2025.0,20082.0,4,128,"North Carolina","FT","GOOD","17 Elina Aarnisalo FT GOOD (21 Pt)","Elina Aarnisalo",17.0,65.0,60.0
+2025.0,20082.0,4,115,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (19 Pt)","Oluchi Okananwa",7.0,65.0,62.0
+2025.0,20082.0,4,103,"North Carolina","3PTR","GOOD","07 Nyla Brooks 3PTR GOOD (6 Pt); 17 Elina Aarnisalo Assist (2 Asst)","Nyla Brooks",7.0,68.0,62.0
+2025.0,20082.0,4,85,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,20082.0,4,78,"North Carolina","FOUL","FOUL","00 Lanie Grant FOUL (3 PF)","Lanie Grant",0.0,"",""
+2025.0,20082.0,4,78,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025.0,20082.0,4,78,"North Carolina","SUBS","SUBS","24 Indya Nivar OUT; 04 Laila Hull IN","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,78,"Maryland","FT","MISS","12 Yarden Garzon FT MISS","Yarden Garzon",12.0,"",""
+2025.0,20082.0,4,78,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,4,77,"North Carolina","DEF","REBOUND","07 Nyla Brooks DEF. REBOUND (8 Reb, 8 Def)","Nyla Brooks",7.0,"",""
+2025.0,20082.0,4,49,"North Carolina","LAYUP","GOOD","00 Lanie Grant LAYUP GOOD (18 Pt)","Lanie Grant",0.0,70.0,62.0
+2025.0,20082.0,4,49,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
+2025.0,20082.0,4,49,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,20082.0,4,42,"Maryland","LAYUP","MISS","07 Oluchi Okananwa LAYUP MISS","Oluchi Okananwa",7.0,"",""
+2025.0,20082.0,4,40,"Maryland","OFF","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,4,40,"North Carolina","SUBS","SUBS","04 Laila Hull OUT; 24 Indya Nivar IN","Laila Hull",4.0,"",""
+2025.0,20082.0,4,34,"Maryland","LAYUP","GOOD","07 Oluchi Okananwa LAYUP GOOD (21 Pt)","Oluchi Okananwa",7.0,70.0,64.0
+2025.0,20082.0,4,34,"North Carolina","30SEC","TIMEOUT","North Carolina TIMEOUT 30 Sec. (1st TO, 2nd 30)","","","",""
+2025.0,20082.0,4,34,"North Carolina","SUBS","SUBS","24 Indya Nivar OUT; 04 Laila Hull IN","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,34,"Maryland","SUBS","SUBS","03 Addi Mack OUT; 08 Kyndal Walker IN","Addi Mack",3.0,"",""
+2025.0,20082.0,4,31,"Maryland","FOUL","FOUL","06 Saylor Poffenbarger FOUL (3 PF)","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,4,31,"North Carolina","SUBS","SUBS","04 Laila Hull OUT; 24 Indya Nivar IN","Laila Hull",4.0,"",""
+2025.0,20082.0,4,31,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 03 Addi Mack IN","Kyndal Walker",8.0,"",""
+2025.0,20082.0,4,31,"North Carolina","FT","GOOD","00 Lanie Grant FT GOOD (19 Pt)","Lanie Grant",0.0,71.0,64.0
+2025.0,20082.0,4,31,"North Carolina","FT","GOOD","00 Lanie Grant FT GOOD (20 Pt)","Lanie Grant",0.0,72.0,64.0
+2025.0,20082.0,4,31,"Maryland","30SEC","TIMEOUT","Maryland TIMEOUT 30 Sec. (2nd TO, 3rd 30)","","","",""
+2025.0,20082.0,4,18,"Maryland","3PTR","MISS","06 Saylor Poffenbarger 3PTR MISS","Saylor Poffenbarger",6.0,"",""
+2025.0,20082.0,4,16,"Maryland","DEADB","REBOUND","Maryland REBOUND","","","",""
+2025.0,20082.0,4,16,"North Carolina","FOUL","FOUL","24 Indya Nivar FOUL (5 PF)","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,16,"North Carolina","SUBS","SUBS","24 Indya Nivar OUT; 04 Laila Hull IN; 04 Laila Hull OUT; 21 Ciera Toomey IN","Indya Nivar",24.0,"",""
+2025.0,20082.0,4,16,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (11 Pt)","Mir McLean",10.0,72.0,65.0
+2025.0,20082.0,4,16,"Maryland","FT","GOOD","10 Mir McLean FT GOOD (12 Pt)","Mir McLean",10.0,72.0,66.0
+2025.0,20082.0,4,16,"Maryland","SUBS","SUBS","08 Kyndal Walker IN; 12 Yarden Garzon OUT","Kyndal Walker",8.0,"",""
+2025.0,20082.0,4,9,"North Carolina","LAYUP","GOOD","02 Nyla Harris LAYUP GOOD (14 Pt); 07 Nyla Brooks Assist (1 Asst)","Nyla Harris",2.0,74.0,66.0
+2025.0,20082.0,4,9,"Maryland","TEAM","TIMEOUT","Maryland TIMEOUT Full (3rd TO, 1st Full)","","","",""
+2025.0,20082.0,4,9,"Maryland","SUBS","SUBS","08 Kyndal Walker OUT; 12 Yarden Garzon IN","Kyndal Walker",8.0,"",""
+2025.0,20082.0,4,3,"Maryland","LAYUP","MISS","10 Mir McLean LAYUP MISS","Mir McLean",10.0,"",""
+2025.0,20082.0,4,1,"Maryland","OFF","REBOUND","10 Mir McLean OFF. REBOUND (14 Reb, 10 Off)","Mir McLean",10.0,"",""
+2025.0,20082.0,4,1,"Maryland","LAYUP","MISS","10 Mir McLean LAYUP MISS","Mir McLean",10.0,"",""
+2025.0,20082.0,4,0,"North Carolina","DEF","REBOUND","21 Ciera Toomey DEF. REBOUND (2 Reb, 2 Def)","Ciera Toomey",21.0,"",""
