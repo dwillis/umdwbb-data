@@ -1,0 +1,559 @@
+"source_id","file_id","team","player_name","player_number","box_minutes","stint_minutes","delta","anomalies_in_game"
+"2020-21","12076","Davidson","Katie Turner",1,22,22.8,0.8,0
+"2020-21","12076","Davidson","Chloe Welch",2,32,32.3,0.3,0
+"2020-21","12076","Davidson","Sarah Konstans",10,26,25.7,-0.3,0
+"2020-21","12076","Davidson","Cassidy Gould",14,32,31.7,-0.3,0
+"2020-21","12076","Davidson","Peyton Carter",21,13,14.2,1.2,0
+"2020-21","12076","Davidson","Kelly Fitzgerald",4,13,12.4,-0.6,0
+"2020-21","12076","Davidson","Cameron Tabor",20,28,27.7,-0.3,0
+"2020-21","12076","Davidson","Adelaide Fuller",24,20,19.1,-0.9,0
+"2020-21","12076","Davidson","Saeeda Abdul-Aziz",32,5,5.0,0.0,0
+"2020-21","12076","Davidson","Alana Davidson",34,9,9.1,0.1,0
+"2020-21","12076","Maryland","Diamond Miller",1,25,24.1,-0.9,0
+"2020-21","12076","Maryland","Angel Reese",10,15,15.3,0.3,0
+"2020-21","12076","Maryland","Katie Benzan",11,33,33.0,0.0,0
+"2020-21","12076","Maryland","Ashley Owusu",15,17,17.9,0.9,0
+"2020-21","12076","Maryland","Chloe Bibby",55,26,25.9,-0.1,0
+"2020-21","12076","Maryland","Mimi Collins",2,25,25.0,0.0,0
+"2020-21","12076","Maryland","Channise Lewis",3,18,19.3,1.3,0
+"2020-21","12076","Maryland","Faith Masonius",13,22,21.2,-0.8,0
+"2020-21","12076","Maryland","Taisiya Kozlova",14,19,18.2,-0.8,0
+"2020-21","12077","Maryland","Diamond Miller",1,20,19.3,-0.7,0
+"2020-21","12077","Maryland","Angel Reese",10,29,29.1,0.1,0
+"2020-21","12077","Maryland","Katie Benzan",11,36,35.3,-0.7,0
+"2020-21","12077","Maryland","Ashley Owusu",15,37,36.7,-0.3,0
+"2020-21","12077","Maryland","Chloe Bibby",55,29,28.6,-0.4,0
+"2020-21","12077","Maryland","Mimi Collins",2,17,17.3,0.3,0
+"2020-21","12077","Maryland","Channise Lewis",3,18,19.5,1.5,0
+"2020-21","12077","Maryland","Faith Masonius",13,14,14.1,0.1,0
+"2020-21","12077","Missouri St.","Abby Hipp",4,26,26.1,0.1,0
+"2020-21","12077","Missouri St.","Brice Calip",11,29,29.5,0.5,0
+"2020-21","12077","Missouri St.","Sydney Wilson",21,28,28.6,0.6,0
+"2020-21","12077","Missouri St.","Mya Bhinhar",23,30,30.7,0.7,0
+"2020-21","12077","Missouri St.","Jasmine Franklin",32,28,27.1,-0.9,0
+"2020-21","12077","Missouri St.","Abigayle Jackson",0,11,10.6,-0.4,0
+"2020-21","12077","Missouri St.","Elle Ruffridge",2,15,15.4,0.4,0
+"2020-21","12077","Missouri St.","Sydney Manning",34,17,16.2,-0.8,0
+"2020-21","12077","Missouri St.","Emily Gartner",50,16,15.8,-0.2,0
+"2020-21","12078","Arkansas","Destiny Slocum",12,29,29.5,0.5,0
+"2020-21","12078","Arkansas","Amber Ramirez",23,27,27.9,0.9,0
+"2020-21","12078","Arkansas","Taylah Thomas",24,23,21.9,-1.1,0
+"2020-21","12078","Arkansas","Chelsea Dungee",33,28,27.7,-0.3,0
+"2020-21","12078","Arkansas","Makayla Daniels",43,26,25.8,-0.2,0
+"2020-21","12078","Arkansas","Marquesha Davis",1,17,16.1,-0.9,0
+"2020-21","12078","Arkansas","Erynn Barnum",4,13,13.6,0.6,0
+"2020-21","12078","Arkansas","Rylee Langerman",11,5,4.5,-0.5,0
+"2020-21","12078","Arkansas","Jailyn Mason",14,24,24.2,0.2,0
+"2020-21","12078","Arkansas","Avery Hughes",22,2,1.9,-0.1,0
+"2020-21","12078","Arkansas","Destinee Oberg",25,4,4.5,0.5,0
+"2020-21","12078","Arkansas","Macy Weaver",30,2,2.4,0.4,0
+"2020-21","12078","Maryland","Diamond Miller",1,32,32.6,0.6,0
+"2020-21","12078","Maryland","Angel Reese",10,17,16.9,-0.1,0
+"2020-21","12078","Maryland","Katie Benzan",11,29,28.3,-0.7,0
+"2020-21","12078","Maryland","Ashley Owusu",15,28,27.8,-0.2,0
+"2020-21","12078","Maryland","Chloe Bibby",55,37,37.1,0.1,0
+"2020-21","12078","Maryland","Mimi Collins",2,15,15.2,0.2,0
+"2020-21","12078","Maryland","Channise Lewis",3,17,16.5,-0.5,0
+"2020-21","12078","Maryland","Faith Masonius",13,18,18.3,0.3,0
+"2020-21","12078","Maryland","Taisiya Kozlova",14,7,7.2,0.2,0
+"2020-21","12079","Maryland","Diamond Miller",1,23,26.1,3.1,4
+"2020-21","12079","Maryland","Angel Reese",10,3,2.8,-0.2,4
+"2020-21","12079","Maryland","Katie Benzan",11,30,30.5,0.5,4
+"2020-21","12079","Maryland","Ashley Owusu",15,30,29.9,-0.1,4
+"2020-21","12079","Maryland","Chloe Bibby",55,27,27.1,0.1,4
+"2020-21","12079","Maryland","Mimi Collins",2,24,23.3,-0.7,4
+"2020-21","12079","Maryland","Channise Lewis",3,21,21.0,0.0,4
+"2020-21","12079","Maryland","Faith Masonius",13,28,28.5,0.5,4
+"2020-21","12079","Maryland","Taisiya Kozlova",14,14,14.2,0.2,4
+"2020-21","12079","Towson","Allie Kubek",0,26,25.3,-0.7,4
+"2020-21","12079","Towson","Aleah Nelson",4,35,35.3,0.3,4
+"2020-21","12079","Towson","Wiebke Schwartau",13,16,15.9,-0.1,4
+"2020-21","12079","Towson","Kionna Jeter",21,32,31.4,-0.6,4
+"2020-21","12079","Towson","Shavonne Smith",23,25,24.4,-0.6,4
+"2020-21","12079","Towson","Skye Williams",1,14,13.8,-0.2,4
+"2020-21","12079","Towson","Maggie Sharp",3,2,1.6,-0.4,4
+"2020-21","12079","Towson","LaKaitlin Wright",22,16,15.9,-0.1,4
+"2020-21","12079","Towson","Tess Borgosz",24,14,14.3,0.3,4
+"2020-21","12079","Towson","Tarriyonna Gary",33,14,15.3,1.3,4
+"2020-21","12079","Towson","Bianca Glover",35,6,6.8,0.8,4
+"2020-21","12109","Rutgers","Zipporah Broughton",1,37,37.5,0.5,5
+"2020-21","12109","Rutgers","Mael Gilles",13,40,40.0,0.0,5
+"2020-21","12109","Rutgers","Tyia Singleton",22,18,17.2,-0.8,5
+"2020-21","12109","Rutgers","Arella Guirantes",24,40,40.0,0.0,5
+"2020-21","12109","Rutgers","Tekia Mack",31,5,5.2,0.2,5
+"2020-21","12109","Rutgers","Liz Martino",2,2,2.8,0.8,5
+"2020-21","12109","Rutgers","Diamond Johnson",3,31,30.9,-0.1,5
+"2020-21","12109","Rutgers","Destiny Marshall",4,0,0.5,0.5,5
+"2020-21","12109","Rutgers","Erica Lafayette",10,21,15.9,-5.1,5
+"2020-21","12109","Rutgers","Sakima Walker",12,6,10.0,4.0,5
+"2020-21","12109","Maryland","Diamond Miller",1,33,32.9,-0.1,5
+"2020-21","12109","Maryland","Katie Benzan",11,32,29.6,-2.4,5
+"2020-21","12109","Maryland","Faith Masonius",13,8,11.9,3.9,5
+"2020-21","12109","Maryland","Ashley Owusu",15,32,31.6,-0.4,5
+"2020-21","12109","Maryland","Chloe Bibby",55,36,36.2,0.2,5
+"2020-21","12109","Maryland","Mimi Collins",2,29,29.3,0.3,5
+"2020-21","12109","Maryland","Channise Lewis",3,30,29.6,-0.4,5
+"2020-21","12111","Penn St.","Tova Sabel",10,32,32.6,0.6,0
+"2020-21","12111","Penn St.","Anna Camden",11,17,17.1,0.1,0
+"2020-21","12111","Penn St.","Makenna Marisa",20,21,21.0,0.0,0
+"2020-21","12111","Penn St.","Kelly Jekot",25,37,37.0,0.0,0
+"2020-21","12111","Penn St.","Johnasia Cash",33,24,23.1,-0.9,0
+"2020-21","12111","Penn St.","Nyam Thornton",0,14,14.8,0.8,0
+"2020-21","12111","Penn St.","Niya Beverley",1,10,9.9,-0.1,0
+"2020-21","12111","Penn St.","Maddie Burke",15,37,37.0,0.0,0
+"2020-21","12111","Penn St.","Shay Hagans",23,8,7.3,-0.7,0
+"2020-21","12111","Maryland","Diamond Miller",1,33,33.0,0.0,0
+"2020-21","12111","Maryland","Mimi Collins",2,22,23.1,1.1,0
+"2020-21","12111","Maryland","Katie Benzan",11,37,36.0,-1.0,0
+"2020-21","12111","Maryland","Ashley Owusu",15,38,38.0,0.0,0
+"2020-21","12111","Maryland","Chloe Bibby",55,31,31.2,0.2,0
+"2020-21","12111","Maryland","Channise Lewis",3,11,10.9,-0.1,0
+"2020-21","12111","Maryland","Faith Masonius",13,28,27.8,-0.2,0
+"2020-21","12112","Maryland","Diamond Miller",1,25,25.0,0.0,9
+"2020-21","12112","Maryland","Mimi Collins",2,35,35.1,0.1,9
+"2020-21","12112","Maryland","Katie Benzan",11,22,22.5,0.5,9
+"2020-21","12112","Maryland","Ashley Owusu",15,33,33.5,0.5,9
+"2020-21","12112","Maryland","Chloe Bibby",55,38,38.1,0.1,9
+"2020-21","12112","Maryland","Channise Lewis",3,21,20.4,-0.6,9
+"2020-21","12112","Maryland","Faith Masonius",13,25,24.7,-0.3,9
+"2020-21","12112","Maryland","Taisiya Kozlova",14,1,0.7,-0.3,9
+"2020-21","12112","Indiana","Aleksa Gulbe",10,35,34.0,-1.0,9
+"2020-21","12112","Indiana","Jaelynn Penn",13,26,26.2,0.2,9
+"2020-21","12112","Indiana","Ali Patberg",14,35,29.6,-5.4,9
+"2020-21","12112","Indiana","Grace Berger",34,35,35.1,0.1,9
+"2020-21","12112","Indiana","Mackenzie Holmes",54,31,31.4,0.4,9
+"2020-21","12112","Indiana","Keyanna Warthen",2,3,3.1,0.1,9
+"2020-21","12112","Indiana","Grace Waggoner",3,4,12.7,8.7,9
+"2020-21","12112","Indiana","Nicole Cardano-Hillary",4,20,19.8,-0.2,9
+"2020-21","12112","Indiana","Chloe Moore-McNeil",22,0,0.1,0.1,9
+"2020-21","12112","Indiana","Kiandra Browne",23,9,8.6,-0.4,9
+"2020-21","12112","Indiana","Danielle Patterson",33,2,1.7,-0.3,9
+"2020-21","12113","Michigan St.","Tory Ozment",1,21,21.6,0.6,0
+"2020-21","12113","Michigan St.","Alyza Winston",3,29,29.1,0.1,0
+"2020-21","12113","Michigan St.","Taiyier Parks",14,11,11.3,0.3,0
+"2020-21","12113","Michigan St.","Nia Clouden",24,37,37.2,0.2,0
+"2020-21","12113","Michigan St.","Julia Ayrault",40,23,22.5,-0.5,0
+"2020-21","12113","Michigan St.","Mardrekia Cook",2,23,22.8,-0.2,0
+"2020-21","12113","Michigan St.","Alisia Smith",4,19,18.7,-0.3,0
+"2020-21","12113","Michigan St.","Moira Joiner",22,14,14.2,0.2,0
+"2020-21","12113","Michigan St.","Janai Crooms",23,16,15.6,-0.4,0
+"2020-21","12113","Michigan St.","Kendall Bostic",44,7,6.9,-0.1,0
+"2020-21","12113","Maryland","Diamond Miller",1,36,35.7,-0.3,0
+"2020-21","12113","Maryland","Mimi Collins",2,28,28.7,0.7,0
+"2020-21","12113","Maryland","Katie Benzan",11,39,39.5,0.5,0
+"2020-21","12113","Maryland","Ashley Owusu",15,38,37.8,-0.2,0
+"2020-21","12113","Maryland","Chloe Bibby",55,39,39.0,0.0,0
+"2020-21","12113","Maryland","Channise Lewis",3,4,4.0,0.0,0
+"2020-21","12113","Maryland","Alaysia Styles",5,1,0.5,-0.5,0
+"2020-21","12113","Maryland","Faith Masonius",13,15,14.7,-0.3,0
+"2020-21","12114","Maryland","Diamond Miller",1,21,21.3,0.3,0
+"2020-21","12114","Maryland","Mimi Collins",2,24,24.1,0.1,0
+"2020-21","12114","Maryland","Katie Benzan",11,35,34.1,-0.9,0
+"2020-21","12114","Maryland","Ashley Owusu",15,29,29.6,0.6,0
+"2020-21","12114","Maryland","Chloe Bibby",55,27,27.2,0.2,0
+"2020-21","12114","Maryland","Alaysia Styles",5,20,20.0,0.0,0
+"2020-21","12114","Maryland","Zoe Young",12,8,7.8,-0.2,0
+"2020-21","12114","Maryland","Faith Masonius",13,24,24.2,0.2,0
+"2020-21","12114","Maryland","Taisiya Kozlova",14,12,11.9,-0.1,0
+"2020-21","12114","Purdue","Brooke Moore",0,10,9.8,-0.2,0
+"2020-21","12114","Purdue","Kayana Traylor",23,33,33.0,0.0,0
+"2020-21","12114","Purdue","Tamara Farquhar",25,30,28.7,-1.3,0
+"2020-21","12114","Purdue","Madison Layden",33,21,19.9,-1.1,0
+"2020-21","12114","Purdue","Fatou Diagne",45,16,15.2,-0.8,0
+"2020-21","12114","Purdue","Karissa McLaughlin",1,21,21.0,0.0,0
+"2020-21","12114","Purdue","Rokia Doumbia",4,16,15.9,-0.1,0
+"2020-21","12114","Purdue","Cassidy Hardin",5,15,15.6,0.6,0
+"2020-21","12114","Purdue","Ajah Stallings",13,3,3.3,0.3,0
+"2020-21","12114","Purdue","Jenelle Grant",22,11,11.9,0.9,0
+"2020-21","12114","Purdue","Ra Shaya Kyle",24,16,17.3,1.3,0
+"2020-21","12114","Purdue","Nyagoa Gony",30,4,4.1,0.1,0
+"2020-21","12114","Purdue","Rickie Woltman",35,4,4.3,0.3,0
+"2020-21","12115","Minnesota","Jasmine Powell",4,36,35.4,-0.6,0
+"2020-21","12115","Minnesota","Sara Scalia",14,36,35.9,-0.1,0
+"2020-21","12115","Minnesota","Klarke Sconiers",25,26,25.6,-0.4,0
+"2020-21","12115","Minnesota","Kadiatou Sissoko",30,20,20.4,0.4,0
+"2020-21","12115","Minnesota","Gadiva Hubbard",34,28,28.1,0.1,0
+"2020-21","12115","Minnesota","Alexia Smith",1,15,15.4,0.4,0
+"2020-21","12115","Minnesota","Laura Bagwell Katalinich",12,15,14.9,-0.1,0
+"2020-21","12115","Minnesota","Kayla Mershon",15,16,15.7,-0.3,0
+"2020-21","12115","Minnesota","Caroline Strande",21,1,0.6,-0.4,0
+"2020-21","12115","Minnesota","Katie Borowicz",23,4,4.6,0.6,0
+"2020-21","12115","Minnesota","Grace Cumming",43,3,3.5,0.5,0
+"2020-21","12115","Maryland","Diamond Miller",1,29,28.6,-0.4,0
+"2020-21","12115","Maryland","Mimi Collins",2,22,21.6,-0.4,0
+"2020-21","12115","Maryland","Katie Benzan",11,32,32.7,0.7,0
+"2020-21","12115","Maryland","Ashley Owusu",15,33,32.0,-1.0,0
+"2020-21","12115","Maryland","Chloe Bibby",55,32,31.7,-0.3,0
+"2020-21","12115","Maryland","Alaysia Styles",5,16,16.4,0.4,0
+"2020-21","12115","Maryland","Zoe Young",12,6,6.7,0.7,0
+"2020-21","12115","Maryland","Faith Masonius",13,21,20.8,-0.2,0
+"2020-21","12115","Maryland","Taisiya Kozlova",14,9,9.6,0.6,0
+"2020-21","12116","Wisconsin","E. MOSCHKAU",1,31,0.0,-31.0,2
+"2020-21","12116","Wisconsin","J. POSPISILOVA",5,38,0.0,-38.0,2
+"2020-21","12116","Wisconsin","S. HILLIARD",30,37,0.0,-37.0,2
+"2020-21","12116","Wisconsin","I. LEWIS",34,37,0.0,-37.0,2
+"2020-21","12116","Wisconsin","S. STAPLETON",41,14,0.0,-14.0,2
+"2020-21","12116","Wisconsin","B. SCHRAMEK",3,6,0.0,-6.0,2
+"2020-21","12116","Wisconsin","H. DOUGLASS",10,7,0.0,-7.0,2
+"2020-21","12116","Wisconsin","K. THOMPSON",32,9,0.0,-9.0,2
+"2020-21","12116","Wisconsin","T. STAUFFACHER",40,21,0.0,-21.0,2
+"2020-21","12116","Maryland","D. MILLER",1,29,0.0,-29.0,2
+"2020-21","12116","Maryland","M. COLLINS",2,34,0.0,-34.0,2
+"2020-21","12116","Maryland","K. BENZAN",11,31,0.0,-31.0,2
+"2020-21","12116","Maryland","A. OWUSU",15,39,0.0,-39.0,2
+"2020-21","12116","Maryland","C. BIBBY",55,37,0.0,-37.0,2
+"2020-21","12116","Maryland","A. STYLES",5,8,0.0,-8.0,2
+"2020-21","12116","Maryland","F. MASONIUS",13,22,0.0,-22.0,2
+"2020-21","12117","Maryland","Diamond Miller",1,33,32.5,-0.5,0
+"2020-21","12117","Maryland","Mimi Collins",2,20,19.3,-0.7,0
+"2020-21","12117","Maryland","Katie Benzan",11,32,32.0,0.0,0
+"2020-21","12117","Maryland","Ashley Owusu",15,37,36.4,-0.6,0
+"2020-21","12117","Maryland","Chloe Bibby",55,36,35.9,-0.1,0
+"2020-21","12117","Maryland","Alaysia Styles",5,20,19.7,-0.3,0
+"2020-21","12117","Maryland","Angel Reese",10,11,12.6,1.6,0
+"2020-21","12117","Maryland","Zoe Young",12,1,0.9,-0.1,0
+"2020-21","12117","Maryland","Faith Masonius",13,8,8.6,0.6,0
+"2020-21","12117","Maryland","Taisiya Kozlova",14,2,2.1,0.1,0
+"2020-21","12117","Iowa","McKenna Warnock",14,33,33.2,0.2,0
+"2020-21","12117","Iowa","Kate Martin",20,35,34.8,-0.2,0
+"2020-21","12117","Iowa","Caitlin Clark",22,32,31.9,-0.1,0
+"2020-21","12117","Iowa","Gabbie Marshall",24,26,25.9,-0.1,0
+"2020-21","12117","Iowa","Monika Czinano",25,28,28.2,0.2,0
+"2020-21","12117","Iowa","Tomi Taiwo",1,21,21.8,0.8,0
+"2020-21","12117","Iowa","Alexis Sevillian",5,1,0.9,-0.1,0
+"2020-21","12117","Iowa","Megan Meyer",11,5,4.2,-0.8,0
+"2020-21","12117","Iowa","Lauren Jensen",15,2,2.4,0.4,0
+"2020-21","12117","Iowa","Logan Cook",23,8,8.1,0.1,0
+"2020-21","12117","Iowa","Sharon Goodman",40,9,8.6,-0.4,0
+"2020-21","12118","Ohio St.","Madison Greene",0,38,38.4,0.4,5
+"2020-21","12118","Ohio St.","Jacy Sheldon",4,31,31.6,0.6,5
+"2020-21","12118","Ohio St.","Braxtin Miller",10,35,35.6,0.6,5
+"2020-21","12118","Ohio St.","Dorka Juhasz",14,37,36.7,-0.3,5
+"2020-21","12118","Ohio St.","Tanaya Beacham",35,24,23.6,-0.4,5
+"2020-21","12118","Ohio St.","Rikki Harris",1,3,2.9,-0.1,5
+"2020-21","12118","Ohio St.","Gabby Hutcherson",2,3,2.5,-0.5,5
+"2020-21","12118","Ohio St.","Kateri Poole",5,12,11.7,-0.3,5
+"2020-21","12118","Ohio St.","Rebeka Mikulasikova",23,17,18.0,1.0,5
+"2020-21","12118","Maryland","Diamond Miller",1,34,33.7,-0.3,5
+"2020-21","12118","Maryland","Mimi Collins",2,16,16.4,0.4,5
+"2020-21","12118","Maryland","Katie Benzan",11,40,40.0,0.0,5
+"2020-21","12118","Maryland","Ashley Owusu",15,40,40.0,0.0,5
+"2020-21","12118","Maryland","Chloe Bibby",55,39,39.2,0.2,5
+"2020-21","12118","Maryland","Alaysia Styles",5,25,24.3,-0.7,5
+"2020-21","12118","Maryland","Faith Masonius",13,6,6.4,0.4,5
+"2020-21","12120","Maryland","Diamond Miller",1,28,28.7,0.7,0
+"2020-21","12120","Maryland","Mimi Collins",2,22,21.9,-0.1,0
+"2020-21","12120","Maryland","Katie Benzan",11,35,34.9,-0.1,0
+"2020-21","12120","Maryland","Ashley Owusu",15,28,27.7,-0.3,0
+"2020-21","12120","Maryland","Chloe Bibby",55,26,26.1,0.1,0
+"2020-21","12120","Maryland","Alaysia Styles",5,22,22.2,0.2,0
+"2020-21","12120","Maryland","Faith Masonius",13,27,26.9,-0.1,0
+"2020-21","12120","Maryland","Taisiya Kozlova",14,12,11.5,-0.5,0
+"2020-21","12120","Wisconsin","Estella Moschkau",1,25,25.5,0.5,0
+"2020-21","12120","Wisconsin","Julie Pospisilova",5,29,28.1,-0.9,0
+"2020-21","12120","Wisconsin","Sydney Hilliard",30,31,30.8,-0.2,0
+"2020-21","12120","Wisconsin","Imani Lewis",34,32,31.6,-0.4,0
+"2020-21","12120","Wisconsin","Sara Stapleton",41,18,17.8,-0.2,0
+"2020-21","12120","Wisconsin","Brooke Schramek",3,13,13.1,0.1,0
+"2020-21","12120","Wisconsin","Halle Douglass",10,18,18.7,0.7,0
+"2020-21","12120","Wisconsin","Lovisa Djurstrom",22,1,1.3,0.3,0
+"2020-21","12120","Wisconsin","Natalie Leuzinger",24,1,1.3,0.3,0
+"2020-21","12120","Wisconsin","Kate Thompson",32,9,9.8,0.8,0
+"2020-21","12120","Wisconsin","Tara Stauffacher",40,16,15.9,-0.1,0
+"2020-21","12120","Wisconsin","Alex Luehring",44,7,6.3,-0.7,0
+"2020-21","12121","Michigan","Naz Hillmon",0,37,36.4,-0.6,0
+"2020-21","12121","Michigan","Amy Dilk",1,27,26.9,-0.1,0
+"2020-21","12121","Michigan","Akienreh Johnson",14,35,34.9,-0.1,0
+"2020-21","12121","Michigan","Hailey Brown",15,29,29.4,0.4,0
+"2020-21","12121","Michigan","Leigha Brown",32,31,31.1,0.1,0
+"2020-21","12121","Michigan","Maddie Nolan",3,16,17.0,1.0,0
+"2020-21","12121","Michigan","Danielle Rauch",23,3,2.9,-0.1,0
+"2020-21","12121","Michigan","Michelle Sidor",24,8,7.2,-0.8,0
+"2020-21","12121","Michigan","Whitney Sollom",25,3,2.2,-0.8,0
+"2020-21","12121","Michigan","Emily Kiser",33,10,10.7,0.7,0
+"2020-21","12121","Michigan","Cameron Williams",44,1,1.4,0.4,0
+"2020-21","12121","Maryland","Diamond Miller",1,25,24.8,-0.2,0
+"2020-21","12121","Maryland","Mimi Collins",2,24,24.9,0.9,0
+"2020-21","12121","Maryland","Katie Benzan",11,31,31.3,0.3,0
+"2020-21","12121","Maryland","Ashley Owusu",15,25,25.7,0.7,0
+"2020-21","12121","Maryland","Chloe Bibby",55,23,23.0,0.0,0
+"2020-21","12121","Maryland","Alaysia Styles",5,21,20.5,-0.5,0
+"2020-21","12121","Maryland","Angel Reese",10,15,15.2,0.2,0
+"2020-21","12121","Maryland","Zoe Young",12,5,4.7,-0.3,0
+"2020-21","12121","Maryland","Faith Masonius",13,24,23.5,-0.5,0
+"2020-21","12121","Maryland","Taisiya Kozlova",14,7,6.6,-0.4,0
+"2020-21","12122","Maryland","Diamond Miller",1,23,23.8,0.8,6
+"2020-21","12122","Maryland","Mimi Collins",2,27,27.8,0.8,6
+"2020-21","12122","Maryland","Katie Benzan",11,26,25.6,-0.4,6
+"2020-21","12122","Maryland","Ashley Owusu",15,26,25.2,-0.8,6
+"2020-21","12122","Maryland","Chloe Bibby",55,26,26.6,0.6,6
+"2020-21","12122","Maryland","Alaysia Styles",5,17,16.6,-0.4,6
+"2020-21","12122","Maryland","Zoe Young",12,9,8.4,-0.6,6
+"2020-21","12122","Maryland","Faith Masonius",13,28,27.7,-0.3,6
+"2020-21","12122","Maryland","Taisiya Kozlova",14,18,18.0,0.0,6
+"2020-21","12122","Michigan St.","Alyza Winston",3,20,19.5,-0.5,6
+"2020-21","12122","Michigan St.","Alisia Smith",4,18,17.7,-0.3,6
+"2020-21","12122","Michigan St.","Janai Crooms",23,27,26.2,-0.8,6
+"2020-21","12122","Michigan St.","Nia Clouden",24,32,31.5,-0.5,6
+"2020-21","12122","Michigan St.","Julia Ayrault",40,22,21.7,-0.3,6
+"2020-21","12122","Michigan St.","Mardrekia Cook",2,14,13.1,-0.9,6
+"2020-21","12122","Michigan St.","Taiyier Parks",14,15,15.4,0.4,6
+"2020-21","12122","Michigan St.","Jayla James",20,7,8.4,1.4,6
+"2020-21","12122","Michigan St.","Laurel Jacqmain",21,6,6.1,0.1,6
+"2020-21","12122","Michigan St.","Moira Joiner",22,25,25.8,0.8,6
+"2020-21","12122","Michigan St.","Kendall Bostic",44,14,14.4,0.4,6
+"2020-21","12123","Nebraska","Ashley Scoggin",0,21,20.7,-0.3,0
+"2020-21","12123","Nebraska","Sam Haiby",4,32,32.2,0.2,0
+"2020-21","12123","Nebraska","Ruby Porter",11,32,31.6,-0.4,0
+"2020-21","12123","Nebraska","Kate Cain",31,27,28.4,1.4,0
+"2020-21","12123","Nebraska","Isabelle Bourne",34,26,26.2,0.2,0
+"2020-21","12123","Nebraska","Mi'Cole Cayton",5,12,11.6,-0.4,0
+"2020-21","12123","Nebraska","Whitney Brown",10,13,13.2,0.2,0
+"2020-21","12123","Nebraska","Bella Cravens",14,13,13.8,0.8,0
+"2020-21","12123","Nebraska","Annika Stewart",21,14,12.9,-1.1,0
+"2020-21","12123","Nebraska","Kendall Coley",32,10,9.5,-0.5,0
+"2020-21","12123","Maryland","Diamond Miller",1,29,30.0,1.0,0
+"2020-21","12123","Maryland","Mimi Collins",2,32,31.9,-0.1,0
+"2020-21","12123","Maryland","Katie Benzan",11,31,30.5,-0.5,0
+"2020-21","12123","Maryland","Ashley Owusu",15,32,32.9,0.9,0
+"2020-21","12123","Maryland","Chloe Bibby",55,29,28.8,-0.2,0
+"2020-21","12123","Maryland","Alaysia Styles",5,14,14.0,0.0,0
+"2020-21","12123","Maryland","Zoe Young",12,9,8.6,-0.4,0
+"2020-21","12123","Maryland","Faith Masonius",13,19,18.8,-0.2,0
+"2020-21","12123","Maryland","Taisiya Kozlova",14,5,4.6,-0.4,0
+"2020-21","12124","Maryland","Diamond Miller",1,28,28.7,0.7,0
+"2020-21","12124","Maryland","Mimi Collins",2,26,25.8,-0.2,0
+"2020-21","12124","Maryland","Katie Benzan",11,30,29.8,-0.2,0
+"2020-21","12124","Maryland","Ashley Owusu",15,30,29.8,-0.2,0
+"2020-21","12124","Maryland","Chloe Bibby",55,29,28.4,-0.6,0
+"2020-21","12124","Maryland","Alaysia Styles",5,19,19.4,0.4,0
+"2020-21","12124","Maryland","Zoe Young",12,8,8.2,0.2,0
+"2020-21","12124","Maryland","Faith Masonius",13,16,15.6,-0.4,0
+"2020-21","12124","Maryland","Taisiya Kozlova",14,14,14.3,0.3,0
+"2020-21","12124","Illinois","Jeanae Terry",10,24,24.1,0.1,0
+"2020-21","12124","Illinois","Jada Peebles",11,37,36.8,-0.2,0
+"2020-21","12124","Illinois","Eva Rubin",22,14,13.2,-0.8,0
+"2020-21","12124","Illinois","Aaliyah Nye",32,29,28.9,-0.1,0
+"2020-21","12124","Illinois","Kennedi Myles",44,18,17.6,-0.4,0
+"2020-21","12124","Illinois","J-Naya Ephraim",0,20,20.2,0.2,0
+"2020-21","12124","Illinois","Nancy Panagiotopoulou",1,7,6.5,-0.5,0
+"2020-21","12124","Illinois","Lyric Robins",2,11,10.7,-0.3,0
+"2020-21","12124","Illinois","Solape Amusan",3,6,6.2,0.2,0
+"2020-21","12124","Illinois","Tara O'Malley",13,1,1.4,0.4,0
+"2020-21","12124","Illinois","Geovana Lopes",14,13,13.9,0.9,0
+"2020-21","12124","Illinois","Erika Porter",20,8,8.3,0.3,0
+"2020-21","12124","Illinois","Aaliyah McQueen",21,12,12.0,0.0,0
+"2020-21","12125","Maryland","Diamond Miller",1,26,26.1,0.1,0
+"2020-21","12125","Maryland","Mimi Collins",2,15,16.0,1.0,0
+"2020-21","12125","Maryland","Katie Benzan",11,33,32.2,-0.8,0
+"2020-21","12125","Maryland","Ashley Owusu",15,32,31.8,-0.2,0
+"2020-21","12125","Maryland","Chloe Bibby",55,28,28.3,0.3,0
+"2020-21","12125","Maryland","Alaysia Styles",5,21,21.3,0.3,0
+"2020-21","12125","Maryland","Zoe Young",12,6,6.1,0.1,0
+"2020-21","12125","Maryland","Faith Masonius",13,28,27.7,-0.3,0
+"2020-21","12125","Maryland","Taisiya Kozlova",14,11,10.5,-0.5,0
+"2020-21","12125","Minnesota","Alexia Smith",1,37,36.4,-0.6,0
+"2020-21","12125","Minnesota","Jasmine Powell",4,14,13.6,-0.4,0
+"2020-21","12125","Minnesota","Kayla Mershon",15,16,15.8,-0.2,0
+"2020-21","12125","Minnesota","Kadiatou Sissoko",30,31,31.6,0.6,0
+"2020-21","12125","Minnesota","Gadiva Hubbard",34,21,21.1,0.1,0
+"2020-21","12125","Minnesota","Erin Hedman",10,6,5.7,-0.3,0
+"2020-21","12125","Minnesota","Laura Bagwell Katalinich",12,18,18.1,0.1,0
+"2020-21","12125","Minnesota","Caroline Strande",21,21,20.9,-0.1,0
+"2020-21","12125","Minnesota","Katie Borowicz",23,12,12.6,0.6,0
+"2020-21","12125","Minnesota","Klarke Sconiers",25,12,12.5,0.5,0
+"2020-21","12125","Minnesota","Grace Cumming",43,12,11.7,-0.3,0
+"2020-21","12127","Northwestern","Lauryn Satterwhite",2,10,9.8,-0.2,0
+"2020-21","12127","Northwestern","Lindsey Pulliam",10,39,39.0,0.0,0
+"2020-21","12127","Northwestern","Brooke Pikiell",11,2,1.5,-0.5,0
+"2020-21","12127","Northwestern","Paige Mott",20,23,22.7,-0.3,0
+"2020-21","12127","Northwestern","Jordan Hamilton",24,38,37.8,-0.2,0
+"2020-21","12127","Northwestern","Kaylah Rainey",1,0,0.1,0.1,0
+"2020-21","12127","Northwestern","Sydney Wood",3,34,33.9,-0.1,0
+"2020-21","12127","Northwestern","Veronica Burton",12,36,36.9,0.9,0
+"2020-21","12127","Northwestern","Jasmine McWilliams",23,1,1.0,0.0,0
+"2020-21","12127","Northwestern","Anna Morris",42,17,17.2,0.2,0
+"2020-21","12127","Maryland","Diamond Miller",1,31,31.2,0.2,0
+"2020-21","12127","Maryland","Mimi Collins",2,34,34.3,0.3,0
+"2020-21","12127","Maryland","Katie Benzan",11,32,31.4,-0.6,0
+"2020-21","12127","Maryland","Ashley Owusu",15,39,39.0,0.0,0
+"2020-21","12127","Maryland","Chloe Bibby",55,26,27.2,1.2,0
+"2020-21","12127","Maryland","Alaysia Styles",5,2,1.2,-0.8,0
+"2020-21","12127","Maryland","Angel Reese",10,13,12.6,-0.4,0
+"2020-21","12127","Maryland","Faith Masonius",13,23,23.1,0.1,0
+"2020-21","12128","Maryland","Diamond Miller",1,26,25.1,-0.9,0
+"2020-21","12128","Maryland","Mimi Collins",2,25,23.9,-1.1,0
+"2020-21","12128","Maryland","Katie Benzan",11,31,30.5,-0.5,0
+"2020-21","12128","Maryland","Ashley Owusu",15,24,24.3,0.3,0
+"2020-21","12128","Maryland","Chloe Bibby",55,27,26.9,-0.1,0
+"2020-21","12128","Maryland","Alaysia Styles",5,16,17.4,1.4,0
+"2020-21","12128","Maryland","Angel Reese",10,16,16.6,0.6,0
+"2020-21","12128","Maryland","Zoe Young",12,5,5.1,0.1,0
+"2020-21","12128","Maryland","Faith Masonius",13,23,23.1,0.1,0
+"2020-21","12128","Maryland","Taisiya Kozlova",14,7,7.2,0.2,0
+"2020-21","12128","Penn St.","Niya Beverley",1,34,34.3,0.3,0
+"2020-21","12128","Penn St.","Anna Camden",11,28,26.8,-1.2,0
+"2020-21","12128","Penn St.","Maddie Burke",15,25,25.9,0.9,0
+"2020-21","12128","Penn St.","Makenna Marisa",20,29,30.0,1.0,0
+"2020-21","12128","Penn St.","Shay Hagans",23,21,19.1,-1.9,0
+"2020-21","12128","Penn St.","Nia Staples",3,4,4.1,0.1,0
+"2020-21","12128","Penn St.","Tova Sabel",10,16,16.1,0.1,0
+"2020-21","12128","Penn St.","Nan Garcia",24,20,21.1,1.1,0
+"2020-21","12128","Penn St.","Johnasia Cash",33,23,22.6,-0.4,0
+"2020-21","12129","Maryland","Diamond Miller",1,37,36.7,-0.3,4
+"2020-21","12129","Maryland","Mimi Collins",2,33,32.4,-0.6,4
+"2020-21","12129","Maryland","Katie Benzan",11,29,28.0,-1.0,4
+"2020-21","12129","Maryland","Ashley Owusu",15,35,34.9,-0.1,4
+"2020-21","12129","Maryland","Chloe Bibby",55,37,37.4,0.4,4
+"2020-21","12129","Maryland","Alaysia Styles",5,5,5.1,0.1,4
+"2020-21","12129","Maryland","Angel Reese",10,10,11.2,1.2,4
+"2020-21","12129","Maryland","Faith Masonius",13,14,14.9,0.9,4
+"2020-21","12129","Nebraska","Ashley Scoggin",0,35,35.1,0.1,4
+"2020-21","12129","Nebraska","Sam Haiby",4,37,36.4,-0.6,4
+"2020-21","12129","Nebraska","Bella Cravens",14,25,24.7,-0.3,4
+"2020-21","12129","Nebraska","Kate Cain",31,38,38.2,0.2,4
+"2020-21","12129","Nebraska","Isabelle Bourne",34,30,30.0,0.0,4
+"2020-21","12129","Nebraska","Mi'Cole Cayton",5,7,6.5,-0.5,4
+"2020-21","12129","Nebraska","Whitney Brown",10,8,8.0,0.0,4
+"2020-21","12129","Nebraska","Annika Stewart",21,5,5.2,0.2,4
+"2020-21","12129","Nebraska","Kendall Coley",32,15,15.9,0.9,4
+"2020-21","12130","Maryland","Diamond Miller",1,19,19.7,0.7,0
+"2020-21","12130","Maryland","Mimi Collins",2,22,23.6,1.6,0
+"2020-21","12130","Maryland","Katie Benzan",11,27,25.9,-1.1,0
+"2020-21","12130","Maryland","Ashley Owusu",15,26,26.3,0.3,0
+"2020-21","12130","Maryland","Chloe Bibby",55,24,24.7,0.7,0
+"2020-21","12130","Maryland","Alaysia Styles",5,25,24.1,-0.9,0
+"2020-21","12130","Maryland","Angel Reese",10,10,10.1,0.1,0
+"2020-21","12130","Maryland","Zoe Young",12,11,11.4,0.4,0
+"2020-21","12130","Maryland","Faith Masonius",13,25,23.8,-1.2,0
+"2020-21","12130","Maryland","Taisiya Kozlova",14,11,10.5,-0.5,0
+"2020-21","12130","Mount St. Mary's","Kendall Bresee",3,36,35.6,-0.4,0
+"2020-21","12130","Mount St. Mary's","Michaela Harrison",10,30,29.8,-0.2,0
+"2020-21","12130","Mount St. Mary's","Aryna Taylor",13,20,20.6,0.6,0
+"2020-21","12130","Mount St. Mary's","Kayla Agentowicz",21,21,20.3,-0.7,0
+"2020-21","12130","Mount St. Mary's","Rebecca Lee",34,25,25.5,0.5,0
+"2020-21","12130","Mount St. Mary's","Isabella Hunt",0,16,16.3,0.3,0
+"2020-21","12130","Mount St. Mary's","Bridget Birkhead",11,31,30.7,-0.3,0
+"2020-21","12130","Mount St. Mary's","Jessica Tomasetti",14,12,12.3,0.3,0
+"2020-21","12130","Mount St. Mary's","Jada Lee",15,6,5.8,-0.2,0
+"2020-21","12130","Mount St. Mary's","Isabella Pelaia",33,3,3.0,0.0,0
+"2020-21","12131","Maryland","Diamond Miller",1,34,33.8,-0.2,0
+"2020-21","12131","Maryland","Mimi Collins",2,34,34.5,0.5,0
+"2020-21","12131","Maryland","Katie Benzan",11,31,30.7,-0.3,0
+"2020-21","12131","Maryland","Ashley Owusu",15,36,36.8,0.8,0
+"2020-21","12131","Maryland","Chloe Bibby",55,30,30.5,0.5,0
+"2020-21","12131","Maryland","Alaysia Styles",5,9,8.3,-0.7,0
+"2020-21","12131","Maryland","Angel Reese",10,10,9.3,-0.7,0
+"2020-21","12131","Maryland","Faith Masonius",13,16,16.2,0.2,0
+"2020-21","12131","Texas","Celeste Taylor",0,40,40.0,0.0,0
+"2020-21","12131","Texas","Joanne Allen-Taylor",11,40,39.5,-0.5,0
+"2020-21","12131","Texas","Kyra Lambert",15,37,37.2,0.2,0
+"2020-21","12131","Texas","Audrey Warren",31,27,28.1,1.1,0
+"2020-21","12131","Texas","Charli Collier",35,36,35.7,-0.3,0
+"2020-21","12131","Texas","Lauren Ebo",1,17,16.3,-0.7,0
+"2020-21","12131","Texas","Karisma Ortiz",3,2,2.1,0.1,0
+"2020-21","12131","Texas","Ashley Chevalier",25,1,1.2,0.2,0
+"2020-21","12137","Maryland","Diamond Miller",1,23,23.4,0.4,3
+"2020-21","12137","Maryland","Mimi Collins",2,29,28.4,-0.6,3
+"2020-21","12137","Maryland","Katie Benzan",11,26,26.3,0.3,3
+"2020-21","12137","Maryland","Ashley Owusu",15,29,29.1,0.1,3
+"2020-21","12137","Maryland","Chloe Bibby",55,24,24.8,0.8,3
+"2020-21","12137","Maryland","Channise Lewis",3,19,19.4,0.4,3
+"2020-21","12137","Maryland","Zoe Young",12,10,9.7,-0.3,3
+"2020-21","12137","Maryland","Faith Masonius",13,28,26.9,-1.1,3
+"2020-21","12137","Maryland","Taisiya Kozlova",14,12,11.9,-0.1,3
+"2020-21","12137","James Madison","Brianna Tinsley",3,22,21.7,-0.3,3
+"2020-21","12137","James Madison","Rayne Tucker",21,27,26.5,-0.5,3
+"2020-21","12137","James Madison","Peyton McDaniel",22,32,31.1,-0.9,3
+"2020-21","12137","James Madison","Anne Francoise Diouf",24,24,24.8,0.8,3
+"2020-21","12137","James Madison","Kiki Jefferson",30,19,19.0,0.0,3
+"2020-21","12137","James Madison","Nikki Oppenheimer",0,16,15.7,-0.3,3
+"2020-21","12137","James Madison","Jaylin Carodine",2,6,6.0,0.0,3
+"2020-21","12137","James Madison","Madison Green",4,4,4.2,0.2,3
+"2020-21","12137","James Madison","Eleanore Marciszewski",13,10,10.0,0.0,3
+"2020-21","12137","James Madison","Annalicia Goodman",14,8,7.9,-0.1,3
+"2020-21","12137","James Madison","Jamia Hazell",25,21,20.9,-0.1,3
+"2020-21","12137","James Madison","Steph Ouderkirk",33,11,11.1,0.1,3
+"2020-21","12382","Purdue","Brooke Moore",0,35,35.7,0.7,0
+"2020-21","12382","Purdue","Kayana Traylor",23,30,29.1,-0.9,0
+"2020-21","12382","Purdue","Tamara Farquhar",25,22,22.3,0.3,0
+"2020-21","12382","Purdue","Madison Layden",33,37,36.6,-0.4,0
+"2020-21","12382","Purdue","Fatou Diagne",45,25,24.9,-0.1,0
+"2020-21","12382","Purdue","Rokia Doumbia",4,18,17.2,-0.8,0
+"2020-21","12382","Purdue","Cassidy Hardin",5,8,7.5,-0.5,0
+"2020-21","12382","Purdue","Jenelle Grant",22,11,11.5,0.5,0
+"2020-21","12382","Purdue","Ra Shaya Kyle",24,6,6.3,0.3,0
+"2020-21","12382","Purdue","Nyagoa Gony",30,2,2.2,0.2,0
+"2020-21","12382","Purdue","Rickie Woltman",35,6,6.6,0.6,0
+"2020-21","12382","Maryland","Diamond Miller",1,24,23.3,-0.7,0
+"2020-21","12382","Maryland","Mimi Collins",2,18,18.0,0.0,0
+"2020-21","12382","Maryland","Katie Benzan",11,26,25.4,-0.6,0
+"2020-21","12382","Maryland","Ashley Owusu",15,30,29.4,-0.6,0
+"2020-21","12382","Maryland","Chloe Bibby",55,27,27.5,0.5,0
+"2020-21","12382","Maryland","Alaysia Styles",5,17,17.4,0.4,0
+"2020-21","12382","Maryland","Angel Reese",10,19,19.5,0.5,0
+"2020-21","12382","Maryland","Zoe Young",12,7,6.5,-0.5,0
+"2020-21","12382","Maryland","Faith Masonius",13,25,25.5,0.5,0
+"2020-21","12382","Maryland","Taisiya Kozlova",14,7,7.5,0.5,0
+"2020-21","12384","Maryland","Diamond Miller",1,23,22.8,-0.2,0
+"2020-21","12384","Maryland","Mimi Collins",2,21,20.7,-0.3,0
+"2020-21","12384","Maryland","Katie Benzan",11,25,24.8,-0.2,0
+"2020-21","12384","Maryland","Ashley Owusu",15,20,20.5,0.5,0
+"2020-21","12384","Maryland","Chloe Bibby",55,21,20.9,-0.1,0
+"2020-21","12384","Maryland","Alaysia Styles",5,23,23.0,0.0,0
+"2020-21","12384","Maryland","Angel Reese",10,22,22.2,0.2,0
+"2020-21","12384","Maryland","Zoe Young",12,7,6.8,-0.2,0
+"2020-21","12384","Maryland","Faith Masonius",13,26,26.0,0.0,0
+"2020-21","12384","Maryland","Taisiya Kozlova",14,12,12.2,0.2,0
+"2020-21","12384","Northwestern","Sydney Wood",3,28,28.0,0.0,0
+"2020-21","12384","Northwestern","Lindsey Pulliam",10,34,33.3,-0.7,0
+"2020-21","12384","Northwestern","Veronica Burton",12,32,32.8,0.8,0
+"2020-21","12384","Northwestern","Paige Mott",20,12,12.0,0.0,0
+"2020-21","12384","Northwestern","Jordan Hamilton",24,25,25.1,0.1,0
+"2020-21","12384","Northwestern","Kaylah Rainey",1,5,5.2,0.2,0
+"2020-21","12384","Northwestern","Lauryn Satterwhite",2,18,18.4,0.4,0
+"2020-21","12384","Northwestern","Courtney Shaw",15,25,24.9,-0.1,0
+"2020-21","12384","Northwestern","Jasmine McWilliams",23,14,12.9,-1.1,0
+"2020-21","12384","Northwestern","Anna Morris",42,7,7.4,0.4,0
+"2020-21","12385","Maryland","Diamond Miller",1,25,24.8,-0.2,0
+"2020-21","12385","Maryland","Mimi Collins",2,25,24.9,-0.1,0
+"2020-21","12385","Maryland","Katie Benzan",11,33,33.1,0.1,0
+"2020-21","12385","Maryland","Ashley Owusu",15,30,29.6,-0.4,0
+"2020-21","12385","Maryland","Chloe Bibby",55,28,28.2,0.2,0
+"2020-21","12385","Maryland","Alaysia Styles",5,8,8.3,0.3,0
+"2020-21","12385","Maryland","Angel Reese",10,16,16.5,0.5,0
+"2020-21","12385","Maryland","Zoe Young",12,3,2.6,-0.4,0
+"2020-21","12385","Maryland","Faith Masonius",13,29,29.4,0.4,0
+"2020-21","12385","Maryland","Taisiya Kozlova",14,3,2.6,-0.4,0
+"2020-21","12385","Iowa","McKenna Warnock",14,34,34.5,0.5,0
+"2020-21","12385","Iowa","Kate Martin",20,34,34.4,0.4,0
+"2020-21","12385","Iowa","Caitlin Clark",22,36,36.1,0.1,0
+"2020-21","12385","Iowa","Gabbie Marshall",24,31,30.1,-0.9,0
+"2020-21","12385","Iowa","Monika Czinano",25,35,34.6,-0.4,0
+"2020-21","12385","Iowa","Tomi Taiwo",1,11,12.0,1.0,0
+"2020-21","12385","Iowa","Alexis Sevillian",5,2,2.5,0.5,0
+"2020-21","12385","Iowa","Megan Meyer",11,6,5.4,-0.6,0
+"2020-21","12385","Iowa","Shateah Wetering",13,2,1.5,-0.5,0
+"2020-21","12385","Iowa","Lauren Jensen",15,2,1.8,-0.2,0
+"2020-21","12385","Iowa","Zion Sanders",21,1,1.5,0.5,0
+"2020-21","12385","Iowa","Logan Cook",23,2,1.8,-0.2,0
+"2020-21","12385","Iowa","Sharon Goodman",40,4,3.9,-0.1,0
+"2020-21","12394","Maryland","Diamond Miller",1,25,24.6,-0.4,0
+"2020-21","12394","Maryland","Mimi Collins",2,18,17.5,-0.5,0
+"2020-21","12394","Maryland","Katie Benzan",11,27,27.7,0.7,0
+"2020-21","12394","Maryland","Ashley Owusu",15,29,28.8,-0.2,0
+"2020-21","12394","Maryland","Chloe Bibby",55,24,24.2,0.2,0
+"2020-21","12394","Maryland","Alaysia Styles",5,18,18.3,0.3,0
+"2020-21","12394","Maryland","Angel Reese",10,19,19.0,0.0,0
+"2020-21","12394","Maryland","Zoe Young",12,5,5.0,0.0,0
+"2020-21","12394","Maryland","Faith Masonius",13,23,23.0,0.0,0
+"2020-21","12394","Maryland","Taisiya Kozlova",14,12,11.9,-0.1,0
+"2020-21","12394","Alabama","Megan Abrams",1,22,21.6,-0.4,0
+"2020-21","12394","Alabama","Jordan Lewis",3,32,32.3,0.3,0
+"2020-21","12394","Alabama","Hannah Barber",5,25,25.2,0.2,0
+"2020-21","12394","Alabama","Ariyah Copeland",22,26,26.1,0.1,0
+"2020-21","12394","Alabama","Jasmine Walker",40,35,35.3,0.3,0
+"2020-21","12394","Alabama","Taylor Sutton",4,12,12.1,0.1,0
+"2020-21","12394","Alabama","Destiny Rice",11,16,15.8,-0.2,0
+"2020-21","12394","Alabama","Allie Craig Cruce",12,16,16.0,0.0,0
+"2020-21","12394","Alabama","Myra Gordon",15,16,15.5,-0.5,0

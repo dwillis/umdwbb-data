@@ -1,0 +1,634 @@
+"source_id","file_id","team","player_name","player_number","box_minutes","stint_minutes","delta","anomalies_in_game"
+"2024-25","18281","Maryland","Shyanne Sellers",0,26,25.6,-0.4,0
+"2024-25","18281","Maryland","Sarah Te-Biasu",1,26,26.1,0.1,0
+"2024-25","18281","Maryland","Kaylene Smikle",2,21,21.1,0.1,0
+"2024-25","18281","Maryland","Allie Kubek",14,17,16.9,-0.1,0
+"2024-25","18281","Maryland","Christina Dalce",15,19,18.2,-0.8,0
+"2024-25","18281","Maryland","Emily Fisher",3,4,4.1,0.1,0
+"2024-25","18281","Maryland","Ava McKennie",5,12,12.8,0.8,0
+"2024-25","18281","Maryland","Saylor Poffenbarger",6,22,21.7,-0.3,0
+"2024-25","18281","Maryland","Mir McLean",10,22,21.3,-0.7,0
+"2024-25","18281","Maryland","Bri McDaniel",24,18,18.1,0.1,0
+"2024-25","18281","Maryland","Amari DeBerry",42,13,14.1,1.1,0
+"2024-25","18281","Coppin St.","Tiffany Hammond",2,27,27.4,0.4,0
+"2024-25","18281","Coppin St.","Tyler Gray",5,32,32.2,0.2,0
+"2024-25","18281","Coppin St.","Angel Jones",11,39,38.5,-0.5,0
+"2024-25","18281","Coppin St.","Dani McTeer",21,10,9.8,-0.2,0
+"2024-25","18281","Coppin St.","Laila Lawrence",31,31,30.9,-0.1,0
+"2024-25","18281","Coppin St.","Kylah Moore",0,2,1.6,-0.4,0
+"2024-25","18281","Coppin St.","Mickelle Lowry",3,12,11.7,-0.3,0
+"2024-25","18281","Coppin St.","Cire Worley",12,6,6.3,0.3,0
+"2024-25","18281","Coppin St.","Charia Roberts",15,9,9.2,0.2,0
+"2024-25","18281","Coppin St.","Niyah Gaston",20,2,2.3,0.3,0
+"2024-25","18281","Coppin St.","Khya Jenkins",23,13,13.2,0.2,0
+"2024-25","18281","Coppin St.","Arielle-Vadrelle Belinga",34,17,16.9,-0.1,0
+"2024-25","18282","Maryland","Shyanne Sellers",0,26,25.7,-0.3,0
+"2024-25","18282","Maryland","Sarah Te-Biasu",1,30,29.7,-0.3,0
+"2024-25","18282","Maryland","Kaylene Smikle",2,33,33.4,0.4,0
+"2024-25","18282","Maryland","Allie Kubek",14,26,26.8,0.8,0
+"2024-25","18282","Maryland","Christina Dalce",15,29,29.0,0.0,0
+"2024-25","18282","Maryland","Saylor Poffenbarger",6,20,20.1,0.1,0
+"2024-25","18282","Maryland","Mir McLean",10,11,10.5,-0.5,0
+"2024-25","18282","Maryland","Bri McDaniel",24,25,24.8,-0.2,0
+"2024-25","18282","Duke","Ashlon Jackson",3,35,34.9,-0.1,0
+"2024-25","18282","Duke","Jadyn Donovan",4,24,24.0,0.0,0
+"2024-25","18282","Duke","Delaney Thomas",12,28,27.7,-0.3,0
+"2024-25","18282","Duke","Taina Mair",22,19,17.7,-1.3,0
+"2024-25","18282","Duke","Reigan Richardson",24,18,18.4,0.4,0
+"2024-25","18282","Duke","Vanessa de Jesus",2,15,15.7,0.7,0
+"2024-25","18282","Duke","Oluchi Okananwa",5,23,23.3,0.3,0
+"2024-25","18282","Duke","Jordan Wood",13,6,6.4,0.4,0
+"2024-25","18282","Duke","Emma Koabel",15,10,10.0,0.0,0
+"2024-25","18282","Duke","Toby Fournier",35,22,22.0,0.0,0
+"2024-25","18283","Maryland","Shyanne Sellers",0,26,26.0,0.0,0
+"2024-25","18283","Maryland","Sarah Te-Biasu",1,23,24.4,1.4,0
+"2024-25","18283","Maryland","Kaylene Smikle",2,18,18.9,0.9,0
+"2024-25","18283","Maryland","Allie Kubek",14,19,18.2,-0.8,0
+"2024-25","18283","Maryland","Christina Dalce",15,20,21.4,1.4,0
+"2024-25","18283","Maryland","Emily Fisher",3,4,3.5,-0.5,0
+"2024-25","18283","Maryland","Ava McKennie",5,11,11.6,0.6,0
+"2024-25","18283","Maryland","Saylor Poffenbarger",6,24,23.4,-0.6,0
+"2024-25","18283","Maryland","Mir McLean",10,22,20.6,-1.4,0
+"2024-25","18283","Maryland","Bri McDaniel",24,18,18.0,0.0,0
+"2024-25","18283","Maryland","Amari DeBerry",42,15,14.2,-0.8,0
+"2024-25","18283","Saint Francis","Yanessa Boyd",0,28,28.7,0.7,0
+"2024-25","18283","Saint Francis","Marissa Shelton",4,20,19.1,-0.9,0
+"2024-25","18283","Saint Francis","Ineivi Plata",10,31,30.8,-0.2,0
+"2024-25","18283","Saint Francis","Julianna Gibson",12,25,24.3,-0.7,0
+"2024-25","18283","Saint Francis","Marina Artero",23,23,23.5,0.5,0
+"2024-25","18283","Saint Francis","Jade Campbell",3,7,7.9,0.9,0
+"2024-25","18283","Saint Francis","Natalie Johnson",5,11,11.7,0.7,0
+"2024-25","18283","Saint Francis","Harris Robinson",11,20,19.1,-0.9,0
+"2024-25","18283","Saint Francis","Airah Lavy",20,19,19.5,0.5,0
+"2024-25","18283","Saint Francis","Giselle Eke",33,16,15.4,-0.6,0
+"2024-25","18285","Maryland","Shyanne Sellers",0,26,26.3,0.3,0
+"2024-25","18285","Maryland","Sarah Te-Biasu",1,29,28.7,-0.3,0
+"2024-25","18285","Maryland","Kaylene Smikle",2,26,26.2,0.2,0
+"2024-25","18285","Maryland","Saylor Poffenbarger",6,22,22.2,0.2,0
+"2024-25","18285","Maryland","Allie Kubek",14,21,21.4,0.4,0
+"2024-25","18285","Maryland","Ava McKennie",5,17,17.4,0.4,0
+"2024-25","18285","Maryland","Mir McLean",10,18,17.7,-0.3,0
+"2024-25","18285","Maryland","Christina Dalce",15,17,16.8,-0.2,0
+"2024-25","18285","Maryland","Bri McDaniel",24,15,14.7,-0.3,0
+"2024-25","18285","Maryland","Amari DeBerry",42,9,8.6,-0.4,0
+"2024-25","18285","Mount St. Mary's","Jo Raflo",4,23,22.5,-0.5,0
+"2024-25","18285","Mount St. Mary's","Anna LeMaster",10,19,19.2,0.2,0
+"2024-25","18285","Mount St. Mary's","Giana Hoddinott",12,22,22.3,0.3,0
+"2024-25","18285","Mount St. Mary's","Gabrielle Kennerly",15,21,21.6,0.6,0
+"2024-25","18285","Mount St. Mary's","Jaedyn Jamison",20,16,15.7,-0.3,0
+"2024-25","18285","Mount St. Mary's","Wesleigh Fergsuon",1,19,18.7,-0.3,0
+"2024-25","18285","Mount St. Mary's","Tessa Engelman",2,31,30.4,-0.6,0
+"2024-25","18285","Mount St. Mary's","Madison Ruff",3,27,27.7,0.7,0
+"2024-25","18285","Mount St. Mary's","Rosa Revueltas Pareja",6,22,21.9,-0.1,0
+"2024-25","18286","Maryland","Shyanne Sellers",0,21,21.7,0.7,0
+"2024-25","18286","Maryland","Sarah Te-Biasu",1,23,22.4,-0.6,0
+"2024-25","18286","Maryland","Kaylene Smikle",2,18,18.5,0.5,0
+"2024-25","18286","Maryland","Allie Kubek",14,18,18.5,0.5,0
+"2024-25","18286","Maryland","Christina Dalce",15,22,21.6,-0.4,0
+"2024-25","18286","Maryland","Emily Fisher",3,9,9.2,0.2,0
+"2024-25","18286","Maryland","Ava McKennie",5,10,9.6,-0.4,0
+"2024-25","18286","Maryland","Saylor Poffenbarger",6,22,21.7,-0.3,0
+"2024-25","18286","Maryland","Mir McLean",10,20,19.6,-0.4,0
+"2024-25","18286","Maryland","Bri McDaniel",24,25,24.9,-0.1,0
+"2024-25","18286","Maryland","Amari DeBerry",42,12,12.3,0.3,0
+"2024-25","18286","Towson","Semaya Turner",1,15,15.0,0.0,0
+"2024-25","18286","Towson","India Johnston",2,40,40.0,0.0,0
+"2024-25","18286","Towson","Shariah Baynes",4,30,30.5,0.5,0
+"2024-25","18286","Towson","Khady Leye",6,25,26.0,1.0,0
+"2024-25","18286","Towson","Deja Bristol",31,32,31.3,-0.7,0
+"2024-25","18286","Towson","Aminata Diakite",7,23,23.0,0.0,0
+"2024-25","18286","Towson","Caydence Hadley",9,9,8.7,-0.3,0
+"2024-25","18286","Towson","Jordan Wakefield",11,15,15.6,0.6,0
+"2024-25","18286","Towson","Anaiah Jenkins",22,11,9.9,-1.1,0
+"2024-25","18289","Maryland","Shyanne Sellers",0,22,21.9,-0.1,0
+"2024-25","18289","Maryland","Sarah Te-Biasu",1,23,22.6,-0.4,0
+"2024-25","18289","Maryland","Kaylene Smikle",2,22,21.2,-0.8,0
+"2024-25","18289","Maryland","Saylor Poffenbarger",6,21,20.7,-0.3,0
+"2024-25","18289","Maryland","Christina Dalce",15,23,23.7,0.7,0
+"2024-25","18289","Maryland","Ava McKennie",5,16,16.3,0.3,0
+"2024-25","18289","Maryland","Mir McLean",10,22,22.5,0.5,0
+"2024-25","18289","Maryland","Allie Kubek",14,23,22.9,-0.1,0
+"2024-25","18289","Maryland","Bri McDaniel",24,28,28.2,0.2,0
+"2024-25","18289","William & Mary","Cassidy Geddes",1,36,36.4,0.4,0
+"2024-25","18289","William & Mary","Bella Nascimento",5,24,24.6,0.6,0
+"2024-25","18289","William & Mary","Rebekah Frisby-Smith",14,12,12.2,0.2,0
+"2024-25","18289","William & Mary","Kayla Rolph",23,21,21.0,0.0,0
+"2024-25","18289","William & Mary","Anahi-Lee Cauley",35,31,30.5,-0.5,0
+"2024-25","18289","William & Mary","Monet Dance",2,9,8.7,-0.3,0
+"2024-25","18289","William & Mary","Marley Long",10,9,8.9,-0.1,0
+"2024-25","18289","William & Mary","Aislinn Gibson",11,11,11.1,0.1,0
+"2024-25","18289","William & Mary","Jana Sallman",12,22,22.5,0.5,0
+"2024-25","18289","William & Mary","Sophia LeGoullon",13,10,10.2,0.2,0
+"2024-25","18289","William & Mary","Emma West",24,15,14.0,-1.0,0
+"2024-25","18346","Umbc","Jaliena Sanchez",3,34,34.8,0.8,5
+"2024-25","18346","Umbc","Jordon Lewis",5,24,24.6,0.6,5
+"2024-25","18346","Umbc","Alaina Williams",10,9,11.7,2.7,5
+"2024-25","18346","Umbc","Carmen Yanez",15,34,33.6,-0.4,5
+"2024-25","18346","Umbc","Talia Davis",21,34,34.3,0.3,5
+"2024-25","18346","Umbc","Yasmin Ott",0,19,19.7,0.7,5
+"2024-25","18346","Umbc","Tiara Bellamy",1,12,11.3,-0.7,5
+"2024-25","18346","Umbc","Riley Donahue",4,2,1.8,-0.2,5
+"2024-25","18346","Umbc","Lauren Thompson",12,6,5.4,-0.6,5
+"2024-25","18346","Umbc","Kenya Ramsey",13,3,2.8,-0.2,5
+"2024-25","18346","Umbc","Laura Lacambra",33,23,22.4,-0.6,5
+"2024-25","18346","Maryland","Shyanne Sellers",0,30,30.5,0.5,5
+"2024-25","18346","Maryland","Sarah Te-Biasu",1,26,26.4,0.4,5
+"2024-25","18346","Maryland","Kaylene Smikle",2,22,22.5,0.5,5
+"2024-25","18346","Maryland","Allie Kubek",14,27,26.7,-0.3,5
+"2024-25","18346","Maryland","Christina Dalce",15,21,20.5,-0.5,5
+"2024-25","18346","Maryland","Emily Fisher",3,6,5.9,-0.1,5
+"2024-25","18346","Maryland","Ava McKennie",5,9,8.9,-0.1,5
+"2024-25","18346","Maryland","Saylor Poffenbarger",6,17,16.8,-0.2,5
+"2024-25","18346","Maryland","Mir McLean",10,12,11.8,-0.2,5
+"2024-25","18346","Maryland","Bri McDaniel",24,20,19.2,-0.8,5
+"2024-25","18346","Maryland","Amari DeBerry",42,10,10.7,0.7,5
+"2024-25","18347","Syracuse","Sophie Burrows",4,35,35.7,0.7,0
+"2024-25","18347","Syracuse","Georgia Woolley",5,40,40.0,0.0,0
+"2024-25","18347","Syracuse","Angelica Velez",15,13,13.1,0.1,0
+"2024-25","18347","Syracuse","Kyra Wood",22,35,35.3,0.3,0
+"2024-25","18347","Syracuse","Izabel VarejÃ£o",34,13,14.0,1.0,0
+"2024-25","18347","Syracuse","Keira Scott",1,5,4.7,-0.3,0
+"2024-25","18347","Syracuse","Journey Thompson",2,20,19.5,-0.5,0
+"2024-25","18347","Syracuse","Olivia Schmitt",3,8,8.0,0.0,0
+"2024-25","18347","Syracuse","Shy Hawkins",14,3,2.8,-0.2,0
+"2024-25","18347","Syracuse","Madeline Potts",17,4,3.5,-0.5,0
+"2024-25","18347","Syracuse","Saniaa Wilson",21,5,4.5,-0.5,0
+"2024-25","18347","Syracuse","Dominique Camp",24,19,18.9,-0.1,0
+"2024-25","18347","Maryland","Shyanne Sellers",0,32,31.4,-0.6,0
+"2024-25","18347","Maryland","Sarah Te-Biasu",1,20,20.4,0.4,0
+"2024-25","18347","Maryland","Kaylene Smikle",2,26,26.3,0.3,0
+"2024-25","18347","Maryland","Allie Kubek",14,36,36.1,0.1,0
+"2024-25","18347","Maryland","Christina Dalce",15,20,19.8,-0.2,0
+"2024-25","18347","Maryland","Saylor Poffenbarger",6,27,26.9,-0.1,0
+"2024-25","18347","Maryland","Mir McLean",10,6,6.2,0.2,0
+"2024-25","18347","Maryland","Bri McDaniel",24,31,30.7,-0.3,0
+"2024-25","18347","Maryland","Amari DeBerry",42,2,2.2,0.2,0
+"2024-25","18348","Maryland","Sarah Te-Biasu",1,35,35.4,0.4,0
+"2024-25","18348","Maryland","Kaylene Smikle",2,29,28.6,-0.4,0
+"2024-25","18348","Maryland","Allie Kubek",14,23,23.0,0.0,0
+"2024-25","18348","Maryland","Christina Dalce",15,18,18.0,0.0,0
+"2024-25","18348","Maryland","Shyanne Sellers",54,35,34.5,-0.5,0
+"2024-25","18348","Maryland","Ava McKennie",5,0,0.5,0.5,0
+"2024-25","18348","Maryland","Saylor Poffenbarger",6,35,34.7,-0.3,0
+"2024-25","18348","Maryland","Mir McLean",10,18,17.9,-0.1,0
+"2024-25","18348","Maryland","Bri McDaniel",24,7,7.4,0.4,0
+"2024-25","18348","George Mason","Zahirah Walton",2,28,28.0,0.0,0
+"2024-25","18348","George Mason","Kennedy Harris",3,36,35.4,-0.6,0
+"2024-25","18348","George Mason","Paula Suarez",14,36,36.2,0.2,0
+"2024-25","18348","George Mason","Ta'Viyanna Habib",22,8,8.5,0.5,0
+"2024-25","18348","George Mason","Nalani Kaysia",42,30,29.6,-0.4,0
+"2024-25","18348","George Mason","Trinity Massenberg",10,9,9.8,0.8,0
+"2024-25","18348","George Mason","Nekhu Mitchell",11,1,1.5,0.5,0
+"2024-25","18348","George Mason","Jada Brown",13,21,20.8,-0.2,0
+"2024-25","18348","George Mason","Louis Volker",15,29,28.0,-1.0,0
+"2024-25","18348","George Mason","Khamya McNeal",23,2,2.2,0.2,0
+"2024-25","18349","Toledo","Kendall Carruthers",4,16,16.3,0.3,0
+"2024-25","18349","Toledo","Cadence Dykstra",14,28,28.6,0.6,0
+"2024-25","18349","Toledo","Khera Goss",22,22,22.9,0.9,0
+"2024-25","18349","Toledo","Sammi Mikonowicz",33,28,27.8,-0.2,0
+"2024-25","18349","Toledo","Jessica Cook",34,10,10.0,0.0,0
+"2024-25","18349","Toledo","Nan Garcia",1,13,13.8,0.8,0
+"2024-25","18349","Toledo","Faith Fedd-Robinson",2,8,7.5,-0.5,0
+"2024-25","18349","Toledo","Evalyse Cole",10,17,16.4,-0.6,0
+"2024-25","18349","Toledo","Destiny Robinson",11,16,16.0,0.0,0
+"2024-25","18349","Toledo","Ella Weaver",12,20,19.5,-0.5,0
+"2024-25","18349","Toledo","Kendall Braden",23,7,6.5,-0.5,0
+"2024-25","18349","Toledo","Hannah Noveroske",51,15,14.6,-0.4,0
+"2024-25","18349","Maryland","Shyanne Sellers",0,29,27.9,-1.1,0
+"2024-25","18349","Maryland","Sarah Te-Biasu",1,25,24.2,-0.8,0
+"2024-25","18349","Maryland","Kaylene Smikle",2,25,24.6,-0.4,0
+"2024-25","18349","Maryland","Allie Kubek",14,18,17.8,-0.2,0
+"2024-25","18349","Maryland","Christina Dalce",15,15,15.8,0.8,0
+"2024-25","18349","Maryland","Ava McKennie",5,10,10.5,0.5,0
+"2024-25","18349","Maryland","Saylor Poffenbarger",6,27,27.3,0.3,0
+"2024-25","18349","Maryland","Mir McLean",10,21,22.0,1.0,0
+"2024-25","18349","Maryland","Bri McDaniel",24,16,16.4,0.4,0
+"2024-25","18349","Maryland","Amari DeBerry",42,14,13.4,-0.6,0
+"2024-25","18350","Purdue","Amiyah Reynolds",1,14,13.5,-0.5,0
+"2024-25","18350","Purdue","Destini Lombard",4,35,34.5,-0.5,0
+"2024-25","18350","Purdue","Ella Collier",13,34,33.9,-0.1,0
+"2024-25","18350","Purdue","Reagan Bass",34,37,37.8,0.8,0
+"2024-25","18350","Purdue","Lana McCarthy",35,14,14.2,0.2,0
+"2024-25","18350","Purdue","Rashunda Jones",2,26,27.1,1.1,0
+"2024-25","18350","Purdue","Kendall Puryear",22,22,22.2,0.2,0
+"2024-25","18350","Purdue","Sophie Swanson",31,14,13.2,-0.8,0
+"2024-25","18350","Purdue","Alaina Harper",32,4,3.6,-0.4,0
+"2024-25","18350","Maryland","Shyanne Sellers",0,22,21.8,-0.2,0
+"2024-25","18350","Maryland","Kaylene Smikle",2,31,30.6,-0.4,0
+"2024-25","18350","Maryland","Saylor Poffenbarger",6,32,33.0,1.0,0
+"2024-25","18350","Maryland","Allie Kubek",14,17,18.6,1.6,0
+"2024-25","18350","Maryland","Christina Dalce",15,35,34.0,-1.0,0
+"2024-25","18350","Maryland","Sarah Te-Biasu",1,26,25.6,-0.4,0
+"2024-25","18350","Maryland","Mir McLean",10,5,4.6,-0.4,0
+"2024-25","18350","Maryland","Bri McDaniel",24,32,31.8,-0.2,0
+"2024-25","18351","Maryland","Shyanne Sellers",0,35,35.3,0.3,0
+"2024-25","18351","Maryland","Sarah Te-Biasu",1,26,26.4,0.4,0
+"2024-25","18351","Maryland","Kaylene Smikle",2,27,26.1,-0.9,0
+"2024-25","18351","Maryland","Saylor Poffenbarger",6,39,38.8,-0.2,0
+"2024-25","18351","Maryland","Christina Dalce",15,15,15.9,0.9,0
+"2024-25","18351","Maryland","Ava McKennie",5,1,0.6,-0.4,0
+"2024-25","18351","Maryland","Mir McLean",10,6,5.8,-0.2,0
+"2024-25","18351","Maryland","Allie Kubek",14,26,25.9,-0.1,0
+"2024-25","18351","Maryland","Bri McDaniel",24,25,25.3,0.3,0
+"2024-25","18351","Michigan St.","Jaddan Simmons",1,31,31.5,0.5,0
+"2024-25","18351","Michigan St.","Theryn Hallock",4,29,29.6,0.6,0
+"2024-25","18351","Michigan St.","Jocelyn Tate",11,34,34.5,0.5,0
+"2024-25","18351","Michigan St.","Grace VanSlooten",14,23,22.6,-0.4,0
+"2024-25","18351","Michigan St.","Julia Ayrault",40,31,30.4,-0.6,0
+"2024-25","18351","Michigan St.","Emma Shumate",5,15,15.1,0.1,0
+"2024-25","18351","Michigan St.","Ines Sotelo",15,18,18.2,0.2,0
+"2024-25","18351","Michigan St.","Nyla Hampton",22,16,15.5,-0.5,0
+"2024-25","18351","Michigan St.","Juliann Woodard",33,3,2.7,-0.3,0
+"2024-25","18352","Maryland","Shyanne Sellers",0,31,30.9,-0.1,0
+"2024-25","18352","Maryland","Sarah Te-Biasu",1,23,23.5,0.5,0
+"2024-25","18352","Maryland","Kaylene Smikle",2,22,22.1,0.1,0
+"2024-25","18352","Maryland","Saylor Poffenbarger",6,30,29.9,-0.1,0
+"2024-25","18352","Maryland","Christina Dalce",15,8,7.1,-0.9,0
+"2024-25","18352","Maryland","Ava McKennie",5,12,11.5,-0.5,0
+"2024-25","18352","Maryland","Mir McLean",10,25,25.7,0.7,0
+"2024-25","18352","Maryland","Allie Kubek",14,25,25.3,0.3,0
+"2024-25","18352","Maryland","Bri McDaniel",24,14,14.0,0.0,0
+"2024-25","18352","Maryland","Amari DeBerry",42,10,10.0,0.0,0
+"2024-25","18352","Rutgers","Destiny Adams",1,25,25.3,0.3,0
+"2024-25","18352","Rutgers","Lisa Thompson",2,24,23.8,-0.2,0
+"2024-25","18352","Rutgers","JoJo Lacey",14,15,14.3,-0.7,0
+"2024-25","18352","Rutgers","Zachara Perkins",22,33,32.9,-0.1,0
+"2024-25","18352","Rutgers","Kiyomi McMiller",32,24,24.4,0.4,0
+"2024-25","18352","Rutgers","Mya Petticord",3,22,21.1,-0.9,0
+"2024-25","18352","Rutgers","Awa Sidibe",11,31,32.4,1.4,0
+"2024-25","18352","Rutgers","Kennedy Brandt",33,2,1.6,-0.4,0
+"2024-25","18352","Rutgers","Janae Walker",44,8,7.6,-0.4,0
+"2024-25","18352","Rutgers","Chyna Cornwell",54,16,16.6,0.6,0
+"2024-25","18353","Iowa","Sydney Affolter",3,31,30.7,-0.3,0
+"2024-25","18353","Iowa","Kylie Feuerbach",4,21,20.1,-0.9,0
+"2024-25","18353","Iowa","Lucy Olsen",33,32,32.4,0.4,0
+"2024-25","18353","Iowa","Addison O'Grady",44,21,21.6,0.6,0
+"2024-25","18353","Iowa","Hannah Stuelke",45,21,20.5,-0.5,0
+"2024-25","18353","Iowa","Taylor Stremlow",1,19,18.4,-0.6,0
+"2024-25","18353","Iowa","Taylor McCabe",2,17,18.1,1.1,0
+"2024-25","18353","Iowa","Ava Heiden",5,7,6.9,-0.1,0
+"2024-25","18353","Iowa","Aaliyah Guyton",11,16,16.1,0.1,0
+"2024-25","18353","Iowa","AJ Ediger",34,6,5.1,-0.9,0
+"2024-25","18353","Iowa","Teagan Mallegni",55,9,10.1,1.1,0
+"2024-25","18353","Maryland","Shyanne Sellers",0,34,33.6,-0.4,0
+"2024-25","18353","Maryland","Sarah Te-Biasu",1,22,22.1,0.1,0
+"2024-25","18353","Maryland","Kaylene Smikle",2,34,34.0,0.0,0
+"2024-25","18353","Maryland","Saylor Poffenbarger",6,35,34.4,-0.6,0
+"2024-25","18353","Maryland","Christina Dalce",15,16,17.2,1.2,0
+"2024-25","18353","Maryland","Mir McLean",10,11,10.3,-0.7,0
+"2024-25","18353","Maryland","Allie Kubek",14,21,21.7,0.7,0
+"2024-25","18353","Maryland","Bri McDaniel",24,27,26.6,-0.4,0
+"2024-25","18354","Maryland","Shyanne Sellers",0,38,38.4,0.4,0
+"2024-25","18354","Maryland","Sarah Te-Biasu",1,27,26.9,-0.1,0
+"2024-25","18354","Maryland","Kaylene Smikle",2,34,33.1,-0.9,0
+"2024-25","18354","Maryland","Saylor Poffenbarger",6,31,31.8,0.8,0
+"2024-25","18354","Maryland","Christina Dalce",15,35,34.8,-0.2,0
+"2024-25","18354","Maryland","Ava McKennie",5,1,0.5,-0.5,0
+"2024-25","18354","Maryland","Mir McLean",10,6,5.5,-0.5,0
+"2024-25","18354","Maryland","Allie Kubek",14,7,7.9,0.9,0
+"2024-25","18354","Maryland","Bri McDaniel",24,21,21.2,0.2,0
+"2024-25","18354","Southern California","Malia Samuels",10,13,13.0,0.0,0
+"2024-25","18354","Southern California","Kennedy Smith",11,35,34.4,-0.6,0
+"2024-25","18354","Southern California","JuJu Watkins",12,39,38.4,-0.6,0
+"2024-25","18354","Southern California","Rayah Marshall",13,30,30.5,0.5,0
+"2024-25","18354","Southern California","Kiki Iriafen",44,29,28.4,-0.6,0
+"2024-25","18354","Southern California","Kayleigh Heckel",9,25,25.5,0.5,0
+"2024-25","18354","Southern California","Avery Howell",23,23,23.9,0.9,0
+"2024-25","18354","Southern California","Clarice Akunwafo",34,6,5.9,-0.1,0
+"2024-25","18355","Wisconsin","Carter McCray",1,19,20.0,1.0,0
+"2024-25","18355","Wisconsin","Tess Myers",3,20,20.3,0.3,0
+"2024-25","18355","Wisconsin","Ronnie Porter",13,35,35.2,0.2,0
+"2024-25","18355","Wisconsin","Natalie Leuzinger",24,31,30.4,-0.6,0
+"2024-25","18355","Wisconsin","Serah Williams",25,38,37.3,-0.7,0
+"2024-25","18355","Wisconsin","Lily Krahn",4,25,25.4,0.4,0
+"2024-25","18355","Wisconsin","Halle Douglass",10,25,24.6,-0.4,0
+"2024-25","18355","Wisconsin","Jovana Spasovski",11,3,3.2,0.2,0
+"2024-25","18355","Wisconsin","D'Yanis Jimenez",23,4,3.6,-0.4,0
+"2024-25","18355","Maryland","Shyanne Sellers",0,39,38.6,-0.4,0
+"2024-25","18355","Maryland","Kaylene Smikle",2,38,38.4,0.4,0
+"2024-25","18355","Maryland","Allie Kubek",14,26,25.6,-0.4,0
+"2024-25","18355","Maryland","Christina Dalce",15,24,24.2,0.2,0
+"2024-25","18355","Maryland","Bri McDaniel",24,39,38.8,-0.2,0
+"2024-25","18355","Maryland","Ava McKennie",5,11,11.5,0.5,0
+"2024-25","18355","Maryland","Mir McLean",10,21,20.7,-0.3,0
+"2024-25","18355","Maryland","Amari DeBerry",42,2,2.3,0.3,0
+"2024-25","18356","Maryland","Shyanne Sellers",0,36,35.9,-0.1,0
+"2024-25","18356","Maryland","Kaylene Smikle",2,34,33.4,-0.6,0
+"2024-25","18356","Maryland","Saylor Poffenbarger",6,23,23.0,0.0,0
+"2024-25","18356","Maryland","Christina Dalce",15,24,24.5,0.5,0
+"2024-25","18356","Maryland","Bri McDaniel",24,8,8.2,0.2,0
+"2024-25","18356","Maryland","Sarah Te-Biasu",1,35,34.5,-0.5,0
+"2024-25","18356","Maryland","Mir McLean",10,14,13.5,-0.5,0
+"2024-25","18356","Maryland","Allie Kubek",14,26,26.9,0.9,0
+"2024-25","18356","Minnesota","Amaya Battle",3,37,37.3,0.3,0
+"2024-25","18356","Minnesota","Tori McKinney",14,19,19.4,0.4,0
+"2024-25","18356","Minnesota","Mallory Heyer",24,29,29.2,0.2,0
+"2024-25","18356","Minnesota","Grace Grocholski",25,37,37.0,0.0,0
+"2024-25","18356","Minnesota","Sophie Hart",52,34,33.0,-1.0,0
+"2024-25","18356","Minnesota","Alexsia Rose",0,15,14.9,-0.1,0
+"2024-25","18356","Minnesota","Maggie Czinano",5,6,5.4,-0.6,0
+"2024-25","18356","Minnesota","McKenna Johnson",7,14,12.8,-1.2,0
+"2024-25","18356","Minnesota","Annika Stewart",21,6,7.0,1.0,0
+"2024-25","18356","Minnesota","Kennedy Klick",22,0,0.2,0.2,0
+"2024-25","18356","Minnesota","Niamya Holloway",41,3,3.8,0.8,0
+"2024-25","18357","Maryland","Shyanne Sellers",0,14,14.1,0.1,0
+"2024-25","18357","Maryland","Sarah Te-Biasu",1,38,38.1,0.1,0
+"2024-25","18357","Maryland","Kaylene Smikle",2,33,32.0,-1.0,0
+"2024-25","18357","Maryland","Saylor Poffenbarger",6,18,18.4,0.4,0
+"2024-25","18357","Maryland","Christina Dalce",15,28,27.3,-0.7,0
+"2024-25","18357","Maryland","Emily Fisher",3,5,5.3,0.3,0
+"2024-25","18357","Maryland","Ava McKennie",5,15,15.4,0.4,0
+"2024-25","18357","Maryland","Mir McLean",10,15,14.9,-0.1,0
+"2024-25","18357","Maryland","Allie Kubek",14,24,24.4,0.4,0
+"2024-25","18357","Maryland","Amari DeBerry",42,10,10.0,0.0,0
+"2024-25","18357","Texas","Rori Harmon",3,32,31.5,-0.5,0
+"2024-25","18357","Texas","Shay Holle",10,27,26.7,-0.3,0
+"2024-25","18357","Texas","Aaliyah Moore",23,17,17.4,0.4,0
+"2024-25","18357","Texas","Madison Booker",35,27,27.2,0.2,0
+"2024-25","18357","Texas","Taylor Jones",44,22,21.5,-0.5,0
+"2024-25","18357","Texas","Kyla Oldacre",0,18,18.5,0.5,0
+"2024-25","18357","Texas","Bryanna Preston",1,10,10.1,0.1,0
+"2024-25","18357","Texas","Jordan Lee",7,15,15.0,0.0,0
+"2024-25","18357","Texas","Justice Carlton",11,7,7.0,0.0,0
+"2024-25","18357","Texas","Jordana Codio",13,4,4.2,0.2,0
+"2024-25","18357","Texas","Ndjakalenga Mwenentanda",32,21,20.9,-0.1,0
+"2024-25","18358","Ohio St.","Ajae Petty",1,8,8.9,0.9,0
+"2024-25","18358","Ohio St.","Taylor Thierry",2,35,35.2,0.2,0
+"2024-25","18358","Ohio St.","Chance Gray",21,22,21.1,-0.9,0
+"2024-25","18358","Ohio St.","Jaloni Cambridge",22,31,30.7,-0.3,0
+"2024-25","18358","Ohio St.","Cotie McMahon",32,35,35.2,0.2,0
+"2024-25","18358","Ohio St.","Madison Greene",0,10,9.3,-0.7,0
+"2024-25","18358","Ohio St.","Kennedy Cambridge",3,24,24.4,0.4,0
+"2024-25","18358","Ohio St.","Ava Watson",5,5,5.1,0.1,0
+"2024-25","18358","Ohio St.","Elsa LemmilÃ¤",12,23,23.1,0.1,0
+"2024-25","18358","Ohio St.","Eboni Walker",55,7,7.0,0.0,0
+"2024-25","18358","Maryland","Sarah Te-Biasu",1,40,40.0,0.0,0
+"2024-25","18358","Maryland","Kaylene Smikle",2,28,28.2,0.2,0
+"2024-25","18358","Maryland","Saylor Poffenbarger",6,38,37.8,-0.2,0
+"2024-25","18358","Maryland","Allie Kubek",14,34,34.1,0.1,0
+"2024-25","18358","Maryland","Christina Dalce",15,35,34.5,-0.5,0
+"2024-25","18358","Maryland","Emily Fisher",3,5,6.2,1.2,0
+"2024-25","18358","Maryland","Ava McKennie",5,2,1.8,-0.2,0
+"2024-25","18358","Maryland","Mir McLean",10,13,12.3,-0.7,0
+"2024-25","18358","Maryland","Amari DeBerry",42,5,5.0,0.0,0
+"2024-25","18359","Maryland","Sarah Te-Biasu",1,37,37.0,0.0,0
+"2024-25","18359","Maryland","Kaylene Smikle",2,37,37.4,0.4,0
+"2024-25","18359","Maryland","Saylor Poffenbarger",6,36,35.6,-0.4,0
+"2024-25","18359","Maryland","Christina Dalce",15,28,27.6,-0.4,0
+"2024-25","18359","Maryland","Amari DeBerry",42,17,18.0,1.0,0
+"2024-25","18359","Maryland","Emily Fisher",3,2,2.4,0.4,0
+"2024-25","18359","Maryland","Ava McKennie",5,3,3.0,0.0,0
+"2024-25","18359","Maryland","Mir McLean",10,19,18.1,-0.9,0
+"2024-25","18359","Maryland","Allie Kubek",14,21,20.9,-0.1,0
+"2024-25","18359","Ucla","Kiki Rice",1,36,36.3,0.3,0
+"2024-25","18359","Ucla","Londynn Jones",3,19,19.4,0.4,0
+"2024-25","18359","Ucla","Gabriela Jaquez",11,20,20.1,0.1,0
+"2024-25","18359","Ucla","Angela DugaliÄ‡",32,25,25.8,0.8,0
+"2024-25","18359","Ucla","Lauren Betts",51,34,34.8,0.8,0
+"2024-25","18359","Ucla","Janiah Barker",0,13,11.5,-1.5,0
+"2024-25","18359","Ucla","Avary Cain",2,6,5.6,-0.4,0
+"2024-25","18359","Ucla","Zania Socka-Nguemen",6,3,3.5,0.5,0
+"2024-25","18359","Ucla","Elina Aarnisalo",7,17,15.4,-1.6,0
+"2024-25","18359","Ucla","Kendall Dudley",22,8,9.1,1.1,0
+"2024-25","18359","Ucla","Timea Gardiner",30,19,18.4,-0.6,0
+"2024-25","18360","Penn St.","Gabby Elliott",0,25,24.7,-0.3,2
+"2024-25","18360","Penn St.","Moriah Murray",3,34,33.6,-0.4,2
+"2024-25","18360","Penn St.","Grace Hall",7,26,25.2,-0.8,2
+"2024-25","18360","Penn St.","Alli Campbell",22,27,27.4,0.4,2
+"2024-25","18360","Penn St.","Gracie Merkle",44,25,25.1,0.1,2
+"2024-25","18360","Penn St.","Tamera Johnson",5,20,20.2,0.2,2
+"2024-25","18360","Penn St.","Jayla Oden",12,23,23.4,0.4,2
+"2024-25","18360","Penn St.","Talayah Walker",20,20,20.6,0.6,2
+"2024-25","18360","Maryland","Shyanne Sellers",0,19,19.8,0.8,2
+"2024-25","18360","Maryland","Sarah Te-Biasu",1,37,37.2,0.2,2
+"2024-25","18360","Maryland","Kaylene Smikle",2,33,33.7,0.7,2
+"2024-25","18360","Maryland","Saylor Poffenbarger",6,32,30.9,-1.1,2
+"2024-25","18360","Maryland","Christina Dalce",15,25,25.6,0.6,2
+"2024-25","18360","Maryland","Emily Fisher",3,7,6.9,-0.1,2
+"2024-25","18360","Maryland","Ava McKennie",5,8,8.0,0.0,2
+"2024-25","18360","Maryland","Mir McLean",10,10,9.7,-0.3,2
+"2024-25","18360","Maryland","Allie Kubek",14,27,26.3,-0.7,2
+"2024-25","18360","Maryland","Amari DeBerry",42,2,2.1,0.1,2
+"2024-25","18361","Maryland","Shyanne Sellers",0,25,25.0,0.0,3
+"2024-25","18361","Maryland","Sarah Te-Biasu",1,36,35.9,-0.1,3
+"2024-25","18361","Maryland","Kaylene Smikle",2,33,33.1,0.1,3
+"2024-25","18361","Maryland","Christina Dalce",15,18,17.6,-0.4,3
+"2024-25","18361","Maryland","Amari DeBerry",42,5,5.5,0.5,3
+"2024-25","18361","Maryland","Emily Fisher",3,21,21.2,0.2,3
+"2024-25","18361","Maryland","Saylor Poffenbarger",6,34,33.1,-0.9,3
+"2024-25","18361","Maryland","Mir McLean",10,4,4.3,0.3,3
+"2024-25","18361","Maryland","Allie Kubek",14,24,25.0,1.0,3
+"2024-25","18361","Illinois","Genesis Bryant",1,40,40.0,0.0,3
+"2024-25","18361","Illinois","Jasmine Brown-Hagger",8,20,20.7,0.7,3
+"2024-25","18361","Illinois","Brynn Shoup-Hill",23,39,38.7,-0.3,3
+"2024-25","18361","Illinois","Adalia McKenzie",24,27,25.8,-1.2,3
+"2024-25","18361","Illinois","Kendall Bostic",44,40,40.0,0.0,3
+"2024-25","18361","Illinois","Cori Allen",2,3,2.7,-0.3,3
+"2024-25","18361","Illinois","Berry Wallace",20,31,32.1,1.1,3
+"2024-25","18363","Oregon","Amina Muhammad",5,16,16.3,0.3,0
+"2024-25","18363","Oregon","Elisa Mevius",8,17,16.2,-0.8,0
+"2024-25","18363","Oregon","Peyton Scott",10,10,9.1,-0.9,0
+"2024-25","18363","Oregon","Phillipina Kyei",15,18,17.7,-0.3,0
+"2024-25","18363","Oregon","Deja Kelly",25,18,17.6,-0.4,0
+"2024-25","18363","Oregon","Alexis Whitfield",1,10,9.3,-0.7,0
+"2024-25","18363","Oregon","Katie Fiso",2,8,8.1,0.1,0
+"2024-25","18363","Oregon","Sofia Bell",3,27,27.2,0.2,0
+"2024-25","18363","Oregon","Nani Falatea",4,25,26.4,1.4,0
+"2024-25","18363","Oregon","Filippa Tilliander",13,2,1.8,-0.2,0
+"2024-25","18363","Oregon","Ari Long",14,17,17.6,0.6,0
+"2024-25","18363","Oregon","Sarah Rambus",23,13,13.3,0.3,0
+"2024-25","18363","Oregon","Ehis Etute",35,19,19.2,0.2,0
+"2024-25","18363","Maryland","Shyanne Sellers",0,23,22.6,-0.4,0
+"2024-25","18363","Maryland","Sarah Te-Biasu",1,39,38.9,-0.1,0
+"2024-25","18363","Maryland","Kaylene Smikle",2,32,30.9,-1.1,0
+"2024-25","18363","Maryland","Saylor Poffenbarger",6,37,37.0,0.0,0
+"2024-25","18363","Maryland","Allie Kubek",14,30,29.8,-0.2,0
+"2024-25","18363","Maryland","Emily Fisher",3,25,25.6,0.6,0
+"2024-25","18363","Maryland","Ava McKennie",5,2,2.2,0.2,0
+"2024-25","18363","Maryland","Mir McLean",10,4,3.9,-0.1,0
+"2024-25","18363","Maryland","Christina Dalce",15,8,9.2,1.2,0
+"2024-25","18364","Washington","Sayvia Sellers",0,30,29.6,-0.4,0
+"2024-25","18364","Washington","Hannah Stines",1,37,37.1,0.1,0
+"2024-25","18364","Washington","Chloe Briggs",11,25,24.9,-0.1,0
+"2024-25","18364","Washington","Dalayah Daniels",14,32,32.4,0.4,0
+"2024-25","18364","Washington","Elle Ladine",24,38,38.2,0.2,0
+"2024-25","18364","Washington","Devin Coppinger",3,23,23.3,0.3,0
+"2024-25","18364","Washington","Teagan Brown",5,1,1.1,0.1,0
+"2024-25","18364","Washington","Brenna McDonald",20,1,0.8,-0.2,0
+"2024-25","18364","Washington","Tayra Eke",32,13,12.5,-0.5,0
+"2024-25","18364","Maryland","Shyanne Sellers",0,35,35.6,0.6,0
+"2024-25","18364","Maryland","Sarah Te-Biasu",1,40,39.9,-0.1,0
+"2024-25","18364","Maryland","Kaylene Smikle",2,35,35.3,0.3,0
+"2024-25","18364","Maryland","Saylor Poffenbarger",6,30,29.3,-0.7,0
+"2024-25","18364","Maryland","Allie Kubek",14,18,18.3,0.3,0
+"2024-25","18364","Maryland","Emily Fisher",3,20,19.7,-0.3,0
+"2024-25","18364","Maryland","Mir McLean",10,3,2.3,-0.7,0
+"2024-25","18364","Maryland","Christina Dalce",15,19,19.6,0.6,0
+"2024-25","18365","Maryland","Shyanne Sellers",0,32,32.2,0.2,0
+"2024-25","18365","Maryland","Sarah Te-Biasu",1,31,31.3,0.3,0
+"2024-25","18365","Maryland","Kaylene Smikle",2,24,24.3,0.3,0
+"2024-25","18365","Maryland","Saylor Poffenbarger",6,26,25.9,-0.1,0
+"2024-25","18365","Maryland","Allie Kubek",14,28,27.9,-0.1,0
+"2024-25","18365","Maryland","Emily Fisher",3,27,26.9,-0.1,0
+"2024-25","18365","Maryland","Ava McKennie",5,6,6.5,0.5,0
+"2024-25","18365","Maryland","Mir McLean",10,6,5.1,-0.9,0
+"2024-25","18365","Maryland","Christina Dalce",15,17,16.9,-0.1,0
+"2024-25","18365","Maryland","Amari DeBerry",42,3,2.8,-0.2,0
+"2024-25","18365","Nebraska","Logan Nissley",2,29,29.5,0.5,0
+"2024-25","18365","Nebraska","Jessica Petrie",12,26,26.8,0.8,0
+"2024-25","18365","Nebraska","Callin Hake",14,23,22.6,-0.4,0
+"2024-25","18365","Nebraska","Britt Prince",23,31,31.1,0.1,0
+"2024-25","18365","Nebraska","Alexis Markowski",40,27,26.5,-0.5,0
+"2024-25","18365","Nebraska","Alberte Rimdal",5,22,20.9,-1.1,0
+"2024-25","18365","Nebraska","Kendall Moriarty",15,15,15.9,0.9,0
+"2024-25","18365","Nebraska","Kendall Coley",32,6,6.3,0.3,0
+"2024-25","18365","Nebraska","Amiah Hargrove",33,15,14.4,-0.6,0
+"2024-25","18365","Nebraska","Petra Bozan",44,6,6.0,0.0,0
+"2024-25","18366","Maryland","Shyanne Sellers",0,34,33.8,-0.2,0
+"2024-25","18366","Maryland","Sarah Te-Biasu",1,39,39.3,0.3,0
+"2024-25","18366","Maryland","Kaylene Smikle",2,14,14.1,0.1,0
+"2024-25","18366","Maryland","Saylor Poffenbarger",6,39,38.9,-0.1,0
+"2024-25","18366","Maryland","Christina Dalce",15,17,17.3,0.3,0
+"2024-25","18366","Maryland","Emily Fisher",3,3,3.5,0.5,0
+"2024-25","18366","Maryland","Ava McKennie",5,13,12.7,-0.3,0
+"2024-25","18366","Maryland","Mir McLean",10,24,23.6,-0.4,0
+"2024-25","18366","Maryland","Allie Kubek",14,16,15.6,-0.4,0
+"2024-25","18366","Maryland","Amari DeBerry",42,1,1.3,0.3,0
+"2024-25","18366","Michigan","Olivia Olson",1,34,33.8,-0.2,0
+"2024-25","18366","Michigan","Mila Holloway",3,31,31.6,0.6,0
+"2024-25","18366","Michigan","Jordan Hobbs",10,32,32.1,0.1,0
+"2024-25","18366","Michigan","Greta Kampschroeder",11,19,19.6,0.6,0
+"2024-25","18366","Michigan","Syla Swords",12,39,39.2,0.2,0
+"2024-25","18366","Michigan","Brooke Q. Daniels",5,15,14.9,-0.1,0
+"2024-25","18366","Michigan","Alyssa Crockett",20,2,2.3,0.3,0
+"2024-25","18366","Michigan","Ally VanTimmeren",21,2,2.2,0.2,0
+"2024-25","18366","Michigan","Te'Yala Delfosse",33,11,10.4,-0.6,0
+"2024-25","18366","Michigan","Yulia Grabovskaia",55,15,13.8,-1.2,0
+"2024-25","18367","Northwestern","Kyla Jones",2,8,8.1,0.1,0
+"2024-25","18367","Northwestern","Caroline Lau",7,37,37.2,0.2,0
+"2024-25","18367","Northwestern","Caileigh Walsh",10,26,25.0,-1.0,0
+"2024-25","18367","Northwestern","Casey Harter",12,38,38.6,0.6,0
+"2024-25","18367","Northwestern","Taylor Williams",33,34,34.5,0.5,0
+"2024-25","18367","Northwestern","Xamiya Walton",1,1,0.5,-0.5,0
+"2024-25","18367","Northwestern","Melannie Daley",21,36,35.6,-0.4,0
+"2024-25","18367","Northwestern","Grace Sullivan",22,15,15.4,0.4,0
+"2024-25","18367","Northwestern","Tayla Thomas",23,5,5.0,0.0,0
+"2024-25","18367","Maryland","Shyanne Sellers",0,34,34.5,0.5,0
+"2024-25","18367","Maryland","Sarah Te-Biasu",1,38,37.5,-0.5,0
+"2024-25","18367","Maryland","Kaylene Smikle",2,33,32.5,-0.5,0
+"2024-25","18367","Maryland","Saylor Poffenbarger",6,24,23.9,-0.1,0
+"2024-25","18367","Maryland","Christina Dalce",15,16,14.9,-1.1,0
+"2024-25","18367","Maryland","Emily Fisher",3,22,22.2,0.2,0
+"2024-25","18367","Maryland","Ava McKennie",5,1,1.9,0.9,0
+"2024-25","18367","Maryland","Mir McLean",10,14,13.9,-0.1,0
+"2024-25","18367","Maryland","Allie Kubek",14,14,14.4,0.4,0
+"2024-25","18367","Maryland","Amari DeBerry",42,4,4.2,0.2,0
+"2024-25","18368","Indiana","Shay Ciezki",10,38,37.9,-0.1,0
+"2024-25","18368","Indiana","Karoline Striplin",11,33,33.0,0.0,0
+"2024-25","18368","Indiana","Yarden Garzon",12,34,33.8,-0.2,0
+"2024-25","18368","Indiana","Chloe Moore-McNeil",22,35,35.6,0.6,0
+"2024-25","18368","Indiana","Sydney Parrish",33,26,25.9,-0.1,0
+"2024-25","18368","Indiana","Lexus Bargesser",1,7,6.5,-0.5,0
+"2024-25","18368","Indiana","Julianna LaMendola",20,14,14.1,0.1,0
+"2024-25","18368","Indiana","Henna Sandvik",21,6,6.2,0.2,0
+"2024-25","18368","Indiana","Lilly Meister",52,7,7.0,0.0,0
+"2024-25","18368","Maryland","Shyanne Sellers",0,31,31.0,0.0,0
+"2024-25","18368","Maryland","Sarah Te-Biasu",1,38,38.4,0.4,0
+"2024-25","18368","Maryland","Kaylene Smikle",2,36,35.8,-0.2,0
+"2024-25","18368","Maryland","Allie Kubek",14,29,29.4,0.4,0
+"2024-25","18368","Maryland","Christina Dalce",15,28,28.7,0.7,0
+"2024-25","18368","Maryland","Emily Fisher",3,10,9.3,-0.7,0
+"2024-25","18368","Maryland","Mir McLean",10,18,18.0,0.0,0
+"2024-25","18368","Maryland","Amari DeBerry",42,10,9.4,-0.6,0
+"2024-25","18369","Maryland","Shyanne Sellers",0,37,37.8,0.8,0
+"2024-25","18369","Maryland","Sarah Te-Biasu",1,41,40.6,-0.4,0
+"2024-25","18369","Maryland","Kaylene Smikle",2,38,37.7,-0.3,0
+"2024-25","18369","Maryland","Allie Kubek",14,39,39.1,0.1,0
+"2024-25","18369","Maryland","Christina Dalce",15,19,19.8,0.8,0
+"2024-25","18369","Maryland","Emily Fisher",3,28,27.3,-0.7,0
+"2024-25","18369","Maryland","Mir McLean",10,17,16.8,-0.2,0
+"2024-25","18369","Maryland","Amari DeBerry",42,6,5.9,-0.1,0
+"2024-25","18369","Ohio St.","Ajae Petty",1,33,33.3,0.3,0
+"2024-25","18369","Ohio St.","Taylor Thierry",2,43,42.8,-0.2,0
+"2024-25","18369","Ohio St.","Chance Gray",21,21,21.4,0.4,0
+"2024-25","18369","Ohio St.","Jaloni Cambridge",22,18,18.2,0.2,0
+"2024-25","18369","Ohio St.","Cotie McMahon",32,31,30.2,-0.8,0
+"2024-25","18369","Ohio St.","Madison Greene",0,33,33.3,0.3,0
+"2024-25","18369","Ohio St.","Kennedy Cambridge",3,34,33.6,-0.4,0
+"2024-25","18369","Ohio St.","Elsa LemmilÃ¤",12,11,11.7,0.7,0
+"2024-25","18369","Ohio St.","Eboni Walker",55,1,0.6,-0.4,0
+"2024-25","18370","Maryland","Shyanne Sellers",0,19,19.0,0.0,0
+"2024-25","18370","Maryland","Sarah Te-Biasu",1,40,40.0,0.0,0
+"2024-25","18370","Maryland","Kaylene Smikle",2,23,23.5,0.5,0
+"2024-25","18370","Maryland","Allie Kubek",14,12,12.6,0.6,0
+"2024-25","18370","Maryland","Christina Dalce",15,31,30.9,-0.1,0
+"2024-25","18370","Maryland","Emily Fisher",3,9,9.4,0.4,0
+"2024-25","18370","Maryland","Ava McKennie",5,18,18.1,0.1,0
+"2024-25","18370","Maryland","Saylor Poffenbarger",6,10,8.9,-1.1,0
+"2024-25","18370","Maryland","Mir McLean",10,30,30.1,0.1,0
+"2024-25","18370","Maryland","Amari DeBerry",42,8,7.6,-0.4,0
+"2024-25","18370","Michigan","Olivia Olson",1,32,32.5,0.5,0
+"2024-25","18370","Michigan","Mila Holloway",3,21,21.3,0.3,0
+"2024-25","18370","Michigan","Jordan Hobbs",10,28,27.9,-0.1,0
+"2024-25","18370","Michigan","Greta Kampschroeder",11,19,19.5,0.5,0
+"2024-25","18370","Michigan","Syla Swords",12,34,33.8,-0.2,0
+"2024-25","18370","Michigan","Macy Brown",2,5,5.3,0.3,0
+"2024-25","18370","Michigan","Brooke Q. Daniels",5,25,24.4,-0.6,0
+"2024-25","18370","Michigan","Alyssa Crockett",20,4,3.8,-0.2,0
+"2024-25","18370","Michigan","Ally VanTimmeren",21,3,3.0,0.0,0
+"2024-25","18370","Michigan","Te'Yala Delfosse",33,8,7.1,-0.9,0
+"2024-25","18370","Michigan","Aaiyanna Dunbar",34,1,0.7,-0.3,0
+"2024-25","18370","Michigan","Yulia Grabovskaia",55,20,20.8,0.8,0
+"2024-25","18371","Maryland","Shyanne Sellers",0,36,35.9,-0.1,0
+"2024-25","18371","Maryland","Sarah Te-Biasu",1,39,38.6,-0.4,0
+"2024-25","18371","Maryland","Kaylene Smikle",2,37,36.7,-0.3,0
+"2024-25","18371","Maryland","Allie Kubek",14,38,37.8,-0.2,0
+"2024-25","18371","Maryland","Christina Dalce",15,19,19.3,0.3,0
+"2024-25","18371","Maryland","Emily Fisher",3,1,1.1,0.1,0
+"2024-25","18371","Maryland","Saylor Poffenbarger",6,9,8.8,-0.2,0
+"2024-25","18371","Maryland","Mir McLean",10,21,21.8,0.8,0
+"2024-25","18371","Norfolk St.","Niya Fields",2,25,25.4,0.4,0
+"2024-25","18371","Norfolk St.","Diamond Johnson",3,39,38.2,-0.8,0
+"2024-25","18371","Norfolk St.","Anjanae Richardson",4,30,29.7,-0.3,0
+"2024-25","18371","Norfolk St.","Makoye Diawara",12,28,28.2,0.2,0
+"2024-25","18371","Norfolk St.","Kierra Wheeler",22,35,35.2,0.2,0
+"2024-25","18371","Norfolk St.","Da'Brya Clark",1,30,29.9,-0.1,0
+"2024-25","18371","Norfolk St.","Skye Robinson",13,10,9.4,-0.6,0
+"2024-25","18371","Norfolk St.","Danaijah Williams",24,3,3.9,0.9,0
+"2024-25","18372","South Carolina","Te-Hina Paopao",0,24,23.2,-0.8,5
+"2024-25","18372","South Carolina","Sania Feagin",20,25,25.7,0.7,5
+"2024-25","18372","South Carolina","Chloe Kitts",21,33,31.9,-1.1,5
+"2024-25","18372","South Carolina","Bree Hall",23,22,22.3,0.3,5
+"2024-25","18372","South Carolina","Raven Johnson",25,29,29.3,0.3,5
+"2024-25","18372","South Carolina","Maddy McDaniel",1,3,3.1,0.1,5
+"2024-25","18372","South Carolina","Tessa Johnson",5,21,21.6,0.6,5
+"2024-25","18372","South Carolina","Joyce Edwards",8,19,19.4,0.4,5
+"2024-25","18372","South Carolina","MiLaysia Fulwiley",12,21,20.6,-0.4,5
+"2024-25","18372","South Carolina","Maryam Dauda",30,3,3.0,0.0,5
+"2024-25","18372","Maryland","Shyanne Sellers",0,35,35.7,0.7,5
+"2024-25","18372","Maryland","Sarah Te-Biasu",1,39,38.8,-0.2,5
+"2024-25","18372","Maryland","Kaylene Smikle",2,36,35.8,-0.2,5
+"2024-25","18372","Maryland","Allie Kubek",14,25,24.9,-0.1,5
+"2024-25","18372","Maryland","Christina Dalce",15,25,24.6,-0.4,5
+"2024-25","18372","Maryland","Saylor Poffenbarger",6,21,20.9,-0.1,5
+"2024-25","18372","Maryland","Mir McLean",10,17,17.0,0.0,5
+"2024-25","18372","Maryland","Amari DeBerry",42,2,2.6,0.6,5
+"2024-25","18730","Maryland","Shyanne Sellers",0,40,40.5,0.5,2
+"2024-25","18730","Maryland","Sarah Te-Biasu",1,50,49.7,-0.3,2
+"2024-25","18730","Maryland","Kaylene Smikle",2,35,35.2,0.2,2
+"2024-25","18730","Maryland","Allie Kubek",14,49,48.8,-0.2,2
+"2024-25","18730","Maryland","Christina Dalce",15,16,16.2,0.2,2
+"2024-25","18730","Maryland","Emily Fisher",3,2,2.5,0.5,2
+"2024-25","18730","Maryland","Saylor Poffenbarger",6,15,14.6,-0.4,2
+"2024-25","18730","Maryland","Mir McLean",10,36,36.2,0.2,2
+"2024-25","18730","Maryland","Amari DeBerry",42,7,6.3,-0.7,2
+"2024-25","18730","Alabama","Sarah Ashlee Barker",3,49,49.1,0.1,2
+"2024-25","18730","Alabama","Zaay Green",14,23,24.1,1.1,2
+"2024-25","18730","Alabama","Essence Cody",21,41,41.1,0.1,2
+"2024-25","18730","Alabama","Karly Weathers",22,50,49.9,-0.1,2
+"2024-25","18730","Alabama","Aaliyah Nye",32,38,38.5,0.5,2
+"2024-25","18730","Alabama","Christabel Ezumah",1,19,18.4,-0.6,2
+"2024-25","18730","Alabama","Chloe Spreen",2,1,1.2,0.2,2
+"2024-25","18730","Alabama","JeAnna Cunningham",13,1,0.5,-0.5,2
+"2024-25","18730","Alabama","Diana Collins",20,28,27.0,-1.0,2
+"2024-25","18730","Alabama","Leah Brooks",24,0,0.2,0.2,2

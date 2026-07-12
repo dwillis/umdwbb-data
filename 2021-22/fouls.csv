@@ -1,0 +1,1015 @@
+"source_id","file_id","period","time_remaining","seconds_elapsed","team","player_name","player_number","foul_type","player_foul_count","team_fouls_in_period","bonus_active","margin_at_foul"
+"2021-22","12546",1,556,44,"Maryland","Shyanne Sellers",0,"personal",1,1,0,0
+"2021-22","12546",1,502,98,"Maryland","Angel Reese",10,"personal",1,2,0,-3
+"2021-22","12546",1,459,141,"NC State","Kayla Jones",25,"personal",1,1,0,1
+"2021-22","12546",1,381,219,"NC State","Kai Crutchfield",3,"personal",1,2,0,-1
+"2021-22","12546",1,299,301,"NC State","Kai Crutchfield",3,"personal",2,3,0,-6
+"2021-22","12546",1,167,433,"NC State","Madison Hayes",21,"personal",1,4,0,-4
+"2021-22","12546",1,149,451,"Maryland","Mimi Collins",2,"personal",1,3,0,6
+"2021-22","12546",1,57,543,"NC State","Diamond Johnson",0,"personal",1,5,1,-7
+"2021-22","12546",2,410,790,"NC State","Camille Hobby",41,"personal",1,1,0,-14
+"2021-22","12546",2,371,829,"Maryland","Chloe Bibby",55,"personal",1,1,0,15
+"2021-22","12546",2,321,879,"Maryland","Ashley Owusu",15,"personal",1,2,0,17
+"2021-22","12546",2,14,1186,"NC State","Elissa Cunane",33,"personal",1,2,0,-20
+"2021-22","12546",3,528,1272,"Maryland","Ashley Owusu",15,"personal",2,1,0,22
+"2021-22","12546",3,507,1293,"NC State","Kai Crutchfield",3,"personal",3,1,0,-22
+"2021-22","12546",3,475,1325,"Maryland","Angel Reese",10,"personal",2,2,0,22
+"2021-22","12546",3,457,1343,"Maryland","Angel Reese",10,"personal",3,3,0,22
+"2021-22","12546",3,385,1415,"NC State","Kayla Jones",25,"personal",2,2,0,-20
+"2021-22","12546",3,340,1460,"NC State","Diamond Johnson",0,"personal",2,3,0,-19
+"2021-22","12546",3,304,1496,"Maryland","Shyanne Sellers",0,"personal",2,4,0,19
+"2021-22","12546",3,108,1692,"NC State","Jakia Brown-Turner",11,"personal",1,4,0,-19
+"2021-22","12546",4,553,1847,"NC State","Camille Hobby",41,"personal",2,1,0,-24
+"2021-22","12546",4,389,2011,"NC State","Camille Hobby",41,"personal",3,2,0,-21
+"2021-22","12546",4,343,2057,"NC State","Camille Hobby",41,"personal",4,3,0,-17
+"2021-22","12546",4,286,2114,"NC State","Jakia Brown-Turner",11,"personal",2,4,0,-16
+"2021-22","12546",4,282,2118,"NC State","Jakia Brown-Turner",11,"personal",3,5,1,-16
+"2021-22","12546",4,282,2118,"Maryland","Chloe Bibby",55,"personal",2,1,0,15
+"2021-22","12546",4,255,2145,"Maryland","Mimi Collins",2,"personal",2,2,0,15
+"2021-22","12546",4,185,2215,"Maryland","Ashley Owusu",15,"personal",3,3,0,17
+"2021-22","12546",4,173,2227,"Maryland","Taisiya Kozlova",14,"personal",1,4,0,17
+"2021-22","12546",4,141,2259,"Maryland","Mimi Collins",2,"personal",3,5,1,17
+"2021-22","12546",4,74,2326,"Maryland","Shyanne Sellers",0,"personal",3,6,1,17
+"2021-22","12547",1,560,40,"Maryland","Angel Reese",10,"personal",1,1,0,3
+"2021-22","12547",1,292,308,"Maryland","Ashley Owusu",15,"personal",1,2,0,0
+"2021-22","12547",1,180,420,"Stanford","Kiki Iriafen",44,"personal",1,1,0,1
+"2021-22","12547",2,426,774,"Stanford","Kiki Iriafen",44,"personal",2,1,0,10
+"2021-22","12547",2,384,816,"Maryland","Taisiya Kozlova",14,"personal",1,1,0,-12
+"2021-22","12547",2,316,884,"Maryland","Ashley Owusu",15,"personal",2,2,0,-15
+"2021-22","12547",2,223,977,"Stanford","Lexie Hull",12,"personal",1,2,0,12
+"2021-22","12547",2,176,1024,"Maryland","Ashley Owusu",15,"personal",3,3,0,-13
+"2021-22","12547",2,176,1024,"Maryland","Ashley Owusu",15,"technical","",3,0,-13
+"2021-22","12547",2,157,1043,"Maryland","Chloe Bibby",55,"personal",1,4,0,-14
+"2021-22","12547",2,156,1044,"Maryland","Angel Reese",10,"personal",2,5,1,-15
+"2021-22","12547",2,54,1146,"Stanford","Cameron Brink",22,"personal",1,3,0,19
+"2021-22","12547",2,42,1158,"Maryland","Angel Reese",10,"personal",3,6,1,-19
+"2021-22","12547",2,8,1192,"Maryland","Shyanne Sellers",0,"personal",1,7,1,-20
+"2021-22","12547",3,519,1281,"Stanford","Francesca Belibi",5,"personal",1,1,0,20
+"2021-22","12547",3,487,1313,"Stanford","Hannah Jump",33,"personal",1,2,0,21
+"2021-22","12547",3,477,1323,"Maryland","Angel Reese",10,"personal",4,1,0,-19
+"2021-22","12547",3,363,1437,"Maryland","Mimi Collins",2,"personal",1,2,0,-25
+"2021-22","12547",3,190,1610,"Stanford","Hannah Jump",33,"personal",2,3,0,29
+"2021-22","12547",3,177,1623,"Stanford","Francesca Belibi",5,"personal",2,4,0,29
+"2021-22","12547",3,54,1746,"Stanford","Lexie Hull",12,"personal",2,5,1,27
+"2021-22","12547",3,22,1778,"Stanford","Lexie Hull",12,"personal",3,6,1,28
+"2021-22","12547",4,502,1898,"Stanford","Francesca Belibi",5,"personal",3,1,0,27
+"2021-22","12547",4,473,1927,"Stanford","Agnes Emma-Nnopu",2,"personal",1,2,0,26
+"2021-22","12547",4,454,1946,"Maryland","Angel Reese",10,"personal",5,1,0,-22
+"2021-22","12547",4,442,1958,"Maryland","Shyanne Sellers",0,"personal",2,2,0,-22
+"2021-22","12547",4,433,1967,"Stanford","Agnes Emma-Nnopu",2,"personal",2,3,0,24
+"2021-22","12547",4,405,1995,"Maryland","Shyanne Sellers",0,"personal",3,3,0,-24
+"2021-22","12547",4,371,2029,"Stanford","Haley Jones",30,"personal",1,4,0,24
+"2021-22","12547",4,279,2121,"Maryland","Mimi Collins",2,"personal",2,4,0,-26
+"2021-22","12547",4,238,2162,"Stanford","Kiki Iriafen",44,"personal",3,5,1,28
+"2021-22","12547",4,223,2177,"Maryland","Shyanne Sellers",0,"personal",4,5,1,-26
+"2021-22","12547",4,209,2191,"Stanford","Jordan Hamilton",14,"personal",1,6,1,27
+"2021-22","12547",4,173,2227,"Maryland","Emma Chardon",21,"personal",1,6,1,-27
+"2021-22","12547",4,97,2303,"Stanford","Jordan Hamilton",14,"personal",2,7,1,27
+"2021-22","12547",4,83,2317,"Stanford","Alyssa Jerome",10,"personal",1,8,1,25
+"2021-22","12547",4,79,2321,"Stanford","Brooke Demetre",21,"personal",1,9,1,22
+"2021-22","12547",4,74,2326,"Stanford","Jordan Hamilton",14,"personal",3,10,1,21
+"2021-22","12548",1,542,58,"Longwood","Tra'dayja Smith",14,"personal",1,1,0,-3
+"2021-22","12548",1,425,175,"Longwood","Brooke Anya",0,"personal",1,2,0,-4
+"2021-22","12548",1,319,281,"Longwood","Tra'dayja Smith",14,"personal",2,3,0,-3
+"2021-22","12548",1,296,304,"Longwood","Kennedy Calhoun",4,"personal",1,4,0,-4
+"2021-22","12548",1,197,403,"Maryland","Chloe Bibby",55,"personal",1,1,0,2
+"2021-22","12548",1,124,476,"Maryland","Mimi Collins",2,"personal",1,2,0,-1
+"2021-22","12548",1,82,518,"Maryland","Angel Reese",10,"personal",1,3,0,-1
+"2021-22","12548",1,50,550,"Longwood","Brooke Anya",0,"personal",2,5,1,-1
+"2021-22","12548",2,542,658,"Maryland","Ashley Owusu",15,"personal",1,1,0,0
+"2021-22","12548",2,445,755,"Longwood","Kyla McMakin",1,"personal",1,1,0,-2
+"2021-22","12548",2,425,775,"Longwood","Kennedy Calhoun",4,"personal",2,2,0,-3
+"2021-22","12548",2,346,854,"Longwood","Akila Smith",13,"personal",1,3,0,-2
+"2021-22","12548",2,311,889,"Longwood","Akila Smith",13,"personal",2,4,0,-4
+"2021-22","12548",2,286,914,"Maryland","Angel Reese",10,"personal",2,2,0,6
+"2021-22","12548",2,155,1045,"Longwood","Kennedy Calhoun",4,"personal",3,5,1,-5
+"2021-22","12548",3,416,1384,"Longwood","Tra'dayja Smith",14,"personal",3,1,0,-21
+"2021-22","12548",3,210,1590,"Longwood","Adriana Shipp",3,"personal",1,2,0,-25
+"2021-22","12548",4,580,1820,"Maryland","Emma Chardon",21,"personal",1,1,0,27
+"2021-22","12548",4,561,1839,"Longwood","Kennedy Calhoun",4,"personal",4,1,0,-26
+"2021-22","12548",4,496,1904,"Maryland","Shyanne Sellers",0,"personal",1,2,0,25
+"2021-22","12548",4,464,1936,"Maryland","Faith Masonius",13,"personal",1,3,0,24
+"2021-22","12548",4,365,2035,"Longwood","Geassy Germano",24,"personal",1,2,0,-22
+"2021-22","12548",4,350,2050,"Maryland","Chloe Bibby",55,"personal",2,4,0,23
+"2021-22","12548",4,284,2116,"Maryland","Angel Reese",10,"personal",3,5,1,21
+"2021-22","12548",4,262,2138,"Longwood","Brooke Anya",0,"personal",3,3,0,-21
+"2021-22","12548",4,211,2189,"Maryland","Ashley Owusu",15,"personal",2,6,1,24
+"2021-22","12548",4,95,2305,"Maryland","Taisiya Kozlova",14,"personal",1,7,1,30
+"2021-22","12548",4,65,2335,"Maryland","Shyanne Sellers",0,"personal",2,8,1,28
+"2021-22","12549",1,358,242,"Villanova","Brooke Mullin",15,"personal",1,1,0,-1
+"2021-22","12549",1,266,334,"Maryland","Katie Benzan",11,"personal",1,1,0,1
+"2021-22","12549",1,250,350,"Villanova","Kaitlyn Orihel",2,"personal",1,2,0,-1
+"2021-22","12549",1,202,398,"Maryland","Ashley Owusu",15,"personal",1,2,0,1
+"2021-22","12549",1,180,420,"Villanova","Lucy Olsen",3,"personal",1,3,0,-1
+"2021-22","12549",1,45,555,"Villanova","Christina Dalce",10,"personal",1,4,0,-3
+"2021-22","12549",2,576,624,"Maryland","Faith Masonius",13,"personal",1,1,0,3
+"2021-22","12549",2,520,680,"Villanova","Maddy Siegrist",20,"personal",1,1,0,-3
+"2021-22","12549",2,358,842,"Maryland","Mimi Collins",2,"personal",1,2,0,5
+"2021-22","12549",2,350,850,"Villanova","Bella Runyan",32,"personal",1,2,0,-5
+"2021-22","12549",2,338,862,"Villanova","Christina Dalce",10,"personal",2,3,0,-5
+"2021-22","12549",2,311,889,"Villanova","Brooke Mullin",15,"personal",2,4,0,-7
+"2021-22","12549",2,224,976,"Villanova","Brooke Mullin",15,"personal",3,5,1,-11
+"2021-22","12549",2,142,1058,"Maryland","Shyanne Sellers",0,"personal",1,3,0,9
+"2021-22","12549",2,100,1100,"Villanova","Lior Garzon",12,"personal",1,6,1,-9
+"2021-22","12549",2,99,1101,"Maryland","Angel Reese",10,"personal",1,4,0,9
+"2021-22","12549",3,573,1227,"Villanova","Lior Garzon",12,"personal",2,1,0,-12
+"2021-22","12549",3,499,1301,"Villanova","Maddy Siegrist",20,"personal",2,2,0,-14
+"2021-22","12549",3,461,1339,"Villanova","Brianna Herlihy",14,"personal",1,3,0,-14
+"2021-22","12549",3,388,1412,"Maryland","Angel Reese",10,"personal",2,1,0,18
+"2021-22","12549",3,374,1426,"Villanova","Anahi-Lee Cauley",5,"personal",1,4,0,-18
+"2021-22","12549",3,266,1534,"Maryland","Faith Masonius",13,"personal",2,2,0,26
+"2021-22","12549",3,251,1549,"Villanova","Maddy Siegrist",20,"personal",3,5,1,-26
+"2021-22","12549",3,153,1647,"Villanova","Lucy Olsen",3,"personal",2,6,1,-27
+"2021-22","12549",3,93,1707,"Maryland","Angel Reese",10,"personal",3,3,0,31
+"2021-22","12549",3,65,1735,"Maryland","Angel Reese",10,"personal",4,4,0,28
+"2021-22","12549",4,551,1849,"Villanova","Kaitlyn Orihel",2,"personal",2,1,0,-28
+"2021-22","12549",4,437,1963,"Maryland","Taisiya Kozlova",14,"personal",1,1,0,30
+"2021-22","12549",4,375,2025,"Maryland","Taisiya Kozlova",14,"personal",2,2,0,27
+"2021-22","12549",4,330,2070,"Maryland","Chloe Bibby",55,"personal",1,3,0,27
+"2021-22","12549",4,146,2254,"Villanova","Kaitlyn Orihel",2,"personal",3,2,0,-24
+"2021-22","12549",4,104,2296,"Maryland","Taisiya Kozlova",14,"personal",3,4,0,28
+"2021-22","12549",4,58,2342,"Maryland","Faith Masonius",13,"personal",3,5,1,23
+"2021-22","12549",4,47,2353,"Maryland","Taisiya Kozlova",14,"personal",4,6,1,23
+"2021-22","12550",1,549,51,"Maryland","Angel Reese",10,"personal",1,1,0,0
+"2021-22","12550",1,526,74,"Maryland","Katie Benzan",11,"personal",1,2,0,0
+"2021-22","12550",1,477,123,"James Madison","Kiki Jefferson",30,"personal",1,1,0,-4
+"2021-22","12550",1,350,250,"Maryland","Chloe Bibby",55,"personal",1,3,0,6
+"2021-22","12550",1,235,365,"James Madison","Brianna Tinsley",3,"personal",1,2,0,-9
+"2021-22","12550",2,515,685,"James Madison","Jaylin Carodine",2,"personal",1,1,0,-19
+"2021-22","12550",2,469,731,"Maryland","Ashley Owusu",15,"personal",1,1,0,23
+"2021-22","12550",2,369,831,"Maryland","Faith Masonius",13,"personal",1,2,0,19
+"2021-22","12550",2,342,858,"James Madison","Kiki Jefferson",30,"personal",2,2,0,-20
+"2021-22","12550",2,331,869,"Maryland","Faith Masonius",13,"personal",2,3,0,20
+"2021-22","12550",2,293,907,"Maryland","Mimi Collins",2,"personal",1,4,0,18
+"2021-22","12550",2,274,926,"James Madison","Steph Ouderkirk",33,"personal",1,3,0,-17
+"2021-22","12550",2,145,1055,"James Madison","Mikaya Tynes",23,"personal",1,4,0,-17
+"2021-22","12550",2,114,1086,"Maryland","Angel Reese",10,"personal",2,5,1,19
+"2021-22","12550",2,90,1110,"Maryland","Mimi Collins",2,"personal",2,6,1,22
+"2021-22","12550",2,69,1131,"Maryland","Katie Benzan",11,"personal",2,7,1,22
+"2021-22","12550",3,512,1288,"James Madison","Jaylin Carodine",2,"personal",2,1,0,-28
+"2021-22","12550",3,384,1416,"James Madison","Claire Neff",11,"personal",1,2,0,-24
+"2021-22","12550",3,357,1443,"Maryland","Shyanne Sellers",0,"personal",1,1,0,26
+"2021-22","12550",3,303,1497,"James Madison","Jaylin Carodine",2,"personal",3,3,0,-24
+"2021-22","12550",3,247,1553,"James Madison","Mikaya Tynes",23,"personal",2,4,0,-22
+"2021-22","12550",3,206,1594,"James Madison","Claire Neff",11,"personal",2,5,1,-24
+"2021-22","12550",3,193,1607,"James Madison","Jamia Hazell",25,"personal",1,6,1,-26
+"2021-22","12550",3,156,1644,"James Madison","Jaylin Carodine",2,"personal",4,7,1,-26
+"2021-22","12550",3,106,1694,"James Madison","Kiki Jefferson",30,"personal",3,8,1,-27
+"2021-22","12550",3,58,1742,"Maryland","Shyanne Sellers",0,"personal",2,2,0,31
+"2021-22","12550",4,542,1858,"Maryland","Mimi Collins",2,"personal",3,1,0,32
+"2021-22","12550",4,441,1959,"James Madison","Sherese Pittman",12,"personal",1,1,0,-34
+"2021-22","12550",4,441,1959,"Maryland","Faith Masonius",13,"personal",3,2,0,35
+"2021-22","12550",4,419,1981,"Maryland","Angel Reese",10,"personal",3,3,0,35
+"2021-22","12550",4,379,2021,"James Madison","Claire Neff",11,"personal",3,2,0,-33
+"2021-22","12550",4,337,2063,"James Madison","Mikaya Tynes",23,"personal",3,3,0,-35
+"2021-22","12550",4,337,2063,"James Madison","Mikaya Tynes",23,"technical","",3,0,-37
+"2021-22","12550",4,337,2063,"Maryland","Mimi Collins",2,"technical","",3,0,37
+"2021-22","12550",4,233,2167,"James Madison","Bailey Williams",5,"personal",1,4,0,-39
+"2021-22","12550",4,233,2167,"Maryland","Taisiya Kozlova",14,"personal",1,4,0,39
+"2021-22","12550",4,150,2250,"Maryland","Emma Chardon",21,"personal",1,5,1,35
+"2021-22","12550",4,66,2334,"Maryland","Faith Masonius",13,"personal",4,6,1,38
+"2021-22","12551",1,547,53,"Mount St. Mary's","Aryna Taylor",13,"personal",1,1,0,-2
+"2021-22","12551",1,357,243,"Mount St. Mary's","Isabella Hunt",0,"personal",1,2,0,-7
+"2021-22","12551",1,332,268,"Mount St. Mary's","Jessica Tomasetti",14,"personal",1,3,0,-7
+"2021-22","12551",1,275,325,"Maryland","Angel Reese",10,"personal",1,1,0,10
+"2021-22","12551",1,116,484,"Mount St. Mary's","Jasmine Lindsay-Huskey",15,"personal",1,4,0,-15
+"2021-22","12551",1,7,593,"Maryland","Shyanne Sellers",0,"personal",1,2,0,18
+"2021-22","12551",2,176,1024,"Maryland","Mimi Collins",2,"personal",1,1,0,21
+"2021-22","12551",2,165,1035,"Mount St. Mary's","Kayla Agentowicz",21,"personal",1,1,0,-20
+"2021-22","12551",2,141,1059,"Maryland","Katie Benzan",11,"personal",1,2,0,20
+"2021-22","12551",2,106,1094,"Mount St. Mary's","Kayla Agentowicz",21,"personal",2,2,0,-24
+"2021-22","12551",2,27,1173,"Mount St. Mary's","Jada Lee",11,"personal",1,3,0,-26
+"2021-22","12551",2,13,1187,"Maryland","Taisiya Kozlova",14,"personal",1,3,0,27
+"2021-22","12551",3,582,1218,"Mount St. Mary's","Isabella Hunt",0,"personal",2,1,0,-28
+"2021-22","12551",3,454,1346,"Maryland","Ashley Owusu",15,"personal",1,1,0,30
+"2021-22","12551",3,349,1451,"Mount St. Mary's","Kendall Bresee",3,"personal",1,2,0,-31
+"2021-22","12551",3,347,1453,"Mount St. Mary's","Isabella Hunt",0,"personal",3,3,0,-31
+"2021-22","12551",3,177,1623,"Maryland","Taisiya Kozlova",14,"personal",2,2,0,30
+"2021-22","12551",3,71,1729,"Mount St. Mary's","Aryna Taylor",13,"personal",2,4,0,-30
+"2021-22","12551",3,54,1746,"Maryland","Shyanne Sellers",0,"personal",2,3,0,33
+"2021-22","12551",3,26,1774,"Maryland","Angel Reese",10,"personal",2,4,0,30
+"2021-22","12551",4,579,1821,"Mount St. Mary's","Jessica Tomasetti",14,"personal",2,1,0,-30
+"2021-22","12551",4,494,1906,"Maryland","Emma Chardon",21,"personal",1,1,0,31
+"2021-22","12551",4,479,1921,"Maryland","Ashley Owusu",15,"personal",2,2,0,30
+"2021-22","12551",4,403,1997,"Mount St. Mary's","Kayla Agentowicz",21,"personal",3,2,0,-32
+"2021-22","12551",4,388,2012,"Maryland","Emma Chardon",21,"personal",2,3,0,34
+"2021-22","12551",4,357,2043,"Mount St. Mary's","Abby Bailey",5,"personal",1,3,0,-32
+"2021-22","12551",4,342,2058,"Maryland","Taisiya Kozlova",14,"personal",3,4,0,33
+"2021-22","12551",4,257,2143,"Mount St. Mary's","Abby Bailey",5,"personal",2,4,0,-33
+"2021-22","12551",4,119,2281,"Maryland","Emma Chardon",21,"personal",3,5,1,33
+"2021-22","12551",4,105,2295,"Mount St. Mary's","Jasmine Lindsay-Huskey",15,"personal",2,5,1,-33
+"2021-22","12552",1,509,91,"Uncw","Carrie Gross",13,"personal",1,1,0,2
+"2021-22","12552",1,462,138,"Uncw","Micah Hoggatt",25,"personal",1,2,0,3
+"2021-22","12552",1,428,172,"Maryland","Angel Reese",10,"personal",1,1,0,-1
+"2021-22","12552",1,405,195,"Uncw","Carrie Gross",13,"personal",2,3,0,1
+"2021-22","12552",1,362,238,"Maryland","Katie Benzan",11,"personal",1,2,0,0
+"2021-22","12552",1,288,312,"Uncw","Vita Stam",21,"personal",1,4,0,-4
+"2021-22","12552",1,285,315,"Uncw","Vita Stam",21,"personal",2,5,1,-4
+"2021-22","12552",1,229,371,"Uncw","Jayde Gamble",1,"personal",1,6,1,-8
+"2021-22","12552",1,218,382,"Maryland","Katie Benzan",11,"personal",2,3,0,10
+"2021-22","12552",1,151,449,"Uncw","Sierra DaCosta",20,"personal",1,7,1,-9
+"2021-22","12552",1,136,464,"Uncw","Sierra DaCosta",20,"personal",2,8,1,-10
+"2021-22","12552",2,538,662,"Maryland","Mimi Collins",2,"personal",1,1,0,12
+"2021-22","12552",2,400,800,"Maryland","Ashley Owusu",15,"personal",1,2,0,17
+"2021-22","12552",2,384,816,"Uncw","Carrie Gross",13,"personal",3,1,0,-17
+"2021-22","12552",2,358,842,"Maryland","Mimi Collins",2,"personal",2,3,0,17
+"2021-22","12552",2,344,856,"Maryland","Shyanne Sellers",0,"personal",1,4,0,17
+"2021-22","12552",2,100,1100,"Maryland","Angel Reese",10,"technical","",4,0,27
+"2021-22","12552",2,19,1181,"Maryland","Emma Chardon",21,"personal",1,5,1,30
+"2021-22","12552",3,587,1213,"Uncw","Micah Hoggatt",25,"personal",2,1,0,-28
+"2021-22","12552",3,580,1220,"Uncw","Mary McMillan",3,"personal",1,2,0,-29
+"2021-22","12552",3,519,1281,"Uncw","Micah Hoggatt",25,"personal",3,3,0,-27
+"2021-22","12552",3,473,1327,"Uncw","Dazia Powell",11,"personal",1,4,0,-34
+"2021-22","12552",3,430,1370,"Maryland","Mimi Collins",2,"personal",3,1,0,35
+"2021-22","12552",3,400,1400,"Maryland","Katie Benzan",11,"personal",3,2,0,32
+"2021-22","12552",3,369,1431,"Maryland","Chloe Bibby",55,"personal",1,3,0,32
+"2021-22","12552",3,258,1542,"Uncw","Carrie Gross",13,"personal",4,5,1,-32
+"2021-22","12552",3,235,1565,"Uncw","Sierra DaCosta",20,"personal",3,6,1,-34
+"2021-22","12552",3,22,1778,"Maryland","Angel Reese",10,"personal",2,4,0,35
+"2021-22","12552",4,584,1816,"Uncw","Sierra DaCosta",20,"personal",4,1,0,-35
+"2021-22","12552",4,461,1939,"Maryland","Mimi Collins",2,"personal",4,1,0,36
+"2021-22","12552",4,295,2105,"Uncw","Vita Stam",21,"personal",3,2,0,-40
+"2021-22","12552",4,228,2172,"Uncw","Dazia Powell",11,"personal",2,3,0,-45
+"2021-22","12552",4,125,2275,"Uncw","Jaliya Sharp",12,"personal",1,4,0,-45
+"2021-22","12553",1,464,136,"Baylor","Queen Egbo",4,"personal",1,1,0,4
+"2021-22","12553",1,310,290,"Maryland","Angel Reese",10,"personal",1,1,0,1
+"2021-22","12553",1,304,296,"Baylor","Sarah Andrews",24,"personal",1,2,0,0
+"2021-22","12553",1,275,325,"Maryland","Diamond Miller",1,"personal",1,2,0,2
+"2021-22","12553",1,219,381,"Baylor","NaLyssa Smith",1,"personal",1,3,0,0
+"2021-22","12553",1,176,424,"Baylor","Jordan Lewis",3,"personal",1,4,0,0
+"2021-22","12553",2,465,735,"Maryland","Angel Reese",10,"personal",2,1,0,-4
+"2021-22","12553",2,444,756,"Baylor","Caitlin Bickle",51,"personal",1,1,0,4
+"2021-22","12553",2,400,800,"Baylor","Jordan Lewis",3,"personal",2,2,0,3
+"2021-22","12553",2,282,918,"Baylor","NaLyssa Smith",1,"personal",2,3,0,2
+"2021-22","12553",2,89,1111,"Maryland","Taisiya Kozlova",14,"personal",1,2,0,7
+"2021-22","12553",2,0,1200,"Maryland","Ashley Owusu",15,"personal",1,3,0,7
+"2021-22","12553",3,464,1336,"Baylor","Queen Egbo",4,"personal",2,1,0,-11
+"2021-22","12553",3,428,1372,"Maryland","Mimi Collins",2,"personal",1,1,0,11
+"2021-22","12553",3,338,1462,"Baylor","Sarah Andrews",24,"personal",2,2,0,-12
+"2021-22","12553",3,319,1481,"Maryland","Angel Reese",10,"personal",3,2,0,13
+"2021-22","12553",3,245,1555,"Maryland","Ashley Owusu",15,"personal",2,3,0,13
+"2021-22","12553",3,234,1566,"Maryland","Taisiya Kozlova",14,"personal",2,4,0,11
+"2021-22","12553",3,195,1605,"Baylor","Caitlin Bickle",51,"personal",2,3,0,-8
+"2021-22","12553",4,566,1834,"Maryland","Angel Reese",10,"personal",4,1,0,9
+"2021-22","12553",4,496,1904,"Baylor","Jaden Owens",10,"personal",1,1,0,-5
+"2021-22","12553",4,466,1934,"Maryland","Taisiya Kozlova",14,"personal",3,2,0,7
+"2021-22","12553",4,375,2025,"Maryland","Chloe Bibby",55,"personal",1,3,0,9
+"2021-22","12553",4,360,2040,"Baylor","Jordan Lewis",3,"personal",3,2,0,-9
+"2021-22","12553",4,297,2103,"Baylor","Caitlin Bickle",51,"personal",3,3,0,-8
+"2021-22","12553",4,182,2218,"Baylor","Caitlin Bickle",51,"personal",4,4,0,-9
+"2021-22","12553",4,121,2279,"Maryland","Chloe Bibby",55,"personal",2,4,0,6
+"2021-22","12553",4,68,2332,"Baylor","NaLyssa Smith",1,"personal",3,5,1,-5
+"2021-22","12554",1,412,188,"South Carolina","Victaria Saxton",5,"personal",1,1,0,-2
+"2021-22","12554",1,315,285,"South Carolina","Brea Beal",12,"personal",1,2,0,-1
+"2021-22","12554",1,297,303,"South Carolina","Kamilla Cardoso",10,"personal",1,3,0,-1
+"2021-22","12554",1,263,337,"Maryland","Angel Reese",10,"personal",1,1,0,1
+"2021-22","12554",1,151,449,"Maryland","Ashley Owusu",15,"personal",1,2,0,3
+"2021-22","12554",1,128,472,"Maryland","Shyanne Sellers",0,"personal",1,3,0,2
+"2021-22","12554",2,544,656,"South Carolina","Aliyah Boston",4,"personal",1,1,0,0
+"2021-22","12554",2,293,907,"Maryland","Chloe Bibby",55,"personal",1,1,0,-6
+"2021-22","12554",2,195,1005,"South Carolina","Brea Beal",12,"personal",2,2,0,4
+"2021-22","12554",2,66,1134,"Maryland","Ashley Owusu",15,"personal",2,2,0,-2
+"2021-22","12554",3,412,1388,"Maryland","Mimi Collins",2,"personal",1,1,0,0
+"2021-22","12554",3,363,1437,"Maryland","Chloe Bibby",55,"personal",2,2,0,-2
+"2021-22","12554",3,209,1591,"Maryland","Angel Reese",10,"personal",2,3,0,-5
+"2021-22","12554",3,129,1671,"South Carolina","Laeticia Amihere",15,"personal",1,1,0,4
+"2021-22","12554",3,93,1707,"Maryland","Mimi Collins",2,"personal",2,4,0,-2
+"2021-22","12554",3,75,1725,"South Carolina","Brea Beal",12,"personal",3,2,0,4
+"2021-22","12554",3,75,1725,"Maryland","Faith Masonius",13,"personal",1,5,1,-4
+"2021-22","12554",3,52,1748,"South Carolina","Aliyah Boston",4,"personal",2,3,0,4
+"2021-22","12554",3,25,1775,"Maryland","Faith Masonius",13,"personal",2,6,1,-3
+"2021-22","12554",3,10,1790,"South Carolina","Bree Hall",23,"personal",1,4,0,4
+"2021-22","12554",4,551,1849,"South Carolina","Saniya Rivers",44,"personal",1,1,0,6
+"2021-22","12554",4,531,1869,"South Carolina","Bree Hall",23,"personal",2,2,0,4
+"2021-22","12554",4,528,1872,"South Carolina","Bree Hall",23,"personal",3,3,0,4
+"2021-22","12554",4,441,1959,"South Carolina","Brea Beal",12,"personal",4,4,0,2
+"2021-22","12554",4,389,2011,"Maryland","Katie Benzan",11,"personal",1,1,0,2
+"2021-22","12554",4,366,2034,"Maryland","Chloe Bibby",55,"personal",3,2,0,2
+"2021-22","12554",4,334,2066,"Maryland","Katie Benzan",11,"personal",2,3,0,2
+"2021-22","12554",4,280,2120,"South Carolina","Laeticia Amihere",15,"personal",2,5,1,2
+"2021-22","12554",4,265,2135,"South Carolina","Victaria Saxton",5,"personal",2,6,1,2
+"2021-22","12554",4,239,2161,"Maryland","Faith Masonius",13,"personal",3,4,0,-1
+"2021-22","12554",4,144,2256,"Maryland","Katie Benzan",11,"personal",3,5,1,-4
+"2021-22","12554",4,125,2275,"South Carolina","Aliyah Boston",4,"personal",3,7,1,3
+"2021-22","12554",4,48,2352,"Maryland","Shyanne Sellers",0,"personal",2,6,1,-2
+"2021-22","12554",4,32,2368,"Maryland","Angel Reese",10,"personal",3,7,1,-3
+"2021-22","12554",4,28,2372,"Maryland","Chloe Bibby",55,"personal",4,8,1,-4
+"2021-22","12554",4,25,2375,"Maryland","Katie Benzan",11,"personal",4,9,1,-5
+"2021-22","12554",4,12,2388,"Maryland","Katie Benzan",11,"personal",5,10,1,-5
+"2021-22","12555",1,548,52,"Coppin St.","Jalynda Salley",45,"personal",1,1,0,0
+"2021-22","12555",1,542,58,"Coppin St.","Aliyah Lawson",3,"personal",1,2,0,-1
+"2021-22","12555",1,493,107,"Maryland","Chloe Bibby",55,"personal",1,1,0,4
+"2021-22","12555",1,378,222,"Coppin St.","Aliyah Lawson",3,"personal",2,3,0,-1
+"2021-22","12555",1,121,479,"Coppin St.","Jewel Watkins",10,"personal",1,4,0,-13
+"2021-22","12555",1,83,517,"Maryland","Katie Benzan",11,"personal",1,2,0,17
+"2021-22","12555",1,57,543,"Maryland","Angel Reese",10,"personal",1,3,0,15
+"2021-22","12555",1,28,572,"Maryland","Faith Masonius",13,"personal",1,4,0,17
+"2021-22","12555",2,495,705,"Maryland","Katie Benzan",11,"personal",2,1,0,24
+"2021-22","12555",2,460,740,"Maryland","Ashley Owusu",15,"personal",1,2,0,24
+"2021-22","12555",2,394,806,"Maryland","Shyanne Sellers",0,"personal",1,3,0,22
+"2021-22","12555",2,279,921,"Coppin St.","Colleen Bucknor",21,"personal",1,1,0,-26
+"2021-22","12555",2,133,1067,"Maryland","Faith Masonius",13,"personal",2,4,0,27
+"2021-22","12555",3,546,1254,"Maryland","Mimi Collins",2,"personal",1,1,0,32
+"2021-22","12555",3,368,1432,"Maryland","Chloe Bibby",55,"personal",2,2,0,34
+"2021-22","12555",3,183,1617,"Maryland","Katie Benzan",11,"personal",3,3,0,36
+"2021-22","12555",3,178,1622,"Coppin St.","Jalynda Salley",45,"personal",2,1,0,-36
+"2021-22","12555",3,4,1796,"Maryland","Shyanne Sellers",0,"personal",2,4,0,43
+"2021-22","12555",4,593,1807,"Maryland","Taisiya Kozlova",14,"personal",1,1,0,41
+"2021-22","12555",4,549,1851,"Coppin St.","Hope Evans",13,"personal",1,1,0,-39
+"2021-22","12555",4,410,1990,"Coppin St.","Aliyah Lawson",3,"personal",3,2,0,-41
+"2021-22","12555",4,335,2065,"Maryland","Angel Reese",10,"personal",2,2,0,47
+"2021-22","12555",4,254,2146,"Maryland","Diamond Miller",1,"personal",1,3,0,45
+"2021-22","12555",4,243,2157,"Coppin St.","Jewel Watkins",10,"personal",2,3,0,-45
+"2021-22","12555",4,163,2237,"Maryland","Diamond Miller",1,"personal",2,4,0,45
+"2021-22","12555",4,112,2288,"Maryland","Shyanne Sellers",0,"personal",3,5,1,48
+"2021-22","12555",4,66,2334,"Maryland","Diamond Miller",1,"personal",3,6,1,47
+"2021-22","12555",4,36,2364,"Coppin St.","Mossi Staples",1,"personal",1,4,0,-47
+"2021-22","12584",1,523,77,"Miami (FL)","Lola Pendande",21,"personal",1,1,0,2
+"2021-22","12584",1,267,333,"Miami (FL)","Maeva Djaldi-Tabdi",33,"personal",1,2,0,5
+"2021-22","12584",1,173,427,"Miami (FL)","Kelsey Marshall",20,"personal",1,3,0,3
+"2021-22","12584",1,171,429,"Maryland","Angel Reese",10,"personal",1,1,0,-3
+"2021-22","12584",1,61,539,"Maryland","Katie Benzan",11,"personal",1,2,0,0
+"2021-22","12584",1,33,567,"Maryland","Faith Masonius",13,"personal",1,3,0,-2
+"2021-22","12584",2,563,637,"Miami (FL)","Lashae Dwyer",13,"personal",1,1,0,1
+"2021-22","12584",2,492,708,"Maryland","Katie Benzan",11,"personal",2,1,0,1
+"2021-22","12584",2,210,990,"Miami (FL)","Karla Erjavec",25,"personal",1,2,0,-4
+"2021-22","12584",2,180,1020,"Maryland","Chloe Bibby",55,"personal",1,2,0,3
+"2021-22","12584",2,128,1072,"Miami (FL)","Maeva Djaldi-Tabdi",33,"personal",2,3,0,-2
+"2021-22","12584",2,29,1171,"Miami (FL)","Jasmyne Roberts",4,"personal",1,4,0,1
+"2021-22","12584",3,499,1301,"Miami (FL)","Karla Erjavec",25,"personal",2,1,0,-1
+"2021-22","12584",3,466,1334,"Miami (FL)","Lola Pendande",21,"personal",2,2,0,-3
+"2021-22","12584",3,439,1361,"Miami (FL)","Naomi Mbandu",35,"personal",1,3,0,-3
+"2021-22","12584",3,382,1418,"Miami (FL)","Naomi Mbandu",35,"personal",2,4,0,-3
+"2021-22","12584",3,362,1438,"Maryland","Mimi Collins",2,"personal",1,1,0,2
+"2021-22","12584",3,330,1470,"Miami (FL)","Maeva Djaldi-Tabdi",33,"personal",3,5,1,0
+"2021-22","12584",3,283,1517,"Miami (FL)","Lola Pendande",21,"personal",3,6,1,-1
+"2021-22","12584",3,261,1539,"Miami (FL)","Karla Erjavec",25,"personal",3,7,1,-1
+"2021-22","12584",3,220,1580,"Maryland","Angel Reese",10,"personal",2,2,0,0
+"2021-22","12584",3,200,1600,"Maryland","Chloe Bibby",55,"personal",2,3,0,0
+"2021-22","12584",3,180,1620,"Miami (FL)","Naomi Mbandu",35,"personal",3,8,1,2
+"2021-22","12584",3,56,1744,"Miami (FL)","Lashae Dwyer",13,"personal",2,9,1,2
+"2021-22","12584",4,576,1824,"Maryland","Katie Benzan",11,"personal",3,1,0,1
+"2021-22","12584",4,513,1887,"Miami (FL)","Ja'Leah Williams",12,"personal",1,1,0,1
+"2021-22","12584",4,492,1908,"Maryland","Ashley Owusu",15,"personal",1,2,0,0
+"2021-22","12584",4,459,1941,"Maryland","Katie Benzan",11,"personal",4,3,0,-1
+"2021-22","12584",4,390,2010,"Maryland","Angel Reese",10,"personal",3,4,0,-1
+"2021-22","12584",4,345,2055,"Miami (FL)","Lashae Dwyer",13,"personal",3,2,0,3
+"2021-22","12584",4,277,2123,"Miami (FL)","Maeva Djaldi-Tabdi",33,"personal",4,3,0,1
+"2021-22","12584",4,137,2263,"Miami (FL)","Naomi Mbandu",35,"personal",4,4,0,-1
+"2021-22","12584",4,121,2279,"Maryland","Ashley Owusu",15,"personal",2,5,1,2
+"2021-22","12584",4,100,2300,"Miami (FL)","Naomi Mbandu",35,"personal",5,5,1,-2
+"2021-22","12584",4,76,2324,"Maryland","Ashley Owusu",15,"personal",3,6,1,5
+"2021-22","12584",4,51,2349,"Miami (FL)","Kelsey Marshall",20,"personal",2,6,1,-3
+"2021-22","12584",4,36,2364,"Miami (FL)","Karla Erjavec",25,"personal",4,7,1,-5
+"2021-22","12584",4,20,2380,"Miami (FL)","Kelsey Marshall",20,"personal",3,8,1,-6
+"2021-22","12647",1,495,105,"Maryland","Angel Reese",10,"personal",1,1,0,2
+"2021-22","12647",1,401,199,"Maryland","Ashley Owusu",15,"personal",1,2,0,4
+"2021-22","12647",1,332,268,"Rutgers","Lasha Petree",0,"personal",1,1,0,-2
+"2021-22","12647",1,159,441,"Rutgers","Tyia Singleton",22,"personal",1,2,0,-4
+"2021-22","12647",1,88,512,"Maryland","Katie Benzan",11,"personal",1,3,0,2
+"2021-22","12647",1,47,553,"Rutgers","Osh Brown",32,"personal",1,3,0,-4
+"2021-22","12647",2,442,758,"Rutgers","Shug Dickson",3,"personal",1,1,0,-7
+"2021-22","12647",2,405,795,"Rutgers","Osh Brown",32,"personal",2,2,0,-8
+"2021-22","12647",2,289,911,"Rutgers","Destiny Marshall",1,"personal",1,3,0,-6
+"2021-22","12647",2,242,958,"Rutgers","Chyna Cornwell",54,"personal",1,4,0,-9
+"2021-22","12647",2,111,1089,"Rutgers","Sayawni Lassiter",35,"personal",1,5,1,-11
+"2021-22","12647",2,65,1135,"Rutgers","Sakima Walker",12,"personal",1,6,1,-14
+"2021-22","12647",2,41,1159,"Maryland","Angel Reese",10,"personal",2,1,0,15
+"2021-22","12647",3,514,1286,"Rutgers","Osh Brown",32,"personal",3,1,0,-10
+"2021-22","12647",3,460,1340,"Rutgers","Lasha Petree",0,"personal",2,2,0,-8
+"2021-22","12647",3,409,1391,"Rutgers","Shug Dickson",3,"personal",2,3,0,-9
+"2021-22","12647",3,329,1471,"Rutgers","Shug Dickson",3,"personal",3,4,0,-9
+"2021-22","12647",3,291,1509,"Maryland","Ashley Owusu",15,"personal",2,1,0,11
+"2021-22","12647",3,152,1648,"Maryland","Angel Reese",10,"personal",3,2,0,9
+"2021-22","12647",3,122,1678,"Rutgers","Tyia Singleton",22,"personal",2,5,1,-8
+"2021-22","12647",3,111,1689,"Rutgers","Tyia Singleton",22,"personal",3,6,1,-8
+"2021-22","12647",3,30,1770,"Maryland","Faith Masonius",13,"personal",1,3,0,10
+"2021-22","12647",4,591,1809,"Rutgers","Sayawni Lassiter",35,"personal",2,1,0,-8
+"2021-22","12647",4,551,1849,"Rutgers","Tyia Singleton",22,"personal",4,2,0,-8
+"2021-22","12647",4,534,1866,"Maryland","Chloe Bibby",55,"personal",1,1,0,8
+"2021-22","12647",4,475,1925,"Maryland","Angel Reese",10,"personal",4,2,0,8
+"2021-22","12647",4,468,1932,"Maryland","Shyanne Sellers",0,"personal",1,3,0,8
+"2021-22","12647",4,453,1947,"Rutgers","Sayawni Lassiter",35,"personal",3,3,0,-6
+"2021-22","12647",4,450,1950,"Maryland","Ashley Owusu",15,"personal",3,4,0,6
+"2021-22","12647",4,366,2034,"Rutgers","Shug Dickson",3,"personal",4,4,0,-6
+"2021-22","12647",4,260,2140,"Rutgers","Jailyn Mason",14,"personal",1,5,1,-10
+"2021-22","12647",4,227,2173,"Rutgers","Lasha Petree",0,"personal",3,6,1,-8
+"2021-22","12647",4,188,2212,"Rutgers","Jailyn Mason",14,"personal",2,7,1,-10
+"2021-22","12647",4,168,2232,"Rutgers","Osh Brown",32,"personal",4,8,1,-12
+"2021-22","12647",4,154,2246,"Maryland","Mimi Collins",2,"personal",1,5,1,12
+"2021-22","12647",4,90,2310,"Maryland","Ashley Owusu",15,"personal",4,6,1,13
+"2021-22","12647",4,74,2326,"Maryland","Ashley Owusu",15,"personal",5,7,1,13
+"2021-22","12647",4,61,2339,"Rutgers","Kierra Sanderlin",24,"personal",1,9,1,-11
+"2021-22","12647",4,50,2350,"Maryland","Faith Masonius",13,"personal",2,8,1,13
+"2021-22","12648",1,419,181,"Purdue","Rickie Woltman",35,"personal",1,1,0,-6
+"2021-22","12648",1,180,420,"Purdue","Brooke Moore",0,"personal",1,2,0,2
+"2021-22","12648",1,172,428,"Maryland","Angel Reese",10,"personal",1,1,0,-2
+"2021-22","12648",1,97,503,"Purdue","Nyagoa Gony",30,"personal",1,3,0,4
+"2021-22","12648",2,489,711,"Purdue","Rokia Doumbia",2,"personal",1,1,0,1
+"2021-22","12648",2,345,855,"Maryland","Chloe Bibby",55,"personal",1,1,0,-3
+"2021-22","12648",2,282,918,"Maryland","Chloe Bibby",55,"personal",2,2,0,0
+"2021-22","12648",2,233,967,"Purdue","Jeanae Terry",10,"personal",1,2,0,-2
+"2021-22","12648",2,166,1034,"Purdue","Rickie Woltman",35,"personal",2,3,0,2
+"2021-22","12648",2,161,1039,"Purdue","Nyagoa Gony",30,"personal",2,4,0,2
+"2021-22","12648",3,536,1264,"Purdue","Rickie Woltman",35,"personal",3,1,0,4
+"2021-22","12648",3,502,1298,"Purdue","Nyagoa Gony",30,"personal",3,2,0,1
+"2021-22","12648",3,410,1390,"Maryland","Mimi Collins",2,"personal",1,1,0,3
+"2021-22","12648",3,403,1397,"Maryland","Angel Reese",10,"personal",2,2,0,3
+"2021-22","12648",3,267,1533,"Purdue","Rokia Doumbia",2,"personal",2,3,0,-4
+"2021-22","12648",3,192,1608,"Purdue","Rokia Doumbia",2,"personal",3,4,0,-4
+"2021-22","12648",3,153,1647,"Purdue","Rokia Doumbia",2,"personal",4,5,1,-6
+"2021-22","12648",3,127,1673,"Maryland","Shyanne Sellers",0,"personal",1,3,0,6
+"2021-22","12648",3,5,1795,"Purdue","Jeanae Terry",10,"personal",2,6,1,-4
+"2021-22","12648",4,538,1862,"Purdue","Rickie Woltman",35,"personal",4,1,0,-4
+"2021-22","12648",4,508,1892,"Purdue","Jeanae Terry",10,"personal",3,2,0,-6
+"2021-22","12648",4,494,1906,"Maryland","Chloe Bibby",55,"personal",3,1,0,6
+"2021-22","12648",4,404,1996,"Maryland","Angel Reese",10,"personal",3,2,0,8
+"2021-22","12648",4,359,2041,"Purdue","Brooke Moore",0,"personal",2,3,0,-8
+"2021-22","12648",4,310,2090,"Maryland","Angel Reese",10,"personal",4,3,0,11
+"2021-22","12648",4,304,2096,"Purdue","Abbey Ellis",23,"personal",1,4,0,-11
+"2021-22","12648",4,208,2192,"Maryland","Faith Masonius",13,"personal",1,4,0,14
+"2021-22","12650",1,516,84,"Indiana","Aleksa Gulbe",10,"personal",1,1,0,-2
+"2021-22","12650",1,352,248,"Maryland","Mimi Collins",2,"personal",1,1,0,3
+"2021-22","12650",1,277,323,"Indiana","Kiandra Browne",23,"personal",1,2,0,-1
+"2021-22","12650",1,175,425,"Maryland","Katie Benzan",11,"personal",1,2,0,1
+"2021-22","12650",1,19,581,"Maryland","Angel Reese",10,"personal",1,3,0,5
+"2021-22","12650",2,490,710,"Maryland","Faith Masonius",13,"personal",1,1,0,3
+"2021-22","12650",2,458,742,"Maryland","Katie Benzan",11,"personal",2,2,0,0
+"2021-22","12650",2,365,835,"Maryland","Shyanne Sellers",0,"personal",1,3,0,1
+"2021-22","12650",2,351,849,"Maryland","Diamond Miller",1,"personal",1,4,0,-2
+"2021-22","12650",2,284,916,"Indiana","Nicole Cardano-Hillary",4,"personal",1,1,0,2
+"2021-22","12650",2,223,977,"Maryland","Angel Reese",10,"personal",2,5,1,0
+"2021-22","12650",2,84,1116,"Maryland","Mimi Collins",2,"personal",2,6,1,-4
+"2021-22","12650",2,79,1121,"Indiana","Nicole Cardano-Hillary",4,"personal",2,2,0,6
+"2021-22","12650",3,587,1213,"Indiana","Aleksa Gulbe",10,"personal",2,1,0,4
+"2021-22","12650",3,497,1303,"Indiana","Grace Berger",34,"personal",1,2,0,5
+"2021-22","12650",3,383,1417,"Indiana","Mackenzie Holmes",54,"personal",1,3,0,5
+"2021-22","12650",3,337,1463,"Maryland","Faith Masonius",13,"personal",2,1,0,-3
+"2021-22","12650",3,254,1546,"Indiana","Ali Patberg",14,"personal",1,4,0,3
+"2021-22","12650",3,216,1584,"Indiana","Aleksa Gulbe",10,"personal",3,5,1,1
+"2021-22","12650",3,134,1666,"Maryland","Ashley Owusu",15,"personal",1,2,0,-2
+"2021-22","12650",3,39,1761,"Indiana","Grace Berger",34,"personal",2,6,1,-1
+"2021-22","12650",3,16,1784,"Maryland","Angel Reese",10,"personal",3,3,0,1
+"2021-22","12650",4,566,1834,"Maryland","Shyanne Sellers",0,"personal",2,1,0,-2
+"2021-22","12650",4,500,1900,"Indiana","Nicole Cardano-Hillary",4,"personal",3,1,0,7
+"2021-22","12650",4,488,1912,"Indiana","Mackenzie Holmes",54,"personal",2,2,0,7
+"2021-22","12650",4,465,1935,"Indiana","Ali Patberg",14,"personal",2,3,0,7
+"2021-22","12650",4,442,1958,"Maryland","Chloe Bibby",55,"personal",1,2,0,-7
+"2021-22","12650",4,227,2173,"Indiana","Mackenzie Holmes",54,"personal",3,4,0,8
+"2021-22","12650",4,128,2272,"Indiana","Nicole Cardano-Hillary",4,"personal",4,5,1,6
+"2021-22","12650",4,39,2361,"Maryland","Chloe Bibby",55,"personal",2,3,0,-1
+"2021-22","12650",4,11,2389,"Maryland","Diamond Miller",1,"personal",2,4,0,0
+"2021-22","12650",5,161,2539,"Indiana","Aleksa Gulbe",10,"personal",4,1,0,2
+"2021-22","12650",5,110,2590,"Indiana","Ali Patberg",14,"personal",3,2,0,3
+"2021-22","12650",5,97,2603,"Maryland","Ashley Owusu",15,"personal",2,1,0,-2
+"2021-22","12650",5,58,2642,"Indiana","Mackenzie Holmes",54,"personal",4,3,0,4
+"2021-22","12650",5,53,2647,"Maryland","Angel Reese",10,"personal",4,2,0,-4
+"2021-22","12650",5,41,2659,"Maryland","Chloe Bibby",55,"personal",3,3,0,-4
+"2021-22","12650",5,22,2678,"Maryland","Angel Reese",10,"personal",5,4,0,-4
+"2021-22","12650",5,13,2687,"Maryland","Diamond Miller",1,"personal",3,5,1,-5
+"2021-22","12650",5,8,2692,"Maryland","Mimi Collins",2,"personal",3,6,1,-7
+"2021-22","12651",1,414,186,"Maryland","Ashley Owusu",15,"personal",1,1,0,6
+"2021-22","12651",1,217,383,"Penn St.","Anna Camden",11,"personal",1,1,0,-5
+"2021-22","12651",1,204,396,"Penn St.","Niya Beverley",4,"personal",1,2,0,-5
+"2021-22","12651",2,515,685,"Penn St.","Niya Beverley",4,"personal",2,1,0,-12
+"2021-22","12651",2,509,691,"Penn St.","Leilani Kapinus",5,"personal",1,2,0,-12
+"2021-22","12651",2,409,791,"Penn St.","Makenna Marisa",20,"personal",1,3,0,-14
+"2021-22","12651",2,275,925,"Penn St.","Kelly Jekot",25,"personal",1,4,0,-17
+"2021-22","12651",2,232,968,"Maryland","Angel Reese",10,"personal",1,1,0,19
+"2021-22","12651",2,206,994,"Maryland","Shyanne Sellers",0,"personal",1,2,0,19
+"2021-22","12651",2,84,1116,"Penn St.","Tova Sabel",10,"personal",1,5,1,-22
+"2021-22","12651",3,523,1277,"Penn St.","Leilani Kapinus",5,"personal",2,1,0,-24
+"2021-22","12651",3,459,1341,"Maryland","Katie Benzan",11,"personal",1,1,0,21
+"2021-22","12651",3,385,1415,"Penn St.","Leilani Kapinus",5,"personal",3,2,0,-25
+"2021-22","12651",3,298,1502,"Maryland","Katie Benzan",11,"personal",2,2,0,23
+"2021-22","12651",3,157,1643,"Maryland","Diamond Miller",30,"personal",1,3,0,30
+"2021-22","12651",4,571,1829,"Penn St.","Kelly Jekot",25,"personal",2,1,0,-34
+"2021-22","12651",4,500,1900,"Penn St.","Makenna Marisa",20,"personal",2,2,0,-33
+"2021-22","12651",4,310,2090,"Maryland","Emma Chardon",21,"personal",1,1,0,31
+"2021-22","12651",4,304,2096,"Penn St.","Maddie Burke",15,"personal",1,3,0,-31
+"2021-22","12651",4,232,2168,"Penn St.","Leilani Kapinus",5,"personal",4,4,0,-33
+"2021-22","12651",4,193,2207,"Maryland","Emma Chardon",21,"personal",2,2,0,35
+"2021-22","12651",4,182,2218,"Maryland","Shyanne Sellers",0,"personal",2,3,0,33
+"2021-22","12651",4,77,2323,"Maryland","Mimi Collins",2,"personal",1,4,0,34
+"2021-22","12651",4,14,2386,"Maryland","Emma Chardon",21,"personal",3,5,1,29
+"2021-22","12652",1,566,34,"Minnesota","Gadiva Hubbard",13,"personal",1,1,0,0
+"2021-22","12652",1,543,57,"Minnesota","Alanna Micheaux",54,"personal",1,2,0,-2
+"2021-22","12652",1,271,329,"Maryland","Angel Reese",10,"personal",1,1,0,2
+"2021-22","12652",1,126,474,"Minnesota","Gadiva Hubbard",13,"personal",2,3,0,-7
+"2021-22","12652",1,74,526,"Minnesota","Kadiatou Sissoko",30,"personal",1,4,0,-10
+"2021-22","12652",2,583,617,"Maryland","Shyanne Sellers",0,"personal",1,1,0,10
+"2021-22","12652",2,557,643,"Minnesota","Bailey Helgren",35,"personal",1,1,0,-10
+"2021-22","12652",2,281,919,"Minnesota","Sara Scalia",14,"personal",1,2,0,-7
+"2021-22","12652",2,79,1121,"Minnesota","Alanna Micheaux",54,"personal",2,3,0,-4
+"2021-22","12652",2,69,1131,"Maryland","Mimi Collins",2,"personal",1,2,0,5
+"2021-22","12652",3,493,1307,"Maryland","Angel Reese",10,"personal",2,1,0,7
+"2021-22","12652",3,265,1535,"Maryland","Angel Reese",10,"personal",3,2,0,3
+"2021-22","12652",3,238,1562,"Minnesota","Deja Winters",3,"personal",1,1,0,-3
+"2021-22","12652",3,203,1597,"Maryland","Katie Benzan",11,"personal",1,3,0,7
+"2021-22","12652",4,594,1806,"Maryland","Diamond Miller",1,"personal",1,1,0,7
+"2021-22","12652",4,423,1977,"Minnesota","Gadiva Hubbard",13,"personal",3,1,0,-11
+"2021-22","12652",4,398,2002,"Minnesota","Deja Winters",3,"personal",2,2,0,-9
+"2021-22","12652",4,395,2005,"Minnesota","Kadiatou Sissoko",30,"personal",2,3,0,-9
+"2021-22","12652",4,371,2029,"Minnesota","Alanna Micheaux",54,"personal",3,4,0,-11
+"2021-22","12652",4,343,2057,"Maryland","Shyanne Sellers",0,"personal",2,2,0,11
+"2021-22","12652",4,309,2091,"Minnesota","Kadiatou Sissoko",30,"personal",3,5,1,-12
+"2021-22","12653",1,377,223,"Maryland","Angel Reese",10,"personal",1,1,0,-1
+"2021-22","12653",1,76,524,"Michigan","Amy Dilk",1,"personal",1,1,0,10
+"2021-22","12653",1,51,549,"Michigan","Laila Phelia",5,"personal",1,2,0,10
+"2021-22","12653",1,9,591,"Maryland","Ashley Owusu",15,"personal",1,2,0,-10
+"2021-22","12653",2,199,1001,"Michigan","Danielle Rauch",23,"personal",1,1,0,15
+"2021-22","12653",2,117,1083,"Maryland","Shyanne Sellers",0,"personal",1,1,0,-15
+"2021-22","12653",2,80,1120,"Maryland","Diamond Miller",1,"personal",1,2,0,-15
+"2021-22","12653",3,531,1269,"Michigan","Naz Hillmon",0,"personal",1,1,0,17
+"2021-22","12653",3,382,1418,"Maryland","Diamond Miller",1,"personal",2,1,0,-23
+"2021-22","12653",3,322,1478,"Maryland","Katie Benzan",11,"personal",1,2,0,-23
+"2021-22","12653",3,268,1532,"Michigan","Emily Kiser",33,"personal",1,2,0,25
+"2021-22","12653",3,210,1590,"Michigan","Naz Hillmon",0,"personal",2,3,0,25
+"2021-22","12653",3,167,1633,"Michigan","Cameron Williams",44,"personal",1,4,0,23
+"2021-22","12653",4,586,1814,"Michigan","Maddie Nolan",3,"personal",1,1,0,24
+"2021-22","12653",4,513,1887,"Maryland","Mimi Collins",2,"personal",1,1,0,-22
+"2021-22","12653",4,494,1906,"Maryland","Katie Benzan",11,"personal",2,2,0,-21
+"2021-22","12653",4,475,1925,"Michigan","Leigha Brown",32,"personal",1,2,0,21
+"2021-22","12653",4,423,1977,"Michigan","Naz Hillmon",0,"personal",3,3,0,21
+"2021-22","12653",4,350,2050,"Michigan","Emily Kiser",33,"personal",2,4,0,21
+"2021-22","12653",4,259,2141,"Maryland","Angel Reese",10,"personal",2,3,0,-22
+"2021-22","12653",4,228,2172,"Maryland","Shyanne Sellers",0,"personal",2,4,0,-23
+"2021-22","12653",4,199,2201,"Maryland","Chloe Bibby",55,"personal",1,5,1,-25
+"2021-22","12653",4,185,2215,"Michigan","Leigha Brown",32,"personal",2,5,1,26
+"2021-22","12653",4,185,2215,"Maryland","Diamond Miller",1,"personal",3,6,1,-25
+"2021-22","12653",4,170,2230,"Michigan","Izabel Varej?o",34,"personal",1,6,1,24
+"2021-22","12653",4,130,2270,"Maryland","Ashley Owusu",15,"personal",2,7,1,-23
+"2021-22","12653",4,108,2292,"Michigan","Izabel Varej?o",34,"personal",2,7,1,23
+"2021-22","12654",1,522,78,"Maryland","Diamond Miller",1,"personal",1,1,0,-1
+"2021-22","12654",1,364,236,"Maryland","Shyanne Sellers",0,"personal",1,2,0,-2
+"2021-22","12654",1,337,263,"Maryland","Chloe Bibby",55,"personal",1,3,0,-4
+"2021-22","12654",1,184,416,"Ohio St.","Jacy Sheldon",4,"personal",1,1,0,7
+"2021-22","12654",1,123,477,"Maryland","Katie Benzan",11,"personal",1,4,0,-7
+"2021-22","12654",1,106,494,"Ohio St.","Braxtin Miller",10,"personal",1,2,0,7
+"2021-22","12654",1,82,518,"Maryland","Shyanne Sellers",0,"personal",2,5,1,-7
+"2021-22","12654",2,573,627,"Maryland","Angel Reese",10,"personal",1,1,0,-10
+"2021-22","12654",2,521,679,"Ohio St.","Rebeka Mikulasikova",23,"personal",1,1,0,13
+"2021-22","12654",2,478,722,"Ohio St.","Rebeka Mikulasikova",23,"personal",2,2,0,11
+"2021-22","12654",2,423,777,"Maryland","Chloe Bibby",55,"personal",2,2,0,-9
+"2021-22","12654",2,403,797,"Maryland","Ashley Owusu",15,"personal",1,3,0,-11
+"2021-22","12654",2,392,808,"Ohio St.","Tanaya Beacham",35,"personal",1,3,0,12
+"2021-22","12654",2,320,880,"Maryland","Diamond Miller",1,"personal",2,4,0,-10
+"2021-22","12654",2,291,909,"Ohio St.","Tanaya Beacham",35,"personal",2,4,0,10
+"2021-22","12654",2,156,1044,"Maryland","Angel Reese",10,"personal",2,5,1,-5
+"2021-22","12654",2,133,1067,"Maryland","Mimi Collins",2,"personal",1,6,1,-4
+"2021-22","12654",2,109,1091,"Ohio St.","Taylor Mikesell",24,"personal",1,5,1,6
+"2021-22","12654",2,38,1162,"Maryland","Shyanne Sellers",0,"personal",3,7,1,-9
+"2021-22","12654",2,0,1200,"Ohio St.","Rikki Harris",1,"personal",1,6,1,10
+"2021-22","12654",3,428,1372,"Ohio St.","Rebeka Mikulasikova",23,"personal",3,1,0,8
+"2021-22","12654",3,413,1387,"Ohio St.","Braxtin Miller",10,"personal",2,2,0,6
+"2021-22","12654",3,352,1448,"Maryland","Ashley Owusu",15,"personal",2,1,0,-4
+"2021-22","12654",3,300,1500,"Ohio St.","Rikki Harris",1,"personal",2,3,0,6
+"2021-22","12654",3,90,1710,"Maryland","Diamond Miller",1,"personal",3,2,0,-8
+"2021-22","12654",3,66,1734,"Maryland","Angel Reese",10,"personal",3,3,0,-8
+"2021-22","12654",4,452,1948,"Maryland","Mimi Collins",2,"personal",2,1,0,-9
+"2021-22","12654",4,438,1962,"Maryland","Mimi Collins",2,"personal",3,2,0,-9
+"2021-22","12654",4,438,1962,"Maryland","Mimi Collins",2,"personal",4,3,0,-9
+"2021-22","12654",4,162,2238,"Maryland","Katie Benzan",11,"personal",2,4,0,-10
+"2021-22","12654",4,151,2249,"Ohio St.","Tanaya Beacham",35,"personal",3,1,0,11
+"2021-22","12654",4,72,2328,"Maryland","Ashley Owusu",15,"personal",3,5,1,-8
+"2021-22","12654",4,46,2354,"Maryland","Diamond Miller",1,"personal",4,6,1,-5
+"2021-22","12654",4,39,2361,"Maryland","Katie Benzan",11,"personal",3,7,1,-6
+"2021-22","12654",4,24,2376,"Ohio St.","Taylor Mikesell",24,"personal",2,2,0,6
+"2021-22","12654",4,20,2380,"Ohio St.","Taylor Mikesell",24,"personal",3,3,0,6
+"2021-22","12654",4,17,2383,"Ohio St.","Jacy Sheldon",4,"personal",2,4,0,6
+"2021-22","12654",4,13,2387,"Maryland","Katie Benzan",11,"personal",4,8,1,-4
+"2021-22","12654",4,6,2394,"Maryland","Katie Benzan",11,"personal",5,9,1,-4
+"2021-22","12655",1,417,183,"Maryland","Ashley Owusu",15,"personal",1,1,0,1
+"2021-22","12655",1,321,279,"Maryland","Shyanne Sellers",0,"personal",1,2,0,5
+"2021-22","12655",1,299,301,"Maryland","Diamond Miller",1,"personal",1,3,0,2
+"2021-22","12655",1,255,345,"Maryland","Katie Benzan",11,"personal",1,4,0,0
+"2021-22","12655",1,127,473,"Northwestern","Veronica Burton",12,"personal",1,1,0,-4
+"2021-22","12655",1,72,528,"Northwestern","Courtney Shaw",15,"personal",1,2,0,-6
+"2021-22","12655",2,565,635,"Northwestern","Paige Mott",20,"personal",1,1,0,-4
+"2021-22","12655",2,437,763,"Northwestern","Jillian Brown",4,"personal",1,2,0,-9
+"2021-22","12655",2,423,777,"Northwestern","Paige Mott",20,"personal",2,3,0,-9
+"2021-22","12655",2,182,1018,"Maryland","Mimi Collins",2,"personal",1,1,0,17
+"2021-22","12655",2,168,1032,"Maryland","Mimi Collins",2,"personal",2,2,0,17
+"2021-22","12655",2,124,1076,"Maryland","Shyanne Sellers",0,"personal",2,3,0,17
+"2021-22","12655",2,79,1121,"Northwestern","Jillian Brown",4,"personal",2,4,0,-15
+"2021-22","12655",2,58,1142,"Northwestern","Laya Hartman",33,"personal",1,5,1,-17
+"2021-22","12655",3,515,1285,"Maryland","Katie Benzan",11,"personal",2,1,0,20
+"2021-22","12655",3,432,1368,"Northwestern","Veronica Burton",12,"personal",2,1,0,-16
+"2021-22","12655",3,424,1376,"Northwestern","Courtney Shaw",15,"personal",2,2,0,-16
+"2021-22","12655",3,381,1419,"Maryland","Katie Benzan",11,"personal",3,2,0,21
+"2021-22","12655",3,154,1646,"Maryland","Chloe Bibby",55,"personal",1,3,0,21
+"2021-22","12655",3,111,1689,"Northwestern","Veronica Burton",12,"personal",3,3,0,-24
+"2021-22","12655",3,12,1788,"Northwestern","Anna Morris",42,"personal",1,4,0,-25
+"2021-22","12655",4,574,1826,"Maryland","Mimi Collins",2,"personal",3,1,0,28
+"2021-22","12655",4,491,1909,"Maryland","Mimi Collins",2,"personal",4,2,0,26
+"2021-22","12655",4,423,1977,"Northwestern","Veronica Burton",12,"personal",4,1,0,-24
+"2021-22","12655",4,345,2055,"Northwestern","Courtney Shaw",15,"personal",3,2,0,-24
+"2021-22","12655",4,302,2098,"Maryland","Shyanne Sellers",0,"personal",3,3,0,27
+"2021-22","12655",4,278,2122,"Maryland","Angel Reese",10,"personal",1,4,0,26
+"2021-22","12655",4,180,2220,"Northwestern","Paige Mott",20,"personal",3,3,0,-26
+"2021-22","12655",4,106,2294,"Maryland","Emma Chardon",21,"personal",1,5,1,27
+"2021-22","12655",4,80,2320,"Maryland","Diamond Miller",1,"personal",2,6,1,25
+"2021-22","12656",1,408,192,"Rutgers","Tyia Singleton",22,"personal",1,1,0,-3
+"2021-22","12656",1,358,242,"Maryland","Angel Reese",10,"personal",1,1,0,5
+"2021-22","12656",1,179,421,"Rutgers","Jailyn Mason",14,"personal",1,2,0,-9
+"2021-22","12656",1,160,440,"Maryland","Diamond Miller",1,"personal",1,2,0,10
+"2021-22","12656",2,543,657,"Rutgers","Shug Dickson",3,"personal",1,1,0,-10
+"2021-22","12656",2,79,1121,"Maryland","Katie Benzan",11,"personal",1,1,0,7
+"2021-22","12656",2,22,1178,"Maryland","Chloe Bibby",55,"personal",1,2,0,4
+"2021-22","12656",3,406,1394,"Rutgers","Awa Sidibe",15,"personal",1,1,0,-3
+"2021-22","12656",3,371,1429,"Rutgers","Sayawni Lassiter",35,"personal",1,2,0,-3
+"2021-22","12656",3,351,1449,"Rutgers","Sayawni Lassiter",35,"personal",2,3,0,-5
+"2021-22","12656",4,530,1870,"Maryland","Katie Benzan",11,"personal",2,1,0,11
+"2021-22","12656",4,451,1949,"Rutgers","Victoria Morris",5,"personal",1,1,0,-14
+"2021-22","12656",4,367,2033,"Rutgers","Tyia Singleton",22,"personal",2,2,0,-16
+"2021-22","12656",4,289,2111,"Rutgers","Osh Brown",32,"personal",1,3,0,-16
+"2021-22","12656",4,278,2122,"Rutgers","Osh Brown",32,"personal",2,4,0,-16
+"2021-22","12656",4,220,2180,"Maryland","Mimi Collins",2,"personal",1,2,0,16
+"2021-22","12656",4,180,2220,"Rutgers","Jailyn Mason",14,"personal",2,5,1,-14
+"2021-22","12656",4,154,2246,"Rutgers","Awa Sidibe",15,"personal",2,6,1,-14
+"2021-22","12656",4,101,2299,"Maryland","Chloe Bibby",55,"personal",2,3,0,17
+"2021-22","12656",4,100,2300,"Maryland","Diamond Miller",1,"personal",2,4,0,17
+"2021-22","12656",4,80,2320,"Rutgers","Jailyn Mason",14,"personal",3,7,1,-17
+"2021-22","12657",1,423,177,"Penn St.","Ali Brigham",1,"personal",1,1,0,2
+"2021-22","12657",1,253,347,"Maryland","Ashley Owusu",15,"personal",1,1,0,4
+"2021-22","12657",1,102,498,"Penn St.","Kelly Jekot",25,"personal",1,2,0,-4
+"2021-22","12657",2,465,735,"Maryland","Angel Reese",10,"personal",1,1,0,11
+"2021-22","12657",2,306,894,"Penn St.","Makenna Marisa",20,"personal",1,1,0,-11
+"2021-22","12657",2,248,952,"Maryland","Diamond Miller",1,"personal",1,2,0,13
+"2021-22","12657",2,119,1081,"Maryland","Katie Benzan",11,"personal",1,3,0,16
+"2021-22","12657",2,63,1137,"Maryland","Katie Benzan",11,"personal",2,4,0,17
+"2021-22","12657",3,403,1397,"Maryland","Katie Benzan",11,"personal",3,1,0,18
+"2021-22","12657",3,303,1497,"Penn St.","Leilani Kapinus",5,"personal",1,1,0,-16
+"2021-22","12657",3,243,1557,"Maryland","Shyanne Sellers",0,"personal",1,2,0,16
+"2021-22","12657",3,153,1647,"Maryland","Angel Reese",10,"personal",2,3,0,16
+"2021-22","12657",3,56,1744,"Maryland","Ashley Owusu",15,"personal",2,4,0,12
+"2021-22","12657",4,532,1868,"Penn St.","Kelly Jekot",25,"personal",2,1,0,-12
+"2021-22","12657",4,529,1871,"Penn St.","Kayla Thomas",12,"personal",1,2,0,-12
+"2021-22","12657",4,282,2118,"Maryland","Katie Benzan",11,"personal",4,1,0,10
+"2021-22","12657",4,117,2283,"Maryland","Diamond Miller",1,"personal",2,2,0,11
+"2021-22","12657",4,80,2320,"Penn St.","Kayla Thomas",12,"personal",2,3,0,-11
+"2021-22","12657",4,49,2351,"Maryland","Angel Reese",10,"personal",3,3,0,13
+"2021-22","12657",4,36,2364,"Penn St.","Makenna Marisa",20,"personal",2,4,0,-12
+"2021-22","12657",4,35,2365,"Penn St.","Ali Brigham",1,"personal",2,5,1,-12
+"2021-22","12658",1,439,161,"Michigan St.","Tamara Farquhar",2,"personal",1,1,0,-3
+"2021-22","12658",1,329,271,"Maryland","Diamond Miller",1,"personal",1,1,0,7
+"2021-22","12658",1,298,302,"Michigan St.","Taiyier Parks",14,"personal",1,2,0,-7
+"2021-22","12658",1,281,319,"Maryland","Katie Benzan",11,"personal",1,2,0,4
+"2021-22","12658",1,237,363,"Maryland","Ashley Owusu",15,"personal",1,3,0,3
+"2021-22","12658",1,228,372,"Michigan St.","DeeDee Hagemann",0,"personal",1,3,0,-3
+"2021-22","12658",1,187,413,"Michigan St.","Taiyier Parks",14,"personal",2,4,0,-3
+"2021-22","12658",1,92,508,"Maryland","Angel Reese",10,"personal",1,4,0,3
+"2021-22","12658",1,8,592,"Michigan St.","Jayla James",20,"personal",1,5,1,-5
+"2021-22","12658",2,520,680,"Michigan St.","Alisia Smith",4,"personal",1,1,0,-8
+"2021-22","12658",2,504,696,"Michigan St.","Nia Clouden",24,"personal",1,2,0,-8
+"2021-22","12658",2,413,787,"Maryland","Angel Reese",10,"personal",2,1,0,8
+"2021-22","12658",2,396,804,"Maryland","Mimi Collins",2,"personal",1,2,0,8
+"2021-22","12658",2,196,1004,"Michigan St.","Matilda Ekh",11,"personal",1,3,0,-7
+"2021-22","12658",2,133,1067,"Maryland","Mimi Collins",2,"personal",2,3,0,8
+"2021-22","12658",3,269,1531,"Maryland","Shyanne Sellers",0,"personal",1,1,0,9
+"2021-22","12658",3,159,1641,"Michigan St.","Tamara Farquhar",2,"personal",2,1,0,-5
+"2021-22","12658",3,118,1682,"Michigan St.","Alisia Smith",4,"personal",2,2,0,-9
+"2021-22","12658",3,88,1712,"Michigan St.","Matilda Ekh",11,"personal",2,3,0,-9
+"2021-22","12658",3,70,1730,"Maryland","Diamond Miller",1,"personal",2,2,0,10
+"2021-22","12658",3,63,1737,"Maryland","Diamond Miller",1,"personal",3,3,0,10
+"2021-22","12658",3,24,1776,"Michigan St.","Alisia Smith",4,"personal",3,4,0,-9
+"2021-22","12658",3,5,1795,"Michigan St.","Isaline Alexander",12,"personal",1,5,1,-9
+"2021-22","12658",4,276,2124,"Michigan St.","Matilda Ekh",11,"personal",3,1,0,-5
+"2021-22","12658",4,175,2225,"Maryland","Shyanne Sellers",0,"personal",2,1,0,5
+"2021-22","12658",4,125,2275,"Michigan St.","Alisia Smith",4,"personal",4,2,0,-2
+"2021-22","12658",4,65,2335,"Maryland","Diamond Miller",1,"personal",4,2,0,4
+"2021-22","12658",4,48,2352,"Maryland","Shyanne Sellers",0,"personal",3,3,0,4
+"2021-22","12658",4,15,2385,"Maryland","Chloe Bibby",55,"personal",1,4,0,4
+"2021-22","12658",4,6,2394,"Maryland","Shyanne Sellers",0,"personal",4,5,1,4
+"2021-22","12658",4,2,2398,"Michigan St.","Tamara Farquhar",2,"personal",3,3,0,-4
+"2021-22","12658",4,1,2399,"Michigan St.","Nia Clouden",24,"personal",2,4,0,-4
+"2021-22","12658",4,0,2400,"Michigan St.","Matilda Ekh",11,"personal",4,5,1,-4
+"2021-22","12659",1,471,129,"Maryland","Shyanne Sellers",0,"personal",1,1,0,0
+"2021-22","12659",1,295,305,"Maryland","Angel Reese",10,"personal",1,2,0,8
+"2021-22","12659",1,281,319,"Nebraska","Alexis Markowski",40,"personal",1,1,0,-6
+"2021-22","12659",1,187,413,"Nebraska","Annika Stewart",21,"personal",1,2,0,-10
+"2021-22","12659",1,110,490,"Maryland","Taisiya Kozlova",14,"personal",1,3,0,11
+"2021-22","12659",1,17,583,"Nebraska","Ashley Scoggin",0,"personal",1,3,0,-13
+"2021-22","12659",2,421,779,"Nebraska","Allison Weidner",3,"personal",1,1,0,-14
+"2021-22","12659",2,364,836,"Nebraska","Allison Weidner",3,"personal",2,2,0,-16
+"2021-22","12659",2,314,886,"Maryland","Taisiya Kozlova",14,"personal",2,1,0,18
+"2021-22","12659",2,139,1061,"Nebraska","Sam Haiby",4,"personal",1,3,0,-20
+"2021-22","12659",2,118,1082,"Nebraska","Jaz Shelley",1,"personal",1,4,0,-21
+"2021-22","12659",2,41,1159,"Maryland","Shyanne Sellers",0,"personal",2,2,0,24
+"2021-22","12659",2,13,1187,"Nebraska","Alexis Markowski",40,"personal",2,5,1,-25
+"2021-22","12659",2,13,1187,"Maryland","Angel Reese",10,"technical","",2,0,25
+"2021-22","12659",3,551,1249,"Maryland","Shyanne Sellers",0,"personal",3,1,0,21
+"2021-22","12659",3,530,1270,"Nebraska","Isabelle Bourne",34,"personal",1,1,0,-21
+"2021-22","12659",3,450,1350,"Nebraska","Alexis Markowski",40,"personal",3,2,0,-23
+"2021-22","12659",3,436,1364,"Maryland","Katie Benzan",11,"personal",1,2,0,23
+"2021-22","12659",3,380,1420,"Nebraska","Ruby Porter",11,"personal",1,3,0,-24
+"2021-22","12659",3,280,1520,"Nebraska","Ashley Scoggin",0,"personal",2,4,0,-24
+"2021-22","12659",3,231,1569,"Nebraska","Kendall Coley",32,"personal",1,5,1,-22
+"2021-22","12659",3,36,1764,"Maryland","Diamond Miller",1,"personal",1,3,0,20
+"2021-22","12659",3,36,1764,"Maryland","Diamond Miller",1,"personal",2,4,0,20
+"2021-22","12659",4,537,1863,"Nebraska","Ashley Scoggin",0,"personal",3,1,0,-20
+"2021-22","12659",4,467,1933,"Maryland","Angel Reese",10,"personal",2,1,0,24
+"2021-22","12659",4,452,1948,"Maryland","Diamond Miller",1,"personal",3,2,0,22
+"2021-22","12659",4,415,1985,"Maryland","Chloe Bibby",55,"personal",1,3,0,22
+"2021-22","12659",4,258,2142,"Nebraska","Bella Cravens",14,"personal",1,2,0,-18
+"2021-22","12659",4,196,2204,"Maryland","Angel Reese",10,"personal",3,4,0,17
+"2021-22","12659",4,183,2217,"Maryland","Shyanne Sellers",0,"personal",4,5,1,15
+"2021-22","12659",4,114,2286,"Nebraska","Kendall Moriarty",15,"personal",1,3,0,-17
+"2021-22","12659",4,24,2376,"Nebraska","Alexis Markowski",40,"personal",4,4,0,-15
+"2021-22","12660",1,600,0,"Maryland","","","technical","",0,0,0
+"2021-22","12660",1,467,133,"Wisconsin","Halle Douglass",10,"personal",1,1,0,-2
+"2021-22","12660",1,352,248,"Wisconsin","Krystyna Ellew",14,"personal",1,2,0,-5
+"2021-22","12660",1,111,489,"Maryland","Mimi Collins",2,"personal",1,1,0,11
+"2021-22","12660",2,542,658,"Wisconsin","Sara Stapleton",41,"personal",1,1,0,-14
+"2021-22","12660",2,427,773,"Wisconsin","Tara Stauffacher",40,"personal",1,2,0,-19
+"2021-22","12660",2,356,844,"Maryland","Shyanne Sellers",0,"personal",1,1,0,23
+"2021-22","12660",2,310,890,"Wisconsin","Krystyna Ellew",14,"personal",2,3,0,-23
+"2021-22","12660",2,298,902,"Maryland","Angel Reese",10,"personal",1,2,0,23
+"2021-22","12660",2,271,929,"Maryland","Diamond Miller",1,"personal",1,3,0,21
+"2021-22","12660",2,254,946,"Maryland","Diamond Miller",1,"personal",2,4,0,21
+"2021-22","12660",2,74,1126,"Maryland","Mimi Collins",2,"personal",2,5,1,19
+"2021-22","12660",2,32,1168,"Wisconsin","Brooke Schramek",3,"personal",1,4,0,-20
+"2021-22","12660",3,527,1273,"Wisconsin","Julie Pospisilova",5,"personal",1,1,0,-19
+"2021-22","12660",3,493,1307,"Wisconsin","Brooke Schramek",3,"personal",2,2,0,-17
+"2021-22","12660",3,346,1454,"Maryland","Angel Reese",10,"personal",2,1,0,22
+"2021-22","12660",3,329,1471,"Wisconsin","Tara Stauffacher",40,"personal",2,3,0,-22
+"2021-22","12660",3,281,1519,"Wisconsin","Julie Pospisilova",5,"personal",2,4,0,-24
+"2021-22","12660",3,135,1665,"Maryland","Diamond Miller",1,"personal",3,2,0,27
+"2021-22","12660",3,48,1752,"Wisconsin","Halle Douglass",10,"personal",2,5,1,-25
+"2021-22","12660",4,561,1839,"Wisconsin","Halle Douglass",10,"personal",3,1,0,-26
+"2021-22","12660",4,491,1909,"Wisconsin","Julie Pospisilova",5,"personal",3,2,0,-26
+"2021-22","12660",4,371,2029,"Maryland","Chloe Bibby",55,"personal",1,1,0,23
+"2021-22","12660",4,371,2029,"Maryland","Katie Benzan",11,"personal",1,2,0,21
+"2021-22","12660",4,305,2095,"Wisconsin","Brooke Schramek",3,"personal",3,3,0,-21
+"2021-22","12660",4,281,2119,"Wisconsin","Julie Pospisilova",5,"personal",4,4,0,-22
+"2021-22","12660",4,227,2173,"Maryland","Angel Reese",10,"personal",3,3,0,24
+"2021-22","12660",4,212,2188,"Maryland","Taisiya Kozlova",14,"personal",1,4,0,22
+"2021-22","12660",4,183,2217,"Wisconsin","Brooke Schramek",3,"personal",4,5,1,-21
+"2021-22","12660",4,125,2275,"Wisconsin","Katie Nelson",2,"personal",1,6,1,-25
+"2021-22","12661",1,577,23,"Iowa","Caitlin Clark",22,"personal",1,1,0,0
+"2021-22","12661",1,446,154,"Maryland","Chloe Bibby",55,"personal",1,1,0,-3
+"2021-22","12661",1,358,242,"Maryland","Diamond Miller",1,"personal",1,2,0,-5
+"2021-22","12661",1,326,274,"Maryland","Shyanne Sellers",0,"personal",1,3,0,-5
+"2021-22","12661",1,280,320,"Maryland","Mimi Collins",2,"personal",1,4,0,-2
+"2021-22","12661",1,8,592,"Iowa","Kate Martin",20,"personal",1,2,0,-5
+"2021-22","12661",1,5,595,"Maryland","Angel Reese",10,"personal",1,5,1,7
+"2021-22","12661",2,551,649,"Iowa","Monika Czinano",25,"personal",1,1,0,-5
+"2021-22","12661",2,483,717,"Iowa","Monika Czinano",25,"personal",2,2,0,-7
+"2021-22","12661",2,477,723,"Maryland","Shyanne Sellers",0,"personal",2,1,0,7
+"2021-22","12661",2,440,760,"Maryland","Katie Benzan",11,"personal",1,2,0,7
+"2021-22","12661",2,412,788,"Iowa","Kate Martin",20,"personal",2,3,0,-5
+"2021-22","12661",2,359,841,"Maryland","Mimi Collins",2,"personal",2,3,0,7
+"2021-22","12661",2,280,920,"Iowa","Addison O'Grady",44,"personal",1,4,0,-10
+"2021-22","12661",2,183,1017,"Maryland","Katie Benzan",11,"personal",2,4,0,15
+"2021-22","12661",2,149,1051,"Iowa","Kate Martin",20,"personal",3,5,1,-13
+"2021-22","12661",3,523,1277,"Iowa","Monika Czinano",25,"personal",3,1,0,-15
+"2021-22","12661",3,499,1301,"Maryland","Katie Benzan",11,"personal",3,1,0,15
+"2021-22","12661",3,437,1363,"Iowa","Caitlin Clark",22,"personal",2,2,0,-15
+"2021-22","12661",3,334,1466,"Maryland","Angel Reese",10,"personal",2,2,0,18
+"2021-22","12661",3,307,1493,"Maryland","Angel Reese",10,"personal",3,3,0,15
+"2021-22","12661",3,195,1605,"Iowa","Sydney Affolter",3,"personal",1,3,0,-17
+"2021-22","12661",3,169,1631,"Maryland","Diamond Miller",1,"personal",2,4,0,17
+"2021-22","12661",4,567,1833,"Iowa","Monika Czinano",25,"personal",4,1,0,-11
+"2021-22","12661",4,560,1840,"Maryland","Diamond Miller",1,"personal",3,1,0,11
+"2021-22","12661",4,453,1947,"Iowa","Kate Martin",20,"personal",4,2,0,-7
+"2021-22","12661",4,160,2240,"Iowa","Caitlin Clark",22,"personal",3,3,0,-10
+"2021-22","12661",4,148,2252,"Iowa","Monika Czinano",25,"personal",5,4,0,-10
+"2021-22","12661",4,81,2319,"Maryland","Katie Benzan",11,"personal",4,2,0,11
+"2021-22","12661",4,78,2322,"Maryland","Katie Benzan",11,"personal",5,3,0,9
+"2021-22","12661",4,63,2337,"Iowa","Gabbie Marshall",24,"personal",1,5,1,-9
+"2021-22","12661",4,58,2342,"Maryland","Angel Reese",10,"personal",4,4,0,10
+"2021-22","12661",4,49,2351,"Iowa","Addison O'Grady",44,"personal",2,6,1,-9
+"2021-22","12661",4,35,2365,"Iowa","Addison O'Grady",44,"personal",3,7,1,-10
+"2021-22","12662",1,566,34,"Maryland","Diamond Miller",1,"personal",1,1,0,-2
+"2021-22","12662",1,168,432,"Ohio St.","Taylor Thierry",14,"personal",1,1,0,4
+"2021-22","12662",1,57,543,"Maryland","Katie Benzan",11,"personal",1,2,0,-5
+"2021-22","12662",1,47,553,"Maryland","Katie Benzan",11,"personal",2,3,0,-7
+"2021-22","12662",2,193,1007,"Ohio St.","Tanaya Beacham",35,"personal",1,1,0,6
+"2021-22","12662",2,155,1045,"Ohio St.","Jacy Sheldon",4,"personal",1,2,0,5
+"2021-22","12662",2,82,1118,"Ohio St.","Taylor Thierry",14,"personal",2,3,0,9
+"2021-22","12662",2,20,1180,"Maryland","Angel Reese",10,"personal",1,1,0,-5
+"2021-22","12662",3,569,1231,"Ohio St.","Rebeka Mikulasikova",23,"personal",1,1,0,3
+"2021-22","12662",3,342,1458,"Maryland","Shyanne Sellers",0,"personal",1,1,0,-2
+"2021-22","12662",3,259,1541,"Ohio St.","Rebeka Mikulasikova",23,"personal",2,2,0,1
+"2021-22","12662",3,227,1573,"Ohio St.","Jacy Sheldon",4,"personal",2,3,0,-3
+"2021-22","12662",3,218,1582,"Ohio St.","Taylor Mikesell",24,"personal",1,4,0,-4
+"2021-22","12662",3,178,1622,"Ohio St.","Rebeka Mikulasikova",23,"personal",3,5,1,-4
+"2021-22","12662",3,178,1622,"Ohio St.","","","technical","",5,1,-4
+"2021-22","12662",3,129,1671,"Ohio St.","Rikki Harris",1,"personal",1,6,1,-8
+"2021-22","12662",3,85,1715,"Maryland","Angel Reese",10,"personal",2,2,0,7
+"2021-22","12662",4,507,1893,"Ohio St.","Jacy Sheldon",4,"personal",3,1,0,-5
+"2021-22","12662",4,486,1914,"Ohio St.","Jacy Sheldon",4,"personal",4,2,0,-7
+"2021-22","12662",4,452,1948,"Ohio St.","Tanaya Beacham",35,"personal",2,3,0,-9
+"2021-22","12662",4,393,2007,"Maryland","Katie Benzan",11,"personal",3,1,0,8
+"2021-22","12662",4,338,2062,"Maryland","Shyanne Sellers",0,"personal",2,2,0,8
+"2021-22","12662",4,323,2077,"Ohio St.","Tanaya Beacham",35,"personal",3,4,0,-5
+"2021-22","12662",4,220,2180,"Maryland","Shyanne Sellers",0,"personal",3,3,0,9
+"2021-22","12662",4,139,2261,"Maryland","Angel Reese",10,"personal",3,4,0,11
+"2021-22","12663",1,539,61,"Michigan","Maddie Nolan",3,"personal",1,1,0,0
+"2021-22","12663",1,507,93,"Maryland","Diamond Miller",1,"personal",1,1,0,0
+"2021-22","12663",1,459,141,"Michigan","Laila Phelia",5,"personal",1,2,0,2
+"2021-22","12663",1,233,367,"Maryland","Shyanne Sellers",0,"personal",1,2,0,-1
+"2021-22","12663",1,203,397,"Michigan","Laila Phelia",5,"personal",2,3,0,1
+"2021-22","12663",1,125,475,"Maryland","Angel Reese",10,"personal",1,3,0,-1
+"2021-22","12663",1,124,476,"Maryland","Ashley Owusu",15,"personal",1,4,0,-1
+"2021-22","12663",2,553,647,"Michigan","Amy Dilk",1,"personal",1,1,0,-2
+"2021-22","12663",2,542,658,"Michigan","Maddie Nolan",3,"personal",2,2,0,-2
+"2021-22","12663",2,540,660,"Michigan","Naz Hillmon",0,"personal",1,3,0,-2
+"2021-22","12663",2,524,676,"Michigan","Jordan Hobbs",10,"personal",1,4,0,-4
+"2021-22","12663",2,452,748,"Maryland","Shyanne Sellers",0,"personal",2,1,0,1
+"2021-22","12663",2,433,767,"Michigan","Jordan Hobbs",10,"personal",2,5,1,-1
+"2021-22","12663",2,260,940,"Maryland","Angel Reese",10,"personal",2,2,0,3
+"2021-22","12663",2,138,1062,"Michigan","Naz Hillmon",0,"personal",2,6,1,-3
+"2021-22","12663",2,118,1082,"Michigan","Emily Kiser",33,"personal",1,7,1,-3
+"2021-22","12663",3,495,1305,"Michigan","Emily Kiser",33,"personal",2,1,0,-3
+"2021-22","12663",3,413,1387,"Maryland","Angel Reese",10,"personal",3,1,0,4
+"2021-22","12663",3,332,1468,"Maryland","Katie Benzan",11,"personal",1,2,0,1
+"2021-22","12663",3,246,1554,"Michigan","Laila Phelia",5,"personal",3,2,0,-1
+"2021-22","12663",3,222,1578,"Michigan","Maddie Nolan",3,"personal",3,3,0,-1
+"2021-22","12663",3,201,1599,"Maryland","Diamond Miller",1,"personal",2,3,0,2
+"2021-22","12663",3,195,1605,"Maryland","Diamond Miller",1,"personal",3,4,0,0
+"2021-22","12663",3,86,1714,"Michigan","Naz Hillmon",0,"personal",3,4,0,3
+"2021-22","12663",3,74,1726,"Maryland","Shyanne Sellers",0,"personal",3,5,1,-3
+"2021-22","12663",3,55,1745,"Maryland","Katie Benzan",11,"personal",2,6,1,-4
+"2021-22","12663",4,510,1890,"Maryland","Angel Reese",10,"personal",4,1,0,-4
+"2021-22","12663",4,420,1980,"Michigan","Danielle Rauch",23,"personal",1,1,0,10
+"2021-22","12663",4,357,2043,"Michigan","Laila Phelia",5,"personal",4,2,0,10
+"2021-22","12663",4,289,2111,"Maryland","Mimi Collins",2,"personal",1,2,0,-8
+"2021-22","12663",4,254,2146,"Michigan","Emily Kiser",33,"personal",3,3,0,9
+"2021-22","12663",4,219,2181,"Michigan","Maddie Nolan",3,"personal",4,4,0,10
+"2021-22","12663",4,173,2227,"Maryland","Angel Reese",10,"personal",5,3,0,-8
+"2021-22","12663",4,147,2253,"Maryland","Diamond Miller",1,"personal",4,4,0,-8
+"2021-22","12663",4,126,2274,"Michigan","Danielle Rauch",23,"personal",2,5,1,10
+"2021-22","12663",4,109,2291,"Maryland","Chloe Bibby",55,"personal",1,5,1,-8
+"2021-22","12663",4,76,2324,"Maryland","Chloe Bibby",55,"personal",2,6,1,-10
+"2021-22","12663",4,57,2343,"Maryland","Shyanne Sellers",0,"personal",4,7,1,-7
+"2021-22","12663",4,50,2350,"Maryland","Ashley Owusu",15,"personal",2,8,1,-5
+"2021-22","12663",4,42,2358,"Maryland","Ashley Owusu",15,"personal",3,9,1,-6
+"2021-22","12663",4,35,2365,"Maryland","Katie Benzan",11,"personal",3,10,1,-8
+"2021-22","12663",4,25,2375,"Maryland","Ashley Owusu",15,"personal",4,11,1,-10
+"2021-22","12663",4,17,2383,"Maryland","Chloe Bibby",55,"personal",3,12,1,-12
+"2021-22","12664",1,318,282,"Indiana","Chloe Moore-McNeil",22,"personal",1,1,0,0
+"2021-22","12664",1,168,432,"Indiana","Mackenzie Holmes",54,"personal",1,2,0,-10
+"2021-22","12664",1,147,453,"Maryland","Shyanne Sellers",0,"personal",1,1,0,10
+"2021-22","12664",1,109,491,"Maryland","Angel Reese",30,"personal",1,2,0,8
+"2021-22","12664",1,0,600,"Maryland","Mimi Collins",2,"personal",1,3,0,11
+"2021-22","12664",2,589,611,"Maryland","Chloe Bibby",55,"personal",1,1,0,9
+"2021-22","12664",2,534,666,"Maryland","Diamond Miller",1,"personal",1,2,0,12
+"2021-22","12664",2,440,760,"Indiana","Kiandra Browne",23,"personal",1,1,0,-7
+"2021-22","12664",2,372,828,"Maryland","Diamond Miller",1,"personal",2,3,0,9
+"2021-22","12664",2,70,1130,"Maryland","Mimi Collins",2,"personal",2,4,0,10
+"2021-22","12664",2,46,1154,"Maryland","Mimi Collins",2,"personal",3,5,1,10
+"2021-22","12664",3,589,1211,"Indiana","Mackenzie Holmes",54,"personal",2,1,0,-5
+"2021-22","12664",3,544,1256,"Indiana","Ali Patberg",14,"personal",1,2,0,-6
+"2021-22","12664",3,382,1418,"Indiana","Kiandra Browne",23,"personal",2,3,0,-9
+"2021-22","12664",3,364,1436,"Maryland","Katie Benzan",11,"personal",1,1,0,9
+"2021-22","12664",3,282,1518,"Indiana","Nicole Cardano-Hillary",4,"personal",1,4,0,-9
+"2021-22","12664",3,264,1536,"Indiana","Ali Patberg",14,"personal",2,5,1,-9
+"2021-22","12664",3,197,1603,"Maryland","Chloe Bibby",55,"personal",2,2,0,9
+"2021-22","12664",3,30,1770,"Maryland","Shyanne Sellers",0,"personal",2,3,0,4
+"2021-22","12664",4,575,1825,"Maryland","Shyanne Sellers",0,"personal",3,1,0,4
+"2021-22","12664",4,564,1836,"Indiana","Grace Berger",34,"personal",1,1,0,-4
+"2021-22","12664",4,456,1944,"Indiana","Aleksa Gulbe",10,"personal",1,2,0,-6
+"2021-22","12664",4,426,1974,"Maryland","Angel Reese",30,"personal",2,2,0,4
+"2021-22","12664",4,248,2152,"Indiana","Grace Berger",34,"personal",2,3,0,-6
+"2021-22","12664",4,234,2166,"Maryland","Shyanne Sellers",0,"personal",4,3,0,4
+"2021-22","12664",4,98,2302,"Indiana","Chloe Moore-McNeil",22,"personal",2,4,0,-4
+"2021-22","12706",1,558,42,"Delaware","Ty Battle",33,"personal",1,1,0,-2
+"2021-22","12706",1,432,168,"Delaware","Paris McBride",4,"personal",1,2,0,-7
+"2021-22","12706",1,238,362,"Delaware","Tyi Skinner",3,"personal",1,3,0,-8
+"2021-22","12706",1,173,427,"Delaware","Makayla Pippin",14,"personal",1,4,0,-8
+"2021-22","12706",1,160,440,"Maryland","Katie Benzan",11,"personal",1,1,0,9
+"2021-22","12706",1,55,545,"Delaware","Tyi Skinner",3,"personal",2,5,1,-7
+"2021-22","12706",2,513,687,"Delaware","Paris McBride",4,"personal",2,1,0,-10
+"2021-22","12706",2,477,723,"Maryland","Chloe Bibby",55,"personal",1,1,0,13
+"2021-22","12706",2,467,733,"Maryland","Chloe Bibby",55,"personal",2,2,0,13
+"2021-22","12706",2,316,884,"Maryland","Diamond Miller",1,"personal",1,3,0,11
+"2021-22","12706",2,287,913,"Delaware","Makayla Pippin",14,"personal",2,2,0,-10
+"2021-22","12706",2,190,1010,"Maryland","Angel Reese",10,"personal",1,4,0,11
+"2021-22","12706",3,540,1260,"Maryland","Diamond Miller",1,"personal",2,1,0,13
+"2021-22","12706",3,460,1340,"Maryland","Shyanne Sellers",0,"personal",1,2,0,14
+"2021-22","12706",3,407,1393,"Delaware","Lizzie Oleary",12,"personal",1,1,0,-11
+"2021-22","12706",3,372,1428,"Delaware","Paris McBride",4,"personal",3,2,0,-13
+"2021-22","12706",3,298,1502,"Delaware","Tyi Skinner",3,"personal",3,3,0,-17
+"2021-22","12706",3,159,1641,"Maryland","Chloe Bibby",55,"personal",3,3,0,23
+"2021-22","12706",3,95,1705,"Delaware","Lizzie Oleary",12,"personal",2,4,0,-20
+"2021-22","12706",3,50,1750,"Delaware","Makayla Pippin",14,"personal",3,5,1,-22
+"2021-22","12706",4,596,1804,"Delaware","Paris McBride",4,"personal",4,1,0,-24
+"2021-22","12706",4,473,1927,"Delaware","Makayla Pippin",14,"personal",4,2,0,-29
+"2021-22","12706",4,403,1997,"Maryland","Angel Reese",10,"personal",2,1,0,27
+"2021-22","12706",4,344,2056,"Delaware","Tee Johnson",10,"personal",1,3,0,-27
+"2021-22","12706",4,131,2269,"Maryland","Taisiya Kozlova",14,"personal",1,2,0,27
+"2021-22","12707",1,471,129,"Stanford","Lexie Hull",12,"personal",1,1,0,3
+"2021-22","12707",1,384,216,"Stanford","Haley Jones",30,"personal",1,2,0,6
+"2021-22","12707",1,384,216,"Maryland","Shyanne Sellers",0,"personal",1,1,0,-4
+"2021-22","12707",1,159,441,"Maryland","Diamond Miller",1,"personal",1,2,0,-8
+"2021-22","12707",1,48,552,"Stanford","Lacie Hull",24,"personal",1,3,0,12
+"2021-22","12707",1,36,564,"Maryland","Diamond Miller",1,"personal",2,3,0,-10
+"2021-22","12707",2,498,702,"Maryland","Shyanne Sellers",0,"personal",2,1,0,-8
+"2021-22","12707",2,449,751,"Maryland","Angel Reese",10,"personal",1,2,0,-8
+"2021-22","12707",2,413,787,"Stanford","Cameron Brink",22,"personal",1,1,0,8
+"2021-22","12707",2,354,846,"Maryland","Mimi Collins",2,"personal",1,3,0,-8
+"2021-22","12707",2,303,897,"Stanford","Cameron Brink",22,"personal",2,2,0,11
+"2021-22","12707",2,284,916,"Stanford","Francesca Belibi",5,"personal",1,3,0,10
+"2021-22","12707",2,240,960,"Stanford","Francesca Belibi",5,"personal",2,4,0,10
+"2021-22","12707",2,164,1036,"Stanford","Lacie Hull",24,"personal",2,5,1,13
+"2021-22","12707",2,140,1060,"Maryland","Angel Reese",10,"personal",2,4,0,-13
+"2021-22","12707",2,80,1120,"Maryland","Chloe Bibby",55,"personal",1,5,1,-15
+"2021-22","12707",2,5,1195,"Maryland","Shyanne Sellers",0,"personal",3,6,1,-15
+"2021-22","12707",3,543,1257,"Maryland","Diamond Miller",1,"personal",3,1,0,-16
+"2021-22","12707",3,483,1317,"Stanford","Cameron Brink",22,"personal",3,1,0,16
+"2021-22","12707",3,437,1363,"Stanford","Lacie Hull",24,"personal",3,2,0,16
+"2021-22","12707",3,401,1399,"Maryland","Diamond Miller",1,"personal",4,2,0,-14
+"2021-22","12707",3,261,1539,"Stanford","Anna Wilson",3,"personal",1,3,0,20
+"2021-22","12707",3,212,1588,"Stanford","Kiki Iriafen",44,"personal",1,4,0,18
+"2021-22","12707",3,190,1610,"Maryland","Mimi Collins",2,"personal",2,3,0,-18
+"2021-22","12707",3,153,1647,"Stanford","Kiki Iriafen",44,"personal",2,5,1,22
+"2021-22","12707",3,137,1663,"Maryland","Angel Reese",10,"personal",3,4,0,-23
+"2021-22","12707",3,71,1729,"Stanford","Kiki Iriafen",44,"personal",3,6,1,26
+"2021-22","12707",4,534,1866,"Stanford","Lacie Hull",24,"personal",4,1,0,18
+"2021-22","12707",4,496,1904,"Stanford","Hannah Jump",33,"personal",1,2,0,19
+"2021-22","12707",4,403,1997,"Stanford","Cameron Brink",22,"personal",4,3,0,19
+"2021-22","12707",4,369,2031,"Stanford","Lexie Hull",12,"personal",2,4,0,18
+"2021-22","12707",4,346,2054,"Maryland","Ashley Owusu",15,"personal",1,1,0,-16
+"2021-22","12707",4,315,2085,"Maryland","Diamond Miller",1,"personal",5,2,0,-16
+"2021-22","12707",4,310,2090,"Stanford","Lexie Hull",12,"personal",3,5,1,16
+"2021-22","12707",4,295,2105,"Stanford","Hannah Jump",33,"personal",2,6,1,14
+"2021-22","12707",4,273,2127,"Maryland","Katie Benzan",11,"personal",1,3,0,-13
+"2021-22","12707",4,261,2139,"Maryland","Katie Benzan",11,"personal",2,4,0,-13
+"2021-22","12707",4,250,2150,"Stanford","Cameron Brink",22,"personal",5,7,1,15
+"2021-22","12707",4,170,2230,"Maryland","Chloe Bibby",55,"personal",2,5,1,-11
+"2021-22","12707",4,126,2274,"Maryland","Shyanne Sellers",0,"personal",4,6,1,-10
+"2021-22","12707",4,43,2357,"Maryland","Angel Reese",10,"personal",4,7,1,-9
+"2021-22","12707",4,33,2367,"Maryland","Katie Benzan",11,"personal",3,8,1,-10
+"2021-22","12707",4,17,2383,"Maryland","Chloe Bibby",55,"personal",3,9,1,-9
+"2021-22","12707",4,11,2389,"Stanford","Lacie Hull",24,"personal",5,8,1,10
+"2021-22","12707",4,8,2392,"Maryland","Shyanne Sellers",0,"personal",5,10,1,-8
+"2021-22","12966",1,586,14,"Indiana","Mackenzie Holmes",54,"personal",1,1,0,0
+"2021-22","12966",1,534,66,"Maryland","Katie Benzan",11,"personal",1,1,0,2
+"2021-22","12966",1,499,101,"Maryland","Shyanne Sellers",0,"personal",1,2,0,0
+"2021-22","12966",1,386,214,"Maryland","Angel Reese",10,"personal",1,3,0,0
+"2021-22","12966",1,327,273,"Indiana","Nicole Cardano-Hillary",4,"personal",1,2,0,0
+"2021-22","12966",1,153,447,"Maryland","Ashley Owusu",15,"personal",1,4,0,-1
+"2021-22","12966",1,80,520,"Maryland","Chloe Bibby",55,"personal",1,5,1,-3
+"2021-22","12966",2,409,791,"Maryland","Shyanne Sellers",0,"personal",2,1,0,-9
+"2021-22","12966",2,344,856,"Indiana","Arielle Wisne",25,"personal",1,1,0,7
+"2021-22","12966",2,232,968,"Maryland","Ashley Owusu",15,"personal",2,2,0,-7
+"2021-22","12966",2,146,1054,"Indiana","Kiandra Browne",23,"personal",1,2,0,5
+"2021-22","12966",2,137,1063,"Indiana","Grace Waggoner",3,"personal",1,3,0,5
+"2021-22","12966",3,432,1368,"Maryland","Katie Benzan",11,"personal",2,1,0,-10
+"2021-22","12966",3,345,1455,"Indiana","Chloe Moore-McNeil",22,"personal",1,1,0,8
+"2021-22","12966",3,302,1498,"Maryland","Mimi Collins",2,"personal",1,2,0,-6
+"2021-22","12966",3,220,1580,"Indiana","Aleksa Gulbe",10,"personal",1,2,0,4
+"2021-22","12966",3,181,1619,"Maryland","Angel Reese",10,"personal",2,3,0,-4
+"2021-22","12966",3,112,1688,"Maryland","Katie Benzan",11,"personal",3,4,0,-4
+"2021-22","12966",3,104,1696,"Maryland","Angel Reese",10,"personal",3,5,1,-5
+"2021-22","12966",3,85,1715,"Indiana","Aleksa Gulbe",10,"personal",2,3,0,5
+"2021-22","12966",3,69,1731,"Maryland","Mimi Collins",2,"personal",2,6,1,-5
+"2021-22","12966",4,517,1883,"Indiana","Chloe Moore-McNeil",22,"personal",2,1,0,8
+"2021-22","12966",4,320,2080,"Indiana","Ali Patberg",14,"personal",1,2,0,5
+"2021-22","12966",4,287,2113,"Maryland","Angel Reese",10,"personal",4,1,0,-7
+"2021-22","12966",4,181,2219,"Indiana","Grace Berger",34,"personal",1,3,0,7
+"2021-22","12966",4,158,2242,"Maryland","Diamond Miller",1,"personal",1,2,0,-7
+"2021-22","12966",4,76,2324,"Maryland","Katie Benzan",11,"personal",4,3,0,-5
+"2021-22","12966",4,64,2336,"Maryland","Diamond Miller",1,"personal",2,4,0,-5
+"2021-22","12966",4,63,2337,"Maryland","Mimi Collins",2,"personal",3,5,1,-5
+"2021-22","12966",4,51,2349,"Maryland","Diamond Miller",1,"personal",3,6,1,-6
+"2021-22","12966",4,44,2356,"Maryland","Angel Reese",10,"personal",5,7,1,-8
+"2021-22","12966",4,33,2367,"Maryland","Chloe Bibby",55,"personal",2,8,1,-10
+"2021-22","12966",4,27,2373,"Maryland","Ashley Owusu",15,"personal",3,9,1,-11
+"2021-22","12966",4,23,2377,"Indiana","Nicole Cardano-Hillary",4,"personal",2,4,0,13
+"2021-22","12970",1,491,109,"Fgcu","Emma List",32,"personal",1,1,0,-4
+"2021-22","12970",1,477,123,"Maryland","Katie Benzan",11,"personal",1,1,0,6
+"2021-22","12970",1,418,182,"Maryland","Angel Reese",10,"personal",1,2,0,4
+"2021-22","12970",1,275,325,"Fgcu","Kendall Spray",10,"personal",1,2,0,-3
+"2021-22","12970",1,252,348,"Maryland","Shyanne Sellers",0,"personal",1,3,0,5
+"2021-22","12970",1,206,394,"Fgcu","Tyra Cox",15,"personal",1,3,0,-5
+"2021-22","12970",2,563,637,"Fgcu","Kierstan Bell",1,"personal",1,1,0,0
+"2021-22","12970",2,349,851,"Fgcu","Kerstie Phills",13,"personal",1,2,0,-3
+"2021-22","12970",2,266,934,"Fgcu","Kendall Spray",10,"personal",2,3,0,-3
+"2021-22","12970",2,227,973,"Maryland","Mimi Collins",2,"personal",1,1,0,2
+"2021-22","12970",2,227,973,"Maryland","Mimi Collins",2,"personal",2,2,0,0
+"2021-22","12970",2,179,1021,"Maryland","Angel Reese",10,"personal",2,3,0,-1
+"2021-22","12970",2,132,1068,"Fgcu","Andrea Cecil",3,"personal",1,4,0,-3
+"2021-22","12970",2,117,1083,"Maryland","Diamond Miller",1,"personal",1,4,0,3
+"2021-22","12970",3,519,1281,"Fgcu","Emma List",32,"personal",2,1,0,-10
+"2021-22","12970",3,514,1286,"Fgcu","Kerstie Phills",13,"personal",2,2,0,-10
+"2021-22","12970",3,443,1357,"Fgcu","Emma List",32,"personal",3,3,0,-14
+"2021-22","12970",3,410,1390,"Fgcu","Kendall Spray",10,"personal",3,4,0,-14
+"2021-22","12970",3,394,1406,"Fgcu","Andrea Cecil",3,"personal",2,5,1,-16
+"2021-22","12970",3,357,1443,"Maryland","Katie Benzan",11,"personal",2,1,0,17
+"2021-22","12970",3,260,1540,"Fgcu","Tishara Morehouse",4,"personal",1,6,1,-18
+"2021-22","12970",3,230,1570,"Fgcu","Andrea Cecil",3,"personal",3,7,1,-20
+"2021-22","12970",3,153,1647,"Fgcu","Kendall Spray",10,"personal",4,8,1,-21
+"2021-22","12970",3,38,1762,"Maryland","Shyanne Sellers",0,"personal",2,2,0,17
+"2021-22","12970",3,4,1796,"Fgcu","Karli Seay",23,"personal",1,9,1,-17
+"2021-22","12970",4,568,1832,"Fgcu","Karli Seay",23,"personal",2,1,0,-19
+"2021-22","12970",4,494,1906,"Fgcu","Kierstan Bell",1,"personal",2,2,0,-22
+"2021-22","12970",4,390,2010,"Maryland","Angel Reese",10,"personal",3,1,0,24
+"2021-22","12970",4,376,2024,"Maryland","Diamond Miller",1,"personal",2,2,0,24
+"2021-22","12970",4,325,2075,"Fgcu","Emma List",32,"personal",4,3,0,-21
+"2021-22","12970",4,259,2141,"Maryland","Chloe Bibby",55,"personal",1,3,0,23
+"2021-22","12970",4,215,2185,"Fgcu","Andrea Cecil",3,"personal",4,4,0,-20
+"2021-22","12970",4,195,2205,"Maryland","Ashley Owusu",15,"personal",1,4,0,21
+"2021-22","12970",4,135,2265,"Fgcu","Karli Seay",23,"personal",3,5,1,-21
+"2021-22","12970",4,35,2365,"Maryland","Shyanne Sellers",0,"personal",3,5,1,25

@@ -1,0 +1,739 @@
+"source_id","file_id","team","player_name","player_number","box_minutes","stint_minutes","delta","anomalies_in_game"
+"2014-15","9555","Maryland","Laurin Mincy",1,21,21.0,0.0,1
+"2014-15","9555","Maryland","Lexie Brown",4,18,18.2,0.2,1
+"2014-15","9555","Maryland","Malina Howard",5,23,22.3,-0.7,1
+"2014-15","9555","Maryland","S. Walker-Kimbrough",32,15,15.0,0.0,1
+"2014-15","9555","Maryland","Brionna Jones",42,16,15.5,-0.5,1
+"2014-15","9555","Maryland","Aja Ellison",0,13,13.2,0.2,1
+"2014-15","9555","Maryland","Kiara Leslie",2,20,20.0,0.0,1
+"2014-15","9555","Maryland","Brene Moseley",3,20,19.9,-0.1,1
+"2014-15","9555","Maryland","Kristen Confroy",12,22,22.7,0.7,1
+"2014-15","9555","Maryland","Chloe Pavlech",15,15,15.2,0.2,1
+"2014-15","9555","Maryland","Tierney Pfirman",22,17,17.1,0.1,1
+"2014-15","9555","Mount St. Mary's","Kayla BATES",12,11,20.3,9.3,1
+"2014-15","9555","Mount St. Mary's","Jody CHICKEY",21,25,25.0,0.0,1
+"2014-15","9555","Mount St. Mary's","Jacqueline BREWER",24,38,38.2,0.2,1
+"2014-15","9555","Mount St. Mary's","Jenn CARNEY",42,26,25.6,-0.4,1
+"2014-15","9555","Mount St. Mary's","Kaitlyn EISENHARD",45,13,12.8,-0.2,1
+"2014-15","9555","Mount St. Mary's","K. BELANGER-FINN",3,10,10.8,0.8,1
+"2014-15","9555","Mount St. Mary's","Katrice DICKSON",11,23,13.0,-10.0,1
+"2014-15","9555","Mount St. Mary's","Stacey KOUTRIS",13,3,2.4,-0.6,1
+"2014-15","9555","Mount St. Mary's","Jackie BUZAID",22,1,0.8,-0.2,1
+"2014-15","9555","Mount St. Mary's","Jessica HARRIS",25,12,11.9,-0.1,1
+"2014-15","9555","Mount St. Mary's","Caroline HUMMELL",32,19,18.5,-0.5,1
+"2014-15","9555","Mount St. Mary's","S. ARTHUR-WILLIAMS",44,19,19.2,0.2,1
+"2014-15","9556","Maryland","Laurin Mincy",1,18,18.4,0.4,0
+"2014-15","9556","Maryland","Lexie Brown",4,15,14.6,-0.4,0
+"2014-15","9556","Maryland","Malina Howard",5,24,23.8,-0.2,0
+"2014-15","9556","Maryland","S. Walker-Kimbrough",32,17,17.3,0.3,0
+"2014-15","9556","Maryland","Brionna Jones",42,16,15.6,-0.4,0
+"2014-15","9556","Maryland","Aja Ellison",0,10,10.2,0.2,0
+"2014-15","9556","Maryland","Kiara Leslie",2,20,19.9,-0.1,0
+"2014-15","9556","Maryland","Brene Moseley",3,18,17.9,-0.1,0
+"2014-15","9556","Maryland","Kristen Confroy",12,18,18.5,0.5,0
+"2014-15","9556","Maryland","Chloe Pavlech",15,18,17.8,-0.2,0
+"2014-15","9556","Maryland","Tierney Pfirman",22,17,17.0,0.0,0
+"2014-15","9556","Maryland","A'Lexus Harrison",33,9,9.1,0.1,0
+"2014-15","9556","Wagner","Jasmine NWAJEI",1,23,22.1,-0.9,0
+"2014-15","9556","Wagner","Lyndsay ROWE",14,29,29.0,0.0,0
+"2014-15","9556","Wagner","Jackie DLUHI",20,23,22.9,-0.1,0
+"2014-15","9556","Wagner","Jordyn PECK",24,30,29.6,-0.4,0
+"2014-15","9556","Wagner","Ugo NWAIGWE",33,12,12.0,0.0,0
+"2014-15","9556","Wagner","Tanasia RUSSELL",3,14,14.6,0.6,0
+"2014-15","9556","Wagner","Tessa WADE",5,12,12.6,0.6,0
+"2014-15","9556","Wagner","Sofia ROMA",13,23,23.6,0.6,0
+"2014-15","9556","Wagner","Samantha SULLIVAN",21,17,16.9,-0.1,0
+"2014-15","9556","Wagner","M. CONYERS-JORDAN",25,17,16.8,-0.2,0
+"2014-15","9557","Maryland","Laurin Mincy",1,31,31.0,0.0,0
+"2014-15","9557","Maryland","Lexie Brown",4,32,31.7,-0.3,0
+"2014-15","9557","Maryland","Malina Howard",5,30,30.2,0.2,0
+"2014-15","9557","Maryland","S. Walker-Kimbrough",32,34,33.3,-0.7,0
+"2014-15","9557","Maryland","Brionna Jones",42,17,16.9,-0.1,0
+"2014-15","9557","Maryland","Kiara Leslie",2,7,6.9,-0.1,0
+"2014-15","9557","Maryland","Brene Moseley",3,10,10.7,0.7,0
+"2014-15","9557","Maryland","Kristen Confroy",12,20,19.8,-0.2,0
+"2014-15","9557","Maryland","Tierney Pfirman",22,2,2.2,0.2,0
+"2014-15","9557","Maryland","A'Lexus Harrison",33,17,17.4,0.4,0
+"2014-15","9557","South Florida","Courtney WILLIAMS",10,36,36.1,0.1,0
+"2014-15","9557","South Florida","Laura MARCOS CANEDO",13,13,13.0,0.0,0
+"2014-15","9557","South Florida","Laura FERREIRA",20,28,28.1,0.1,0
+"2014-15","9557","South Florida","Alisia JENKINS",24,28,27.9,-0.1,0
+"2014-15","9557","South Florida","Katelyn WEBER",45,8,7.7,-0.3,0
+"2014-15","9557","South Florida","Tamara TAYLOR",3,8,8.1,0.1,0
+"2014-15","9557","South Florida","Ariadna PUJOL",11,12,11.8,-0.2,0
+"2014-15","9557","South Florida","Bre BROOKS",12,2,1.7,-0.3,0
+"2014-15","9557","South Florida","Paige CASHIN",14,8,8.8,0.8,0
+"2014-15","9557","South Florida","Shavontae NAYLOR",15,11,10.7,-0.3,0
+"2014-15","9557","South Florida","Laia FLORES",22,2,2.0,0.0,0
+"2014-15","9557","South Florida","Shaleth STRINGFIELD",23,24,23.2,-0.8,0
+"2014-15","9557","South Florida","Maria JESPERSEN",32,20,20.8,0.8,0
+"2014-15","9558","George Washington","Chakecia Miller",1,23,15.0,-8.0,7
+"2014-15","9558","George Washington","Caira Washington",3,21,21.5,0.5,7
+"2014-15","9558","George Washington","Lauren Chase",4,34,34.0,0.0,7
+"2014-15","9558","George Washington","Hannah Schaible",20,29,28.1,-0.9,7
+"2014-15","9558","George Washington","Jonquel Jones",35,34,34.1,0.1,7
+"2014-15","9558","George Washington","Shannon Cranshaw",13,13,12.5,-0.5,7
+"2014-15","9558","George Washington","Alexis Chandler",24,3,3.3,0.3,7
+"2014-15","9558","George Washington","Kelli Prange",25,21,27.8,6.8,7
+"2014-15","9558","George Washington","Brianna Cummings",34,22,22.1,0.1,7
+"2014-15","9558","Maryland","Laurin Mincy",1,32,32.2,0.2,7
+"2014-15","9558","Maryland","Lexie Brown",4,32,32.3,0.3,7
+"2014-15","9558","Maryland","Malina Howard",5,26,26.6,0.6,7
+"2014-15","9558","Maryland","S. Walker-Kimbrough",32,36,36.1,0.1,7
+"2014-15","9558","Maryland","Brionna Jones",42,22,21.7,-0.3,7
+"2014-15","9558","Maryland","Kiara Leslie",2,1,0.8,-0.2,7
+"2014-15","9558","Maryland","Brene Moseley",3,5,5.1,0.1,7
+"2014-15","9558","Maryland","Kristen Confroy",12,14,13.9,-0.1,7
+"2014-15","9558","Maryland","Chloe Pavlech",15,2,1.7,-0.3,7
+"2014-15","9558","Maryland","Tierney Pfirman",22,16,15.6,-0.4,7
+"2014-15","9558","Maryland","A'Lexus Harrison",33,14,13.8,-0.2,7
+"2014-15","9559","Maryland","Laurin Mincy",1,28,27.6,-0.4,5
+"2014-15","9559","Maryland","Lexie Brown",4,17,16.8,-0.2,5
+"2014-15","9559","Maryland","Malina Howard",5,16,11.8,-4.2,5
+"2014-15","9559","Maryland","S. Walker-Kimbrough",32,23,23.2,0.2,5
+"2014-15","9559","Maryland","Brionna Jones",42,16,15.7,-0.3,5
+"2014-15","9559","Maryland","Aja Ellison",0,5,5.9,0.9,5
+"2014-15","9559","Maryland","Kiara Leslie",2,15,16.1,1.1,5
+"2014-15","9559","Maryland","Brene Moseley",3,17,16.5,-0.5,5
+"2014-15","9559","Maryland","Kristen Confroy",12,17,16.8,-0.2,5
+"2014-15","9559","Maryland","Chloe Pavlech",15,11,13.1,2.1,5
+"2014-15","9559","Maryland","Tierney Pfirman",22,18,17.4,-0.6,5
+"2014-15","9559","Maryland","A'Lexus Harrison",33,17,16.9,-0.1,5
+"2014-15","9559","Loyola","Colleen Marshall",5,35,34.9,-0.1,5
+"2014-15","9559","Loyola","Bri Betz-White",11,36,16.1,-19.9,5
+"2014-15","9559","Loyola","Lisa Mirarchi",23,25,24.9,-0.1,5
+"2014-15","9559","Loyola","Steph Smith",32,31,31.0,0.0,5
+"2014-15","9559","Loyola","Jeneh Perry",42,9,9.3,0.3,5
+"2014-15","9559","Loyola","Diana Logan",20,13,26.2,13.2,5
+"2014-15","9559","Loyola","Lauren Daugherty",21,31,30.7,-0.3,5
+"2014-15","9559","Loyola","Karley Kolberg",30,9,9.0,0.0,5
+"2014-15","9559","Loyola","Carly Monzo",33,11,11.4,0.4,5
+"2014-15","9560","Maryland","Laurin Mincy",1,36,36.9,0.9,2
+"2014-15","9560","Maryland","Lexie Brown",4,34,34.0,0.0,2
+"2014-15","9560","Maryland","Malina Howard",5,25,24.6,-0.4,2
+"2014-15","9560","Maryland","S. Walker-Kimbrough",32,28,27.5,-0.5,2
+"2014-15","9560","Maryland","Brionna Jones",42,29,29.1,0.1,2
+"2014-15","9560","Maryland","Brene Moseley",3,14,16.2,2.2,2
+"2014-15","9560","Maryland","Kristen Confroy",12,8,7.6,-0.4,2
+"2014-15","9560","Maryland","Tierney Pfirman",22,12,11.8,-0.2,2
+"2014-15","9560","Maryland","A'Lexus Harrison",33,14,17.8,3.8,2
+"2014-15","9560","James Madison","TOIA GIGGETTS",3,27,25.8,-1.2,2
+"2014-15","9560","James Madison","PRECIOUS HALL",12,37,37.0,0.0,2
+"2014-15","9560","James Madison","JAZMON GWATHMEY",24,30,30.5,0.5,2
+"2014-15","9560","James Madison","ANGELA MICKENS",32,34,35.2,1.2,2
+"2014-15","9560","James Madison","LAUREN OKAFOR",33,21,20.8,-0.2,2
+"2014-15","9560","James Madison","DESTINY JONES",2,16,15.8,-0.2,2
+"2014-15","9560","James Madison","HAILEE BARRON",14,11,10.4,-0.6,2
+"2014-15","9560","James Madison","DA'LISHIA GRIFFIN",40,16,15.7,-0.3,2
+"2014-15","9560","James Madison","CARLEY BREW",42,8,8.8,0.8,2
+"2014-15","9561","Washington State","LIA GALDEIRA",3,32,32.2,0.2,5
+"2014-15","9561","Washington State","TIA PRESLEY",5,18,18.0,0.0,5
+"2014-15","9561","Washington State","DAWNYELLE AWA",11,25,25.9,0.9,5
+"2014-15","9561","Washington State","SHALIE DHEENSAW",23,31,31.5,0.5,5
+"2014-15","9561","Washington State","MARIAH COOKS",34,22,21.4,-0.6,5
+"2014-15","9561","Washington State","CAILA HALIEY",1,6,6.0,0.0,5
+"2014-15","9561","Washington State","TAYLOR EDMONDSON",12,24,23.8,-0.2,5
+"2014-15","9561","Washington State","PINELOPI PAVLOPOULOU",22,15,14.1,-0.9,5
+"2014-15","9561","Washington State","BIANCA BLANARUC",24,3,2.8,-0.2,5
+"2014-15","9561","Washington State","LOUISE BROWN",42,24,24.4,0.4,5
+"2014-15","9561","Maryland","Laurin Mincy",1,35,36.6,1.6,5
+"2014-15","9561","Maryland","Lexie Brown",4,31,31.4,0.4,5
+"2014-15","9561","Maryland","Malina Howard",5,13,12.8,-0.2,5
+"2014-15","9561","Maryland","S. Walker-Kimbrough",32,16,15.9,-0.1,5
+"2014-15","9561","Maryland","Brionna Jones",42,32,31.4,-0.6,5
+"2014-15","9561","Maryland","Kiara Leslie",2,4,4.0,0.0,5
+"2014-15","9561","Maryland","Brene Moseley",3,9,9.1,0.1,5
+"2014-15","9561","Maryland","Kristen Confroy",12,15,14.8,-0.2,5
+"2014-15","9561","Maryland","Chloe Pavlech",15,18,17.4,-0.6,5
+"2014-15","9561","Maryland","Tierney Pfirman",22,12,21.0,9.0,5
+"2014-15","9561","Maryland","A'Lexus Harrison",33,15,15.0,0.0,5
+"2014-15","9562","Notre Dame","Brianna Turner",11,4,3.8,-0.2,0
+"2014-15","9562","Notre Dame","Taya Reimer",12,23,22.7,-0.3,0
+"2014-15","9562","Notre Dame","Lindsay Allen",15,27,27.3,0.3,0
+"2014-15","9562","Notre Dame","Michaela Mabrey",23,27,27.1,0.1,0
+"2014-15","9562","Notre Dame","Jewell Loyd",32,29,29.1,0.1,0
+"2014-15","9562","Notre Dame","Whitney Holloway",3,3,2.1,-0.9,0
+"2014-15","9562","Notre Dame","Mychal Johnson",14,11,11.4,0.4,0
+"2014-15","9562","Notre Dame","Madison Cable",22,13,13.7,0.7,0
+"2014-15","9562","Notre Dame","Hannah Huffman",24,13,13.0,0.0,0
+"2014-15","9562","Notre Dame","Kathryn Westbeld",33,22,21.8,-0.2,0
+"2014-15","9562","Notre Dame","Markisha Wright",34,26,26.1,0.1,0
+"2014-15","9562","Notre Dame","Diamond Thompson",35,2,2.1,0.1,0
+"2014-15","9562","Maryland","Laurin Mincy",1,34,35.9,1.9,0
+"2014-15","9562","Maryland","Lexie Brown",4,35,35.0,0.0,0
+"2014-15","9562","Maryland","Malina Howard",5,26,25.9,-0.1,0
+"2014-15","9562","Maryland","S. Walker-Kimbrough",32,20,19.9,-0.1,0
+"2014-15","9562","Maryland","Brionna Jones",42,24,24.3,0.3,0
+"2014-15","9562","Maryland","Kiara Leslie",2,22,21.6,-0.4,0
+"2014-15","9562","Maryland","Brene Moseley",3,3,2.8,-0.2,0
+"2014-15","9562","Maryland","Kristen Confroy",12,19,18.6,-0.4,0
+"2014-15","9562","Maryland","Tierney Pfirman",22,6,5.6,-0.4,0
+"2014-15","9562","Maryland","A'Lexus Harrison",33,11,10.6,-0.4,0
+"2014-15","9563","Maryland","Laurin Mincy",1,19,19.9,0.9,0
+"2014-15","9563","Maryland","Lexie Brown",4,20,20.4,0.4,0
+"2014-15","9563","Maryland","Malina Howard",5,17,16.7,-0.3,0
+"2014-15","9563","Maryland","S. Walker-Kimbrough",32,20,19.9,-0.1,0
+"2014-15","9563","Maryland","Brionna Jones",42,16,16.2,0.2,0
+"2014-15","9563","Maryland","Aja Ellison",0,3,2.9,-0.1,0
+"2014-15","9563","Maryland","Kiara Leslie",2,19,19.4,0.4,0
+"2014-15","9563","Maryland","Brene Moseley",3,14,14.1,0.1,0
+"2014-15","9563","Maryland","Kristen Confroy",12,21,20.3,-0.7,0
+"2014-15","9563","Maryland","Chloe Pavlech",15,17,16.6,-0.4,0
+"2014-15","9563","Maryland","Tierney Pfirman",22,22,22.6,0.6,0
+"2014-15","9563","Maryland","A'Lexus Harrison",33,12,11.0,-1.0,0
+"2014-15","9563","Towson","LaTorri Hines-Allen",0,34,33.7,-0.3,0
+"2014-15","9563","Towson","Dominique Johnson",1,32,31.6,-0.4,0
+"2014-15","9563","Towson","Breonn Hughey",2,40,40.0,0.0,0
+"2014-15","9563","Towson","Camille Alberson",13,32,31.9,-0.1,0
+"2014-15","9563","Towson","Markell Smith",20,14,13.3,-0.7,0
+"2014-15","9563","Towson","Ciara Webb",3,17,17.5,0.5,0
+"2014-15","9563","Towson","Brianna Bush",14,9,9.6,0.6,0
+"2014-15","9563","Towson","Ece Yurdakul",23,8,8.4,0.4,0
+"2014-15","9563","Towson","Shanea Butler",32,9,9.2,0.2,0
+"2014-15","9563","Towson","Daijha Thomas",33,5,4.9,-0.1,0
+"2014-15","9564","Maryland","Laurin Mincy",1,28,27.3,-0.7,6
+"2014-15","9564","Maryland","Lexie Brown",4,23,23.2,0.2,6
+"2014-15","9564","Maryland","Malina Howard",5,21,21.1,0.1,6
+"2014-15","9564","Maryland","S. Walker-Kimbrough",32,27,27.1,0.1,6
+"2014-15","9564","Maryland","Brionna Jones",42,12,12.3,0.3,6
+"2014-15","9564","Maryland","Aja Ellison",0,5,14.6,9.6,6
+"2014-15","9564","Maryland","Kiara Leslie",2,16,15.9,-0.1,6
+"2014-15","9564","Maryland","Brene Moseley",3,11,11.8,0.8,6
+"2014-15","9564","Maryland","Kristen Confroy",12,19,18.3,-0.7,6
+"2014-15","9564","Maryland","Chloe Pavlech",15,13,13.5,0.5,6
+"2014-15","9564","Maryland","Tierney Pfirman",22,14,14.4,0.4,6
+"2014-15","9564","Maryland","A'Lexus Harrison",33,11,10.6,-0.4,6
+"2014-15","9564","American","Shaquilla Curtis",2,24,24.0,0.0,6
+"2014-15","9564","American","Jen Dumiak",3,38,37.5,-0.5,6
+"2014-15","9564","American","Michelle Holmes",12,21,20.8,-0.2,6
+"2014-15","9564","American","Arron Zimmerman",13,26,26.9,0.9,6
+"2014-15","9564","American","Jordan Light",20,21,20.8,-0.2,6
+"2014-15","9564","American","Emily Kinneston",4,7,6.0,-1.0,6
+"2014-15","9564","American","Lauren Crisler",10,25,25.8,0.8,6
+"2014-15","9564","American","Maria Liddane",14,11,10.6,-0.4,6
+"2014-15","9564","American","Kate Bond",21,2,2.1,0.1,6
+"2014-15","9564","American","Ari Booth",32,23,23.4,0.4,6
+"2014-15","9564","American","Michael Harris",33,2,2.1,0.1,6
+"2014-15","9565","Coppin State","Janelle LANE",1,25,24.1,-0.9,6
+"2014-15","9565","Coppin State","Tanaysa HENDERSON",3,29,28.7,-0.3,6
+"2014-15","9565","Coppin State","Amber GRIFFIN",10,35,36.0,1.0,6
+"2014-15","9565","Coppin State","Jordan SWAILS",23,24,24.2,0.2,6
+"2014-15","9565","Coppin State","Bria HARRIS",24,36,36.1,0.1,6
+"2014-15","9565","Coppin State","Genesis LUCAS",2,19,18.6,-0.4,6
+"2014-15","9565","Coppin State","Candice BEVERLY",11,5,5.2,0.2,6
+"2014-15","9565","Coppin State","Keena SAMUELS",21,9,9.4,0.4,6
+"2014-15","9565","Coppin State","Omaah TAYONG",32,16,16.1,0.1,6
+"2014-15","9565","Coppin State","Oluwaseun ADEJINI",34,2,1.6,-0.4,6
+"2014-15","9565","Maryland","Laurin Mincy",1,20,20.7,0.7,6
+"2014-15","9565","Maryland","Malina Howard",5,8,8.3,0.3,6
+"2014-15","9565","Maryland","Kristen Confroy",12,14,13.4,-0.6,6
+"2014-15","9565","Maryland","S. Walker-Kimbrough",32,22,14.6,-7.4,6
+"2014-15","9565","Maryland","Brionna Jones",42,18,18.1,0.1,6
+"2014-15","9565","Maryland","Aja Ellison",0,9,8.8,-0.2,6
+"2014-15","9565","Maryland","Kiara Leslie",2,21,20.4,-0.6,6
+"2014-15","9565","Maryland","Brene Moseley",3,23,23.8,0.8,6
+"2014-15","9565","Maryland","Chloe Pavlech",15,22,22.3,0.3,6
+"2014-15","9565","Maryland","Tierney Pfirman",22,17,16.8,-0.2,6
+"2014-15","9565","Maryland","A'Lexus Harrison",33,26,25.9,-0.1,6
+"2014-15","9566","Maryland","Laurin Mincy",1,36,35.8,-0.2,2
+"2014-15","9566","Maryland","Lexie Brown",4,37,37.0,0.0,2
+"2014-15","9566","Maryland","Malina Howard",5,15,17.3,2.3,2
+"2014-15","9566","Maryland","S. Walker-Kimbrough",32,35,34.5,-0.5,2
+"2014-15","9566","Maryland","Brionna Jones",42,27,26.9,-0.1,2
+"2014-15","9566","Maryland","Kiara Leslie",2,4,3.9,-0.1,2
+"2014-15","9566","Maryland","Brene Moseley",3,10,10.2,0.2,2
+"2014-15","9566","Maryland","Kristen Confroy",12,8,8.1,0.1,2
+"2014-15","9566","Maryland","Tierney Pfirman",22,26,25.6,-0.4,2
+"2014-15","9566","Maryland","A'Lexus Harrison",33,2,1.7,-0.3,2
+"2014-15","9566","Ohio State","Kelsey Mitchell",3,39,39.5,0.5,2
+"2014-15","9566","Ohio State","Cait Craft",13,38,38.1,0.1,2
+"2014-15","9566","Ohio State","Ameryst Alston",14,39,38.7,-0.3,2
+"2014-15","9566","Ohio State","Asia Doss",20,15,15.4,0.4,2
+"2014-15","9566","Ohio State","Alexa Hart",22,30,29.6,-0.4,2
+"2014-15","9566","Ohio State","Lisa Blair",21,17,17.1,0.1,2
+"2014-15","9566","Ohio State","Amy Scullion",25,2,1.8,-0.2,2
+"2014-15","9566","Ohio State","Shayla Cooper",32,20,19.8,-0.2,2
+"2014-15","9567","Nebraska","Tear'a Laudermill",1,29,30.6,1.6,1
+"2014-15","9567","Nebraska","Hailie Sample",3,34,33.8,-0.2,1
+"2014-15","9567","Nebraska","Brandi Jeffery",13,29,28.6,-0.4,1
+"2014-15","9567","Nebraska","Emily Cady",23,34,34.2,0.2,1
+"2014-15","9567","Nebraska","Rachel Theriot",33,40,39.5,-0.5,1
+"2014-15","9567","Nebraska","Natalie Romeo",5,16,16.3,0.3,1
+"2014-15","9567","Nebraska","Esther Ramacieri",11,1,0.5,-0.5,1
+"2014-15","9567","Nebraska","Allie Havers",22,17,16.5,-0.5,1
+"2014-15","9567","Maryland","Laurin Mincy",1,31,30.8,-0.2,1
+"2014-15","9567","Maryland","Lexie Brown",4,36,35.6,-0.4,1
+"2014-15","9567","Maryland","Malina Howard",5,30,30.1,0.1,1
+"2014-15","9567","Maryland","S. Walker-Kimbrough",32,35,34.5,-0.5,1
+"2014-15","9567","Maryland","Brionna Jones",42,16,15.8,-0.2,1
+"2014-15","9567","Maryland","Aja Ellison",0,1,0.5,-0.5,1
+"2014-15","9567","Maryland","Kiara Leslie",2,8,9.2,1.2,1
+"2014-15","9567","Maryland","Brene Moseley",3,1,1.4,0.4,1
+"2014-15","9567","Maryland","Kristen Confroy",12,7,7.7,0.7,1
+"2014-15","9567","Maryland","Chloe Pavlech",15,6,5.6,-0.4,1
+"2014-15","9567","Maryland","Tierney Pfirman",22,21,20.8,-0.2,1
+"2014-15","9567","Maryland","A'Lexus Harrison",33,8,8.2,0.2,1
+"2014-15","9568","Maryland","Laurin Mincy",1,34,34.5,0.5,0
+"2014-15","9568","Maryland","Lexie Brown",4,29,28.6,-0.4,0
+"2014-15","9568","Maryland","Malina Howard",5,10,10.5,0.5,0
+"2014-15","9568","Maryland","S. Walker-Kimbrough",32,31,31.3,0.3,0
+"2014-15","9568","Maryland","Brionna Jones",42,33,32.9,-0.1,0
+"2014-15","9568","Maryland","Aja Ellison",0,1,1.0,0.0,0
+"2014-15","9568","Maryland","Kiara Leslie",2,7,6.8,-0.2,0
+"2014-15","9568","Maryland","Brene Moseley",3,5,4.8,-0.2,0
+"2014-15","9568","Maryland","Kristen Confroy",12,7,6.9,-0.1,0
+"2014-15","9568","Maryland","Chloe Pavlech",15,11,10.9,-0.1,0
+"2014-15","9568","Maryland","Tierney Pfirman",22,24,22.3,-1.7,0
+"2014-15","9568","Maryland","A'Lexus Harrison",33,8,9.5,1.5,0
+"2014-15","9568","Purdue","Ashley Morrissette",1,37,37.7,0.7,0
+"2014-15","9568","Purdue","Bridget Perry",13,5,4.6,-0.4,0
+"2014-15","9568","Purdue","Liza Clemons",23,32,31.6,-0.4,0
+"2014-15","9568","Purdue","April Wilson",25,37,36.9,-0.1,0
+"2014-15","9568","Purdue","Whitney Bays",32,31,30.1,-0.9,0
+"2014-15","9568","Purdue","Torrie Thornton",4,16,16.6,0.6,0
+"2014-15","9568","Purdue","Justine Hall",5,3,3.1,0.1,0
+"2014-15","9568","Purdue","Hayden Hamby",10,5,5.4,0.4,0
+"2014-15","9568","Purdue","Bree Horrocks",22,8,8.0,0.0,0
+"2014-15","9568","Purdue","Andreona Keys",24,26,26.0,0.0,0
+"2014-15","9569","Minnesota","Shayne Mullaney",3,37,37.4,0.4,1
+"2014-15","9569","Minnesota","Shae Kelley",23,37,37.4,0.4,1
+"2014-15","9569","Minnesota","Mikayla Bailey",24,26,26.1,0.1,1
+"2014-15","9569","Minnesota","Amanda Zahui",32,39,38.8,-0.2,1
+"2014-15","9569","Minnesota","Carlie Wagner",33,40,40.0,0.0,1
+"2014-15","9569","Minnesota","Stabresa McDaniel",2,14,13.8,-0.2,1
+"2014-15","9569","Minnesota","Tory Jacobs",5,3,2.6,-0.4,1
+"2014-15","9569","Minnesota","Kayla Hirt",20,4,3.8,-0.2,1
+"2014-15","9569","Maryland","Laurin Mincy",1,38,38.0,0.0,1
+"2014-15","9569","Maryland","Lexie Brown",4,40,40.0,0.0,1
+"2014-15","9569","Maryland","Malina Howard",5,27,25.2,-1.8,1
+"2014-15","9569","Maryland","S. Walker-Kimbrough",32,37,37.4,0.4,1
+"2014-15","9569","Maryland","Brionna Jones",42,18,19.5,1.5,1
+"2014-15","9569","Maryland","Kiara Leslie",2,3,2.6,-0.4,1
+"2014-15","9569","Maryland","Brene Moseley",3,16,15.9,-0.1,1
+"2014-15","9569","Maryland","Kristen Confroy",12,5,5.3,0.3,1
+"2014-15","9569","Maryland","Chloe Pavlech",15,4,3.7,-0.3,1
+"2014-15","9569","Maryland","Tierney Pfirman",22,10,9.8,-0.2,1
+"2014-15","9569","Maryland","A'Lexus Harrison",33,2,2.6,0.6,1
+"2014-15","9570","Rutgers","Kahleah Copper",2,39,20.0,-19.0,23
+"2014-15","9570","Rutgers","Tyler Scaife",3,35,35.1,0.1,23
+"2014-15","9570","Rutgers","Syessence Davis",15,25,24.6,-0.4,23
+"2014-15","9570","Rutgers","Ariel Butts",43,8,7.6,-0.4,23
+"2014-15","9570","Rutgers","Betnijah Laney",44,30,11.0,-19.0,23
+"2014-15","9570","Rutgers","Rachel Hollivay",1,32,36.4,4.4,23
+"2014-15","9570","Rutgers","Briyona Canty",4,19,22.2,3.2,23
+"2014-15","9570","Rutgers","Shrita Parker",10,10,10.1,0.1,23
+"2014-15","9570","Rutgers","Christa Evans",20,2,1.6,-0.4,23
+"2014-15","9570","Maryland","Laurin Mincy",1,38,37.8,-0.2,23
+"2014-15","9570","Maryland","Lexie Brown",4,40,40.0,0.0,23
+"2014-15","9570","Maryland","Malina Howard",5,22,21.8,-0.2,23
+"2014-15","9570","Maryland","S. Walker-Kimbrough",32,38,37.4,-0.6,23
+"2014-15","9570","Maryland","Brionna Jones",42,36,36.7,0.7,23
+"2014-15","9570","Maryland","Aja Ellison",0,1,0.8,-0.2,23
+"2014-15","9570","Maryland","Kiara Leslie",2,3,3.1,0.1,23
+"2014-15","9570","Maryland","Brene Moseley",3,3,3.2,0.2,23
+"2014-15","9570","Maryland","Kristen Confroy",12,4,4.3,0.3,23
+"2014-15","9570","Maryland","Tierney Pfirman",22,2,2.2,0.2,23
+"2014-15","9570","Maryland","A'Lexus Harrison",33,13,12.7,-0.3,23
+"2014-15","9571","Maryland","Laurin Mincy",1,18,18.1,0.1,0
+"2014-15","9571","Maryland","Lexie Brown",4,32,31.7,-0.3,0
+"2014-15","9571","Maryland","Malina Howard",5,29,29.8,0.8,0
+"2014-15","9571","Maryland","S. Walker-Kimbrough",32,32,31.1,-0.9,0
+"2014-15","9571","Maryland","Brionna Jones",42,32,31.2,-0.8,0
+"2014-15","9571","Maryland","Aja Ellison",0,1,1.7,0.7,0
+"2014-15","9571","Maryland","Kiara Leslie",2,5,5.0,0.0,0
+"2014-15","9571","Maryland","Brene Moseley",3,16,16.4,0.4,0
+"2014-15","9571","Maryland","Kristen Confroy",12,15,15.4,0.4,0
+"2014-15","9571","Maryland","Chloe Pavlech",15,1,0.6,-0.4,0
+"2014-15","9571","Maryland","Tierney Pfirman",22,8,7.8,-0.2,0
+"2014-15","9571","Maryland","A'Lexus Harrison",33,11,11.2,0.2,0
+"2014-15","9571","Illinois","Amarah Coleman",10,33,33.4,0.4,0
+"2014-15","9571","Illinois","Kyley Simmons",15,34,33.9,-0.1,0
+"2014-15","9571","Illinois","Brittany Carter",20,21,21.5,0.5,0
+"2014-15","9571","Illinois","Chatrice White",32,38,38.3,0.3,0
+"2014-15","9571","Illinois","Jacqui Grant",34,33,32.6,-0.4,0
+"2014-15","9571","Illinois","Sarah Hartwell",0,9,8.7,-0.3,0
+"2014-15","9571","Illinois","Taylor Tuck",3,3,2.5,-0.5,0
+"2014-15","9571","Illinois","Nia Oden",5,16,16.4,0.4,0
+"2014-15","9571","Illinois","Ashley McConnell",12,10,10.2,0.2,0
+"2014-15","9571","Illinois","Brooke Kissinger",21,2,1.7,-0.3,0
+"2014-15","9571","Illinois","Kennedy Cattenhead",25,1,0.9,-0.1,0
+"2014-15","9572","Maryland","Laurin Mincy",1,28,28.7,0.7,0
+"2014-15","9572","Maryland","Lexie Brown",4,30,30.4,0.4,0
+"2014-15","9572","Maryland","Malina Howard",5,25,24.5,-0.5,0
+"2014-15","9572","Maryland","S. Walker-Kimbrough",32,23,23.0,0.0,0
+"2014-15","9572","Maryland","Brionna Jones",42,21,20.8,-0.2,0
+"2014-15","9572","Maryland","Kiara Leslie",2,11,11.8,0.8,0
+"2014-15","9572","Maryland","Brene Moseley",3,16,15.8,-0.2,0
+"2014-15","9572","Maryland","Kristen Confroy",12,16,15.3,-0.7,0
+"2014-15","9572","Maryland","Chloe Pavlech",15,5,5.0,0.0,0
+"2014-15","9572","Maryland","Tierney Pfirman",22,17,16.8,-0.2,0
+"2014-15","9572","Maryland","A'Lexus Harrison",33,8,8.0,0.0,0
+"2014-15","9572","Michigan State","Tori Jankoska",1,38,38.1,0.1,0
+"2014-15","9572","Michigan State","Cara Miller",2,24,24.4,0.4,0
+"2014-15","9572","Michigan State","Anna Morrissey",14,30,30.7,0.7,0
+"2014-15","9572","Michigan State","Aerial Powers",23,40,39.7,-0.3,0
+"2014-15","9572","Michigan State","Becca Mills",52,25,25.8,0.8,0
+"2014-15","9572","Michigan State","Lexi Gussert",24,24,23.0,-1.0,0
+"2014-15","9572","Michigan State","Kennedy Johnson",55,19,18.3,-0.7,0
+"2014-15","9573","Indiana","Tyra Buss",3,37,30.0,-7.0,5
+"2014-15","9573","Indiana","Larryn Brooks",5,27,27.4,0.4,5
+"2014-15","9573","Indiana","Alexis Gassion",23,35,34.9,-0.1,5
+"2014-15","9573","Indiana","Amanda Cahill",33,31,31.2,0.2,5
+"2014-15","9573","Indiana","Jenn Anderson",43,25,24.4,-0.6,5
+"2014-15","9573","Indiana","Jess Walter",2,18,19.0,1.0,5
+"2014-15","9573","Indiana","Taylor Agler",10,11,10.6,-0.4,5
+"2014-15","9573","Indiana","Karlee McBride",21,15,15.0,0.0,5
+"2014-15","9573","Indiana","Lyndsay Leikem",40,1,0.7,-0.3,5
+"2014-15","9573","Maryland","Laurin Mincy",1,33,32.9,-0.1,5
+"2014-15","9573","Maryland","Lexie Brown",4,36,36.2,0.2,5
+"2014-15","9573","Maryland","Malina Howard",5,31,30.8,-0.2,5
+"2014-15","9573","Maryland","S. Walker-Kimbrough",32,33,32.9,-0.1,5
+"2014-15","9573","Maryland","Brionna Jones",42,24,24.1,0.1,5
+"2014-15","9573","Maryland","Aja Ellison",0,0,0.1,0.1,5
+"2014-15","9573","Maryland","Kiara Leslie",2,2,2.4,0.4,5
+"2014-15","9573","Maryland","Brene Moseley",3,12,12.7,0.7,5
+"2014-15","9573","Maryland","Kristen Confroy",12,22,21.4,-0.6,5
+"2014-15","9573","Maryland","A'Lexus Harrison",33,7,6.5,-0.5,5
+"2014-15","9574","Michigan","Siera Thompson",2,33,34.2,1.2,0
+"2014-15","9574","Michigan","Shannon Smith",5,34,32.2,-1.8,0
+"2014-15","9574","Michigan","Nicole Elmblad",14,32,31.9,-0.1,0
+"2014-15","9574","Michigan","Danielle Williams",20,7,7.2,0.2,0
+"2014-15","9574","Michigan","Cyesha Goree",22,35,35.9,0.9,0
+"2014-15","9574","Michigan","Madison Ristovski",1,18,17.4,-0.6,0
+"2014-15","9574","Michigan","Katelynn Flaherty",3,29,29.9,0.9,0
+"2014-15","9574","Michigan","Jillian Dunston",11,6,6.2,0.2,0
+"2014-15","9574","Michigan","Terra Stapleton",12,1,0.8,-0.2,0
+"2014-15","9574","Michigan","Paige Rakers",15,3,2.6,-0.4,0
+"2014-15","9574","Michigan","Kelsey Mitchell",32,2,1.7,-0.3,0
+"2014-15","9574","Maryland","Laurin Mincy",1,37,36.4,-0.6,0
+"2014-15","9574","Maryland","Lexie Brown",4,35,34.6,-0.4,0
+"2014-15","9574","Maryland","Malina Howard",5,17,17.6,0.6,0
+"2014-15","9574","Maryland","S. Walker-Kimbrough",32,32,33.0,1.0,0
+"2014-15","9574","Maryland","Brionna Jones",42,28,28.1,0.1,0
+"2014-15","9574","Maryland","Aja Ellison",0,3,2.8,-0.2,0
+"2014-15","9574","Maryland","Kiara Leslie",2,3,2.8,-0.2,0
+"2014-15","9574","Maryland","Brene Moseley",3,14,13.7,-0.3,0
+"2014-15","9574","Maryland","Kristen Confroy",12,5,5.2,0.2,0
+"2014-15","9574","Maryland","Chloe Pavlech",15,3,2.8,-0.2,0
+"2014-15","9574","Maryland","Tierney Pfirman",22,18,18.2,0.2,0
+"2014-15","9574","Maryland","A'Lexus Harrison",33,5,4.9,-0.1,0
+"2014-15","9575","Maryland","Laurin Mincy",1,36,35.6,-0.4,2
+"2014-15","9575","Maryland","Lexie Brown",4,30,30.1,0.1,2
+"2014-15","9575","Maryland","Malina Howard",5,18,17.8,-0.2,2
+"2014-15","9575","Maryland","S. Walker-Kimbrough",32,29,29.4,0.4,2
+"2014-15","9575","Maryland","Brionna Jones",42,26,26.5,0.5,2
+"2014-15","9575","Maryland","Kiara Leslie",2,24,24.0,0.0,2
+"2014-15","9575","Maryland","Brene Moseley",3,13,13.2,0.2,2
+"2014-15","9575","Maryland","Kristen Confroy",12,11,11.6,0.6,2
+"2014-15","9575","Maryland","Chloe Pavlech",15,1,0.6,-0.4,2
+"2014-15","9575","Maryland","Tierney Pfirman",22,12,11.9,-0.1,2
+"2014-15","9575","Iowa","Ally Disterhoft",2,33,33.5,0.5,2
+"2014-15","9575","Iowa","Whitney Jennings",15,18,17.3,-0.7,2
+"2014-15","9575","Iowa","Melissa Dixon",21,37,36.7,-0.3,2
+"2014-15","9575","Iowa","Samantha Logic",22,38,37.7,-0.3,2
+"2014-15","9575","Iowa","Bethany Doolittle",51,34,34.1,0.1,2
+"2014-15","9575","Iowa","Alexa Kastanek",1,8,9.1,1.1,2
+"2014-15","9575","Iowa","Claire Till",3,6,6.2,0.2,2
+"2014-15","9575","Iowa","Christina Buttenham",23,7,6.6,-0.4,2
+"2014-15","9575","Iowa","Kali Peschel",25,19,19.1,0.1,2
+"2014-15","9576","Penn State","Candice Agee",1,24,25.1,1.1,0
+"2014-15","9576","Penn State","Sierra Moore",5,37,37.1,0.1,0
+"2014-15","9576","Penn State","Keke Sevillian",10,17,16.7,-0.3,0
+"2014-15","9576","Penn State","Kaliyah Mitchell",15,18,17.6,-0.4,0
+"2014-15","9576","Penn State","Tori Waldner",44,30,29.3,-0.7,0
+"2014-15","9576","Penn State","Lindsey Spann",12,31,30.7,-0.3,0
+"2014-15","9576","Penn State","Peyton Whitted",25,21,21.1,0.1,0
+"2014-15","9576","Penn State","Jenny DeGraaf",41,22,22.4,0.4,0
+"2014-15","9576","Maryland","Laurin Mincy",1,24,24.1,0.1,0
+"2014-15","9576","Maryland","Lexie Brown",4,30,29.6,-0.4,0
+"2014-15","9576","Maryland","Malina Howard",5,24,24.8,0.8,0
+"2014-15","9576","Maryland","S. Walker-Kimbrough",32,33,33.4,0.4,0
+"2014-15","9576","Maryland","Brionna Jones",42,15,15.4,0.4,0
+"2014-15","9576","Maryland","Aja Ellison",0,8,6.7,-1.3,0
+"2014-15","9576","Maryland","Kiara Leslie",2,11,10.8,-0.2,0
+"2014-15","9576","Maryland","Brene Moseley",3,10,10.1,0.1,0
+"2014-15","9576","Maryland","Kristen Confroy",12,9,9.5,0.5,0
+"2014-15","9576","Maryland","Chloe Pavlech",15,3,3.4,0.4,0
+"2014-15","9576","Maryland","Tierney Pfirman",22,20,20.1,0.1,0
+"2014-15","9576","Maryland","A'Lexus Harrison",33,13,12.0,-1.0,0
+"2014-15","9577","Maryland","Laurin Mincy",1,25,25.2,0.2,1
+"2014-15","9577","Maryland","Lexie Brown",4,37,37.6,0.6,1
+"2014-15","9577","Maryland","Malina Howard",5,31,30.6,-0.4,1
+"2014-15","9577","Maryland","S. Walker-Kimbrough",32,31,30.9,-0.1,1
+"2014-15","9577","Maryland","Brionna Jones",42,31,31.0,0.0,1
+"2014-15","9577","Maryland","Aja Ellison",0,2,1.5,-0.5,1
+"2014-15","9577","Maryland","Kiara Leslie",2,13,12.8,-0.2,1
+"2014-15","9577","Maryland","Brene Moseley",3,4,4.2,0.2,1
+"2014-15","9577","Maryland","Kristen Confroy",12,13,13.2,0.2,1
+"2014-15","9577","Maryland","Chloe Pavlech",15,1,1.2,0.2,1
+"2014-15","9577","Maryland","Tierney Pfirman",22,4,4.1,0.1,1
+"2014-15","9577","Maryland","A'Lexus Harrison",33,8,7.8,-0.2,1
+"2014-15","9577","Nebraska","Tear'a Laudermill",1,30,29.9,-0.1,1
+"2014-15","9577","Nebraska","Hailie Sample",3,29,29.0,0.0,1
+"2014-15","9577","Nebraska","Natalie Romeo",5,33,33.1,0.1,1
+"2014-15","9577","Nebraska","Brandi Jeffery",13,25,24.5,-0.5,1
+"2014-15","9577","Nebraska","Emily Cady",23,33,32.8,-0.2,1
+"2014-15","9577","Nebraska","Esther Ramacieri",11,1,1.2,0.2,1
+"2014-15","9577","Nebraska","Allie Havers",22,17,17.0,0.0,1
+"2014-15","9577","Nebraska","Chandler Smith",30,24,24.2,0.2,1
+"2014-15","9577","Nebraska","Anya Kalenta",31,1,1.2,0.2,1
+"2014-15","9577","Nebraska","Jasmine Cincore",34,7,7.4,0.4,1
+"2014-15","9578","Maryland","Laurin Mincy",1,38,38.2,0.2,1
+"2014-15","9578","Maryland","Lexie Brown",4,39,39.0,0.0,1
+"2014-15","9578","Maryland","Malina Howard",5,35,34.6,-0.4,1
+"2014-15","9578","Maryland","S. Walker-Kimbrough",32,38,38.0,0.0,1
+"2014-15","9578","Maryland","Brionna Jones",42,15,15.0,0.0,1
+"2014-15","9578","Maryland","Aja Ellison",0,2,1.9,-0.1,1
+"2014-15","9578","Maryland","Kiara Leslie",2,3,2.8,-0.2,1
+"2014-15","9578","Maryland","Brene Moseley",3,3,4.0,1.0,1
+"2014-15","9578","Maryland","A'Lexus Harrison",33,27,26.7,-0.3,1
+"2014-15","9578","Rutgers","Kahleah Copper",2,38,38.0,0.0,1
+"2014-15","9578","Rutgers","Tyler Scaife",3,37,36.7,-0.3,1
+"2014-15","9578","Rutgers","Syessence Davis",15,30,30.2,0.2,1
+"2014-15","9578","Rutgers","Ariel Butts",43,12,12.9,0.9,1
+"2014-15","9578","Rutgers","Betnijah Laney",44,39,38.5,-0.5,1
+"2014-15","9578","Rutgers","Rachel Hollivay",1,20,18.9,-1.1,1
+"2014-15","9578","Rutgers","Briyona Canty",4,13,12.7,-0.3,1
+"2014-15","9578","Rutgers","Shrita Parker",10,3,3.8,0.8,1
+"2014-15","9578","Rutgers","Christa Evans",20,8,8.2,0.2,1
+"2014-15","9579","Michigan State","Tori Jankoska",1,39,39.4,0.4,11
+"2014-15","9579","Michigan State","Cara Miller",2,37,36.6,-0.4,11
+"2014-15","9579","Michigan State","Aerial Powers",23,38,38.4,0.4,11
+"2014-15","9579","Michigan State","Lexi Gussert",24,22,22.1,0.1,11
+"2014-15","9579","Michigan State","Becca Mills",52,36,35.8,-0.2,11
+"2014-15","9579","Michigan State","Anna Morrissey",14,18,17.9,-0.1,11
+"2014-15","9579","Michigan State","Kennedy Johnson",55,10,10.5,0.5,11
+"2014-15","9579","Maryland","Laurin Mincy",1,27,27.9,0.9,11
+"2014-15","9579","Maryland","Lexie Brown",4,39,38.9,-0.1,11
+"2014-15","9579","Maryland","Malina Howard",5,18,29.8,11.8,11
+"2014-15","9579","Maryland","S. Walker-Kimbrough",32,33,33.2,0.2,11
+"2014-15","9579","Maryland","Brionna Jones",42,33,32.9,-0.1,11
+"2014-15","9579","Maryland","Kiara Leslie",2,13,12.8,-0.2,11
+"2014-15","9579","Maryland","Brene Moseley",3,4,4.6,0.6,11
+"2014-15","9579","Maryland","Kristen Confroy",12,4,4.0,0.0,11
+"2014-15","9579","Maryland","Tierney Pfirman",22,17,16.8,-0.2,11
+"2014-15","9579","Maryland","A'Lexus Harrison",33,12,11.5,-0.5,11
+"2014-15","9580","Wisconsin","Dakota Whyte",1,25,24.9,-0.1,1
+"2014-15","9580","Wisconsin","Nicole Bauman",4,39,38.7,-0.3,1
+"2014-15","9580","Wisconsin","Tessa Cichy",22,35,35.6,0.6,1
+"2014-15","9580","Wisconsin","Jacki Gulczynski",35,32,31.8,-0.2,1
+"2014-15","9580","Wisconsin","Cassie Rochel",43,27,27.0,0.0,1
+"2014-15","9580","Wisconsin","AnnMarie Brown",3,12,11.7,-0.3,1
+"2014-15","9580","Wisconsin","Cayla McMorris",23,13,13.0,0.0,1
+"2014-15","9580","Wisconsin","Malayna Johnson",24,17,17.3,0.3,1
+"2014-15","9580","Maryland","Laurin Mincy",1,31,30.5,-0.5,1
+"2014-15","9580","Maryland","Lexie Brown",4,39,39.3,0.3,1
+"2014-15","9580","Maryland","Malina Howard",5,13,17.6,4.6,1
+"2014-15","9580","Maryland","S. Walker-Kimbrough",32,33,32.7,-0.3,1
+"2014-15","9580","Maryland","Brionna Jones",42,33,33.0,0.0,1
+"2014-15","9580","Maryland","Aja Ellison",0,1,0.7,-0.3,1
+"2014-15","9580","Maryland","Kiara Leslie",2,3,3.0,0.0,1
+"2014-15","9580","Maryland","Brene Moseley",3,5,4.7,-0.3,1
+"2014-15","9580","Maryland","Kristen Confroy",12,16,16.2,0.2,1
+"2014-15","9580","Maryland","Tierney Pfirman",22,22,22.7,0.7,1
+"2014-15","9580","Maryland","A'Lexus Harrison",33,4,3.7,-0.3,1
+"2014-15","9581","Maryland","Laurin Mincy",1,23,23.6,0.6,0
+"2014-15","9581","Maryland","Lexie Brown",4,28,28.5,0.5,0
+"2014-15","9581","Maryland","Malina Howard",5,22,22.8,0.8,0
+"2014-15","9581","Maryland","S. Walker-Kimbrough",32,28,27.1,-0.9,0
+"2014-15","9581","Maryland","Brionna Jones",42,23,23.4,0.4,0
+"2014-15","9581","Maryland","Aja Ellison",0,3,3.1,0.1,0
+"2014-15","9581","Maryland","Kiara Leslie",2,9,10.3,1.3,0
+"2014-15","9581","Maryland","Brene Moseley",3,4,3.7,-0.3,0
+"2014-15","9581","Maryland","Kristen Confroy",12,20,19.3,-0.7,0
+"2014-15","9581","Maryland","Chloe Pavlech",15,13,12.7,-0.3,0
+"2014-15","9581","Maryland","Tierney Pfirman",22,17,16.1,-0.9,0
+"2014-15","9581","Maryland","A'Lexus Harrison",33,10,9.4,-0.6,0
+"2014-15","9581","Penn State","Candice Agee",1,29,29.1,0.1,0
+"2014-15","9581","Penn State","Sierra Moore",5,21,21.5,0.5,0
+"2014-15","9581","Penn State","Keke Sevillian",10,27,27.0,0.0,0
+"2014-15","9581","Penn State","Kaliyah Mitchell",15,29,29.5,0.5,0
+"2014-15","9581","Penn State","Tori Waldner",44,20,19.9,-0.1,0
+"2014-15","9581","Penn State","Alex Harris",11,11,10.2,-0.8,0
+"2014-15","9581","Penn State","Lindsey Spann",12,33,33.0,0.0,0
+"2014-15","9581","Penn State","Peyton Whitted",25,22,22.3,0.3,0
+"2014-15","9581","Penn State","Jenny DeGraaf",41,8,7.4,-0.6,0
+"2014-15","9582","Maryland","Laurin Mincy",1,40,40.0,0.0,1
+"2014-15","9582","Maryland","Lexie Brown",4,40,40.0,0.0,1
+"2014-15","9582","Maryland","Malina Howard",5,27,27.4,0.4,1
+"2014-15","9582","Maryland","S. Walker-Kimbrough",32,33,33.2,0.2,1
+"2014-15","9582","Maryland","Brionna Jones",42,23,23.5,0.5,1
+"2014-15","9582","Maryland","Kiara Leslie",2,9,7.8,-1.2,1
+"2014-15","9582","Maryland","Kristen Confroy",12,5,4.9,-0.1,1
+"2014-15","9582","Maryland","Tierney Pfirman",22,10,9.4,-0.6,1
+"2014-15","9582","Maryland","A'Lexus Harrison",33,13,12.9,-0.1,1
+"2014-15","9582","Indiana","Tyra Buss",3,29,29.3,0.3,1
+"2014-15","9582","Indiana","Larryn Brooks",5,33,33.2,0.2,1
+"2014-15","9582","Indiana","Alexis Gassion",23,32,32.2,0.2,1
+"2014-15","9582","Indiana","Amanda Cahill",33,31,30.7,-0.3,1
+"2014-15","9582","Indiana","Jenn Anderson",43,16,16.2,0.2,1
+"2014-15","9582","Indiana","Jess Walter",2,20,20.0,0.0,1
+"2014-15","9582","Indiana","Taylor Agler",10,6,5.3,-0.7,1
+"2014-15","9582","Indiana","Karlee McBride",21,16,16.1,0.1,1
+"2014-15","9582","Indiana","Lyndsay Leikem",40,17,17.0,0.0,1
+"2014-15","9583","Northwestern","Nia Coffey",10,38,38.4,0.4,0
+"2014-15","9583","Northwestern","Maggie Lyon",25,40,40.0,0.0,0
+"2014-15","9583","Northwestern","Ashley Deary",3,34,33.1,-0.9,0
+"2014-15","9583","Northwestern","Karly Roser",42,25,25.4,0.4,0
+"2014-15","9583","Northwestern","Alex Cohen",5,29,28.6,-0.4,0
+"2014-15","9583","Northwestern","Lauren Douglas",11,17,17.0,0.0,0
+"2014-15","9583","Northwestern","Lydia Rohde",12,1,0.9,-0.1,0
+"2014-15","9583","Northwestern","Christen Inman",24,15,15.5,0.5,0
+"2014-15","9583","Northwestern","Christen Johnson",32,1,0.9,-0.1,0
+"2014-15","9583","Maryland","Laurin Mincy",1,26,26.8,0.8,0
+"2014-15","9583","Maryland","S. Walker-Kimbrough",32,40,40.0,0.0,0
+"2014-15","9583","Maryland","Lexie Brown",4,24,24.3,0.3,0
+"2014-15","9583","Maryland","Brionna Jones",42,33,32.8,-0.2,0
+"2014-15","9583","Maryland","Malina Howard",5,30,30.7,0.7,0
+"2014-15","9583","Maryland","Kristen Confroy",12,8,7.7,-0.3,0
+"2014-15","9583","Maryland","Chloe Pavlech",15,4,4.1,0.1,0
+"2014-15","9583","Maryland","Tierney Pfirman",22,6,5.5,-0.5,0
+"2014-15","9583","Maryland","Brene Moseley",3,21,20.1,-0.9,0
+"2014-15","9583","Maryland","A'Lexus Harrison",33,8,8.0,0.0,0
+"2014-15","9584","Maryland","Laurin Mincy",1,20,20.1,0.1,2
+"2014-15","9584","Maryland","S. Walker-Kimbrough",32,21,21.5,0.5,2
+"2014-15","9584","Maryland","Lexie Brown",4,35,35.2,0.2,2
+"2014-15","9584","Maryland","Brionna Jones",42,33,32.4,-0.6,2
+"2014-15","9584","Maryland","Malina Howard",5,31,31.2,0.2,2
+"2014-15","9584","Maryland","Kristen Confroy",12,28,27.2,-0.8,2
+"2014-15","9584","Maryland","Chloe Pavlech",15,4,4.4,0.4,2
+"2014-15","9584","Maryland","Kiara Leslie",2,4,4.0,0.0,2
+"2014-15","9584","Maryland","Tierney Pfirman",22,8,7.7,-0.3,2
+"2014-15","9584","Maryland","Brene Moseley",3,14,13.8,-0.2,2
+"2014-15","9584","Maryland","A'Lexus Harrison",33,2,2.2,0.2,2
+"2014-15","9584","Michigan State","Tori Jankoska",1,40,39.5,-0.5,2
+"2014-15","9584","Michigan State","Anna Morrissey",14,25,25.2,0.2,2
+"2014-15","9584","Michigan State","Aerial Powers",23,34,34.8,0.8,2
+"2014-15","9584","Michigan State","Lexi Gussert",24,30,30.1,0.1,2
+"2014-15","9584","Michigan State","Becca Mills",52,30,27.4,-2.6,2
+"2014-15","9584","Michigan State","Cara Miller",2,23,22.3,-0.7,2
+"2014-15","9584","Michigan State","Kennedy Johnson",55,18,20.8,2.8,2
+"2014-15","9585","Maryland","Laurin Mincy",1,31,31.3,0.3,0
+"2014-15","9585","Maryland","S. Walker-Kimbrough",32,25,25.3,0.3,0
+"2014-15","9585","Maryland","Lexie Brown",4,29,29.1,0.1,0
+"2014-15","9585","Maryland","Brionna Jones",42,21,21.3,0.3,0
+"2014-15","9585","Maryland","Malina Howard",5,32,31.8,-0.2,0
+"2014-15","9585","Maryland","Kristen Confroy",12,13,12.9,-0.1,0
+"2014-15","9585","Maryland","Kiara Leslie",2,8,7.2,-0.8,0
+"2014-15","9585","Maryland","Tierney Pfirman",22,19,19.4,0.4,0
+"2014-15","9585","Maryland","Brene Moseley",3,21,20.9,-0.1,0
+"2014-15","9585","Maryland","A'Lexus Harrison",33,1,0.7,-0.3,0
+"2014-15","9585","Northwestern","Nia Coffey",10,35,35.4,0.4,0
+"2014-15","9585","Northwestern","Maggie Lyon",25,36,36.1,0.1,0
+"2014-15","9585","Northwestern","Ashley Deary",3,32,33.1,1.1,0
+"2014-15","9585","Northwestern","Karly Roser",42,32,31.5,-0.5,0
+"2014-15","9585","Northwestern","Alex Cohen",5,36,36.5,0.5,0
+"2014-15","9585","Northwestern","Lauren Douglas",11,18,17.1,-0.9,0
+"2014-15","9585","Northwestern","Lydia Rohde",12,1,0.9,-0.1,0
+"2014-15","9585","Northwestern","Christen Inman",24,10,9.4,-0.6,0
+"2014-15","9586","Maryland","Laurin Mincy",1,38,37.8,-0.2,0
+"2014-15","9586","Maryland","S. Walker-Kimbrough",32,35,35.2,0.2,0
+"2014-15","9586","Maryland","Lexie Brown",4,36,36.0,0.0,0
+"2014-15","9586","Maryland","Brionna Jones",42,14,14.0,0.0,0
+"2014-15","9586","Maryland","Malina Howard",5,30,29.8,-0.2,0
+"2014-15","9586","Maryland","Kristen Confroy",12,6,6.5,0.5,0
+"2014-15","9586","Maryland","Kiara Leslie",2,24,23.8,-0.2,0
+"2014-15","9586","Maryland","Tierney Pfirman",22,7,7.3,0.3,0
+"2014-15","9586","Maryland","Brene Moseley",3,7,7.0,0.0,0
+"2014-15","9586","Maryland","A'Lexus Harrison",33,3,2.6,-0.4,0
+"2014-15","9586","Ohio State","Cait Craft",13,29,27.7,-1.3,0
+"2014-15","9586","Ohio State","Ameryst Alston",14,38,37.9,-0.1,0
+"2014-15","9586","Ohio State","Asia Doss",20,25,24.9,-0.1,0
+"2014-15","9586","Ohio State","Alexa Hart",22,37,37.1,0.1,0
+"2014-15","9586","Ohio State","Kelsey Mitchell",3,39,39.4,0.4,0
+"2014-15","9586","Ohio State","Lisa Blair",21,2,2.1,0.1,0
+"2014-15","9586","Ohio State","Shayla Cooper",32,30,30.9,0.9,0
+"2014-15","9587","Maryland","Laurin Mincy",1,29,29.9,0.9,4
+"2014-15","9587","Maryland","Lexie Brown",4,27,26.4,-0.6,4
+"2014-15","9587","Maryland","Malina Howard",5,19,18.9,-0.1,4
+"2014-15","9587","Maryland","S. Walker-Kimbrough",32,28,27.7,-0.3,4
+"2014-15","9587","Maryland","Brionna Jones",42,28,28.2,0.2,4
+"2014-15","9587","Maryland","Kiara Leslie",2,12,11.8,-0.2,4
+"2014-15","9587","Maryland","Brene Moseley",3,20,19.7,-0.3,4
+"2014-15","9587","Maryland","Kristen Confroy",12,26,25.6,-0.4,4
+"2014-15","9587","Maryland","Chloe Pavlech",15,3,3.5,0.5,4
+"2014-15","9587","Maryland","Tierney Pfirman",22,7,7.1,0.1,4
+"2014-15","9587","Maryland","A'Lexus Harrison",33,1,1.2,0.2,4
+"2014-15","9587","New Mexico State","Sasha Weber",4,35,25.0,-10.0,4
+"2014-15","9587","New Mexico State","Shanice Davis",11,36,35.6,-0.4,4
+"2014-15","9587","New Mexico State","Abby Scott",23,13,13.4,0.4,4
+"2014-15","9587","New Mexico State","Brianna Freeman",24,28,27.9,-0.1,4
+"2014-15","9587","New Mexico State","Moriah Mack",35,34,34.9,0.9,4
+"2014-15","9587","New Mexico State","Jasmine Cooper",1,9,8.7,-0.3,4
+"2014-15","9587","New Mexico State","Zaire Williams",12,7,11.4,4.4,4
+"2014-15","9587","New Mexico State","Kassandra Harris",13,4,3.3,-0.7,4
+"2014-15","9587","New Mexico State","Tamera William",21,30,33.3,3.3,4
+"2014-15","9587","New Mexico State","Tyler Ellis",22,4,3.6,-0.4,4
+"2014-15","9588","Maryland","Laurin Mincy",1,37,24.6,-12.4,7
+"2014-15","9588","Maryland","Lexie Brown",4,39,38.6,-0.4,7
+"2014-15","9588","Maryland","Malina Howard",5,28,28.0,0.0,7
+"2014-15","9588","Maryland","S. Walker-Kimbrough",32,35,35.7,0.7,7
+"2014-15","9588","Maryland","Brionna Jones",42,29,29.5,0.5,7
+"2014-15","9588","Maryland","Kiara Leslie",2,5,4.9,-0.1,7
+"2014-15","9588","Maryland","Brene Moseley",3,2,2.4,0.4,7
+"2014-15","9588","Maryland","Kristen Confroy",12,4,4.0,0.0,7
+"2014-15","9588","Maryland","Tierney Pfirman",22,19,18.9,-0.1,7
+"2014-15","9588","Maryland","A'Lexus Harrison",33,2,1.6,-0.4,7
+"2014-15","9588","Princeton","Blake Dietrick",11,40,40.0,0.0,7
+"2014-15","9588","Princeton","Amanda Berntsen",14,13,12.9,-0.1,7
+"2014-15","9588","Princeton","Annie Tarakchian",15,40,40.0,0.0,7
+"2014-15","9588","Princeton","Alex Wheatley",21,29,28.9,-0.1,7
+"2014-15","9588","Princeton","Michelle Miller",34,32,32.5,0.5,7
+"2014-15","9588","Princeton","Vanessa Smith",13,28,27.6,-0.4,7
+"2014-15","9588","Princeton","Taylor Williams",22,7,7.1,0.1,7
+"2014-15","9588","Princeton","Mariah Smith",25,11,10.9,-0.1,7
+"2014-15","9589","Maryland","Laurin Mincy",1,40,39.7,-0.3,0
+"2014-15","9589","Maryland","Lexie Brown",4,24,24.1,0.1,0
+"2014-15","9589","Maryland","Malina Howard",5,18,19.4,1.4,0
+"2014-15","9589","Maryland","S. Walker-Kimbrough",32,36,35.9,-0.1,0
+"2014-15","9589","Maryland","Brionna Jones",42,33,33.5,0.5,0
+"2014-15","9589","Maryland","Kiara Leslie",2,15,15.1,0.1,0
+"2014-15","9589","Maryland","Brene Moseley",3,16,16.1,0.1,0
+"2014-15","9589","Maryland","Kristen Confroy",12,7,7.2,0.2,0
+"2014-15","9589","Maryland","Tierney Pfirman",22,10,8.2,-1.8,0
+"2014-15","9589","Maryland","A'Lexus Harrison",33,1,0.8,-0.2,0
+"2014-15","9589","Duke","Elizabeth Williams",1,39,38.2,-0.8,0
+"2014-15","9589","Duke","Azura Stevens",11,34,34.2,0.2,0
+"2014-15","9589","Duke","Ka'lia Johnson",14,36,36.1,0.1,0
+"2014-15","9589","Duke","Rebecca Greenwell",23,37,37.2,0.2,0
+"2014-15","9589","Duke","Amber Henson",30,32,31.7,-0.3,0
+"2014-15","9589","Duke","Mercedes Riggs",12,6,6.6,0.6,0
+"2014-15","9589","Duke","Kendall Cooper",21,16,15.9,-0.1,0
+"2014-15","9590","Maryland","Laurin Mincy",1,39,38.9,-0.1,9
+"2014-15","9590","Maryland","Lexie Brown",4,37,37.1,0.1,9
+"2014-15","9590","Maryland","Malina Howard",5,17,13.3,-3.7,9
+"2014-15","9590","Maryland","S. Walker-Kimbrough",32,33,33.1,0.1,9
+"2014-15","9590","Maryland","Brionna Jones",42,36,35.5,-0.5,9
+"2014-15","9590","Maryland","Kiara Leslie",2,16,15.4,-0.6,9
+"2014-15","9590","Maryland","Brene Moseley",3,6,6.3,0.3,9
+"2014-15","9590","Maryland","Kristen Confroy",12,3,20.0,17.0,9
+"2014-15","9590","Maryland","Tierney Pfirman",22,6,6.5,0.5,9
+"2014-15","9590","Maryland","A'Lexus Harrison",33,7,6.9,-0.1,9
+"2014-15","9590","Tennessee","Jordan Reynolds",0,33,33.0,0.0,9
+"2014-15","9590","Tennessee","Ariel Massengale",5,40,40.0,0.0,9
+"2014-15","9590","Tennessee","Cierra Burdick",11,35,35.1,0.1,9
+"2014-15","9590","Tennessee","Bashaara Graves",12,28,27.5,-0.5,9
+"2014-15","9590","Tennessee","Andraya Carter",14,35,35.1,0.1,9
+"2014-15","9590","Tennessee","Nia Moore",1,1,1.2,0.2,9
+"2014-15","9590","Tennessee","Jaime Nared",31,16,16.2,0.2,9
+"2014-15","9590","Tennessee","Alexa Middleton",33,12,11.9,-0.1,9
+"2014-15","9591","UConn","Morgan TUCK",3,38,38.1,0.1,0
+"2014-15","9591","UConn","Moriah JEFFERSON",4,38,38.1,0.1,0
+"2014-15","9591","UConn","Kia NURSE",11,26,25.8,-0.2,0
+"2014-15","9591","UConn","K. MOSQUEDA-LEWIS",23,32,32.0,0.0,0
+"2014-15","9591","UConn","Breanna STEWART",30,39,38.3,-0.7,0
+"2014-15","9591","UConn","Saniya CHONG",12,2,1.9,-0.1,0
+"2014-15","9591","UConn","Gabby WILLIAMS",15,6,6.3,0.3,0
+"2014-15","9591","UConn","Courtney EKMARK",22,1,1.2,0.2,0
+"2014-15","9591","UConn","Kiah STOKES",41,18,18.3,0.3,0
+"2014-15","9591","Maryland","Laurin Mincy",1,22,21.7,-0.3,0
+"2014-15","9591","Maryland","Lexie Brown",4,38,37.9,-0.1,0
+"2014-15","9591","Maryland","Malina Howard",5,22,22.6,0.6,0
+"2014-15","9591","Maryland","S. Walker-Kimbrough",32,28,27.5,-0.5,0
+"2014-15","9591","Maryland","Brionna Jones",42,24,23.8,-0.2,0
+"2014-15","9591","Maryland","Kiara Leslie",2,4,3.7,-0.3,0
+"2014-15","9591","Maryland","Brene Moseley",3,21,20.6,-0.4,0
+"2014-15","9591","Maryland","Kristen Confroy",12,4,3.9,-0.1,0
+"2014-15","9591","Maryland","Chloe Pavlech",15,8,8.3,0.3,0
+"2014-15","9591","Maryland","Tierney Pfirman",22,19,19.9,0.9,0
+"2014-15","9591","Maryland","A'Lexus Harrison",33,10,10.0,0.0,0

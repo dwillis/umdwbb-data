@@ -1,0 +1,1105 @@
+"source_id","file_id","period","time_remaining","seconds_elapsed","team","player_name","player_number","foul_type","player_foul_count","team_fouls_in_period","bonus_active","margin_at_foul"
+"2017-18","9713",1,517,83,"Albany","Tiana-Jo Carter",33,"personal",1,1,0,3
+"2017-18","9713",1,349,251,"Albany","Kyara Frames",2,"personal",1,2,0,2
+"2017-18","9713",1,323,277,"Maryland","Kaila Charles",5,"personal",1,1,0,-2
+"2017-18","9713",1,320,280,"Albany","Alexi Schecter",24,"personal",1,3,0,2
+"2017-18","9713",1,289,311,"Albany","Jessica Fequiere",15,"personal",1,4,0,2
+"2017-18","9713",1,162,438,"Albany","Chyanna Canada",44,"personal",1,5,1,0
+"2017-18","9713",1,89,511,"Maryland","Brianna Fraser",34,"personal",1,2,0,2
+"2017-18","9713",1,55,545,"Maryland","Blair Watson",22,"personal",1,3,0,2
+"2017-18","9713",2,531,669,"Albany","Chyanna Canada",44,"personal",2,1,0,-1
+"2017-18","9713",2,422,778,"Albany","Emma List",32,"personal",1,2,0,-5
+"2017-18","9713",2,324,876,"Albany","Jessica Fequiere",15,"personal",2,3,0,-7
+"2017-18","9713",2,324,876,"Albany","Mackenzie Trpcic",0,"technical","",3,0,-7
+"2017-18","9713",2,324,876,"Albany","Mackenzie Trpcic",0,"personal",1,4,0,-7
+"2017-18","9713",2,289,911,"Albany","Emma List",32,"personal",2,5,1,-9
+"2017-18","9713",2,236,964,"Maryland","Blair Watson",22,"personal",2,1,0,15
+"2017-18","9713",2,198,1002,"Maryland","Kristen Confroy",12,"personal",1,2,0,17
+"2017-18","9713",2,154,1046,"Albany","Bose Aiyalogbe",13,"personal",1,6,1,-21
+"2017-18","9713",2,132,1068,"Maryland","Ieshia Small",1,"personal",1,3,0,23
+"2017-18","9713",2,49,1151,"Maryland","Kaila Charles",5,"personal",2,4,0,26
+"2017-18","9713",3,476,1324,"Albany","Jessica Fequiere",15,"personal",3,1,0,-31
+"2017-18","9713",3,465,1335,"Maryland","Kaila Charles",5,"personal",3,1,0,33
+"2017-18","9713",3,448,1352,"Albany","Mackenzie Trpcic",0,"personal",2,2,0,-30
+"2017-18","9713",3,440,1360,"Albany","Chyanna Canada",44,"personal",3,3,0,-31
+"2017-18","9713",3,412,1388,"Albany","Heather Forster",22,"personal",1,4,0,-33
+"2017-18","9713",3,366,1434,"Albany","Mackenzie Trpcic",0,"personal",3,5,1,-34
+"2017-18","9713",3,290,1510,"Albany","Tiana-Jo Carter",33,"personal",2,6,1,-37
+"2017-18","9713",3,273,1527,"Maryland","Brianna Fraser",34,"personal",2,2,0,38
+"2017-18","9713",3,222,1578,"Maryland","Blair Watson",22,"personal",3,3,0,40
+"2017-18","9713",3,37,1763,"Maryland","Stephanie Jones",24,"personal",1,4,0,37
+"2017-18","9713",3,10,1790,"Maryland","Stephanie Jones",24,"personal",2,5,1,38
+"2017-18","9713",4,563,1837,"Maryland","Brianna Fraser",34,"personal",3,1,0,36
+"2017-18","9713",4,366,2034,"Albany","Bose Aiyalogbe",13,"personal",2,1,0,-33
+"2017-18","9713",4,280,2120,"Maryland","Channise Lewis",3,"personal",1,2,0,31
+"2017-18","9713",4,212,2188,"Albany","Chyanna Canada",44,"personal",4,2,0,-29
+"2017-18","9713",4,86,2314,"Maryland","Brianna Fraser",34,"personal",4,3,0,29
+"2017-18","9713",4,61,2339,"Albany","Bose Aiyalogbe",13,"personal",3,3,0,-27
+"2017-18","9713",4,16,2384,"Albany","Tiana-Jo Carter",33,"personal",3,4,0,-29
+"2017-18","9713",4,9,2391,"Maryland","Brianna Fraser",34,"personal",5,4,0,31
+"2017-18","9713",4,4,2396,"Albany","Cece Mayo",34,"personal",1,5,1,-31
+"2017-18","9714",1,535,65,"Maryland","Kaila Charles",5,"personal",1,1,0,0
+"2017-18","9714",1,440,160,"Maryland","Brianna Fraser",34,"personal",1,2,0,-8
+"2017-18","9714",1,346,254,"Maryland","Kristen Confroy",12,"personal",1,3,0,-8
+"2017-18","9714",1,285,315,"Maryland","Blair Watson",22,"personal",1,4,0,-8
+"2017-18","9714",1,211,389,"South Carolina","Lindsey SPANN",11,"personal",1,1,0,12
+"2017-18","9714",1,84,516,"South Carolina","Bianca JACKSON",10,"personal",1,2,0,14
+"2017-18","9714",1,23,577,"Maryland","Kaila Charles",5,"personal",2,5,1,-14
+"2017-18","9714",2,524,676,"South Carolina","M. HERBERT HARRIGAN",21,"personal",1,1,0,19
+"2017-18","9714",2,494,706,"South Carolina","LeLe GRISSETT",24,"personal",1,2,0,18
+"2017-18","9714",2,484,716,"South Carolina","M. HERBERT HARRIGAN",21,"technical","",2,0,18
+"2017-18","9714",2,484,716,"South Carolina","M. HERBERT HARRIGAN",21,"personal",2,3,0,18
+"2017-18","9714",2,458,742,"Maryland","Stephanie Jones",24,"personal",1,1,0,-13
+"2017-18","9714",2,420,780,"Maryland","Ieshia Small",1,"personal",1,2,0,-13
+"2017-18","9714",2,408,792,"Maryland","Ieshia Small",1,"personal",2,3,0,-13
+"2017-18","9714",2,334,866,"South Carolina","A'ja WILSON",22,"personal",1,4,0,10
+"2017-18","9714",2,331,869,"South Carolina","Doniyah CLINEY",4,"personal",1,5,1,10
+"2017-18","9714",2,310,890,"Maryland","Brianna Fraser",34,"personal",2,4,0,-8
+"2017-18","9714",2,256,944,"South Carolina","Lindsey SPANN",11,"personal",2,6,1,12
+"2017-18","9714",2,195,1005,"Maryland","Blair Watson",22,"personal",2,5,1,-10
+"2017-18","9714",2,172,1028,"Maryland","Stephanie Jones",24,"personal",2,6,1,-12
+"2017-18","9714",2,138,1062,"South Carolina","Doniyah CLINEY",4,"personal",2,7,1,14
+"2017-18","9714",3,519,1281,"South Carolina","Tyasha HARRIS",52,"personal",1,1,0,17
+"2017-18","9714",3,333,1467,"Maryland","Blair Watson",22,"personal",3,1,0,-18
+"2017-18","9714",3,302,1498,"Maryland","Kristen Confroy",12,"personal",2,2,0,-18
+"2017-18","9714",3,291,1509,"Maryland","Stephanie Jones",24,"personal",3,3,0,-18
+"2017-18","9714",3,124,1676,"South Carolina","M. HERBERT HARRIGAN",21,"personal",3,2,0,26
+"2017-18","9714",3,65,1735,"Maryland","Ieshia Small",1,"personal",3,4,0,-21
+"2017-18","9714",4,546,1854,"South Carolina","M. HERBERT HARRIGAN",21,"personal",4,1,0,19
+"2017-18","9714",4,506,1894,"South Carolina","LeLe GRISSETT",24,"personal",2,2,0,22
+"2017-18","9714",4,431,1969,"Maryland","Kaila Charles",5,"personal",3,1,0,-18
+"2017-18","9714",4,423,1977,"Maryland","Channise Lewis",3,"personal",1,2,0,-18
+"2017-18","9714",4,394,2006,"Maryland","Ieshia Small",1,"personal",4,3,0,-18
+"2017-18","9714",4,344,2056,"South Carolina","Alexis JENNINGS",35,"personal",1,3,0,16
+"2017-18","9714",4,333,2067,"Maryland","Brianna Fraser",34,"personal",3,4,0,-16
+"2017-18","9714",4,320,2080,"Maryland","Brianna Fraser",34,"personal",4,5,1,-16
+"2017-18","9714",4,282,2118,"South Carolina","Lindsey SPANN",11,"personal",3,4,0,15
+"2017-18","9714",4,254,2146,"Maryland","Stephanie Jones",24,"personal",4,6,1,-13
+"2017-18","9714",4,182,2218,"Maryland","Ieshia Small",1,"personal",5,7,1,-10
+"2017-18","9714",4,175,2225,"South Carolina","Tyasha HARRIS",52,"personal",2,5,1,10
+"2017-18","9714",4,175,2225,"Maryland","Channise Lewis",3,"personal",2,8,1,-8
+"2017-18","9714",4,102,2298,"Maryland","Brianna Fraser",34,"personal",5,9,1,-7
+"2017-18","9714",4,101,2299,"South Carolina","Doniyah CLINEY",4,"personal",3,6,1,8
+"2017-18","9714",4,86,2314,"Maryland","Stephanie Jones",24,"personal",5,10,1,-6
+"2017-18","9714",4,60,2340,"Maryland","Kristen Confroy",12,"personal",3,11,1,-6
+"2017-18","9714",4,48,2352,"South Carolina","M. HERBERT HARRIGAN",21,"personal",5,7,1,7
+"2017-18","9714",4,23,2377,"Maryland","Blair Watson",22,"personal",4,12,1,-5
+"2017-18","9714",4,19,2381,"South Carolina","A'ja WILSON",22,"personal",2,8,1,6
+"2017-18","9714",4,18,2382,"Maryland","Channise Lewis",3,"personal",3,13,1,-4
+"2017-18","9714",4,4,2396,"Maryland","Sarah Myers",21,"personal",1,14,1,-6
+"2017-18","9715",1,345,255,"Niagara","Kaylee Stroemple",44,"personal",1,1,0,-1
+"2017-18","9715",1,323,277,"Maryland","Blair Watson",22,"personal",1,1,0,2
+"2017-18","9715",1,292,308,"Maryland","Kaila Charles",5,"personal",1,2,0,-1
+"2017-18","9715",1,260,340,"Niagara","Adila Gathers",15,"personal",1,2,0,1
+"2017-18","9715",1,200,400,"Maryland","Sarah Myers",21,"personal",1,3,0,3
+"2017-18","9715",1,119,481,"Niagara","Jamie Sherburne",10,"personal",1,3,0,-5
+"2017-18","9715",1,66,534,"Maryland","Channise Lewis",3,"personal",1,4,0,7
+"2017-18","9715",1,23,577,"Maryland","Blair Watson",22,"personal",2,5,1,7
+"2017-18","9715",2,583,617,"Maryland","Ieshia Small",1,"personal",1,1,0,8
+"2017-18","9715",2,537,663,"Niagara","Kharysma Bryant",11,"personal",1,1,0,-6
+"2017-18","9715",2,377,823,"Niagara","Victoria Rampado",22,"personal",1,2,0,-8
+"2017-18","9715",2,320,880,"Maryland","Stephanie Jones",24,"personal",1,2,0,10
+"2017-18","9715",2,255,945,"Maryland","Kaila Charles",5,"personal",2,3,0,11
+"2017-18","9715",2,117,1083,"Maryland","Kristen Confroy",12,"personal",1,4,0,9
+"2017-18","9715",3,476,1324,"Maryland","Kristen Confroy",12,"personal",2,1,0,8
+"2017-18","9715",3,416,1384,"Niagara","Maggie McIntyre",21,"personal",1,1,0,-8
+"2017-18","9715",3,386,1414,"Niagara","Kaylee Stroemple",44,"personal",2,2,0,-9
+"2017-18","9715",3,371,1429,"Niagara","Kharysma Bryant",11,"personal",2,3,0,-10
+"2017-18","9715",3,325,1475,"Maryland","Kaila Charles",5,"personal",3,2,0,12
+"2017-18","9715",3,181,1619,"Niagara","Jamie Sherburne",10,"personal",2,4,0,-15
+"2017-18","9715",3,166,1634,"Maryland","Kristen Confroy",12,"personal",3,3,0,15
+"2017-18","9715",3,123,1677,"Maryland","Ieshia Small",1,"personal",2,4,0,17
+"2017-18","9715",3,119,1681,"Maryland","Ieshia Small",1,"personal",3,5,1,17
+"2017-18","9715",3,9,1791,"Maryland","Kaila Charles",5,"personal",4,6,1,17
+"2017-18","9715",4,571,1829,"Niagara","Kharysma Bryant",11,"personal",3,1,0,-19
+"2017-18","9715",4,411,1989,"Niagara","Kharysma Bryant",11,"personal",4,2,0,-18
+"2017-18","9715",4,403,1997,"Maryland","Kaila Charles",5,"personal",5,1,0,20
+"2017-18","9715",4,384,2016,"Niagara","Kaylee Stroemple",44,"personal",3,3,0,-20
+"2017-18","9715",4,312,2088,"Niagara","Maggie McIntyre",21,"personal",2,4,0,-19
+"2017-18","9715",4,296,2104,"Niagara","Adila Gathers",15,"personal",2,5,1,-21
+"2017-18","9715",4,294,2106,"Niagara","Adila Gathers",15,"personal",3,6,1,-22
+"2017-18","9715",4,212,2188,"Niagara","Jai Moore",4,"personal",1,7,1,-26
+"2017-18","9715",4,187,2213,"Niagara","Dagny Davidsdottir",33,"personal",1,8,1,-25
+"2017-18","9715",4,97,2303,"Maryland","Stephanie Jones",24,"personal",2,2,0,28
+"2017-18","9715",4,76,2324,"Maryland","Sarah Myers",21,"personal",2,3,0,26
+"2017-18","9715",4,64,2336,"Niagara","Emerald Ekpiteta",12,"personal",1,9,1,-26
+"2017-18","9716",1,507,93,"UConn","Kia NURSE",11,"personal",1,1,0,3
+"2017-18","9716",1,438,162,"Maryland","Blair Watson",22,"personal",1,1,0,0
+"2017-18","9716",1,278,322,"UConn","Crystal DANGERFIELD",5,"personal",1,2,0,9
+"2017-18","9716",1,228,372,"UConn","Azura STEVENS",23,"personal",1,3,0,11
+"2017-18","9716",1,76,524,"Maryland","Stephanie Jones",24,"personal",1,2,0,-17
+"2017-18","9716",1,20,580,"Maryland","Kaila Charles",5,"personal",1,3,0,-18
+"2017-18","9716",2,431,769,"Maryland","Kristen Confroy",12,"personal",1,1,0,-21
+"2017-18","9716",2,279,921,"Maryland","Stephanie Jones",24,"personal",2,2,0,-20
+"2017-18","9716",2,273,927,"Maryland","Brianna Fraser",34,"personal",1,3,0,-22
+"2017-18","9716",2,191,1009,"Maryland","Ieshia Small",1,"personal",1,4,0,-24
+"2017-18","9716",2,117,1083,"UConn","Azura STEVENS",23,"personal",2,1,0,23
+"2017-18","9716",3,542,1258,"Maryland","Brianna Fraser",34,"personal",2,1,0,-25
+"2017-18","9716",3,527,1273,"UConn","Gabby WILLIAMS",15,"personal",1,1,0,28
+"2017-18","9716",3,503,1297,"Maryland","Brianna Fraser",34,"personal",3,2,0,-28
+"2017-18","9716",3,463,1337,"Maryland","Stephanie Jones",24,"personal",3,3,0,-29
+"2017-18","9716",3,281,1519,"Maryland","Channise Lewis",3,"personal",1,4,0,-31
+"2017-18","9716",3,218,1582,"UConn","Megan WALKER",3,"personal",1,2,0,31
+"2017-18","9716",3,201,1599,"UConn","And ESPINOZA-HUNTER",2,"personal",1,3,0,31
+"2017-18","9716",3,187,1613,"UConn","Crystal DANGERFIELD",5,"personal",2,4,0,29
+"2017-18","9716",3,170,1630,"Maryland","Channise Lewis",3,"personal",2,5,1,-31
+"2017-18","9716",3,135,1665,"UConn","Azura STEVENS",23,"personal",3,5,1,31
+"2017-18","9716",3,123,1677,"Maryland","Brianna Fraser",34,"personal",4,6,1,-29
+"2017-18","9716",3,3,1797,"Maryland","Stephanie Jones",24,"personal",4,7,1,-35
+"2017-18","9716",4,588,1812,"Maryland","Kaila Charles",5,"personal",2,1,0,-36
+"2017-18","9716",4,577,1823,"UConn","Napheesa COLLIER",24,"personal",1,1,0,37
+"2017-18","9716",4,552,1848,"UConn","Napheesa COLLIER",24,"personal",2,2,0,34
+"2017-18","9716",4,442,1958,"Maryland","Ieshia Small",1,"personal",2,2,0,-36
+"2017-18","9716",4,408,1992,"UConn","Kyla IRWIN",25,"personal",1,3,0,36
+"2017-18","9716",4,276,2124,"UConn","Molly BENT",10,"personal",1,4,0,29
+"2017-18","9716",4,111,2289,"UConn","Megan WALKER",3,"personal",2,5,1,28
+"2017-18","9716",4,107,2293,"UConn","Kyla IRWIN",25,"personal",2,6,1,28
+"2017-18","9716",4,38,2362,"Maryland","Blair Watson",22,"personal",2,3,0,-26
+"2017-18","9717",1,566,34,"Howard","Curstyn MOORE",12,"personal",1,1,0,-2
+"2017-18","9717",1,451,149,"Howard","Jayla MYLES",20,"personal",1,2,0,-5
+"2017-18","9717",1,288,312,"Howard","Imani BRYANT",14,"personal",1,3,0,-12
+"2017-18","9717",1,208,392,"Maryland","Sarah Myers",21,"personal",1,1,0,13
+"2017-18","9717",1,189,411,"Howard","Sarah EDMOND",5,"personal",1,4,0,-15
+"2017-18","9717",1,180,420,"Howard","Sarah EDMOND",5,"personal",2,5,1,-16
+"2017-18","9717",1,5,595,"Howard","Tajzhane DOPSON",10,"personal",1,6,1,-25
+"2017-18","9717",2,575,625,"Maryland","Blair Watson",22,"personal",1,1,0,27
+"2017-18","9717",2,571,629,"Maryland","Brianna Fraser",34,"personal",1,2,0,27
+"2017-18","9717",2,507,693,"Maryland","Ieshia Small",1,"personal",1,3,0,27
+"2017-18","9717",2,492,708,"Howard","Aminata JOHNSON",32,"personal",1,1,0,-27
+"2017-18","9717",2,466,734,"Howard","Aminata JOHNSON",32,"personal",2,2,0,-28
+"2017-18","9717",2,457,743,"Maryland","Kaila Charles",5,"personal",1,4,0,30
+"2017-18","9717",2,383,817,"Maryland","Kristen Confroy",12,"personal",1,5,1,33
+"2017-18","9717",2,221,979,"Maryland","Channise Lewis",3,"personal",1,6,1,40
+"2017-18","9717",2,185,1015,"Howard","Ayonna WILLIAMS",4,"personal",1,3,0,-38
+"2017-18","9717",2,159,1041,"Maryland","Stephanie Jones",24,"personal",1,7,1,38
+"2017-18","9717",2,100,1100,"Maryland","Sarah Myers",21,"personal",2,8,1,34
+"2017-18","9717",2,92,1108,"Howard","Imani BRYANT",14,"personal",2,4,0,-34
+"2017-18","9717",2,83,1117,"Howard","Imani BRYANT",14,"personal",3,5,1,-34
+"2017-18","9717",3,510,1290,"Howard","Sarah EDMOND",5,"personal",3,1,0,-38
+"2017-18","9717",3,484,1316,"Howard","Tajzhane DOPSON",10,"personal",2,2,0,-40
+"2017-18","9717",3,301,1499,"Maryland","Stephanie Jones",24,"personal",2,1,0,49
+"2017-18","9717",3,158,1642,"Howard","Ayonna WILLIAMS",4,"personal",2,3,0,-52
+"2017-18","9717",3,83,1717,"Howard","Jayla MYLES",20,"personal",2,4,0,-53
+"2017-18","9717",3,20,1780,"Maryland","Brianna Fraser",34,"personal",2,2,0,53
+"2017-18","9717",4,501,1899,"Howard","Kelsie JACOBS",0,"personal",1,1,0,-55
+"2017-18","9717",4,476,1924,"Howard","Kelsie JACOBS",0,"personal",2,2,0,-57
+"2017-18","9717",4,465,1935,"Howard","Curstyn MOORE",12,"personal",2,3,0,-57
+"2017-18","9717",4,383,2017,"Maryland","Stephanie Jones",24,"personal",3,1,0,59
+"2017-18","9717",4,383,2017,"Maryland","Brianna Fraser",34,"personal",3,2,0,59
+"2017-18","9717",4,211,2189,"Howard","Imani BRYANT",14,"personal",4,4,0,-65
+"2017-18","9717",4,186,2214,"Maryland","Sarah Myers",21,"personal",3,3,0,67
+"2017-18","9717",4,119,2281,"Maryland","Ieshia Small",1,"personal",2,4,0,67
+"2017-18","9717",4,47,2353,"Howard","Asia MCCANTS",3,"personal",1,5,1,-62
+"2017-18","9717",4,43,2357,"Maryland","Ieshia Small",1,"personal",3,5,1,62
+"2017-18","9717",4,43,2357,"Maryland","Ieshia Small",1,"technical","",5,1,62
+"2017-18","9717",4,43,2357,"Maryland","Ieshia Small",1,"personal",4,6,1,62
+"2017-18","9718",1,555,45,"Maryland","Blair Watson",22,"personal",1,1,0,2
+"2017-18","9718",1,350,250,"Maryland","Kaila Charles",5,"personal",1,2,0,5
+"2017-18","9718",1,338,262,"Kennesaw State","ALEXIS POOLE",10,"personal",1,1,0,-5
+"2017-18","9718",1,268,332,"Maryland","Kristen Confroy",12,"personal",1,3,0,5
+"2017-18","9718",1,225,375,"Kennesaw State","ICEIS WALKER",24,"personal",1,2,0,-5
+"2017-18","9718",1,56,544,"Maryland","Sarah Myers",21,"personal",1,4,0,15
+"2017-18","9718",1,6,594,"Maryland","Channise Lewis",3,"personal",1,5,1,15
+"2017-18","9718",2,509,691,"Maryland","Blair Watson",22,"personal",2,1,0,16
+"2017-18","9718",2,427,773,"Kennesaw State","LEXI MANN",33,"personal",1,1,0,-18
+"2017-18","9718",2,377,823,"Maryland","Stephanie Jones",24,"personal",1,2,0,19
+"2017-18","9718",2,367,833,"Maryland","Kaila Charles",5,"personal",2,3,0,19
+"2017-18","9718",2,231,969,"Kennesaw State","CLARA YOUNG",11,"personal",1,2,0,-23
+"2017-18","9718",2,166,1034,"Kennesaw State","JANAE OMUSI",32,"personal",1,3,0,-27
+"2017-18","9718",2,136,1064,"Kennesaw State","BREANNA HOOVER",21,"personal",1,4,0,-28
+"2017-18","9718",2,1,1199,"Maryland","Ieshia Small",1,"personal",1,4,0,34
+"2017-18","9718",3,511,1289,"Kennesaw State","CARLOTTA GIANOLLA",13,"personal",1,1,0,-38
+"2017-18","9718",3,483,1317,"Maryland","Stephanie Jones",24,"personal",2,1,0,40
+"2017-18","9718",3,427,1373,"Maryland","Stephanie Jones",24,"personal",3,2,0,43
+"2017-18","9718",3,360,1440,"Kennesaw State","CLARA YOUNG",11,"personal",2,2,0,-44
+"2017-18","9718",3,222,1578,"Maryland","Blair Watson",22,"personal",3,3,0,41
+"2017-18","9718",3,141,1659,"Maryland","Brianna Fraser",34,"personal",1,4,0,44
+"2017-18","9718",3,65,1735,"Maryland","Brianna Fraser",34,"personal",2,5,1,44
+"2017-18","9718",3,64,1736,"Kennesaw State","LEXI MANN",33,"personal",2,3,0,-42
+"2017-18","9718",4,503,1897,"Kennesaw State","ALEXIS POOLE",10,"personal",2,1,0,-39
+"2017-18","9718",4,400,2000,"Kennesaw State","ALEXIS POOLE",10,"personal",3,2,0,-44
+"2017-18","9718",4,215,2185,"Maryland","Aja Ellison",0,"personal",1,1,0,45
+"2017-18","9718",4,133,2267,"Kennesaw State","KAMIYAH STREET",2,"personal",1,3,0,-49
+"2017-18","9719",1,494,106,"Miami","ERYKAH DAVENPORT",30,"personal",1,1,0,1
+"2017-18","9719",1,463,137,"Miami","KEYANNA HARRIS",0,"personal",1,2,0,0
+"2017-18","9719",1,337,263,"Miami","MYKEA GRAY",5,"personal",1,3,0,-1
+"2017-18","9719",1,286,314,"Maryland","Stephanie Jones",24,"personal",1,1,0,3
+"2017-18","9719",1,242,358,"Miami","SERENA-LYNN GELDOF",51,"personal",1,4,0,0
+"2017-18","9719",1,225,375,"Maryland","Brianna Fraser",34,"personal",1,2,0,0
+"2017-18","9719",1,11,589,"Maryland","Kaila Charles",5,"personal",1,3,0,-2
+"2017-18","9719",2,528,672,"Maryland","Blair Watson",22,"personal",1,1,0,-4
+"2017-18","9719",2,500,700,"Miami","MYKEA GRAY",5,"personal",2,1,0,4
+"2017-18","9719",2,435,765,"Miami","ENDIA BANKS",3,"personal",1,2,0,0
+"2017-18","9719",2,311,889,"Maryland","Ieshia Small",1,"personal",1,2,0,2
+"2017-18","9719",2,197,1003,"Miami","ENDIA BANKS",3,"personal",2,3,0,0
+"2017-18","9719",2,125,1075,"Miami","SERENA-LYNN GELDOF",51,"personal",2,4,0,-2
+"2017-18","9719",2,103,1097,"Maryland","Brianna Fraser",34,"personal",2,3,0,2
+"2017-18","9719",2,91,1109,"Maryland","Stephanie Jones",24,"personal",2,4,0,2
+"2017-18","9719",2,79,1121,"Maryland","Kaila Charles",5,"personal",2,5,1,2
+"2017-18","9719",2,54,1146,"Miami","ERYKAH DAVENPORT",30,"personal",2,5,1,-2
+"2017-18","9719",2,22,1178,"Maryland","Kristen Confroy",12,"personal",1,6,1,2
+"2017-18","9719",2,9,1191,"Miami","TAYLOR MASON",13,"personal",1,6,1,-1
+"2017-18","9719",3,488,1312,"Miami","KEYANNA HARRIS",0,"personal",2,1,0,-5
+"2017-18","9719",3,456,1344,"Maryland","Kaila Charles",5,"personal",3,1,0,7
+"2017-18","9719",3,432,1368,"Miami","KEYANNA HARRIS",0,"personal",3,2,0,-6
+"2017-18","9719",3,349,1451,"Miami","EMESE HOF",21,"personal",1,3,0,-6
+"2017-18","9719",3,336,1464,"Maryland","Kristen Confroy",12,"personal",2,2,0,7
+"2017-18","9719",3,291,1509,"Maryland","Stephanie Jones",24,"personal",3,3,0,6
+"2017-18","9719",3,216,1584,"Maryland","Ieshia Small",1,"personal",2,4,0,6
+"2017-18","9719",3,179,1621,"Maryland","Brianna Fraser",34,"personal",3,5,1,2
+"2017-18","9719",3,132,1668,"Miami","MYKEA GRAY",5,"personal",3,4,0,-4
+"2017-18","9719",4,571,1829,"Miami","KELSEY MARSHALL",20,"personal",1,1,0,-1
+"2017-18","9719",4,539,1861,"Miami","NEYDJA PETITHOMME",15,"personal",1,2,0,-3
+"2017-18","9719",4,483,1917,"Miami","ERYKAH DAVENPORT",30,"personal",3,3,0,-4
+"2017-18","9719",4,468,1932,"Maryland","Kaila Charles",5,"personal",4,1,0,4
+"2017-18","9719",4,445,1955,"Maryland","Kristen Confroy",12,"personal",3,2,0,4
+"2017-18","9719",4,417,1983,"Miami","EMESE HOF",21,"personal",2,4,0,-4
+"2017-18","9719",4,383,2017,"Miami","MYKEA GRAY",5,"personal",4,5,1,-4
+"2017-18","9719",4,233,2167,"Maryland","Kristen Confroy",12,"personal",4,3,0,10
+"2017-18","9719",4,159,2241,"Maryland","Ieshia Small",1,"personal",3,4,0,11
+"2017-18","9719",4,46,2354,"Maryland","Ieshia Small",1,"personal",4,5,1,11
+"2017-18","9720",1,542,58,"Virginia","Jocelyn Willoughby",13,"personal",1,1,0,-2
+"2017-18","9720",1,484,116,"Maryland","Blair Watson",22,"personal",1,1,0,1
+"2017-18","9720",1,433,167,"Maryland","Channise Lewis",3,"personal",1,2,0,-2
+"2017-18","9720",1,328,272,"Virginia","Dominique Toussaint",4,"personal",1,2,0,0
+"2017-18","9720",1,26,574,"Maryland","Brianna Fraser",34,"personal",1,3,0,5
+"2017-18","9720",2,585,615,"Maryland","Stephanie Jones",24,"personal",1,1,0,5
+"2017-18","9720",2,549,651,"Virginia","Felicia Aiyeotan",30,"personal",1,1,0,-3
+"2017-18","9720",2,355,845,"Maryland","Channise Lewis",3,"personal",2,2,0,4
+"2017-18","9720",2,290,910,"Maryland","Ieshia Small",1,"personal",1,3,0,5
+"2017-18","9720",2,37,1163,"Virginia","Brianna Tinsley",1,"personal",1,2,0,-9
+"2017-18","9720",3,520,1280,"Maryland","Kaila Charles",5,"personal",1,1,0,7
+"2017-18","9720",3,493,1307,"Virginia","Brianna Tinsley",1,"personal",2,1,0,-9
+"2017-18","9720",3,409,1391,"Virginia","Lauren Moses",3,"personal",1,2,0,-9
+"2017-18","9720",3,354,1446,"Maryland","Stephanie Jones",24,"personal",2,2,0,10
+"2017-18","9720",3,314,1486,"Virginia","Jocelyn Willoughby",13,"personal",2,3,0,-10
+"2017-18","9720",3,92,1708,"Virginia","Aliyah Huland El",23,"personal",1,4,0,-6
+"2017-18","9720",3,72,1728,"Virginia","Jocelyn Willoughby",13,"personal",3,5,1,-7
+"2017-18","9720",3,53,1747,"Maryland","Stephanie Jones",24,"personal",3,3,0,8
+"2017-18","9720",4,498,1902,"Maryland","Kaila Charles",5,"personal",2,1,0,0
+"2017-18","9720",4,443,1957,"Virginia","Lauren Moses",3,"personal",2,1,0,3
+"2017-18","9720",4,437,1963,"Virginia","Aliyah Huland El",23,"personal",2,2,0,3
+"2017-18","9720",4,407,1993,"Virginia","Felicia Aiyeotan",30,"personal",2,3,0,3
+"2017-18","9720",4,279,2121,"Virginia","Dominique Toussaint",4,"personal",2,4,0,2
+"2017-18","9720",4,220,2180,"Maryland","Stephanie Jones",24,"personal",4,2,0,-1
+"2017-18","9720",4,91,2309,"Virginia","Dominique Toussaint",4,"personal",3,5,1,1
+"2017-18","9720",4,18,2382,"Virginia","Lauren Moses",3,"personal",3,6,1,-1
+"2017-18","9720",4,10,2390,"Maryland","Kaila Charles",5,"personal",3,3,0,1
+"2017-18","9721",1,549,51,"Maryland","Blair Watson",22,"personal",1,1,0,1
+"2017-18","9721",1,523,77,"Akron","Shaunay EDMONDS",3,"personal",1,1,0,-4
+"2017-18","9721",1,323,277,"Maryland","Stephanie Jones",24,"personal",1,2,0,10
+"2017-18","9721",1,304,296,"Akron","Shayna HARMON",4,"personal",1,2,0,-12
+"2017-18","9721",1,179,421,"Maryland","Kaila Charles",5,"personal",1,3,0,11
+"2017-18","9721",1,157,443,"Akron","Caitlin VARI",24,"personal",1,3,0,-11
+"2017-18","9721",2,436,764,"Maryland","Blair Watson",22,"personal",2,1,0,14
+"2017-18","9721",2,423,777,"Akron","Greta BURRY",14,"personal",1,1,0,-13
+"2017-18","9721",2,324,876,"Maryland","Stephanie Jones",24,"personal",2,2,0,14
+"2017-18","9721",2,249,951,"Akron","Haliegh REINOEHL",5,"personal",1,2,0,-10
+"2017-18","9721",2,186,1014,"Akron","Kynnedy AZUBIKE",13,"personal",1,3,0,-12
+"2017-18","9721",2,153,1047,"Maryland","Ieshia Small",1,"personal",1,3,0,12
+"2017-18","9721",2,35,1165,"Maryland","Sarah Myers",21,"personal",1,4,0,9
+"2017-18","9721",3,499,1301,"Akron","Greta BURRY",14,"personal",2,1,0,-8
+"2017-18","9721",3,467,1333,"Akron","Haliegh REINOEHL",5,"personal",2,2,0,-9
+"2017-18","9721",3,411,1389,"Maryland","Kaila Charles",5,"personal",2,1,0,10
+"2017-18","9721",3,371,1429,"Akron","Haliegh REINOEHL",5,"personal",3,3,0,-10
+"2017-18","9721",3,325,1475,"Maryland","Stephanie Jones",24,"personal",3,2,0,11
+"2017-18","9721",3,236,1564,"Akron","Lauren HUNG",12,"personal",1,4,0,-10
+"2017-18","9721",3,208,1592,"Akron","Caitlin VARI",24,"personal",2,5,1,-15
+"2017-18","9721",3,201,1599,"Akron","Destiny PERKINS",32,"personal",1,6,1,-16
+"2017-18","9721",3,141,1659,"Akron","Sarah LEYENDECKER",10,"personal",1,7,1,-16
+"2017-18","9721",3,105,1695,"Maryland","Brianna Fraser",34,"personal",1,3,0,16
+"2017-18","9721",3,82,1718,"Maryland","Kaila Charles",5,"personal",3,4,0,16
+"2017-18","9721",4,582,1818,"Akron","Kynnedy AZUBIKE",13,"personal",2,1,0,-16
+"2017-18","9721",4,564,1836,"Maryland","Channise Lewis",3,"personal",1,1,0,17
+"2017-18","9721",4,470,1930,"Maryland","Stephanie Jones",24,"personal",4,2,0,17
+"2017-18","9721",4,444,1956,"Akron","Sarah LEYENDECKER",10,"personal",2,2,0,-15
+"2017-18","9721",4,249,2151,"Maryland","Blair Watson",22,"personal",3,3,0,15
+"2017-18","9721",4,224,2176,"Maryland","Brianna Fraser",34,"personal",2,4,0,17
+"2017-18","9721",4,103,2297,"Maryland","Brianna Fraser",34,"personal",3,5,1,20
+"2017-18","9721",4,81,2319,"Akron","Kynnedy AZUBIKE",13,"personal",3,3,0,-20
+"2017-18","9721",4,48,2352,"Maryland","Brianna Fraser",34,"personal",4,6,1,21
+"2017-18","9722",1,446,154,"Mount St. Mary's","Daly SULLIVAN",1,"personal",1,1,0,-10
+"2017-18","9722",1,391,209,"Maryland","Kaila Charles",5,"personal",1,1,0,15
+"2017-18","9722",1,119,481,"Mount St. Mary's","Bridget BIRKHEAD",3,"personal",1,2,0,-26
+"2017-18","9722",1,54,546,"Mount St. Mary's","Hunter ROWSON",20,"personal",1,3,0,-30
+"2017-18","9722",1,14,586,"Mount St. Mary's","Juliette LAWLESS",24,"personal",1,4,0,-30
+"2017-18","9722",2,495,705,"Mount St. Mary's","Katrice DICKSON",11,"personal",1,1,0,-31
+"2017-18","9722",2,472,728,"Mount St. Mary's","Juliette LAWLESS",24,"personal",2,2,0,-32
+"2017-18","9722",2,324,876,"Mount St. Mary's","Caroline HUMMELL",32,"personal",1,3,0,-37
+"2017-18","9722",2,264,936,"Mount St. Mary's","Bridget BIRKHEAD",3,"personal",2,4,0,-39
+"2017-18","9722",2,240,960,"Maryland","Sarah Myers",21,"personal",1,1,0,40
+"2017-18","9722",2,179,1021,"Maryland","Channise Lewis",3,"personal",1,2,0,35
+"2017-18","9722",2,151,1049,"Maryland","Ieshia Small",1,"personal",1,3,0,34
+"2017-18","9722",3,531,1269,"Mount St. Mary's","Caroline HUMMELL",32,"personal",2,1,0,-33
+"2017-18","9722",3,248,1552,"Maryland","Channise Lewis",3,"personal",2,1,0,33
+"2017-18","9722",3,232,1568,"Mount St. Mary's","Ashlee WHITE",10,"personal",1,2,0,-31
+"2017-18","9722",3,168,1632,"Mount St. Mary's","Bridget BIRKHEAD",3,"personal",3,3,0,-33
+"2017-18","9722",3,144,1656,"Maryland","Ieshia Small",1,"personal",2,2,0,36
+"2017-18","9722",3,38,1762,"Maryland","Stephanie Jones",24,"personal",1,3,0,38
+"2017-18","9722",4,587,1813,"Mount St. Mary's","Hunter ROWSON",20,"personal",2,1,0,-38
+"2017-18","9722",4,556,1844,"Maryland","Blair Watson",22,"personal",1,1,0,36
+"2017-18","9722",4,513,1887,"Mount St. Mary's","Hunter ROWSON",20,"personal",3,2,0,-37
+"2017-18","9722",4,469,1931,"Maryland","Aja Ellison",0,"personal",1,2,0,41
+"2017-18","9722",4,457,1943,"Maryland","Sarah Myers",21,"personal",2,3,0,37
+"2017-18","9722",4,385,2015,"Mount St. Mary's","Ashlee WHITE",10,"personal",2,3,0,-40
+"2017-18","9722",4,369,2031,"Maryland","Kristen Confroy",12,"personal",1,4,0,41
+"2017-18","9722",4,239,2161,"Mount St. Mary's","Juliette LAWLESS",24,"personal",3,4,0,-43
+"2017-18","9722",4,218,2182,"Mount St. Mary's","Juliette LAWLESS",24,"personal",4,5,1,-43
+"2017-18","9722",4,127,2273,"Maryland","Channise Lewis",3,"personal",3,5,1,45
+"2017-18","9722",4,59,2341,"Maryland","Channise Lewis",3,"personal",4,6,1,41
+"2017-18","9723",1,453,147,"George Washington","Kelsi MAHONEY",1,"personal",1,1,0,-2
+"2017-18","9723",1,366,234,"George Washington","Neila LUMA",30,"personal",1,2,0,-8
+"2017-18","9723",1,257,343,"George Washington","Kendall BRESEE",33,"personal",1,3,0,-8
+"2017-18","9723",1,127,473,"Maryland","Channise Lewis",3,"personal",1,1,0,11
+"2017-18","9723",2,546,654,"Maryland","Kaila Charles",5,"personal",1,1,0,12
+"2017-18","9723",2,528,672,"George Washington","Brianna CUMMINGS",5,"personal",1,1,0,-12
+"2017-18","9723",2,439,761,"Maryland","Channise Lewis",3,"personal",2,2,0,17
+"2017-18","9723",2,410,790,"Maryland","Blair Watson",22,"personal",1,3,0,17
+"2017-18","9723",2,281,919,"Maryland","Stephanie Jones",24,"personal",1,4,0,21
+"2017-18","9723",2,210,990,"George Washington","Kendall BRESEE",33,"personal",2,2,0,-23
+"2017-18","9723",2,147,1053,"Maryland","Stephanie Jones",24,"personal",2,5,1,23
+"2017-18","9723",3,394,1406,"George Washington","Neila LUMA",30,"personal",2,1,0,-25
+"2017-18","9723",3,357,1443,"Maryland","Blair Watson",22,"personal",2,1,0,26
+"2017-18","9723",3,332,1468,"George Washington","Chyna LATIMER",3,"personal",1,2,0,-26
+"2017-18","9723",3,191,1609,"George Washington","Kelsi MAHONEY",1,"personal",2,3,0,-21
+"2017-18","9723",3,153,1647,"Maryland","Stephanie Jones",24,"personal",3,2,0,25
+"2017-18","9723",3,109,1691,"George Washington","Mei-Lyn BAUTISTA",21,"personal",1,4,0,-23
+"2017-18","9723",3,95,1705,"Maryland","Ieshia Small",1,"personal",1,3,0,24
+"2017-18","9723",3,46,1754,"George Washington","Neila LUMA",30,"personal",3,5,1,-26
+"2017-18","9723",4,582,1818,"George Washington","Chyna LATIMER",3,"personal",2,1,0,-26
+"2017-18","9723",4,557,1843,"Maryland","Ieshia Small",1,"personal",2,1,0,26
+"2017-18","9723",4,552,1848,"Maryland","Blair Watson",22,"personal",3,2,0,26
+"2017-18","9723",4,526,1874,"George Washington","Brianna CUMMINGS",5,"personal",2,2,0,-26
+"2017-18","9723",4,504,1896,"Maryland","Channise Lewis",3,"personal",3,3,0,27
+"2017-18","9723",4,373,2027,"Maryland","Kaila Charles",5,"personal",2,4,0,31
+"2017-18","9723",4,349,2051,"George Washington","Kendall BRESEE",33,"personal",3,3,0,-29
+"2017-18","9723",4,268,2132,"George Washington","Mei-Lyn BAUTISTA",21,"personal",2,4,0,-31
+"2017-18","9723",4,252,2148,"Maryland","Brianna Fraser",34,"personal",1,5,1,32
+"2017-18","9723",4,180,2220,"George Washington","Kendall BRESEE",33,"personal",4,5,1,-30
+"2017-18","9723",4,48,2352,"Maryland","Stephanie Jones",24,"personal",4,6,1,28
+"2017-18","9724",1,517,83,"Maryland","Kaila Charles",5,"personal",1,1,0,0
+"2017-18","9724",1,282,318,"Loyola","Izzy Therien",13,"personal",1,1,0,-6
+"2017-18","9724",1,247,353,"Maryland","Channise Lewis",3,"personal",1,2,0,8
+"2017-18","9724",1,145,455,"Loyola","Delaney Connolly",44,"personal",1,2,0,-9
+"2017-18","9724",2,550,650,"Loyola","Ashley Hunter",15,"personal",1,1,0,-16
+"2017-18","9724",2,440,760,"Loyola","Ashley Hunter",15,"personal",2,2,0,-15
+"2017-18","9724",2,355,845,"Loyola","Alexis Gray",20,"personal",1,3,0,-16
+"2017-18","9724",3,522,1278,"Loyola","Delaney Connolly",44,"personal",2,1,0,-34
+"2017-18","9724",3,481,1319,"Maryland","Stephanie Jones",24,"personal",1,1,0,35
+"2017-18","9724",3,305,1495,"Loyola","Izzy Therien",13,"personal",2,2,0,-41
+"2017-18","9724",3,304,1496,"Loyola","Stephanie Karcz",10,"personal",1,3,0,-41
+"2017-18","9724",3,273,1527,"Maryland","Kaila Charles",5,"personal",2,2,0,43
+"2017-18","9724",3,229,1571,"Loyola","Ashley Hunter",15,"personal",3,4,0,-43
+"2017-18","9724",3,152,1648,"Maryland","Ieshia Small",1,"personal",1,3,0,46
+"2017-18","9724",4,425,1975,"Maryland","Channise Lewis",3,"personal",2,1,0,55
+"2017-18","9724",4,356,2044,"Loyola","Molly Taylor",1,"personal",1,1,0,-58
+"2017-18","9724",4,326,2074,"Loyola","Claire Jakaitis",4,"personal",1,2,0,-60
+"2017-18","9724",4,290,2110,"Loyola","Stephanie Karcz",10,"personal",2,3,0,-62
+"2017-18","9724",4,138,2262,"Loyola","Hannah Niles",32,"personal",1,4,0,-68
+"2017-18","9724",4,94,2306,"Loyola","Abby Omdahl",3,"personal",1,5,1,-69
+"2017-18","9725",1,447,153,"Coppin State","Genesis LUCAS",2,"personal",1,1,0,-11
+"2017-18","9725",1,439,161,"Coppin State","Chance GRAHAM",23,"personal",1,2,0,-11
+"2017-18","9725",1,408,192,"Maryland","Kaila Charles",5,"personal",1,1,0,13
+"2017-18","9725",1,220,380,"Coppin State","Chance GRAHAM",23,"personal",2,3,0,-14
+"2017-18","9725",1,179,421,"Coppin State","Alexis TAYLOR",24,"personal",1,4,0,-14
+"2017-18","9725",1,176,424,"Maryland","Blair Watson",22,"personal",1,2,0,15
+"2017-18","9725",1,164,436,"Coppin State","Alexis TAYLOR",24,"personal",2,5,1,-15
+"2017-18","9725",1,152,448,"Maryland","Brianna Fraser",34,"personal",1,3,0,17
+"2017-18","9725",1,36,564,"Maryland","Ieshia Small",1,"personal",1,4,0,20
+"2017-18","9725",2,543,657,"Coppin State","Nadia DAVIDSON",22,"personal",1,1,0,-23
+"2017-18","9725",2,470,730,"Maryland","Ieshia Small",1,"personal",2,1,0,25
+"2017-18","9725",2,291,909,"Maryland","Stephanie Jones",24,"personal",1,2,0,35
+"2017-18","9725",2,183,1017,"Coppin State","Genesis LUCAS",2,"personal",2,2,0,-36
+"2017-18","9725",2,39,1161,"Maryland","Brianna Fraser",34,"personal",2,3,0,43
+"2017-18","9725",3,536,1264,"Coppin State","Mia CROOMS",1,"personal",1,1,0,-46
+"2017-18","9725",3,451,1349,"Maryland","Stephanie Jones",24,"personal",2,1,0,54
+"2017-18","9725",3,328,1472,"Coppin State","Maraiyah SMITH",3,"personal",1,2,0,-57
+"2017-18","9725",3,285,1515,"Coppin State","Chance GRAHAM",23,"personal",3,3,0,-58
+"2017-18","9725",3,255,1545,"Coppin State","Nadia DAVIDSON",22,"personal",2,4,0,-59
+"2017-18","9725",3,242,1558,"Coppin State","Candice BEVERLY",11,"personal",1,5,1,-59
+"2017-18","9725",3,226,1574,"Maryland","Eleanna Christinaki",10,"personal",1,2,0,59
+"2017-18","9725",3,98,1702,"Coppin State","Nadia DAVIDSON",22,"personal",3,6,1,-64
+"2017-18","9725",4,586,1814,"Maryland","Brianna Fraser",34,"personal",3,1,0,66
+"2017-18","9725",4,553,1847,"Maryland","Stephanie Jones",24,"personal",3,2,0,64
+"2017-18","9725",4,477,1923,"Maryland","Stephanie Jones",24,"personal",4,3,0,67
+"2017-18","9725",4,456,1944,"Maryland","Aja Ellison",0,"personal",1,4,0,65
+"2017-18","9725",4,251,2149,"Maryland","Aja Ellison",0,"personal",2,5,1,62
+"2017-18","9725",4,173,2227,"Maryland","Brianna Fraser",34,"personal",4,6,1,65
+"2017-18","9725",4,85,2315,"Coppin State","Jordan Meaur PICKETT",25,"personal",1,1,0,-62
+"2017-18","9725",4,36,2364,"Coppin State","Jordan Meaur PICKETT",25,"personal",2,2,0,-64
+"2017-18","9726",1,550,50,"Illinois","Ali Andrews",50,"personal",1,1,0,0
+"2017-18","9726",1,375,225,"Illinois","Ali Andrews",50,"personal",2,2,0,-5
+"2017-18","9726",1,265,335,"Maryland","Kristen Confroy",12,"personal",1,1,0,5
+"2017-18","9726",1,190,410,"Illinois","Alli Ball",3,"personal",1,3,0,-9
+"2017-18","9726",1,149,451,"Illinois","Petra Holesinska",13,"personal",1,4,0,-9
+"2017-18","9726",1,148,452,"Illinois","Alli Ball",3,"personal",2,5,1,-10
+"2017-18","9726",1,9,591,"Illinois","Jnaya Walker",24,"personal",1,6,1,-15
+"2017-18","9726",2,552,648,"Illinois","Alex Wittinger",35,"personal",1,1,0,-17
+"2017-18","9726",2,489,711,"Illinois","Kennedy Cattenhead",25,"personal",1,2,0,-21
+"2017-18","9726",2,412,788,"Illinois","Brandi Beasley",1,"personal",1,3,0,-24
+"2017-18","9726",2,340,860,"Maryland","Ieshia Small",1,"personal",1,1,0,25
+"2017-18","9726",2,321,879,"Illinois","Lyric Robins",2,"personal",1,4,0,-23
+"2017-18","9726",2,275,925,"Maryland","Kaila Charles",5,"personal",1,2,0,23
+"2017-18","9726",2,193,1007,"Illinois","Lyric Robins",2,"personal",2,5,1,-25
+"2017-18","9726",2,127,1073,"Maryland","Stephanie Jones",24,"personal",1,3,0,27
+"2017-18","9726",2,81,1119,"Illinois","Ali Andrews",50,"personal",3,6,1,-26
+"2017-18","9726",2,19,1181,"Illinois","Brandi Beasley",1,"personal",2,7,1,-25
+"2017-18","9726",2,8,1192,"Maryland","Blair Watson",22,"personal",1,4,0,26
+"2017-18","9726",3,531,1269,"Illinois","Petra Holesinska",13,"personal",2,1,0,-26
+"2017-18","9726",3,521,1279,"Illinois","Alex Wittinger",35,"personal",2,2,0,-26
+"2017-18","9726",3,521,1279,"Maryland","Stephanie Jones",24,"personal",2,1,0,27
+"2017-18","9726",3,459,1341,"Maryland","Channise Lewis",3,"personal",1,2,0,28
+"2017-18","9726",3,437,1363,"Maryland","Stephanie Jones",24,"personal",3,3,0,26
+"2017-18","9726",3,428,1372,"Illinois","Brandi Beasley",1,"personal",3,3,0,-26
+"2017-18","9726",3,401,1399,"Maryland","Kaila Charles",5,"personal",2,4,0,29
+"2017-18","9726",3,314,1486,"Maryland","Kristen Confroy",12,"personal",2,5,1,27
+"2017-18","9726",3,252,1548,"Illinois","Brandi Beasley",1,"personal",4,4,0,-29
+"2017-18","9726",3,177,1623,"Illinois","Ali Andrews",50,"personal",4,5,1,-34
+"2017-18","9726",3,4,1796,"Maryland","Eleanna Christinaki",10,"personal",1,6,1,33
+"2017-18","9726",4,561,1839,"Illinois","Cierra Rice",5,"personal",1,1,0,-31
+"2017-18","9726",4,533,1867,"Illinois","Ali Andrews",50,"personal",5,2,0,-31
+"2017-18","9726",4,527,1873,"Maryland","Kaila Charles",5,"personal",3,1,0,31
+"2017-18","9726",4,497,1903,"Illinois","Alex Wittinger",35,"personal",3,3,0,-29
+"2017-18","9726",4,452,1948,"Illinois","Kennedy Cattenhead",25,"personal",2,4,0,-32
+"2017-18","9726",4,260,2140,"Illinois","Alex Wittinger",35,"personal",4,5,1,-35
+"2017-18","9726",4,219,2181,"Maryland","Brianna Fraser",34,"personal",1,2,0,36
+"2017-18","9726",4,219,2181,"Maryland","Brianna Fraser",34,"personal",2,3,0,36
+"2017-18","9726",4,66,2334,"Maryland","Sarah Myers",21,"personal",1,4,0,35
+"2017-18","9727",1,519,81,"Maryland","Blair Watson",22,"personal",1,1,0,5
+"2017-18","9727",1,461,139,"Maryland","Channise Lewis",3,"personal",1,2,0,9
+"2017-18","9727",1,381,219,"Penn State","Siyeh Frazier",4,"personal",1,1,0,-7
+"2017-18","9727",1,313,287,"Maryland","Stephanie Jones",24,"personal",1,3,0,7
+"2017-18","9727",1,303,297,"Maryland","Kaila Charles",5,"personal",1,4,0,5
+"2017-18","9727",1,214,386,"Penn State","Jaylen Williams",23,"personal",1,2,0,0
+"2017-18","9727",1,155,445,"Maryland","Stephanie Jones",24,"personal",2,5,1,1
+"2017-18","9727",2,554,646,"Maryland","Eleanna Christinaki",10,"personal",1,1,0,3
+"2017-18","9727",2,461,739,"Penn State","Amari Carter",2,"personal",1,1,0,-4
+"2017-18","9727",2,345,855,"Penn State","J. Travascio-Green",31,"personal",1,2,0,-4
+"2017-18","9727",2,269,931,"Penn State","Amari Carter",2,"personal",2,3,0,-2
+"2017-18","9727",2,264,936,"Maryland","Channise Lewis",3,"personal",2,2,0,4
+"2017-18","9727",2,201,999,"Penn State","Siyeh Frazier",4,"personal",2,4,0,-4
+"2017-18","9727",2,174,1026,"Maryland","Blair Watson",22,"personal",2,3,0,6
+"2017-18","9727",2,135,1065,"Penn State","Teniya Page",11,"personal",1,5,1,-1
+"2017-18","9727",2,127,1073,"Maryland","Sarah Myers",21,"personal",1,4,0,2
+"2017-18","9727",2,62,1138,"Penn State","J. Travascio-Green",31,"personal",2,6,1,3
+"2017-18","9727",3,352,1448,"Penn State","De'Janae Boykin",35,"personal",1,1,0,3
+"2017-18","9727",3,275,1525,"Penn State","J. Travascio-Green",31,"personal",3,2,0,-2
+"2017-18","9727",3,166,1634,"Maryland","Channise Lewis",3,"personal",3,1,0,4
+"2017-18","9727",3,161,1639,"Maryland","Blair Watson",22,"personal",3,2,0,4
+"2017-18","9727",3,155,1645,"Maryland","Ieshia Small",1,"personal",1,3,0,4
+"2017-18","9727",3,144,1656,"Penn State","Siyeh Frazier",4,"personal",3,3,0,-4
+"2017-18","9727",3,88,1712,"Maryland","Ieshia Small",1,"personal",2,4,0,1
+"2017-18","9727",3,85,1715,"Maryland","Brianna Fraser",34,"personal",1,5,1,-1
+"2017-18","9727",3,39,1761,"Maryland","Brianna Fraser",34,"personal",2,6,1,-1
+"2017-18","9727",3,23,1777,"Penn State","Jaylen Williams",23,"personal",2,4,0,1
+"2017-18","9727",4,589,1811,"Penn State","Jaylen Williams",23,"personal",3,1,0,1
+"2017-18","9727",4,544,1856,"Maryland","Kaila Charles",5,"personal",2,1,0,1
+"2017-18","9727",4,505,1895,"Penn State","Teniya Page",11,"personal",2,2,0,1
+"2017-18","9727",4,499,1901,"Penn State","De'Janae Boykin",35,"personal",2,3,0,1
+"2017-18","9727",4,441,1959,"Maryland","Channise Lewis",3,"personal",4,2,0,2
+"2017-18","9727",4,419,1981,"Penn State","Siyeh Frazier",4,"personal",4,4,0,0
+"2017-18","9727",4,266,2134,"Maryland","Stephanie Jones",24,"personal",3,3,0,0
+"2017-18","9727",4,252,2148,"Maryland","Kaila Charles",5,"personal",3,4,0,0
+"2017-18","9727",4,239,2161,"Penn State","Teniya Page",11,"personal",3,5,1,0
+"2017-18","9727",4,236,2164,"Maryland","Blair Watson",22,"personal",4,5,1,1
+"2017-18","9727",4,217,2183,"Penn State","Jaylen Williams",23,"personal",4,6,1,1
+"2017-18","9727",4,59,2341,"Penn State","Teniya Page",11,"personal",4,7,1,0
+"2017-18","9728",1,448,152,"Iowa","Amanda Ollinger",43,"personal",1,1,0,-1
+"2017-18","9728",1,358,242,"Maryland","Stephanie Jones",24,"personal",1,1,0,8
+"2017-18","9728",1,225,375,"Maryland","Ieshia Small",1,"personal",1,2,0,8
+"2017-18","9728",1,200,400,"Maryland","Blair Watson",22,"personal",1,3,0,6
+"2017-18","9728",2,573,627,"Maryland","Stephanie Jones",24,"personal",2,1,0,14
+"2017-18","9728",2,433,767,"Maryland","Brianna Fraser",34,"personal",1,2,0,10
+"2017-18","9728",2,268,932,"Iowa","Kathleen Doyle",22,"personal",1,1,0,-8
+"2017-18","9728",2,247,953,"Maryland","Kaila Charles",5,"personal",1,3,0,11
+"2017-18","9728",2,223,977,"Maryland","Brianna Fraser",34,"personal",2,4,0,10
+"2017-18","9728",2,194,1006,"Iowa","Kathleen Doyle",22,"personal",2,2,0,-10
+"2017-18","9728",2,139,1061,"Maryland","Kaila Charles",5,"personal",2,5,1,12
+"2017-18","9728",2,96,1104,"Maryland","Eleanna Christinaki",10,"personal",1,6,1,10
+"2017-18","9728",3,500,1300,"Iowa","Chase Coley",4,"personal",1,1,0,-9
+"2017-18","9728",3,462,1338,"Iowa","Hannah Stewart",21,"personal",1,2,0,-10
+"2017-18","9728",3,234,1566,"Iowa","Megan Gustafson",10,"personal",1,3,0,-13
+"2017-18","9728",3,137,1663,"Iowa","Megan Gustafson",10,"personal",2,4,0,-15
+"2017-18","9728",3,76,1724,"Maryland","Brianna Fraser",34,"personal",3,1,0,16
+"2017-18","9728",3,44,1756,"Iowa","Amanda Ollinger",43,"personal",2,5,1,-15
+"2017-18","9728",3,27,1773,"Maryland","Kaila Charles",5,"personal",3,2,0,16
+"2017-18","9728",4,576,1824,"Iowa","Amanda Ollinger",43,"personal",3,1,0,-15
+"2017-18","9728",4,539,1861,"Maryland","Ieshia Small",1,"personal",2,1,0,16
+"2017-18","9728",4,488,1912,"Iowa","Kathleen Doyle",22,"personal",3,2,0,-18
+"2017-18","9728",4,412,1988,"Iowa","Megan Gustafson",10,"personal",3,3,0,-22
+"2017-18","9728",4,392,2008,"Iowa","Megan Gustafson",10,"personal",4,4,0,-22
+"2017-18","9728",4,224,2176,"Maryland","Stephanie Jones",24,"personal",3,2,0,18
+"2017-18","9728",4,203,2197,"Iowa","Chase Coley",4,"personal",2,5,1,-19
+"2017-18","9728",4,179,2221,"Iowa","Kathleen Doyle",22,"personal",4,6,1,-19
+"2017-18","9728",4,153,2247,"Maryland","Kaila Charles",5,"personal",4,3,0,21
+"2017-18","9728",4,62,2338,"Maryland","Brianna Fraser",34,"personal",4,4,0,18
+"2017-18","9729",1,287,313,"Wisconsin","Cayla McMORRIS",23,"personal",1,1,0,-4
+"2017-18","9729",1,136,464,"Maryland","Kaila Charles",5,"personal",1,1,0,9
+"2017-18","9729",1,45,555,"Wisconsin","Cayla McMORRIS",23,"personal",2,2,0,-11
+"2017-18","9729",2,309,891,"Maryland","Eleanna Christinaki",10,"personal",1,1,0,8
+"2017-18","9729",2,272,928,"Wisconsin","Marsha HOWARD",11,"personal",1,1,0,-6
+"2017-18","9729",2,65,1135,"Maryland","Stephanie Jones",24,"personal",1,2,0,16
+"2017-18","9729",2,37,1163,"Wisconsin","Marsha HOWARD",11,"personal",2,2,0,-18
+"2017-18","9729",2,15,1185,"Maryland","Ieshia Small",1,"personal",1,3,0,19
+"2017-18","9729",3,519,1281,"Maryland","Kaila Charles",5,"personal",2,1,0,21
+"2017-18","9729",3,363,1437,"Maryland","Channise Lewis",3,"personal",1,2,0,26
+"2017-18","9729",3,156,1644,"Maryland","Kaila Charles",5,"personal",3,3,0,27
+"2017-18","9729",3,99,1701,"Maryland","Eleanna Christinaki",10,"personal",2,4,0,28
+"2017-18","9729",4,594,1806,"Wisconsin","Niya BEVERLEY",22,"personal",1,1,0,-27
+"2017-18","9729",4,562,1838,"Maryland","Kaila Charles",5,"personal",4,1,0,28
+"2017-18","9729",4,453,1947,"Wisconsin","Kendra VAN LEEUWEN",10,"personal",1,2,0,-29
+"2017-18","9729",4,346,2054,"Maryland","Kristen Confroy",12,"personal",1,2,0,28
+"2017-18","9729",4,310,2090,"Maryland","Eleanna Christinaki",10,"personal",3,3,0,26
+"2017-18","9729",4,285,2115,"Wisconsin","Kendra VAN LEEUWEN",10,"personal",2,3,0,-24
+"2017-18","9729",4,155,2245,"Maryland","Brianna Fraser",34,"personal",1,4,0,24
+"2017-18","9729",4,113,2287,"Wisconsin","Marsha HOWARD",11,"personal",3,4,0,-22
+"2017-18","9730",1,485,115,"Michigan State","Jenna Allen",33,"personal",1,1,0,2
+"2017-18","9730",1,234,366,"Michigan State","Shay Colley",0,"personal",1,2,0,-2
+"2017-18","9730",1,194,406,"Maryland","Eleanna Christinaki",10,"personal",1,1,0,4
+"2017-18","9730",1,164,436,"Michigan State","Nia Hollie",12,"personal",1,3,0,-4
+"2017-18","9730",1,75,525,"Maryland","Kaila Charles",5,"personal",1,2,0,0
+"2017-18","9730",2,353,847,"Michigan State","Sidney Cooks",1,"personal",1,1,0,4
+"2017-18","9730",2,262,938,"Maryland","Kristen Confroy",12,"personal",1,1,0,-7
+"2017-18","9730",2,250,950,"Maryland","Kaila Charles",5,"personal",2,2,0,-7
+"2017-18","9730",2,238,962,"Maryland","Brianna Fraser",34,"personal",1,3,0,-9
+"2017-18","9730",2,226,974,"Michigan State","Branndais Agee",10,"personal",1,2,0,9
+"2017-18","9730",2,191,1009,"Michigan State","Sidney Cooks",1,"personal",2,3,0,7
+"2017-18","9730",2,127,1073,"Maryland","Stephanie Jones",24,"personal",1,4,0,-4
+"2017-18","9730",2,85,1115,"Michigan State","Victoria Gaines",15,"personal",1,4,0,5
+"2017-18","9730",2,44,1156,"Maryland","Stephanie Jones",24,"personal",2,5,1,-8
+"2017-18","9730",2,27,1173,"Michigan State","Shay Colley",0,"personal",2,5,1,6
+"2017-18","9730",3,393,1407,"Michigan State","Shay Colley",0,"personal",3,1,0,10
+"2017-18","9730",3,351,1449,"Michigan State","Sidney Cooks",1,"personal",3,2,0,7
+"2017-18","9730",3,349,1451,"Maryland","Kaila Charles",5,"personal",3,1,0,-6
+"2017-18","9730",3,251,1549,"Michigan State","Taya Reimer",32,"personal",1,3,0,3
+"2017-18","9730",3,121,1679,"Maryland","Ieshia Small",1,"personal",1,2,0,-10
+"2017-18","9730",4,497,1903,"Maryland","Brianna Fraser",34,"personal",2,1,0,-11
+"2017-18","9730",4,474,1926,"Michigan State","Kennedy Johnson",55,"personal",1,1,0,11
+"2017-18","9730",4,467,1933,"Maryland","Eleanna Christinaki",10,"personal",2,2,0,-9
+"2017-18","9730",4,329,2071,"Maryland","Brianna Fraser",34,"personal",3,3,0,-11
+"2017-18","9730",4,309,2091,"Michigan State","Shay Colley",0,"personal",4,2,0,12
+"2017-18","9730",4,175,2225,"Maryland","Ieshia Small",1,"personal",2,4,0,-13
+"2017-18","9730",4,131,2269,"Michigan State","Sidney Cooks",1,"personal",4,3,0,11
+"2017-18","9730",4,74,2326,"Maryland","Ieshia Small",1,"personal",3,5,1,-9
+"2017-18","9730",4,67,2333,"Michigan State","Nia Hollie",12,"personal",2,4,0,11
+"2017-18","9730",4,67,2333,"Maryland","Ieshia Small",1,"personal",4,6,1,-9
+"2017-18","9730",4,60,2340,"Maryland","Brianna Fraser",34,"personal",4,7,1,-11
+"2017-18","9730",4,52,2348,"Maryland","Brianna Fraser",34,"personal",5,8,1,-13
+"2017-18","9730",4,38,2362,"Maryland","Kaila Charles",5,"personal",4,9,1,-15
+"2017-18","9731",1,588,12,"Indiana","Bendu Yeaney",1,"personal",1,1,0,0
+"2017-18","9731",1,431,169,"Indiana","Kym Royster",11,"personal",1,2,0,-2
+"2017-18","9731",1,412,188,"Maryland","Stephanie Jones",24,"personal",1,1,0,3
+"2017-18","9731",1,202,398,"Maryland","Channise Lewis",3,"personal",1,2,0,3
+"2017-18","9731",1,155,445,"Indiana","Keyanna Warthen",2,"personal",1,3,0,-2
+"2017-18","9731",1,111,489,"Maryland","Brianna Fraser",34,"personal",1,3,0,4
+"2017-18","9731",1,13,587,"Maryland","Sarah Myers",21,"personal",1,4,0,5
+"2017-18","9731",2,356,844,"Maryland","Stephanie Jones",24,"personal",2,1,0,2
+"2017-18","9731",2,296,904,"Maryland","Brianna Fraser",34,"personal",2,2,0,0
+"2017-18","9731",2,222,978,"Maryland","Ieshia Small",1,"personal",1,3,0,1
+"2017-18","9731",2,173,1027,"Indiana","Amanda Cahill",33,"personal",1,1,0,-1
+"2017-18","9731",2,138,1062,"Maryland","Kaila Charles",5,"personal",1,4,0,-1
+"2017-18","9731",2,113,1087,"Indiana","Jaelynn Penn",13,"personal",1,2,0,4
+"2017-18","9731",2,91,1109,"Indiana","Kym Royster",11,"personal",2,3,0,4
+"2017-18","9731",2,66,1134,"Maryland","Kaila Charles",5,"personal",2,5,1,-2
+"2017-18","9731",2,5,1195,"Maryland","Ieshia Small",1,"personal",2,6,1,-3
+"2017-18","9731",3,413,1387,"Indiana","Kym Royster",11,"personal",3,1,0,-3
+"2017-18","9731",3,397,1403,"Maryland","Brianna Fraser",34,"personal",3,1,0,5
+"2017-18","9731",3,312,1488,"Maryland","Ieshia Small",1,"personal",3,2,0,8
+"2017-18","9731",3,226,1574,"Maryland","Channise Lewis",3,"personal",2,3,0,3
+"2017-18","9731",3,172,1628,"Indiana","Amanda Cahill",33,"personal",2,2,0,0
+"2017-18","9731",4,546,1854,"Maryland","Channise Lewis",3,"personal",3,1,0,-5
+"2017-18","9731",4,531,1869,"Indiana","Bendu Yeaney",1,"personal",2,1,0,5
+"2017-18","9731",4,479,1921,"Indiana","Kym Royster",11,"personal",4,2,0,3
+"2017-18","9731",4,342,2058,"Maryland","Kaila Charles",5,"personal",3,2,0,-1
+"2017-18","9731",4,308,2092,"Indiana","Jaelynn Penn",13,"personal",2,3,0,1
+"2017-18","9731",4,287,2113,"Maryland","Stephanie Jones",24,"personal",3,3,0,0
+"2017-18","9731",4,22,2378,"Indiana","Tyra Buss",3,"personal",1,4,0,-3
+"2017-18","9731",4,10,2390,"Indiana","Tyra Buss",3,"personal",2,5,1,-3
+"2017-18","9731",4,4,2396,"Maryland","Stephanie Jones",24,"personal",4,4,0,4
+"2017-18","9732",1,430,170,"Maryland","Eleanna Christinaki",10,"personal",1,1,0,6
+"2017-18","9732",1,297,303,"Maryland","Kaila Charles",5,"personal",1,2,0,7
+"2017-18","9732",1,114,486,"Maryland","Ieshia Small",1,"personal",1,3,0,7
+"2017-18","9732",1,92,508,"Ohio State","Kelsey Mitchell",3,"personal",1,1,0,-9
+"2017-18","9732",1,18,582,"Ohio State","Linnae Harper",15,"personal",1,2,0,-8
+"2017-18","9732",2,580,620,"Ohio State","Linnae Harper",15,"personal",2,1,0,-8
+"2017-18","9732",2,525,675,"Maryland","Stephanie Jones",24,"personal",1,1,0,10
+"2017-18","9732",2,24,1176,"Ohio State","Kelsey Mitchell",3,"personal",2,2,0,-16
+"2017-18","9732",3,471,1329,"Maryland","Stephanie Jones",24,"personal",2,1,0,16
+"2017-18","9732",3,396,1404,"Maryland","Channise Lewis",3,"personal",1,2,0,14
+"2017-18","9732",3,376,1424,"Ohio State","Stephanie Mavunga",1,"personal",1,1,0,-12
+"2017-18","9732",3,307,1493,"Ohio State","Alexa Hart",22,"personal",1,2,0,-15
+"2017-18","9732",3,241,1559,"Ohio State","Makayla Waterman",24,"personal",1,3,0,-17
+"2017-18","9732",3,231,1569,"Maryland","Ieshia Small",1,"personal",2,3,0,18
+"2017-18","9732",3,84,1716,"Maryland","Brianna Fraser",34,"personal",1,4,0,16
+"2017-18","9732",3,64,1736,"Ohio State","Stephanie Mavunga",1,"personal",2,4,0,-14
+"2017-18","9732",4,557,1843,"Ohio State","Asia Doss",20,"personal",1,1,0,-20
+"2017-18","9732",4,475,1925,"Ohio State","Stephanie Mavunga",1,"personal",3,2,0,-23
+"2017-18","9732",4,437,1963,"Maryland","Brianna Fraser",34,"personal",2,1,0,24
+"2017-18","9732",4,369,2031,"Ohio State","Makayla Waterman",24,"personal",2,3,0,-21
+"2017-18","9732",4,244,2156,"Maryland","Channise Lewis",3,"personal",2,2,0,25
+"2017-18","9732",4,119,2281,"Ohio State","Linnae Harper",15,"personal",3,4,0,-27
+"2017-18","9733",1,524,76,"Northwestern","Jordan Hamilton",24,"personal",1,1,0,-2
+"2017-18","9733",1,434,166,"Northwestern","Abi Scheid",44,"personal",1,2,0,2
+"2017-18","9733",1,312,288,"Northwestern","Bryana Hopkins",4,"personal",1,3,0,0
+"2017-18","9733",1,285,315,"Maryland","Channise Lewis",3,"personal",1,1,0,2
+"2017-18","9733",1,221,379,"Northwestern","Oceana Hamilton",34,"personal",1,4,0,-2
+"2017-18","9733",1,205,395,"Northwestern","Abi Scheid",44,"personal",2,5,1,-6
+"2017-18","9733",1,181,419,"Maryland","Kaila Charles",5,"personal",1,2,0,7
+"2017-18","9733",1,94,506,"Maryland","Kaila Charles",5,"personal",2,3,0,6
+"2017-18","9733",1,7,593,"Maryland","Brianna Fraser",34,"personal",1,4,0,5
+"2017-18","9733",2,468,732,"Maryland","Kristen Confroy",12,"personal",1,1,0,1
+"2017-18","9733",2,436,764,"Northwestern","Abbie Wolf",21,"personal",1,1,0,-1
+"2017-18","9733",2,275,925,"Maryland","Ieshia Small",1,"personal",1,2,0,1
+"2017-18","9733",2,170,1030,"Maryland","Brianna Fraser",34,"personal",2,3,0,3
+"2017-18","9733",2,1,1199,"Northwestern","Byrdy Galernik",22,"personal",1,2,0,-7
+"2017-18","9733",3,506,1294,"Maryland","Channise Lewis",3,"personal",2,1,0,10
+"2017-18","9733",3,457,1343,"Maryland","Kristen Confroy",12,"personal",2,2,0,12
+"2017-18","9733",3,362,1438,"Northwestern","P. Kunaiyi-Akpanah",14,"personal",1,1,0,-8
+"2017-18","9733",3,332,1468,"Northwestern","Jordan Hamilton",24,"personal",2,2,0,-8
+"2017-18","9733",3,246,1554,"Maryland","Kaila Charles",5,"personal",3,3,0,8
+"2017-18","9733",3,172,1628,"Northwestern","Jordan Hamilton",24,"personal",3,3,0,-6
+"2017-18","9733",3,115,1685,"Northwestern","Jordan Hamilton",24,"personal",4,4,0,-8
+"2017-18","9733",3,52,1748,"Maryland","Kristen Confroy",12,"personal",3,4,0,8
+"2017-18","9733",3,20,1780,"Northwestern","Bryana Hopkins",4,"personal",2,5,1,-6
+"2017-18","9733",4,554,1846,"Maryland","Stephanie Jones",24,"personal",1,1,0,5
+"2017-18","9733",4,536,1864,"Northwestern","Bryana Hopkins",4,"personal",3,1,0,-3
+"2017-18","9733",4,483,1917,"Maryland","Kaila Charles",5,"personal",4,2,0,1
+"2017-18","9733",4,474,1926,"Maryland","Stephanie Jones",24,"personal",2,3,0,1
+"2017-18","9733",4,466,1934,"Northwestern","Abbie Wolf",21,"personal",2,2,0,0
+"2017-18","9733",4,453,1947,"Northwestern","Oceana Hamilton",34,"personal",2,3,0,0
+"2017-18","9733",4,439,1961,"Maryland","Channise Lewis",3,"personal",3,4,0,2
+"2017-18","9733",4,301,2099,"Northwestern","P. Kunaiyi-Akpanah",14,"personal",2,4,0,-2
+"2017-18","9733",4,263,2137,"Northwestern","Abi Scheid",44,"personal",3,5,1,-3
+"2017-18","9733",4,226,2174,"Maryland","Brianna Fraser",34,"personal",3,5,1,2
+"2017-18","9733",4,182,2218,"Northwestern","P. Kunaiyi-Akpanah",14,"personal",3,6,1,0
+"2017-18","9733",4,71,2329,"Maryland","Ieshia Small",1,"personal",2,6,1,3
+"2017-18","9733",4,53,2347,"Maryland","Brianna Fraser",34,"personal",4,7,1,3
+"2017-18","9733",4,29,2371,"Northwestern","P. Kunaiyi-Akpanah",14,"personal",4,7,1,-4
+"2017-18","9733",4,4,2396,"Northwestern","Byrdy Galernik",22,"personal",2,8,1,-3
+"2017-18","9733",4,4,2396,"Maryland","Brianna Fraser",34,"personal",5,8,1,5
+"2017-18","9734",1,453,147,"Rutgers","Victoria Harris",40,"personal",1,1,0,-5
+"2017-18","9734",1,429,171,"Rutgers","Nigia Greene",11,"personal",1,2,0,-5
+"2017-18","9734",1,314,286,"Rutgers","Caitlin Jenkins",15,"personal",1,3,0,-10
+"2017-18","9734",1,215,385,"Maryland","Channise Lewis",3,"personal",1,1,0,12
+"2017-18","9734",1,127,473,"Maryland","Ieshia Small",1,"personal",1,2,0,10
+"2017-18","9734",1,102,498,"Rutgers","Victoria Harris",40,"personal",2,4,0,-10
+"2017-18","9734",1,44,556,"Maryland","Kaila Charles",5,"personal",1,3,0,12
+"2017-18","9734",1,18,582,"Rutgers","Tyler Scaife",3,"personal",1,5,1,-14
+"2017-18","9734",1,18,582,"Maryland","Kristen Confroy",12,"personal",1,4,0,15
+"2017-18","9734",2,537,663,"Rutgers","Tyler Scaife",3,"personal",2,1,0,-11
+"2017-18","9734",2,521,679,"Maryland","Stephanie Jones",24,"personal",1,1,0,13
+"2017-18","9734",2,476,724,"Rutgers","Caitlin Jenkins",15,"personal",2,2,0,-12
+"2017-18","9734",2,228,972,"Maryland","Channise Lewis",3,"personal",2,2,0,13
+"2017-18","9734",2,199,1001,"Rutgers","Mael Gilles",13,"personal",1,3,0,-11
+"2017-18","9734",2,27,1173,"Rutgers","Jazlynd Rollins",1,"personal",1,4,0,-13
+"2017-18","9734",2,22,1178,"Rutgers","Kathleen Fitzpatrick",10,"personal",1,5,1,-15
+"2017-18","9734",3,507,1293,"Maryland","Kaila Charles",5,"personal",2,1,0,12
+"2017-18","9734",3,462,1338,"Maryland","Channise Lewis",3,"personal",3,2,0,12
+"2017-18","9734",3,399,1401,"Rutgers","Khadaizha Sanders",12,"personal",1,1,0,-13
+"2017-18","9734",3,246,1554,"Rutgers","Jazlynd Rollins",1,"personal",2,2,0,-11
+"2017-18","9734",3,231,1569,"Maryland","Brianna Fraser",34,"personal",1,3,0,13
+"2017-18","9734",3,197,1603,"Rutgers","Stasha Carey",35,"personal",1,3,0,-11
+"2017-18","9734",3,171,1629,"Maryland","Brianna Fraser",34,"personal",2,4,0,15
+"2017-18","9734",3,158,1642,"Rutgers","Khadaizha Sanders",12,"personal",2,4,0,-14
+"2017-18","9734",3,143,1657,"Rutgers","Stasha Carey",35,"personal",2,5,1,-16
+"2017-18","9734",3,27,1773,"Rutgers","Tyler Scaife",3,"personal",3,6,1,-19
+"2017-18","9734",4,510,1890,"Rutgers","Tyler Scaife",3,"personal",4,1,0,-22
+"2017-18","9734",4,276,2124,"Maryland","Brianna Fraser",34,"personal",3,1,0,33
+"2017-18","9734",4,215,2185,"Maryland","Stephanie Jones",24,"personal",2,2,0,31
+"2017-18","9734",4,173,2227,"Rutgers","Desiree Keeling",32,"personal",1,2,0,-28
+"2017-18","9734",4,141,2259,"Rutgers","Desiree Keeling",32,"personal",2,3,0,-29
+"2017-18","9734",4,141,2259,"Maryland","Aja Ellison",0,"personal",1,3,0,29
+"2017-18","9734",4,65,2335,"Rutgers","Mael Gilles",13,"personal",2,4,0,-27
+"2017-18","9734",4,51,2349,"Rutgers","Mael Gilles",13,"personal",3,5,1,-27
+"2017-18","9735",1,491,109,"Maryland","Stephanie Jones",24,"personal",1,1,0,4
+"2017-18","9735",1,388,212,"Nebraska","Kate Cain",31,"personal",1,1,0,-3
+"2017-18","9735",1,338,262,"Maryland","Brianna Fraser",34,"personal",1,2,0,7
+"2017-18","9735",1,316,284,"Nebraska","Taylor Kissinger",33,"personal",1,2,0,-6
+"2017-18","9735",1,247,353,"Maryland","Stephanie Jones",24,"personal",2,3,0,1
+"2017-18","9735",1,161,439,"Nebraska","Taylor Kissinger",33,"personal",2,3,0,-1
+"2017-18","9735",1,141,459,"Nebraska","Rachel Blackburn",43,"personal",1,4,0,-2
+"2017-18","9735",1,94,506,"Maryland","Brianna Fraser",34,"personal",2,4,0,2
+"2017-18","9735",1,1,599,"Nebraska","Janay Morton",13,"personal",1,5,1,-4
+"2017-18","9735",2,583,617,"Nebraska","Kate Cain",31,"personal",2,1,0,-4
+"2017-18","9735",2,403,797,"Nebraska","Rachel Blackburn",43,"personal",2,2,0,-4
+"2017-18","9735",2,146,1054,"Maryland","Aja Ellison",0,"personal",1,1,0,8
+"2017-18","9735",2,108,1092,"Maryland","Channise Lewis",3,"personal",1,2,0,5
+"2017-18","9735",3,405,1395,"Maryland","Kaila Charles",5,"personal",1,1,0,10
+"2017-18","9735",3,358,1442,"Maryland","Stephanie Jones",24,"personal",3,2,0,10
+"2017-18","9735",3,272,1528,"Nebraska","Janay Morton",13,"personal",2,1,0,-8
+"2017-18","9735",3,221,1579,"Nebraska","Hannah Whitish",3,"personal",1,2,0,-6
+"2017-18","9735",3,210,1590,"Nebraska","Darrien Washington",50,"personal",1,3,0,-8
+"2017-18","9735",3,27,1773,"Nebraska","Jasmine Cincore",34,"personal",1,4,0,-8
+"2017-18","9735",3,6,1794,"Maryland","Kaila Charles",5,"personal",2,3,0,10
+"2017-18","9735",4,529,1871,"Nebraska","Kate Cain",31,"personal",3,1,0,-9
+"2017-18","9735",4,519,1881,"Maryland","Brianna Fraser",34,"personal",3,1,0,9
+"2017-18","9735",4,435,1965,"Maryland","Stephanie Jones",24,"personal",4,2,0,12
+"2017-18","9735",4,385,2015,"Maryland","Brianna Fraser",34,"personal",4,3,0,10
+"2017-18","9735",4,253,2147,"Nebraska","Jasmine Cincore",34,"personal",2,2,0,-10
+"2017-18","9735",4,153,2247,"Nebraska","Maddie Simon",24,"personal",1,3,0,-8
+"2017-18","9735",4,76,2324,"Nebraska","Taylor Kissinger",33,"personal",3,4,0,-7
+"2017-18","9735",4,72,2328,"Nebraska","Jasmine Cincore",34,"personal",3,5,1,-7
+"2017-18","9735",4,54,2346,"Nebraska","Bria Stallworth",15,"personal",1,6,1,-5
+"2017-18","9735",4,26,2374,"Nebraska","Hannah Whitish",3,"personal",2,7,1,-6
+"2017-18","9735",4,16,2384,"Nebraska","Janay Morton",13,"personal",3,8,1,-7
+"2017-18","9735",4,5,2395,"Nebraska","Jasmine Cincore",34,"personal",4,9,1,-6
+"2017-18","9736",1,384,216,"Michigan State","Kennedy Johnson",55,"personal",1,1,0,-1
+"2017-18","9736",1,217,383,"Michigan State","Jenna Allen",33,"personal",1,2,0,-4
+"2017-18","9736",1,105,495,"Michigan State","Jenna Allen",33,"personal",2,3,0,-10
+"2017-18","9736",1,94,506,"Maryland","Brianna Fraser",34,"personal",1,1,0,10
+"2017-18","9736",2,590,610,"Maryland","Stephanie Jones",24,"personal",1,1,0,2
+"2017-18","9736",2,496,704,"Maryland","Kaila Charles",5,"personal",1,2,0,1
+"2017-18","9736",2,477,723,"Maryland","Kristen Confroy",12,"personal",1,3,0,1
+"2017-18","9736",2,323,877,"Maryland","Kaila Charles",5,"personal",2,4,0,7
+"2017-18","9736",2,249,951,"Michigan State","Branndais Agee",10,"personal",1,1,0,-3
+"2017-18","9736",2,246,954,"Michigan State","Branndais Agee",10,"personal",2,2,0,-3
+"2017-18","9736",2,98,1102,"Maryland","Eleanna Christinaki",10,"personal",1,5,1,8
+"2017-18","9736",2,9,1191,"Maryland","Eleanna Christinaki",10,"personal",2,6,1,5
+"2017-18","9736",3,555,1245,"Maryland","Stephanie Jones",24,"personal",2,1,0,7
+"2017-18","9736",3,492,1308,"Maryland","Channise Lewis",3,"personal",1,2,0,9
+"2017-18","9736",3,424,1376,"Michigan State","Jenna Allen",33,"personal",3,1,0,-10
+"2017-18","9736",3,221,1579,"Michigan State","Victoria Gaines",15,"personal",1,2,0,-17
+"2017-18","9736",3,193,1607,"Maryland","Brianna Fraser",34,"personal",2,3,0,17
+"2017-18","9736",3,169,1631,"Michigan State","Victoria Gaines",15,"personal",2,3,0,-16
+"2017-18","9736",3,138,1662,"Michigan State","Victoria Gaines",15,"personal",3,4,0,-17
+"2017-18","9736",3,138,1662,"Michigan State","Branndais Agee",10,"personal",3,5,1,-17
+"2017-18","9736",3,103,1697,"Michigan State","Nia Hollie",12,"personal",1,6,1,-19
+"2017-18","9736",3,78,1722,"Maryland","Kaila Charles",5,"personal",3,4,0,21
+"2017-18","9736",3,3,1797,"Maryland","Sarah Myers",21,"personal",1,5,1,20
+"2017-18","9736",4,505,1895,"Maryland","Channise Lewis",3,"personal",2,1,0,14
+"2017-18","9736",4,391,2009,"Michigan State","Lexi Gussert",24,"personal",1,1,0,-9
+"2017-18","9736",4,197,2203,"Michigan State","Taryn McCutcheon",4,"personal",1,2,0,-9
+"2017-18","9736",4,180,2220,"Michigan State","Victoria Gaines",15,"personal",4,3,0,-9
+"2017-18","9736",4,47,2353,"Michigan State","Lexi Gussert",24,"personal",2,4,0,-7
+"2017-18","9736",4,44,2356,"Michigan State","Branndais Agee",10,"personal",4,5,1,-7
+"2017-18","9736",4,33,2367,"Michigan State","Sidney Cooks",1,"personal",1,6,1,-5
+"2017-18","9736",4,26,2374,"Michigan State","Lexi Gussert",24,"personal",3,7,1,-6
+"2017-18","9736",4,16,2384,"Michigan State","Taryn McCutcheon",4,"personal",2,8,1,-8
+"2017-18","9737",1,496,104,"Rutgers","Nigia Greene",11,"personal",1,1,0,0
+"2017-18","9737",1,382,218,"Maryland","Kaila Charles",5,"personal",1,1,0,2
+"2017-18","9737",1,284,316,"Rutgers","Victoria Harris",40,"personal",1,2,0,-1
+"2017-18","9737",1,247,353,"Maryland","Channise Lewis",3,"personal",1,2,0,1
+"2017-18","9737",1,149,451,"Rutgers","Stasha Carey",35,"personal",1,3,0,-2
+"2017-18","9737",1,125,475,"Rutgers","Nigia Greene",11,"personal",2,4,0,-1
+"2017-18","9737",1,124,476,"Rutgers","Caitlin Jenkins",15,"personal",1,5,1,-1
+"2017-18","9737",1,89,511,"Rutgers","Jazlynd Rollins",1,"personal",1,6,1,-3
+"2017-18","9737",1,55,545,"Rutgers","Jazlynd Rollins",1,"personal",2,7,1,-5
+"2017-18","9737",1,42,558,"Maryland","Eleanna Christinaki",10,"personal",1,3,0,6
+"2017-18","9737",1,12,588,"Maryland","Ieshia Small",1,"personal",1,4,0,6
+"2017-18","9737",1,3,597,"Rutgers","Caitlin Jenkins",15,"personal",2,8,1,-4
+"2017-18","9737",2,504,696,"Maryland","Channise Lewis",3,"personal",2,1,0,5
+"2017-18","9737",2,266,934,"Maryland","Eleanna Christinaki",10,"personal",2,2,0,7
+"2017-18","9737",2,225,975,"Maryland","Sarah Myers",21,"personal",1,3,0,5
+"2017-18","9737",2,128,1072,"Maryland","Kaila Charles",5,"personal",2,4,0,10
+"2017-18","9737",3,587,1213,"Rutgers","Tyler Scaife",3,"personal",1,1,0,-16
+"2017-18","9737",3,485,1315,"Rutgers","Tyler Scaife",3,"personal",2,2,0,-16
+"2017-18","9737",3,449,1351,"Maryland","Stephanie Jones",24,"personal",1,1,0,18
+"2017-18","9737",3,406,1394,"Maryland","Stephanie Jones",24,"personal",2,2,0,18
+"2017-18","9737",3,366,1434,"Rutgers","Victoria Harris",40,"personal",2,3,0,-15
+"2017-18","9737",3,157,1643,"Rutgers","Victoria Harris",40,"personal",3,4,0,-15
+"2017-18","9737",3,59,1741,"Maryland","Eleanna Christinaki",10,"personal",3,3,0,13
+"2017-18","9737",3,51,1749,"Rutgers","Ciani Cryor",5,"personal",1,5,1,-11
+"2017-18","9737",3,4,1796,"Maryland","Kaila Charles",5,"personal",3,4,0,13
+"2017-18","9737",4,554,1846,"Rutgers","Caitlin Jenkins",15,"personal",3,1,0,-11
+"2017-18","9737",4,406,1994,"Maryland","Kaila Charles",5,"personal",4,1,0,13
+"2017-18","9737",4,394,2006,"Rutgers","Stasha Carey",35,"personal",2,2,0,-11
+"2017-18","9737",4,315,2085,"Maryland","Ieshia Small",1,"personal",2,2,0,14
+"2017-18","9737",4,200,2200,"Maryland","Channise Lewis",3,"personal",3,3,0,12
+"2017-18","9737",4,146,2254,"Rutgers","","","technical","",2,0,-12
+"2017-18","9737",4,146,2254,"Rutgers","","","personal","",3,0,-12
+"2017-18","9737",4,127,2273,"Rutgers","Stasha Carey",35,"personal",3,4,0,-13
+"2017-18","9737",4,63,2337,"Rutgers","Victoria Harris",40,"personal",4,5,1,-15
+"2017-18","9738",1,435,165,"Maryland","Stephanie Jones",24,"personal",1,1,0,1
+"2017-18","9738",1,364,236,"Purdue","Ae'Rianna Harris",32,"personal",1,1,0,0
+"2017-18","9738",1,334,266,"Maryland","Channise Lewis",3,"personal",1,2,0,-1
+"2017-18","9738",1,299,301,"Purdue","Karissa McLaughlin",1,"personal",1,2,0,4
+"2017-18","9738",1,189,411,"Maryland","Kaila Charles",5,"personal",1,3,0,-1
+"2017-18","9738",2,543,657,"Purdue","Dominique Oden",11,"personal",1,1,0,3
+"2017-18","9738",2,297,903,"Purdue","Andreona Keys",10,"personal",1,2,0,-1
+"2017-18","9738",2,220,980,"Maryland","Channise Lewis",3,"personal",2,1,0,3
+"2017-18","9738",2,79,1121,"Purdue","Tamara Farquhar",25,"personal",1,3,0,-3
+"2017-18","9738",2,35,1165,"Maryland","Kaila Charles",5,"personal",2,2,0,5
+"2017-18","9738",3,467,1333,"Maryland","Kaila Charles",5,"personal",3,1,0,9
+"2017-18","9738",3,304,1496,"Purdue","Nora Kiesler",12,"personal",1,1,0,-10
+"2017-18","9738",3,206,1594,"Maryland","Brianna Fraser",34,"personal",1,2,0,6
+"2017-18","9738",3,35,1765,"Purdue","Ae'Rianna Harris",32,"personal",2,2,0,0
+"2017-18","9738",4,572,1828,"Purdue","Ae'Rianna Harris",32,"personal",3,1,0,-1
+"2017-18","9738",4,502,1898,"Maryland","Stephanie Jones",24,"personal",2,1,0,-1
+"2017-18","9738",4,382,2018,"Maryland","Kristen Confroy",12,"personal",1,2,0,-3
+"2017-18","9738",4,275,2125,"Purdue","Dominique Oden",11,"personal",2,2,0,1
+"2017-18","9738",4,137,2263,"Purdue","Tamara Farquhar",25,"personal",2,3,0,1
+"2017-18","9738",4,59,2341,"Maryland","Channise Lewis",3,"personal",3,3,0,-3
+"2017-18","9738",4,55,2345,"Maryland","Channise Lewis",3,"personal",4,4,0,-3
+"2017-18","9738",4,54,2346,"Maryland","Channise Lewis",3,"personal",5,5,1,-3
+"2017-18","9738",4,45,2355,"Purdue","Dominique Oden",11,"personal",3,4,0,5
+"2017-18","9738",4,33,2367,"Maryland","Eleanna Christinaki",10,"personal",1,6,1,-5
+"2017-18","9738",4,21,2379,"Maryland","Stephanie Jones",24,"personal",3,7,1,-7
+"2017-18","9738",4,9,2391,"Maryland","Kaila Charles",5,"personal",4,8,1,-9
+"2017-18","9739",1,495,105,"Maryland","Brianna Fraser",34,"personal",1,1,0,2
+"2017-18","9739",1,474,126,"Minnesota","Taiye Bello",5,"personal",1,1,0,0
+"2017-18","9739",1,383,217,"Minnesota","Taiye Bello",5,"personal",2,2,0,0
+"2017-18","9739",1,250,350,"Maryland","Brianna Fraser",34,"personal",2,2,0,0
+"2017-18","9739",1,207,393,"Maryland","Stephanie Jones",24,"personal",1,3,0,-1
+"2017-18","9739",1,192,408,"Maryland","Stephanie Jones",24,"personal",2,4,0,-1
+"2017-18","9739",1,27,573,"Minnesota","Gadiva Hubbard",34,"personal",1,3,0,5
+"2017-18","9739",2,598,602,"Maryland","Eleanna Christinaki",10,"personal",1,1,0,-5
+"2017-18","9739",2,554,646,"Maryland","Ieshia Small",1,"personal",1,2,0,-4
+"2017-18","9739",2,415,785,"Maryland","Kaila Charles",5,"personal",1,3,0,-10
+"2017-18","9739",2,371,829,"Maryland","Kristen Confroy",12,"personal",1,4,0,-11
+"2017-18","9739",2,357,843,"Minnesota","Bryanna Fernstrom",14,"personal",1,1,0,11
+"2017-18","9739",2,346,854,"Minnesota","Kenisha Bell",23,"personal",1,2,0,8
+"2017-18","9739",2,54,1146,"Maryland","Stephanie Jones",24,"personal",3,5,1,-12
+"2017-18","9739",3,485,1315,"Minnesota","Gadiva Hubbard",34,"personal",2,1,0,15
+"2017-18","9739",3,480,1320,"Maryland","Kaila Charles",5,"personal",2,1,0,-15
+"2017-18","9739",3,450,1350,"Maryland","Brianna Fraser",34,"personal",3,2,0,-18
+"2017-18","9739",3,434,1366,"Maryland","Eleanna Christinaki",10,"personal",2,3,0,-18
+"2017-18","9739",3,336,1464,"Maryland","Stephanie Jones",24,"personal",4,4,0,-18
+"2017-18","9739",3,316,1484,"Minnesota","Taiye Bello",5,"personal",3,2,0,19
+"2017-18","9739",3,282,1518,"Minnesota","Carlie Wagner",33,"personal",1,3,0,18
+"2017-18","9739",3,114,1686,"Minnesota","Jessie Edwards",10,"personal",1,4,0,27
+"2017-18","9739",3,105,1695,"Minnesota","Bryanna Fernstrom",14,"personal",2,5,1,27
+"2017-18","9739",4,547,1853,"Maryland","Kaila Charles",5,"personal",3,1,0,-21
+"2017-18","9739",4,522,1878,"Maryland","Ieshia Small",1,"personal",2,2,0,-21
+"2017-18","9739",4,376,2024,"Minnesota","Carlie Wagner",33,"personal",2,1,0,21
+"2017-18","9739",4,125,2275,"Minnesota","Taiye Bello",5,"personal",4,2,0,25
+"2017-18","9739",4,98,2302,"Minnesota","Kehinde Bello",20,"personal",1,3,0,23
+"2017-18","9739",4,77,2323,"Maryland","Brianna Fraser",34,"personal",4,3,0,-21
+"2017-18","9739",4,46,2354,"Minnesota","Annalese Lamke",41,"personal",1,4,0,21
+"2017-18","9740",1,564,36,"Maryland","Eleanna Christinaki",10,"personal",1,1,0,0
+"2017-18","9740",1,496,104,"Maryland","Stephanie Jones",24,"personal",1,2,0,-1
+"2017-18","9740",1,443,157,"Maryland","Kristen Confroy",12,"personal",1,3,0,-3
+"2017-18","9740",1,405,195,"Michigan","Hallie Thome",30,"personal",1,1,0,6
+"2017-18","9740",1,326,274,"Michigan","Kayla Robbins",5,"personal",1,2,0,5
+"2017-18","9740",1,208,392,"Maryland","Brianna Fraser",34,"personal",1,4,0,-3
+"2017-18","9740",1,38,562,"Michigan","Kayla Robbins",5,"personal",2,3,0,11
+"2017-18","9740",1,4,596,"Michigan","Jillian Dunston",11,"personal",1,4,0,11
+"2017-18","9740",2,572,628,"Maryland","Eleanna Christinaki",10,"personal",2,1,0,-9
+"2017-18","9740",2,561,639,"Michigan","Nicole Munger",10,"personal",1,1,0,11
+"2017-18","9740",2,421,779,"Michigan","Hallie Thome",30,"personal",2,2,0,10
+"2017-18","9740",2,270,930,"Maryland","Brianna Fraser",34,"personal",2,2,0,-6
+"2017-18","9740",2,129,1071,"Michigan","Nicole Munger",10,"personal",2,3,0,2
+"2017-18","9740",3,503,1297,"Maryland","Stephanie Jones",24,"personal",2,1,0,0
+"2017-18","9740",3,483,1317,"Michigan","Jillian Dunston",11,"personal",2,1,0,2
+"2017-18","9740",3,418,1382,"Maryland","Kaila Charles",5,"personal",1,2,0,-1
+"2017-18","9740",3,355,1445,"Maryland","Stephanie Jones",24,"personal",3,3,0,-3
+"2017-18","9740",3,270,1530,"Michigan","Hallie Thome",30,"personal",3,2,0,4
+"2017-18","9740",3,247,1553,"Maryland","Sarah Myers",21,"personal",1,4,0,-3
+"2017-18","9740",3,36,1764,"Michigan","Kayla Robbins",5,"personal",3,3,0,5
+"2017-18","9740",4,518,1882,"Michigan","Nicole Munger",10,"personal",3,1,0,5
+"2017-18","9740",4,483,1917,"Maryland","Ieshia Small",1,"personal",1,1,0,-5
+"2017-18","9740",4,434,1966,"Michigan","Jillian Dunston",11,"personal",3,2,0,5
+"2017-18","9740",4,417,1983,"Maryland","Kaila Charles",5,"personal",2,2,0,-5
+"2017-18","9740",4,386,2014,"Michigan","Hallie Thome",30,"personal",4,3,0,5
+"2017-18","9740",4,249,2151,"Maryland","Kristen Confroy",12,"personal",2,3,0,-1
+"2017-18","9740",4,125,2275,"Michigan","Akienreh Johnson",14,"personal",1,4,0,4
+"2017-18","9740",4,90,2310,"Maryland","Stephanie Jones",24,"personal",4,4,0,-5
+"2017-18","9740",4,11,2389,"Maryland","Sarah Myers",21,"personal",2,5,1,-3
+"2017-18","9740",4,5,2395,"Maryland","Kaila Charles",5,"personal",3,6,1,-5
+"2017-18","9741",1,536,64,"Nebraska","Kate Cain",31,"personal",1,1,0,3
+"2017-18","9741",1,499,101,"Nebraska","Jasmine Cincore",34,"personal",1,2,0,0
+"2017-18","9741",1,344,256,"Maryland","Channise Lewis",3,"personal",1,1,0,7
+"2017-18","9741",1,310,290,"Maryland","Eleanna Christinaki",10,"personal",1,2,0,7
+"2017-18","9741",1,238,362,"Maryland","Stephanie Jones",24,"personal",1,3,0,10
+"2017-18","9741",1,216,384,"Nebraska","Rachel Blackburn",43,"personal",1,3,0,-10
+"2017-18","9741",1,127,473,"Nebraska","Kate Cain",31,"personal",2,4,0,-7
+"2017-18","9741",1,18,582,"Maryland","Kaila Charles",5,"personal",1,4,0,5
+"2017-18","9741",2,499,701,"Nebraska","Jasmine Cincore",34,"personal",2,1,0,-5
+"2017-18","9741",2,308,892,"Nebraska","Emily Wood",12,"personal",1,2,0,-9
+"2017-18","9741",2,276,924,"Nebraska","Kate Cain",31,"personal",3,3,0,-13
+"2017-18","9741",2,250,950,"Maryland","Sarah Myers",21,"personal",1,1,0,14
+"2017-18","9741",3,548,1252,"Nebraska","Nicea Eliely",5,"personal",1,1,0,-8
+"2017-18","9741",3,448,1352,"Maryland","Stephanie Jones",24,"personal",2,1,0,7
+"2017-18","9741",3,421,1379,"Nebraska","Maddie Simon",24,"personal",1,2,0,-9
+"2017-18","9741",3,288,1512,"Nebraska","Emily Wood",12,"personal",2,3,0,-12
+"2017-18","9741",3,231,1569,"Nebraska","Hannah Whitish",3,"personal",1,4,0,-13
+"2017-18","9741",3,174,1626,"Nebraska","Emily Wood",12,"personal",3,5,1,-10
+"2017-18","9741",3,60,1740,"Nebraska","Kate Cain",31,"personal",4,6,1,-7
+"2017-18","9741",3,48,1752,"Maryland","Channise Lewis",3,"personal",2,2,0,7
+"2017-18","9741",4,443,1957,"Maryland","Brianna Fraser",34,"personal",1,1,0,10
+"2017-18","9741",4,427,1973,"Maryland","Channise Lewis",3,"personal",3,2,0,10
+"2017-18","9741",4,247,2153,"Maryland","Brianna Fraser",34,"personal",2,3,0,4
+"2017-18","9741",4,230,2170,"Maryland","Ieshia Small",1,"personal",1,4,0,4
+"2017-18","9741",4,125,2275,"Nebraska","Maddie Simon",24,"personal",2,1,0,-1
+"2017-18","9741",4,96,2304,"Nebraska","Nicea Eliely",5,"personal",2,2,0,-1
+"2017-18","9741",4,26,2374,"Nebraska","Nicea Eliely",5,"personal",3,3,0,1
+"2017-18","9741",4,13,2387,"Nebraska","Hannah Whitish",3,"personal",2,4,0,-1
+"2017-18","9741",4,13,2387,"Nebraska","Nicea Eliely",5,"personal",4,5,1,-1
+"2017-18","9742",1,415,185,"Indiana","Tyra Buss",3,"personal",1,1,0,0
+"2017-18","9742",1,289,311,"Maryland","Brianna Fraser",34,"personal",1,1,0,1
+"2017-18","9742",1,265,335,"Maryland","Stephanie Jones",24,"personal",1,2,0,1
+"2017-18","9742",1,215,385,"Maryland","Kristen Confroy",12,"personal",1,3,0,-1
+"2017-18","9742",1,200,400,"Indiana","Keyanna Warthen",2,"personal",1,2,0,1
+"2017-18","9742",1,89,511,"Maryland","Channise Lewis",3,"personal",1,4,0,-3
+"2017-18","9742",1,2,598,"Indiana","Amanda Cahill",33,"personal",1,3,0,-1
+"2017-18","9742",2,551,649,"Indiana","Kym Royster",11,"personal",1,1,0,-1
+"2017-18","9742",2,359,841,"Indiana","Amanda Cahill",33,"personal",2,2,0,-1
+"2017-18","9742",2,84,1116,"Indiana","Amanda Cahill",33,"personal",3,3,0,0
+"2017-18","9742",2,26,1174,"Maryland","Stephanie Jones",24,"personal",2,1,0,4
+"2017-18","9742",3,580,1220,"Indiana","Bendu Yeaney",1,"personal",1,1,0,-2
+"2017-18","9742",3,496,1304,"Maryland","Kaila Charles",5,"personal",1,1,0,2
+"2017-18","9742",3,471,1329,"Maryland","Channise Lewis",3,"personal",2,2,0,2
+"2017-18","9742",3,402,1398,"Maryland","Stephanie Jones",24,"personal",3,3,0,0
+"2017-18","9742",3,391,1409,"Indiana","Bendu Yeaney",1,"personal",2,2,0,1
+"2017-18","9742",3,349,1451,"Indiana","Tyra Buss",3,"personal",2,3,0,1
+"2017-18","9742",3,316,1484,"Maryland","Kaila Charles",5,"personal",2,4,0,1
+"2017-18","9742",3,239,1561,"Indiana","Kym Royster",11,"personal",2,4,0,1
+"2017-18","9742",3,159,1641,"Indiana","Kym Royster",11,"personal",3,5,1,-2
+"2017-18","9742",3,159,1641,"Maryland","Kaila Charles",5,"personal",3,5,1,3
+"2017-18","9742",4,589,1811,"Maryland","Kristen Confroy",12,"personal",2,1,0,8
+"2017-18","9742",4,529,1871,"Maryland","Kaila Charles",5,"personal",4,2,0,8
+"2017-18","9742",4,465,1935,"Maryland","Brianna Fraser",34,"personal",2,3,0,6
+"2017-18","9742",4,451,1949,"Indiana","Bendu Yeaney",1,"personal",3,1,0,-4
+"2017-18","9742",4,386,2014,"Maryland","Brianna Fraser",34,"personal",3,4,0,4
+"2017-18","9742",4,274,2126,"Maryland","Brianna Fraser",34,"personal",4,5,1,5
+"2017-18","9742",4,96,2304,"Indiana","Tyra Buss",3,"personal",3,2,0,-7
+"2017-18","9742",4,93,2307,"Indiana","Jaelynn Penn",13,"personal",1,3,0,-7
+"2017-18","9742",4,90,2310,"Indiana","Jaelynn Penn",13,"personal",2,4,0,-7
+"2017-18","9742",4,89,2311,"Indiana","Keyanna Warthen",2,"personal",2,5,1,-7
+"2017-18","9742",4,77,2323,"Indiana","Tyra Buss",3,"personal",4,6,1,-7
+"2017-18","9742",4,62,2338,"Indiana","Jaelynn Penn",13,"personal",3,7,1,-6
+"2017-18","9742",4,40,2360,"Indiana","Jaelynn Penn",13,"personal",4,8,1,-8
+"2017-18","9742",4,31,2369,"Indiana","Keyanna Warthen",2,"personal",3,9,1,-9
+"2017-18","9742",4,19,2381,"Indiana","Bendu Yeaney",1,"personal",4,10,1,-11
+"2017-18","9743",1,600,0,"Nebraska","","","technical","",0,0,0
+"2017-18","9743",1,443,157,"Maryland","Stephanie Jones",24,"personal",1,1,0,5
+"2017-18","9743",1,431,169,"Nebraska","Kate Cain",31,"personal",1,1,0,-3
+"2017-18","9743",1,281,319,"Nebraska","Jasmine Cincore",34,"personal",1,2,0,1
+"2017-18","9743",1,204,396,"Nebraska","Darrien Washington",50,"personal",1,3,0,-3
+"2017-18","9743",1,55,545,"Nebraska","Maddie Simon",24,"personal",1,4,0,1
+"2017-18","9743",1,7,593,"Maryland","Channise Lewis",3,"personal",1,2,0,1
+"2017-18","9743",2,499,701,"Nebraska","Kate Cain",31,"personal",2,1,0,-3
+"2017-18","9743",2,446,754,"Nebraska","Nicea Eliely",11,"personal",1,2,0,-3
+"2017-18","9743",2,338,862,"Maryland","Kaila Charles",5,"personal",1,1,0,8
+"2017-18","9743",2,239,961,"Nebraska","Janay Morton",13,"personal",1,3,0,-9
+"2017-18","9743",2,230,970,"Maryland","Kaila Charles",5,"personal",2,2,0,10
+"2017-18","9743",2,194,1006,"Maryland","Ieshia Small",1,"personal",1,3,0,10
+"2017-18","9743",2,177,1023,"Nebraska","Maddie Simon",24,"personal",2,4,0,-8
+"2017-18","9743",2,70,1130,"Maryland","Stephanie Jones",24,"personal",2,4,0,9
+"2017-18","9743",2,46,1154,"Nebraska","Nicea Eliely",11,"personal",2,5,1,-8
+"2017-18","9743",3,553,1247,"Nebraska","Kate Cain",31,"personal",3,1,0,-10
+"2017-18","9743",3,382,1418,"Nebraska","Janay Morton",13,"personal",2,2,0,-13
+"2017-18","9743",3,373,1427,"Nebraska","Darrien Washington",50,"personal",2,3,0,-13
+"2017-18","9743",3,369,1431,"Nebraska","Emily Wood",12,"personal",1,4,0,-13
+"2017-18","9743",3,297,1503,"Maryland","Ieshia Small",1,"personal",2,1,0,12
+"2017-18","9743",3,204,1596,"Nebraska","Emily Wood",12,"personal",2,5,1,-9
+"2017-18","9743",3,169,1631,"Nebraska","Emily Wood",12,"personal",3,6,1,-9
+"2017-18","9743",3,156,1644,"Maryland","Brianna Fraser",34,"personal",1,2,0,11
+"2017-18","9743",3,144,1656,"Maryland","Stephanie Jones",24,"personal",3,3,0,11
+"2017-18","9743",3,104,1696,"Nebraska","Kate Cain",31,"personal",4,7,1,-11
+"2017-18","9743",3,77,1723,"Nebraska","Jasmine Cincore",34,"personal",2,8,1,-13
+"2017-18","9743",4,554,1846,"Maryland","Kaila Charles",5,"personal",3,1,0,15
+"2017-18","9743",4,538,1862,"Maryland","Brianna Fraser",34,"personal",2,2,0,12
+"2017-18","9743",4,497,1903,"Nebraska","Jasmine Cincore",34,"personal",3,1,0,-12
+"2017-18","9743",4,490,1910,"Maryland","Channise Lewis",3,"personal",2,3,0,13
+"2017-18","9743",4,342,2058,"Maryland","Brianna Fraser",34,"personal",3,4,0,12
+"2017-18","9743",4,281,2119,"Nebraska","Hannah Whitish",3,"personal",1,2,0,-12
+"2017-18","9743",4,253,2147,"Nebraska","Hannah Whitish",3,"personal",2,3,0,-14
+"2017-18","9743",4,120,2280,"Nebraska","Hannah Whitish",3,"personal",3,4,0,-18
+"2017-18","9743",4,80,2320,"Maryland","Channise Lewis",3,"personal",3,5,1,16
+"2017-18","9744",1,203,397,"Maryland","Kaila Charles",5,"personal",1,1,0,5
+"2017-18","9744",1,190,410,"Maryland","Ieshia Small",1,"personal",1,2,0,5
+"2017-18","9744",1,153,447,"Ohio State","Sierra Calhoun",4,"personal",1,1,0,-1
+"2017-18","9744",1,71,529,"Maryland","Brianna Fraser",34,"personal",1,3,0,1
+"2017-18","9744",2,499,701,"Ohio State","Alexa Hart",22,"personal",1,1,0,-1
+"2017-18","9744",2,412,788,"Maryland","Brianna Fraser",34,"personal",2,1,0,0
+"2017-18","9744",2,358,842,"Maryland","Ieshia Small",1,"personal",2,2,0,-6
+"2017-18","9744",2,285,915,"Ohio State","Kelsey Mitchell",3,"personal",1,2,0,9
+"2017-18","9744",2,89,1111,"Maryland","Kaila Charles",5,"personal",2,3,0,-12
+"2017-18","9744",2,40,1160,"Maryland","Brianna Fraser",34,"personal",3,4,0,-12
+"2017-18","9744",2,1,1199,"Ohio State","Alexa Hart",22,"personal",2,3,0,13
+"2017-18","9744",3,491,1309,"Maryland","Stephanie Jones",24,"personal",1,1,0,-13
+"2017-18","9744",3,490,1310,"Ohio State","Linnae Harper",15,"personal",1,1,0,13
+"2017-18","9744",3,427,1373,"Ohio State","Alexa Hart",22,"personal",3,2,0,15
+"2017-18","9744",3,404,1396,"Maryland","Ieshia Small",1,"personal",3,2,0,-15
+"2017-18","9744",3,394,1406,"Maryland","Stephanie Jones",24,"personal",2,3,0,-15
+"2017-18","9744",4,569,1831,"Ohio State","Makayla Waterman",24,"personal",1,1,0,8
+"2017-18","9744",4,514,1886,"Maryland","Brianna Fraser",34,"personal",4,1,0,-6
+"2017-18","9744",4,483,1917,"Ohio State","Alexa Hart",22,"personal",4,2,0,8
+"2017-18","9744",4,204,2196,"Maryland","Ieshia Small",1,"personal",4,2,0,-5
+"2017-18","9744",4,189,2211,"Ohio State","Alexa Hart",22,"personal",5,3,0,6
+"2017-18","9744",4,137,2263,"Ohio State","Kelsey Mitchell",3,"personal",2,4,0,10
+"2017-18","9744",4,134,2266,"Maryland","Brianna Fraser",34,"personal",5,3,0,-10
+"2017-18","9744",4,122,2278,"Maryland","Kristen Confroy",12,"personal",1,4,0,-10
+"2017-18","9744",4,121,2279,"Maryland","Kaila Charles",5,"personal",3,5,1,-10
+"2017-18","9744",4,79,2321,"Maryland","Channise Lewis",3,"personal",1,6,1,-10
+"2017-18","9744",4,62,2338,"Maryland","Kaila Charles",5,"personal",4,7,1,-12
+"2017-18","9744",4,46,2354,"Maryland","Kristen Confroy",12,"personal",2,8,1,-12
+"2017-18","9744",4,39,2361,"Ohio State","Makayla Waterman",24,"personal",2,5,1,13
+"2017-18","9745",1,291,309,"Maryland","Channise Lewis",3,"personal",1,1,0,4
+"2017-18","9745",1,260,340,"Princeton","Abby Meyers",1,"personal",1,1,0,-4
+"2017-18","9745",1,197,403,"Maryland","Kaila Charles",5,"personal",1,2,0,4
+"2017-18","9745",1,136,464,"Princeton","Abby Meyers",1,"personal",2,2,0,-5
+"2017-18","9745",1,126,474,"Maryland","Stephanie Jones",24,"personal",1,3,0,7
+"2017-18","9745",2,572,628,"Princeton","Leslie Robinson",45,"personal",1,1,0,-6
+"2017-18","9745",2,540,660,"Maryland","Channise Lewis",3,"personal",2,1,0,6
+"2017-18","9745",2,482,718,"Princeton","Sydney Jordan",20,"personal",1,2,0,-3
+"2017-18","9745",2,448,752,"Maryland","Stephanie Jones",24,"personal",2,2,0,5
+"2017-18","9745",2,349,851,"Maryland","Kristen Confroy",12,"personal",1,3,0,7
+"2017-18","9745",2,335,865,"Maryland","Brianna Fraser",34,"personal",1,4,0,6
+"2017-18","9745",2,296,904,"Princeton","Sydney Jordan",20,"personal",2,3,0,-6
+"2017-18","9745",2,227,973,"Princeton","Tia Weledji",32,"personal",1,4,0,-8
+"2017-18","9745",2,200,1000,"Maryland","Sarah Myers",21,"personal",1,5,1,10
+"2017-18","9745",2,100,1100,"Maryland","Ieshia Small",1,"personal",1,6,1,7
+"2017-18","9745",2,81,1119,"Princeton","Tia Weledji",32,"personal",2,5,1,-7
+"2017-18","9745",2,17,1183,"Princeton","Carlie Littlefield",2,"personal",1,6,1,-5
+"2017-18","9745",3,546,1254,"Princeton","Abby Meyers",1,"personal",3,1,0,-7
+"2017-18","9745",3,499,1301,"Maryland","Kaila Charles",5,"personal",2,1,0,9
+"2017-18","9745",3,459,1341,"Princeton","Leslie Robinson",45,"personal",2,2,0,-11
+"2017-18","9745",3,384,1416,"Maryland","Stephanie Jones",24,"personal",3,2,0,13
+"2017-18","9745",3,320,1480,"Maryland","Eleanna Christinaki",10,"personal",1,3,0,11
+"2017-18","9745",3,303,1497,"Princeton","Bella Alarie",31,"personal",1,3,0,-11
+"2017-18","9745",3,215,1585,"Princeton","Bella Alarie",31,"personal",2,4,0,-11
+"2017-18","9745",3,131,1669,"Princeton","Qalea Ismail",23,"personal",1,5,1,-17
+"2017-18","9745",3,72,1728,"Maryland","Ieshia Small",1,"personal",2,4,0,18
+"2017-18","9745",4,566,1834,"Maryland","Eleanna Christinaki",10,"personal",2,1,0,17
+"2017-18","9745",4,534,1866,"Princeton","Bella Alarie",31,"personal",3,1,0,-17
+"2017-18","9745",4,472,1928,"Maryland","Stephanie Jones",24,"personal",4,2,0,21
+"2017-18","9745",4,359,2041,"Princeton","Abby Meyers",1,"personal",4,2,0,-23
+"2017-18","9745",4,304,2096,"Princeton","Leslie Robinson",45,"personal",3,3,0,-24
+"2017-18","9745",4,249,2151,"Maryland","Kaila Charles",5,"personal",3,3,0,26
+"2017-18","9745",4,237,2163,"Princeton","Carlie Littlefield",2,"personal",2,4,0,-24
+"2017-18","9745",4,201,2199,"Maryland","Channise Lewis",3,"personal",3,4,0,25
+"2017-18","9745",4,180,2220,"Maryland","Sarah Myers",21,"personal",2,5,1,23
+"2017-18","9745",4,36,2364,"Princeton","Leslie Robinson",45,"personal",4,5,1,-20
+"2017-18","9746",1,578,22,"NC State","Kiara Leslie",11,"personal",1,1,0,0
+"2017-18","9746",1,468,132,"Maryland","Kristen Confroy",12,"personal",1,1,0,1
+"2017-18","9746",1,440,160,"Maryland","Channise Lewis",3,"personal",1,2,0,-1
+"2017-18","9746",1,345,255,"NC State","Akela Maize",32,"personal",1,2,0,6
+"2017-18","9746",1,218,382,"NC State","Aislinn Konig",1,"personal",1,3,0,6
+"2017-18","9746",1,200,400,"Maryland","Kaila Charles",5,"personal",1,3,0,-6
+"2017-18","9746",1,171,429,"NC State","Chelsea Nelson",5,"personal",1,4,0,6
+"2017-18","9746",1,5,595,"NC State","Kaila Ealey",2,"personal",1,5,1,9
+"2017-18","9746",2,584,616,"Maryland","Kaila Charles",5,"personal",2,1,0,-7
+"2017-18","9746",2,497,703,"NC State","Chelsea Nelson",5,"personal",2,1,0,11
+"2017-18","9746",2,470,730,"NC State","Kaila Ealey",2,"personal",2,2,0,11
+"2017-18","9746",2,431,769,"Maryland","Stephanie Jones",24,"personal",1,2,0,-9
+"2017-18","9746",2,308,892,"Maryland","Stephanie Jones",24,"personal",2,3,0,-5
+"2017-18","9746",2,241,959,"Maryland","Eleanna Christinaki",10,"personal",1,4,0,-3
+"2017-18","9746",2,217,983,"Maryland","Ieshia Small",1,"personal",1,5,1,-3
+"2017-18","9746",2,147,1053,"NC State","Akela Maize",32,"personal",2,3,0,5
+"2017-18","9746",3,541,1259,"Maryland","Kristen Confroy",12,"personal",2,1,0,-4
+"2017-18","9746",3,463,1337,"NC State","Akela Maize",32,"personal",3,1,0,5
+"2017-18","9746",3,460,1340,"Maryland","Eleanna Christinaki",10,"personal",2,2,0,-3
+"2017-18","9746",3,444,1356,"Maryland","Stephanie Jones",24,"personal",3,3,0,-3
+"2017-18","9746",3,369,1431,"Maryland","Kaila Charles",5,"personal",3,4,0,-1
+"2017-18","9746",3,326,1474,"Maryland","Brianna Fraser",34,"personal",1,5,1,-3
+"2017-18","9746",3,322,1478,"NC State","Kaila Ealey",2,"personal",3,2,0,3
+"2017-18","9746",3,241,1559,"Maryland","Channise Lewis",3,"personal",2,6,1,-5
+"2017-18","9746",3,203,1597,"NC State","Chelsea Nelson",5,"personal",3,3,0,6
+"2017-18","9746",3,169,1631,"Maryland","Brianna Fraser",34,"personal",2,7,1,-9
+"2017-18","9746",3,140,1660,"Maryland","Brianna Fraser",34,"technical","",7,1,-7
+"2017-18","9746",3,140,1660,"Maryland","Brianna Fraser",34,"personal",3,8,1,-7
+"2017-18","9746",4,537,1863,"NC State","DD Rogers",21,"personal",1,1,0,16
+"2017-18","9746",4,413,1987,"Maryland","Ieshia Small",1,"personal",2,1,0,-17
+"2017-18","9746",4,342,2058,"Maryland","Ieshia Small",1,"personal",3,2,0,-14
+"2017-18","9746",4,298,2102,"NC State","DD Rogers",21,"personal",2,2,0,12
+"2017-18","9746",4,232,2168,"Maryland","Kaila Charles",5,"personal",4,3,0,-13
+"2017-18","9746",4,189,2211,"NC State","Akela Maize",32,"personal",4,3,0,15
+"2017-18","9746",4,149,2251,"Maryland","Kaila Charles",5,"personal",5,4,0,-12
+"2017-18","9746",4,103,2297,"Maryland","Brianna Fraser",34,"personal",4,5,1,-14
+"2017-18","9746",4,81,2319,"Maryland","Kristen Confroy",12,"personal",3,6,1,-13
+"2017-18","9746",4,70,2330,"NC State","Akela Maize",32,"personal",5,4,0,14
+"2017-18","9746",4,58,2342,"Maryland","Kristen Confroy",12,"personal",4,7,1,-12
+"2017-18","9746",4,44,2356,"NC State","Kaila Ealey",2,"personal",4,5,1,13
+"2017-18","9746",4,40,2360,"Maryland","Stephanie Jones",24,"personal",4,8,1,-11
+"2017-18","9746",4,36,2364,"Maryland","Channise Lewis",3,"personal",3,9,1,-12
