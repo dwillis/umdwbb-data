@@ -306,6 +306,12 @@ class BasketballGameProcessor:
         for name, df in dataframes.items():
             file_path = output_path / f"{name}.csv"
 
+            # Some games have no play-by-play (e.g. COVID-era feeds); an empty
+            # frame has no file_id column and must not touch the existing CSV.
+            if df.empty:
+                self.logger.warning(f"No {name} rows for this game - skipping")
+                continue
+
             if file_path.exists():
                 # Read existing file
                 try:
