@@ -15,6 +15,17 @@ let assistNetwork = [];
 let assistLeaders = [];
 let assistReceivers = [];
 
+// Per-game analysis data (loaded on game selection)
+let gameStints = [];
+let gameFouls = [];
+let gameLineupStints = [];
+let gameValidation = [];
+let gameContext = [];
+let gameRuns = [];
+
+// Player identity index (box name -> career page id / full name)
+let playerLinkMap = new Map();
+
 // Timeline state
 let sortedGames = [];           // Games sorted chronologically (oldest first)
 let selectedGameIndex = -1;     // Index into sortedGames (0-based, -1 means all games)
@@ -26,73 +37,7 @@ const seasons = [
     '2019-20', '2018-19', '2017-18', '2016-17', '2015-16', '2014-15'
 ];
 
-// Format time remaining in seconds to MM:SS format
-function formatTime(seconds) {
-    const secs = parseInt(seconds) || 0;
-    const minutes = Math.floor(secs / 60);
-    const remainingSeconds = secs % 60;
-    return `${minutes}:${remainingSeconds.toString().padStart(2, '0')}`;
-}
-
-// CSV Parser
-function parseCSV(text) {
-    // Handle both Unix (\n) and Windows (\r\n) line endings
-    const lines = text.trim().split(/\r?\n/);
-    const headers = parseCSVLine(lines[0]);
-    const data = [];
-
-    for (let i = 1; i < lines.length; i++) {
-        if (lines[i].trim()) {
-            const values = parseCSVLine(lines[i]);
-            const row = {};
-            headers.forEach((header, index) => {
-                row[header] = values[index] || '';
-            });
-            data.push(row);
-        }
-    }
-
-    return data;
-}
-
-function parseCSVLine(line) {
-    const result = [];
-    let current = '';
-    let inQuotes = false;
-
-    for (let i = 0; i < line.length; i++) {
-        const char = line[i];
-
-        if (char === '"') {
-            inQuotes = !inQuotes;
-            // Don't add the quote character to the result
-        } else if (char === ',' && !inQuotes) {
-            result.push(current);
-            current = '';
-        } else {
-            current += char;
-        }
-    }
-
-    result.push(current);
-    return result;
-}
-
-// Load CSV file
-async function loadCSV(season, filename) {
-    try {
-        const response = await fetch(`${season}/${filename}`);
-        if (!response.ok) {
-            console.warn(`Could not load ${season}/${filename}`);
-            return [];
-        }
-        const text = await response.text();
-        return parseCSV(text);
-    } catch (error) {
-        console.error(`Error loading ${season}/${filename}:`, error);
-        return [];
-    }
-}
+// CSV/JSON loading, parsing and formatting helpers live in js/data.js
 
 // Initialize the app
 async function init() {
@@ -114,14 +59,17 @@ async function selectSeason(season) {
     document.getElementById('season-stats-season').textContent = season;
 
     // Load games, player stats, team season totals, and assist data for this season
-    [allGames, allSeasonStats, seasonTeamTotals, assistNetwork, assistLeaders, assistReceivers] = await Promise.all([
+    let playersIndex;
+    [allGames, allSeasonStats, seasonTeamTotals, assistNetwork, assistLeaders, assistReceivers, playersIndex] = await Promise.all([
         loadCSV(season, 'game_info.csv'),
         loadCSV(season, 'player_stats.csv'),
         loadCSV(season, 'team_season_totals.csv'),
         loadCSV(season, 'assist_network.csv'),
         loadCSV(season, 'assist_leaders.csv'),
-        loadCSV(season, 'assist_receivers.csv')
+        loadCSV(season, 'assist_receivers.csv'),
+        loadPlayersIndex()
     ]);
+    playerLinkMap = playersIndex.bySeasonBoxName;
 
     // Store all stats for filtering
     allStats = [...allSeasonStats];
@@ -396,19 +344,35 @@ function renderGames() {
 async function selectGame(gameId) {
     currentGameId = gameId;
 
-    // Load all data for this game
-    [allPlays, allStats, allTeamTotals, allPeriodScores] = await Promise.all([
+    // Load all data for this game (season files are cached after first load)
+    let seasonStints, seasonFouls, seasonLineups, seasonValidation, seasonContext, seasonRuns;
+    [allPlays, allStats, allTeamTotals, allPeriodScores,
+     seasonStints, seasonFouls, seasonLineups, seasonValidation, seasonContext, seasonRuns] = await Promise.all([
         loadCSV(currentSeason, 'plays.csv'),
         loadCSV(currentSeason, 'player_stats.csv'),
         loadCSV(currentSeason, 'team_totals.csv'),
-        loadCSV(currentSeason, 'period_scores.csv')
+        loadCSV(currentSeason, 'period_scores.csv'),
+        loadCSV(currentSeason, 'stints.csv'),
+        loadCSV(currentSeason, 'fouls.csv'),
+        loadCSV(currentSeason, 'lineup_stints.csv'),
+        loadCSV(currentSeason, 'lineup_validation.csv'),
+        loadCSV(currentSeason, 'team_game_context.csv'),
+        loadCSV(currentSeason, 'runs.csv')
     ]);
 
     // Filter by current game
-    allPlays = allPlays.filter(p => p.file_id === gameId);
-    allStats = allStats.filter(s => s.file_id === gameId);
-    allTeamTotals = allTeamTotals.filter(t => t.file_id === gameId);
-    allPeriodScores = allPeriodScores.filter(p => p.file_id === gameId);
+    const id = normId(gameId);
+    const byGame = row => normId(row.file_id) === id;
+    allPlays = allPlays.filter(byGame);
+    allStats = allStats.filter(byGame);
+    allTeamTotals = allTeamTotals.filter(byGame);
+    allPeriodScores = allPeriodScores.filter(byGame);
+    gameStints = seasonStints.filter(byGame);
+    gameFouls = seasonFouls.filter(byGame);
+    gameLineupStints = seasonLineups.filter(byGame);
+    gameValidation = seasonValidation.filter(byGame);
+    gameContext = seasonContext.filter(byGame);
+    gameRuns = seasonRuns.filter(byGame);
 
     filteredPlays = [...allPlays];
     filteredStats = [...allStats];
@@ -416,15 +380,262 @@ async function selectGame(gameId) {
     // Show game details section
     document.getElementById('game-details-section').style.display = 'block';
 
+    // Reset to the Game Flow tab
+    document.querySelectorAll('#game-details-section .tab-content').forEach(tab => tab.classList.remove('active'));
+    document.querySelectorAll('#game-details-section .tabs .tab-btn').forEach((btn, i) => {
+        btn.classList.toggle('active', i === 0);
+    });
+    document.getElementById('gameflow-tab').classList.add('active');
+
     renderGameInfo();
     renderPeriodScoring();
     setupFilters();
+    renderGameFlow();
+    renderRotation();
+    renderGameFouls();
     renderPlays();
     renderStats();
     renderTeamTotals();
 
     // Scroll to game details
     document.getElementById('game-details-section').scrollIntoView({ behavior: 'smooth' });
+}
+
+// ---- Game analysis helpers ----
+
+function currentGame() {
+    return allGames.find(g => normId(g.file_id) === normId(currentGameId));
+}
+
+function marylandPerspective(game) {
+    const isHome = game.home_team === 'Maryland';
+    return {
+        isHome,
+        opponent: isHome ? game.visiting_team : game.home_team,
+        marylandScore: parseInt(isHome ? game.home_score : game.visiting_score),
+        opponentScore: parseInt(isHome ? game.visiting_score : game.home_score)
+    };
+}
+
+// Render the Game Flow tab: worm chart, lead stats, team context bars, runs
+function renderGameFlow() {
+    const container = document.getElementById('gameflow-content');
+    const game = currentGame();
+    if (!game || allPlays.length === 0 || !allPlays[0].seconds_elapsed) {
+        container.innerHTML = '<p>No play-by-play flow data available for this game.</p>';
+        return;
+    }
+    const md = marylandPerspective(game);
+
+    const mdContext = gameContext.find(c => c.team === 'Maryland');
+    const oppContext = gameContext.find(c => c.team !== 'Maryland');
+
+    let statStrip = '';
+    if (mdContext && oppContext) {
+        statStrip = `
+            <div class="stat-strip">
+                <div class="stat-chip"><span class="stat-chip-value">${mdContext.lead_changes}</span> lead changes</div>
+                <div class="stat-chip"><span class="stat-chip-value">${mdContext.ties}</span> ties</div>
+                <div class="stat-chip"><span class="stat-chip-value">${mdContext.largest_lead}</span> largest MD lead</div>
+                <div class="stat-chip"><span class="stat-chip-value">${formatTime(mdContext.time_with_lead_sec)}</span> time with lead (${parseFloat(mdContext.pct_lead).toFixed(0)}%)</div>
+                ${parseInt(mdContext.largest_deficit) > 0 ? `<div class="stat-chip"><span class="stat-chip-value">${mdContext.largest_deficit}</span> largest deficit</div>` : ''}
+            </div>`;
+    }
+
+    container.innerHTML = `
+        <h3>Game Flow</h3>
+        <p class="section-note">Maryland scoring margin over game time. Hover for the play and score.</p>
+        ${statStrip}
+        <div id="worm-chart" class="chart-frame"></div>
+        <div class="flow-columns">
+            <div>
+                <h3>How Points Were Scored</h3>
+                <div id="context-bars"></div>
+            </div>
+            <div>
+                <h3>Scoring Runs (6-0 or better)</h3>
+                <div id="game-runs"></div>
+            </div>
+        </div>
+    `;
+
+    Charts.wormChart(document.getElementById('worm-chart'), allPlays, {
+        marylandIsHome: md.isHome,
+        opponentName: md.opponent
+    });
+
+    if (mdContext && oppContext) {
+        Charts.comparisonBars(document.getElementById('context-bars'), [
+            { label: 'Points in paint', a: +mdContext.points_in_paint, b: +oppContext.points_in_paint },
+            { label: 'Fast break', a: +mdContext.points_fastbreak, b: +oppContext.points_fastbreak },
+            { label: 'Off turnovers', a: +mdContext.points_off_turnovers, b: +oppContext.points_off_turnovers },
+            { label: 'Second chance', a: +mdContext.points_second_chance, b: +oppContext.points_second_chance },
+            { label: 'Bench points', a: +mdContext.points_from_bench, b: +oppContext.points_from_bench }
+        ], 'Maryland', md.opponent);
+    } else {
+        document.getElementById('context-bars').innerHTML = '<p>No team context data for this game.</p>';
+    }
+
+    const runsContainer = document.getElementById('game-runs');
+    if (gameRuns.length === 0) {
+        runsContainer.innerHTML = '<p>No runs of 6-0 or better in this game.</p>';
+    } else {
+        const runs = [...gameRuns].sort((a, b) => (+b.points) - (+a.points));
+        runsContainer.innerHTML = runs.map(run => `
+            <div class="run-item ${run.team === 'Maryland' ? 'run-maryland' : ''}">
+                <span class="run-points">${run.points}-0</span>
+                <span>${run.team} · ${formatElapsed(run.start_seconds)}–${formatElapsed(run.end_seconds)}
+                (${run.score_before} → ${run.score_after})</span>
+            </div>
+        `).join('');
+    }
+}
+
+// Render the Rotation tab: stint gantt per team + game lineup table
+function renderRotation() {
+    const container = document.getElementById('rotation-content');
+    const game = currentGame();
+    if (!game || gameStints.length === 0) {
+        container.innerHTML = '<p>No substitution data available for this game.</p>';
+        return;
+    }
+    const md = marylandPerspective(game);
+
+    // Confidence badge from minutes reconciliation
+    const worstDelta = Math.max(0, ...gameValidation.map(v => Math.abs(parseFloat(v.delta) || 0)));
+    const lowConfidence = worstDelta > 2;
+    const badge = lowConfidence
+        ? `<span class="confidence-badge low" title="Reconstructed minutes differ from the box score by up to ${worstDelta.toFixed(1)} min — the play-by-play feed is missing some substitutions.">⚠ estimated</span>`
+        : `<span class="confidence-badge ok" title="Reconstructed minutes match the box score within 2 minutes for every player.">✓ verified vs box score</span>`;
+
+    container.innerHTML = `
+        <h3>Rotation Chart ${badge}</h3>
+        <p class="section-note">Floor time reconstructed from play-by-play substitutions. Bars are colored by
+        the team's scoring margin during the stint (green = outscored opponent); ★ = starter; gold dots = personal fouls.</p>
+        <h4 class="rotation-team-label maryland-text">Maryland</h4>
+        <div id="rotation-md" class="chart-frame"></div>
+        <h4 class="rotation-team-label">${md.opponent}</h4>
+        <div id="rotation-opp" class="chart-frame"></div>
+        <h3 style="margin-top:1.5rem;">Five-Player Lineups (Maryland)</h3>
+        <div id="game-lineups"></div>
+    `;
+
+    Charts.rotationChart(document.getElementById('rotation-md'),
+        gameStints.filter(s => s.team === 'Maryland'),
+        gameFouls.filter(f => f.team === 'Maryland'), allPlays);
+    Charts.rotationChart(document.getElementById('rotation-opp'),
+        gameStints.filter(s => s.team !== 'Maryland'),
+        gameFouls.filter(f => f.team !== 'Maryland'), allPlays);
+
+    const lineups = gameLineupStints
+        .filter(l => l.team === 'Maryland' && l.num_players === '5')
+        .reduce((map, seg) => {
+            const entry = map.get(seg.lineup) || { seconds: 0, pf: 0, pa: 0 };
+            entry.seconds += parseInt(seg.duration) || 0;
+            entry.pf += parseInt(seg.pts_for) || 0;
+            entry.pa += parseInt(seg.pts_against) || 0;
+            map.set(seg.lineup, entry);
+            return map;
+        }, new Map());
+
+    const lineupRows = [...lineups.entries()]
+        .sort((a, b) => b[1].seconds - a[1].seconds)
+        .filter(([, v]) => v.seconds >= 60);
+
+    document.getElementById('game-lineups').innerHTML = lineupRows.length === 0
+        ? '<p>No lineup data.</p>'
+        : `<table>
+            <thead><tr><th>Lineup</th><th>Min</th><th>Pts For</th><th>Pts Against</th><th>+/-</th></tr></thead>
+            <tbody>${lineupRows.map(([lineup, v]) => {
+                const pm = v.pf - v.pa;
+                return `<tr>
+                    <td>${lineup.split('|').join(', ')}</td>
+                    <td>${(v.seconds / 60).toFixed(1)}</td>
+                    <td>${v.pf}</td>
+                    <td>${v.pa}</td>
+                    <td class="${pm > 0 ? 'pos' : pm < 0 ? 'neg' : ''}"><strong>${pm > 0 ? '+' : ''}${pm}</strong></td>
+                </tr>`;
+            }).join('')}</tbody>
+        </table>`;
+}
+
+// Render the game Fouls tab: timeline, team fouls by period, trouble callouts
+function renderGameFouls() {
+    const container = document.getElementById('game-fouls-content');
+    const game = currentGame();
+    if (!game || gameFouls.length === 0) {
+        container.innerHTML = '<p>No foul data available for this game.</p>';
+        return;
+    }
+    const md = marylandPerspective(game);
+
+    container.innerHTML = `
+        <h3>Foul Timeline</h3>
+        <p class="section-note">Each tick is a foul; purple ticks are technicals. Gold shading marks time
+        spent in the penalty (opponent shooting bonus free throws).</p>
+        <div id="foul-timeline" class="chart-frame"></div>
+        <div class="flow-columns">
+            <div>
+                <h3>Team Fouls by Period</h3>
+                <div id="fouls-by-period"></div>
+            </div>
+            <div>
+                <h3>Foul Trouble</h3>
+                <div id="foul-trouble"></div>
+            </div>
+        </div>
+    `;
+
+    Charts.foulTimeline(document.getElementById('foul-timeline'), gameFouls, allPlays, 'Maryland', md.opponent);
+
+    // Team fouls by period table
+    const periods = [...new Set(gameFouls.map(f => parseInt(f.period)))].sort((a, b) => a - b);
+    const shape = Charts.gameShape(allPlays);
+    const countFor = (team, period) => gameFouls.filter(f =>
+        f.team === team && parseInt(f.period) === period && f.foul_type === 'personal').length;
+    document.getElementById('fouls-by-period').innerHTML = `
+        <table>
+            <thead><tr><th>Team</th>${periods.map(p => `<th>${p <= (shape.isHalves ? 2 : 4) ? (shape.isHalves ? 'H' : 'Q') + p : 'OT' + (p - (shape.isHalves ? 2 : 4))}</th>`).join('')}<th>Total</th></tr></thead>
+            <tbody>
+                ${['Maryland', md.opponent].map(team => `
+                    <tr class="${team === 'Maryland' ? 'team-maryland' : ''}">
+                        <td><strong>${team}</strong></td>
+                        ${periods.map(p => {
+                            const count = countFor(team, p);
+                            const threshold = shape.isHalves ? 7 : 5;
+                            return `<td class="${count >= threshold ? 'bonus-cell' : ''}">${count}</td>`;
+                        }).join('')}
+                        <td><strong>${gameFouls.filter(f => f.team === team && f.foul_type === 'personal').length}</strong></td>
+                    </tr>
+                `).join('')}
+            </tbody>
+        </table>
+        <p class="section-note">Highlighted cells: team reached the bonus that period.</p>
+    `;
+
+    // Foul trouble callouts: fouls accumulated ahead of the usual pace
+    const callouts = [];
+    gameFouls.forEach(f => {
+        if (f.foul_type !== 'personal' || !f.player_name) return;
+        const count = parseInt(f.player_foul_count) || 0;
+        const period = parseInt(f.period);
+        const troubled = shape.isHalves ? (count >= 2 && period === 1) || count >= 4
+                                        : count >= period + 1;
+        if (troubled && count >= 2) {
+            callouts.push({
+                team: f.team, player: f.player_name, count,
+                when: `${formatTime(f.time_remaining)} left in ${shape.isHalves ? 'H' : 'Q'}${period}`
+            });
+        }
+    });
+    document.getElementById('foul-trouble').innerHTML = callouts.length === 0
+        ? '<p>No players got ahead of the foul pace in this game.</p>'
+        : callouts.map(c => `
+            <div class="run-item ${c.team === 'Maryland' ? 'run-maryland' : ''}">
+                <span class="run-points">${c.count} PF</span>
+                <span><strong>${c.player}</strong> (${c.team}) — foul #${c.count} with ${c.when}</span>
+            </div>
+        `).join('');
 }
 
 // Render game info
@@ -1071,7 +1282,7 @@ function renderSeasonStats() {
                 ${filteredSeasonStats.map(player => `
                     <tr class="${player.team === 'Maryland' ? 'team-maryland' : ''}">
                         <td>${player.team}</td>
-                        <td><strong>${player.name}</strong></td>
+                        <td>${playerNameLink(player.name, player.team)}</td>
                         <td>${player.position}</td>
                         <td>${player.games}</td>
                         <td>${player.ppg}</td>
@@ -1134,7 +1345,7 @@ function renderSeasonStatsAdvanced() {
                 ${filteredSeasonStats.map(player => `
                     <tr class="${player.team === 'Maryland' ? 'team-maryland' : ''}">
                         <td>${player.team}</td>
-                        <td><strong>${player.name}</strong></td>
+                        <td>${playerNameLink(player.name, player.team)}</td>
                         <td>${player.position}</td>
                         <td>${player.games}</td>
                         <td>${player.mpg}</td>
@@ -1272,33 +1483,405 @@ function renderTeamTotalsTable(teams, showRecord = true) {
 }
 
 // Tab switching for season stats
-function showSeasonStatsTab(tabName) {
-    // Hide all tabs
-    document.getElementById('season-stats-team').classList.remove('active');
-    document.getElementById('season-stats-basic').classList.remove('active');
-    document.getElementById('season-stats-advanced').classList.remove('active');
-    document.getElementById('season-stats-assists').classList.remove('active');
+const SEASON_TABS = ['team', 'basic', 'advanced', 'assists', 'freethrows', 'fouls', 'streaks', 'lineups'];
 
-    // Remove active class from all buttons
+function showSeasonStatsTab(tabName) {
+    SEASON_TABS.forEach(name => {
+        const tab = document.getElementById(`season-stats-${name}`);
+        if (tab) tab.classList.remove('active');
+    });
     document.querySelectorAll('#season-stats-section .tab-btn').forEach(btn => {
         btn.classList.remove('active');
     });
 
-    // Show selected tab
-    if (tabName === 'team') {
-        document.getElementById('season-stats-team').classList.add('active');
-        event.target.classList.add('active');
-    } else if (tabName === 'basic') {
-        document.getElementById('season-stats-basic').classList.add('active');
-        event.target.classList.add('active');
-    } else if (tabName === 'advanced') {
-        document.getElementById('season-stats-advanced').classList.add('active');
-        event.target.classList.add('active');
-    } else if (tabName === 'assists') {
-        document.getElementById('season-stats-assists').classList.add('active');
-        event.target.classList.add('active');
-        renderAssistNetwork();
+    const tab = document.getElementById(`season-stats-${tabName}`);
+    if (tab) tab.classList.add('active');
+    event.target.classList.add('active');
+
+    if (tabName === 'assists') renderAssistNetwork();
+    else if (tabName === 'freethrows') renderSeasonFreeThrows();
+    else if (tabName === 'fouls') renderSeasonFouls();
+    else if (tabName === 'streaks') renderSeasonStreaks();
+    else if (tabName === 'lineups') renderSeasonLineups();
+}
+
+// Link a box-score name to its career page (Maryland players with a known id)
+function playerNameLink(boxName, team) {
+    if (team === 'Maryland' && playerLinkMap.has(`${currentSeason}|${boxName}`)) {
+        const player = playerLinkMap.get(`${currentSeason}|${boxName}`);
+        return `<a class="player-link" href="players.html?id=${player.id}"><strong>${player.name}</strong></a>`;
     }
+    return `<strong>${boxName}</strong>`;
+}
+
+// ---- Season analysis tabs (data lazy-loaded on first view, cached) ----
+
+function pct(made, attempts, digits = 1) {
+    return attempts > 0 ? (made / attempts * 100).toFixed(digits) : '—';
+}
+
+// Free Throw Deep Dive: trip conversion, clutch splits, by-period, streaks
+async function renderSeasonFreeThrows() {
+    const container = document.getElementById('season-freethrows-content');
+    container.innerHTML = '<p>Loading…</p>';
+    const [trips, streaks] = await Promise.all([
+        loadCSV(currentSeason, 'ft_trips.csv'),
+        loadCSV(currentSeason, 'streaks.csv')
+    ]);
+    if (trips.length === 0) {
+        container.innerHTML = '<p>No free throw trip data available for this season.</p>';
+        return;
+    }
+
+    const mdTrips = trips.filter(t => t.team === 'Maryland');
+    const players = new Map();
+    mdTrips.forEach(t => {
+        const p = players.get(t.player_name) || {
+            trips: 0, made: 0, att: 0, perfect: 0, multi: 0, frontMade: 0,
+            clutchMade: 0, clutchAtt: 0
+        };
+        const size = parseInt(t.trip_size), made = parseInt(t.made);
+        p.trips++;
+        p.made += made;
+        p.att += size;
+        if (size >= 2) {
+            p.multi++;
+            if (made === size) p.perfect++;
+            if (t.first_attempt_made === '1') p.frontMade++;
+        }
+        if (t.clutch === '1') {
+            p.clutchMade += made;
+            p.clutchAtt += size;
+        }
+        players.set(t.player_name, p);
+    });
+
+    const playerRows = [...players.entries()]
+        .filter(([, p]) => p.att >= 5)
+        .sort((a, b) => b[1].att - a[1].att);
+
+    // FT% by period (Maryland)
+    const byPeriod = new Map();
+    mdTrips.forEach(t => {
+        const p = byPeriod.get(t.period) || { made: 0, att: 0 };
+        p.made += parseInt(t.made);
+        p.att += parseInt(t.trip_size);
+        byPeriod.set(t.period, p);
+    });
+    const periods = [...byPeriod.keys()].sort((a, b) => a - b);
+
+    const ftStreaks = streaks.filter(s => s.streak_type === 'ft_makes').slice(0, 10);
+
+    container.innerHTML = `
+        <h3>Free Throw Deep Dive — Maryland</h3>
+        <p class="section-note">A "trip" groups consecutive free throws by one player at the same clock stop.
+        The feed doesn't mark 1-and-1s, so trip grouping is heuristic. Clutch = last 5 minutes / OT, margin within 5.</p>
+        <div style="overflow-x:auto;">
+        <table>
+            <thead><tr>
+                <th>Player</th><th>FTM-FTA</th><th>FT%</th>
+                <th>Perfect Trips</th><th>Front End Made</th>
+                <th>Clutch FTM-FTA</th><th>Clutch FT%</th>
+            </tr></thead>
+            <tbody>${playerRows.map(([name, p]) => `
+                <tr>
+                    <td><strong>${name}</strong></td>
+                    <td>${p.made}-${p.att}</td>
+                    <td><strong>${pct(p.made, p.att)}%</strong></td>
+                    <td>${p.perfect}/${p.multi} (${pct(p.perfect, p.multi, 0)}%)</td>
+                    <td>${pct(p.frontMade, p.multi, 0)}%</td>
+                    <td>${p.clutchAtt > 0 ? `${p.clutchMade}-${p.clutchAtt}` : '—'}</td>
+                    <td>${p.clutchAtt > 0 ? `<strong>${pct(p.clutchMade, p.clutchAtt)}%</strong>` : '—'}</td>
+                </tr>`).join('')}
+            </tbody>
+        </table>
+        </div>
+        <div class="flow-columns" style="margin-top:1.5rem;">
+            <div>
+                <h3>Team FT% by Period</h3>
+                <table>
+                    <thead><tr><th>Period</th><th>FTM-FTA</th><th>FT%</th></tr></thead>
+                    <tbody>${periods.map(period => {
+                        const p = byPeriod.get(period);
+                        return `<tr><td>${period}</td><td>${p.made}-${p.att}</td><td><strong>${pct(p.made, p.att)}%</strong></td></tr>`;
+                    }).join('')}</tbody>
+                </table>
+            </div>
+            <div>
+                <h3>Longest FT Make Streaks</h3>
+                ${ftStreaks.length === 0 ? '<p>No qualifying streaks.</p>' : ftStreaks.map((s, i) => `
+                    <div class="run-item run-maryland">
+                        <span class="run-points">${s.length}</span>
+                        <span><strong>${s.player_name}</strong> · ${s.start_date} → ${s.end_date}
+                        ${s.active === '1' ? '<span class="active-streak">active</span>' : ''}</span>
+                    </div>`).join('')}
+            </div>
+        </div>
+    `;
+}
+
+// Season Fouls tab: who fouls, when fouls happen, bonus pressure
+async function renderSeasonFouls() {
+    const container = document.getElementById('season-fouls-content');
+    container.innerHTML = '<p>Loading…</p>';
+    const fouls = await loadCSV(currentSeason, 'fouls.csv');
+    if (fouls.length === 0) {
+        container.innerHTML = '<p>No foul data available for this season.</p>';
+        return;
+    }
+
+    const mdFouls = fouls.filter(f => f.team === 'Maryland' && f.foul_type === 'personal');
+    const oppFouls = fouls.filter(f => f.team !== 'Maryland' && f.foul_type === 'personal');
+    const games = new Set(fouls.map(f => f.file_id)).size;
+
+    // Per-player: total fouls, per game, times reaching 3/4/5 in a game
+    const perPlayer = new Map();
+    mdFouls.forEach(f => {
+        if (!f.player_name) return;
+        const p = perPlayer.get(f.player_name) || { total: 0, games: new Set(), three: 0, four: 0, five: 0 };
+        p.total++;
+        p.games.add(f.file_id);
+        const count = parseInt(f.player_foul_count) || 0;
+        if (count === 3) p.three++;
+        if (count === 4) p.four++;
+        if (count === 5) p.five++;
+        perPlayer.set(f.player_name, p);
+    });
+    const playerRows = [...perPlayer.entries()].sort((a, b) => b[1].total - a[1].total);
+
+    // When Maryland fouls: distribution over 4-minute game buckets
+    const bucketSize = 240;
+    const buckets = new Map();
+    let maxSeconds = 0;
+    mdFouls.forEach(f => {
+        const t = parseInt(f.seconds_elapsed) || 0;
+        maxSeconds = Math.max(maxSeconds, t);
+        const bucket = Math.floor(t / bucketSize);
+        buckets.set(bucket, (buckets.get(bucket) || 0) + 1);
+    });
+    const bucketCount = Math.floor(maxSeconds / bucketSize) + 1;
+    const maxBucket = Math.max(...buckets.values());
+
+    // Bonus pressure: periods where each side reached the bonus
+    const bonusPeriods = team => {
+        const set = new Set();
+        fouls.filter(f => f.team !== 'Maryland' === (team === 'opp') && f.bonus_active === '1' && f.foul_type === 'personal')
+            .forEach(f => set.add(`${f.file_id}:${f.period}`));
+        return set.size;
+    };
+
+    container.innerHTML = `
+        <h3>Foul Analysis — Maryland (${games} games)</h3>
+        <div class="stat-strip">
+            <div class="stat-chip"><span class="stat-chip-value">${(mdFouls.length / games).toFixed(1)}</span> MD fouls/game</div>
+            <div class="stat-chip"><span class="stat-chip-value">${(oppFouls.length / games).toFixed(1)}</span> opponent fouls/game</div>
+            <div class="stat-chip"><span class="stat-chip-value">${bonusPeriods('md')}</span> periods MD in penalty</div>
+            <div class="stat-chip"><span class="stat-chip-value">${bonusPeriods('opp')}</span> periods opponent in penalty</div>
+        </div>
+        <h3>When Maryland Fouls</h3>
+        <p class="section-note">Personal fouls by 4-minute segment of the game, season-wide.</p>
+        <div class="bucket-chart">
+            ${Array.from({ length: bucketCount }, (_, i) => {
+                const count = buckets.get(i) || 0;
+                return `<div class="bucket-col" title="${formatElapsed(i * bucketSize)}–${formatElapsed((i + 1) * bucketSize)}: ${count} fouls">
+                    <div class="bucket-bar" style="height:${(count / maxBucket * 100).toFixed(0)}%"></div>
+                    <div class="bucket-label">${formatElapsed(i * bucketSize)}</div>
+                </div>`;
+            }).join('')}
+        </div>
+        <h3 style="margin-top:1.5rem;">Foul Load by Player</h3>
+        <div style="overflow-x:auto;">
+        <table>
+            <thead><tr>
+                <th>Player</th><th>Fouls</th><th>Per Game</th>
+                <th>3-Foul Games</th><th>4-Foul Games</th><th>Fouled Out</th>
+            </tr></thead>
+            <tbody>${playerRows.map(([name, p]) => `
+                <tr>
+                    <td><strong>${name}</strong></td>
+                    <td>${p.total}</td>
+                    <td>${(p.total / p.games.size).toFixed(1)}</td>
+                    <td>${p.three}</td>
+                    <td>${p.four}</td>
+                    <td>${p.five > 0 ? `<strong class="neg">${p.five}</strong>` : '0'}</td>
+                </tr>`).join('')}
+            </tbody>
+        </table>
+        </div>
+    `;
+}
+
+// Streaks & Runs tab: hot hands, big runs, comebacks
+async function renderSeasonStreaks() {
+    const container = document.getElementById('season-streaks-content');
+    container.innerHTML = '<p>Loading…</p>';
+    const [streaks, heat, runs, context] = await Promise.all([
+        loadCSV(currentSeason, 'streaks.csv'),
+        loadCSV(currentSeason, 'heat_check.csv'),
+        loadCSV(currentSeason, 'runs.csv'),
+        loadCSV(currentSeason, 'team_game_context.csv')
+    ]);
+    if (streaks.length === 0 && runs.length === 0) {
+        container.innerHTML = '<p>No streak data available for this season.</p>';
+        return;
+    }
+
+    const streakSection = (type, title, note) => {
+        const rows = streaks.filter(s => s.streak_type === type).slice(0, 8);
+        return `
+            <div>
+                <h3>${title}</h3>
+                ${note ? `<p class="section-note">${note}</p>` : ''}
+                ${rows.length === 0 ? '<p>None recorded.</p>' : rows.map(s => `
+                    <div class="run-item run-maryland">
+                        <span class="run-points">${s.length}</span>
+                        <span><strong>${s.player_name}</strong> · ${s.start_date}${s.end_date !== s.start_date ? ' → ' + s.end_date : ''}
+                        ${s.spans_games === '1' ? '<span class="spans-games">multi-game</span>' : ''}
+                        ${s.active === '1' ? '<span class="active-streak">active</span>' : ''}</span>
+                    </div>`).join('')}
+            </div>`;
+    };
+
+    // Biggest runs of the season (Maryland)
+    const mdRuns = runs.filter(r => r.team === 'Maryland')
+        .sort((a, b) => (+b.points) - (+a.points)).slice(0, 10);
+    const gameById = new Map(allGames.map(g => [normId(g.file_id), g]));
+
+    // Comeback wins: Maryland won after trailing by 10+
+    const comebacks = context
+        .filter(c => c.team === 'Maryland' && parseInt(c.largest_deficit) >= 10)
+        .map(c => {
+            const game = gameById.get(normId(c.file_id));
+            if (!game) return null;
+            const md = marylandPerspective(game);
+            if (md.marylandScore <= md.opponentScore) return null;
+            return { deficit: parseInt(c.largest_deficit), game, md };
+        })
+        .filter(Boolean)
+        .sort((a, b) => b.deficit - a.deficit);
+
+    // Heat check table
+    const heatRows = heat.filter(h => h.player_name !== 'TEAM' && parseInt(h.fga_hot) >= 10);
+    const teamHeat = heat.find(h => h.player_name === 'TEAM');
+
+    container.innerHTML = `
+        <div class="flow-columns">
+            ${streakSection('fg_makes', 'Consecutive Field Goals Made')}
+            ${streakSection('three_makes', 'Consecutive 3-Pointers Made')}
+        </div>
+        <div class="flow-columns" style="margin-top:1rem;">
+            ${streakSection('ft_makes', 'Consecutive Free Throws Made')}
+            ${streakSection('fg_misses', 'Cold Spells (Consecutive Misses)')}
+        </div>
+
+        <h3 style="margin-top:1.5rem;">Is the Hot Hand Real?</h3>
+        <p class="section-note">FG% on shots taken after 2+ consecutive makes ("hot") vs after 2+ misses ("cold") vs all attempts, within single games.
+        ${teamHeat ? `Team-wide: <strong>${teamHeat.pct_hot}%</strong> hot vs <strong>${teamHeat.pct_cold}%</strong> cold vs <strong>${teamHeat.pct_all}%</strong> overall.` : ''}</p>
+        <div style="overflow-x:auto;">
+        <table>
+            <thead><tr><th>Player</th><th>Hot FG%</th><th>Cold FG%</th><th>Overall FG%</th><th>Hot Attempts</th></tr></thead>
+            <tbody>${heatRows.map(h => `
+                <tr>
+                    <td><strong>${h.player_name}</strong></td>
+                    <td class="${parseFloat(h.pct_hot) > parseFloat(h.pct_all) ? 'pos' : ''}">${h.pct_hot}%</td>
+                    <td>${h.pct_cold}%</td>
+                    <td>${h.pct_all}%</td>
+                    <td>${h.fga_hot}</td>
+                </tr>`).join('')}
+            </tbody>
+        </table>
+        </div>
+
+        <div class="flow-columns" style="margin-top:1.5rem;">
+            <div>
+                <h3>Biggest Maryland Runs</h3>
+                ${mdRuns.map(r => {
+                    const game = gameById.get(normId(r.file_id));
+                    return `<div class="run-item run-maryland">
+                        <span class="run-points">${r.points}-0</span>
+                        <span>vs <strong>${game ? marylandPerspective(game).opponent : '?'}</strong>
+                        ${game ? '· ' + game.date : ''} (${r.score_before} → ${r.score_after})</span>
+                    </div>`;
+                }).join('')}
+            </div>
+            <div>
+                <h3>Comeback Wins (trailed by 10+)</h3>
+                ${comebacks.length === 0 ? '<p>No double-digit comebacks this season.</p>' : comebacks.map(c => `
+                    <div class="run-item run-maryland">
+                        <span class="run-points">−${c.deficit}</span>
+                        <span>beat <strong>${c.md.opponent}</strong> ${c.md.marylandScore}-${c.md.opponentScore} · ${c.game.date}</span>
+                    </div>`).join('')}
+            </div>
+        </div>
+    `;
+}
+
+// Lineups tab: top five-player units and on/off splits
+async function renderSeasonLineups() {
+    const container = document.getElementById('season-lineups-content');
+    container.innerHTML = '<p>Loading…</p>';
+    const [lineups, onoff, validation] = await Promise.all([
+        loadCSV(currentSeason, 'lineup_season.csv'),
+        loadCSV(currentSeason, 'player_onoff.csv'),
+        loadCSV(currentSeason, 'lineup_validation.csv')
+    ]);
+    if (lineups.length === 0 && onoff.length === 0) {
+        container.innerHTML = '<p>No lineup data available for this season.</p>';
+        return;
+    }
+
+    // Data quality summary from minutes reconciliation
+    const total = validation.length;
+    const within = validation.filter(v => Math.abs(parseFloat(v.delta) || 0) <= 2).length;
+    const quality = total > 0 ? (within / total * 100).toFixed(1) : null;
+
+    const topLineups = lineups.filter(l => parseFloat(l.minutes) >= 15).slice(0, 15);
+
+    container.innerHTML = `
+        <h3>Maryland Lineups &amp; On/Off</h3>
+        <p class="section-note">Reconstructed from play-by-play substitutions.
+        ${quality !== null ? `Reconstruction matches box-score minutes within 2 minutes for <strong>${quality}%</strong> of player-games this season.` : ''}
+        Net/40 = point differential per 40 minutes on the floor.</p>
+
+        <h3>Most-Used Five-Player Lineups (15+ min)</h3>
+        <div style="overflow-x:auto;">
+        <table>
+            <thead><tr><th>Lineup</th><th>Games</th><th>Min</th><th>Pts For</th><th>Pts Against</th><th>+/-</th><th>Net/40</th></tr></thead>
+            <tbody>${topLineups.map(l => {
+                const pm = parseInt(l.plus_minus);
+                return `<tr>
+                    <td>${l.lineup.split('|').join(', ')}</td>
+                    <td>${l.games}</td>
+                    <td>${parseFloat(l.minutes).toFixed(0)}</td>
+                    <td>${l.pts_for}</td>
+                    <td>${l.pts_against}</td>
+                    <td class="${pm > 0 ? 'pos' : pm < 0 ? 'neg' : ''}"><strong>${pm > 0 ? '+' : ''}${pm}</strong></td>
+                    <td class="${parseFloat(l.net_per_40) > 0 ? 'pos' : 'neg'}">${l.net_per_40 !== '' ? (parseFloat(l.net_per_40) > 0 ? '+' : '') + l.net_per_40 : '—'}</td>
+                </tr>`;
+            }).join('')}</tbody>
+        </table>
+        </div>
+
+        <h3 style="margin-top:1.5rem;">Player On/Off Impact</h3>
+        <p class="section-note">How the team performs with each player on vs off the floor (per 40 minutes).</p>
+        <div style="overflow-x:auto;">
+        <table>
+            <thead><tr><th>Player</th><th>Min On</th><th>+/-</th><th>Net/40 On</th><th>Net/40 Off</th><th>On-Off Diff</th></tr></thead>
+            <tbody>${onoff.filter(p => parseFloat(p.min_on) >= 50).map(p => {
+                const diff = parseFloat(p.on_off_diff);
+                const pm = parseInt(p.plus_minus);
+                return `<tr>
+                    <td><strong>${p.player_name}</strong></td>
+                    <td>${parseFloat(p.min_on).toFixed(0)}</td>
+                    <td class="${pm > 0 ? 'pos' : pm < 0 ? 'neg' : ''}">${pm > 0 ? '+' : ''}${pm}</td>
+                    <td>${p.net_on_per_40 !== '' ? (parseFloat(p.net_on_per_40) > 0 ? '+' : '') + p.net_on_per_40 : '—'}</td>
+                    <td>${p.net_off_per_40 !== '' ? (parseFloat(p.net_off_per_40) > 0 ? '+' : '') + p.net_off_per_40 : '—'}</td>
+                    <td class="${diff > 0 ? 'pos' : diff < 0 ? 'neg' : ''}"><strong>${isNaN(diff) ? '—' : (diff > 0 ? '+' : '') + diff.toFixed(1)}</strong></td>
+                </tr>`;
+            }).join('')}</tbody>
+        </table>
+        </div>
+    `;
 }
 
 // Assist Network Functions

@@ -43,6 +43,56 @@ To use locally:
 - Detailed player drill-down views with play-by-play
 - Responsive design styled with Maryland state colors (red, gold, black)
 
+**Game analysis** (every game, all 12 seasons):
+
+- **Game Flow** — scoring-margin "worm" chart with lead changes, ties, time
+  with lead, points in paint / fast break / bench comparisons, and scoring runs
+- **Rotation** — per-player floor-time chart reconstructed from substitution
+  events, with stint plus-minus, starters, foul markers, and five-player
+  lineup plus-minus tables (each game badged verified/estimated against the
+  box score)
+- **Fouls** — foul timeline with bonus (penalty) shading, team fouls by
+  period, and foul-trouble callouts
+
+**Season analysis tabs**:
+
+- **Free Throws** — trip conversion, front-end makes, clutch FT%, FT% by period
+- **Fouls** — foul timing distribution, per-player foul load, penalty pressure
+- **Streaks & Runs** — longest make/miss streaks (cross-game), hot-hand study,
+  biggest runs, comeback wins
+- **Lineups** — most-used five-player units and player on/off impact
+
+**Cross-season pages**:
+
+- `players.html` — career pages for every Maryland player in the dataset
+- `opponents.html` — all-time head-to-head records with full series logs
+- `records.html` — single-game, career, and team records & milestones
+- `officials.html` — officiating crew tendencies (descriptive only)
+
+## Data Pipeline
+
+`pipeline.py` runs the whole pipeline for a season (the daily GitHub Actions
+workflow runs it for the current season after scraping):
+
+```bash
+python pipeline.py                          # current season
+python pipeline.py --season 2024-25         # specific season
+python pipeline.py --all-seasons --rebuild  # full backfill (after schema changes)
+```
+
+Steps: `game_parser.py` (core CSVs, enriched with running scores, rebound
+splits, fouls, efficiency/usage, starter flags) → `context_parser.py` (team
+game/period context) → `enrich_pbp.py` (fouls, free throw trips, runs,
+streaks, heat checks) → `lineup_engine.py` (stints, lineups, on/off,
+validation) → assist chain → season totals → `build_indexes.py` (cross-season
+files in `data/`).
+
+Known data limits: the feed has no shot coordinates (no shot charts), no
+shooting/offensive foul typing, and no 1-and-1 marker (free throw trips are
+grouped heuristically). Lineup reconstruction is validated against box-score
+minutes per game; seasons with sparse substitution logging (notably 2018-19)
+are flagged as estimated in the UI.
+
 ## Team Season Totals Generator
 
 A Python script that generates comprehensive team season statistics by aggregating data from all games in a given season.

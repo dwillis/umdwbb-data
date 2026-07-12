@@ -11,6 +11,13 @@
         <div class="header-content">
             <h1>Maryland Women's Basketball Data</h1>
             <p class="subtitle">Browse & Filter Team and Player Stats</p>
+            <nav class="site-nav">
+                <a href="index.html" class="active">Seasons</a>
+                <a href="players.html">Players</a>
+                <a href="opponents.html">Opponents</a>
+                <a href="records.html">Records</a>
+                <a href="officials.html">Officials</a>
+            </nav>
         </div>
     </header>
 
@@ -87,6 +94,10 @@
                 <button class="tab-btn" onclick="showSeasonStatsTab('basic')">Player Stats</button>
                 <button class="tab-btn" onclick="showSeasonStatsTab('advanced')">Advanced Stats</button>
                 <button class="tab-btn" onclick="showSeasonStatsTab('assists')">Assist Network</button>
+                <button class="tab-btn" onclick="showSeasonStatsTab('freethrows')">Free Throws</button>
+                <button class="tab-btn" onclick="showSeasonStatsTab('fouls')">Fouls</button>
+                <button class="tab-btn" onclick="showSeasonStatsTab('streaks')">Streaks &amp; Runs</button>
+                <button class="tab-btn" onclick="showSeasonStatsTab('lineups')">Lineups</button>
             </div>
 
             <div id="season-stats-team" class="tab-content active">
@@ -99,6 +110,22 @@
 
             <div id="season-stats-advanced" class="tab-content">
                 <div id="season-stats-advanced-list"></div>
+            </div>
+
+            <div id="season-stats-freethrows" class="tab-content">
+                <div id="season-freethrows-content"></div>
+            </div>
+
+            <div id="season-stats-fouls" class="tab-content">
+                <div id="season-fouls-content"></div>
+            </div>
+
+            <div id="season-stats-streaks" class="tab-content">
+                <div id="season-streaks-content"></div>
+            </div>
+
+            <div id="season-stats-lineups" class="tab-content">
+                <div id="season-lineups-content"></div>
             </div>
 
             <div id="season-stats-assists" class="tab-content">
@@ -147,13 +174,31 @@
 
             <!-- Tabs -->
             <div class="tabs">
-                <button class="tab-btn active" onclick="showTab('plays')">Plays</button>
+                <button class="tab-btn active" onclick="showTab('gameflow')">Game Flow</button>
+                <button class="tab-btn" onclick="showTab('rotation')">Rotation</button>
+                <button class="tab-btn" onclick="showTab('game-fouls')">Fouls</button>
+                <button class="tab-btn" onclick="showTab('plays')">Plays</button>
                 <button class="tab-btn" onclick="showTab('stats')">Player Stats</button>
                 <button class="tab-btn" onclick="showTab('team-totals')">Team Stats</button>
             </div>
 
+            <!-- Game Flow Tab -->
+            <div id="gameflow-tab" class="tab-content active">
+                <div id="gameflow-content"></div>
+            </div>
+
+            <!-- Rotation Tab -->
+            <div id="rotation-tab" class="tab-content">
+                <div id="rotation-content"></div>
+            </div>
+
+            <!-- Game Fouls Tab -->
+            <div id="game-fouls-tab" class="tab-content">
+                <div id="game-fouls-content"></div>
+            </div>
+
             <!-- Plays Tab -->
-            <div id="plays-tab" class="tab-content active">
+            <div id="plays-tab" class="tab-content">
                 <div class="filters">
                     <h3>Filter Plays</h3>
                     <div class="filter-group">
@@ -230,6 +275,8 @@
         <p>Maryland Women's Basketball Data Browser | Data from 2014-15 through 2025-26 seasons</p>
     </footer>
 
+    <script src="js/data.js"></script>
+    <script src="js/charts.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

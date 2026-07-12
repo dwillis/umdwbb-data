@@ -963,3 +963,285 @@ footer {
         min-width: auto;
     }
 }
+
+/* Site Navigation */
+.site-nav {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.site-nav a {
+    color: var(--maryland-white);
+    text-decoration: none;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    transition: all 0.2s ease;
+}
+
+.site-nav a:hover {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.site-nav a.active {
+    background: var(--maryland-gold);
+    color: var(--maryland-black);
+    border-color: var(--maryland-gold);
+}
+
+/* Charts */
+.chart-frame {
+    background: var(--maryland-white);
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.chart-tooltip {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.85);
+    color: var(--maryland-white);
+    padding: 0.4rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    max-width: 320px;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.section-note {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+/* Stat strip (chips of headline numbers) */
+.stat-strip {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.25rem;
+}
+
+.stat-chip {
+    background: var(--maryland-light-gold);
+    border: 1px solid var(--maryland-gold);
+    border-radius: 6px;
+    padding: 0.5rem 0.9rem;
+    font-size: 0.85rem;
+    color: #444;
+}
+
+.stat-chip-value {
+    display: block;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--maryland-red);
+}
+
+/* Two-column analysis layout */
+.flow-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+    .flow-columns {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Comparison bars (Maryland vs opponent) */
+.compare-header {
+    display: grid;
+    grid-template-columns: 1fr 110px 1fr;
+    margin-bottom: 0.4rem;
+    font-weight: 700;
+}
+
+.compare-team { text-align: right; }
+.compare-team.maryland { color: var(--maryland-red); }
+.compare-header .compare-team:last-child { text-align: left; }
+
+.compare-row {
+    display: grid;
+    grid-template-columns: 1fr 110px 1fr;
+    align-items: center;
+    margin-bottom: 0.35rem;
+    gap: 0.25rem;
+}
+
+.compare-label {
+    text-align: center;
+    font-size: 0.82rem;
+    color: #555;
+}
+
+.compare-side {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.compare-side.left { justify-content: flex-end; }
+.compare-side.right { justify-content: flex-start; }
+
+.compare-bar {
+    height: 14px;
+    border-radius: 3px;
+    min-width: 2px;
+}
+
+.compare-bar.maryland { background: var(--maryland-red); }
+.compare-bar.opp { background: #555; }
+
+.compare-value {
+    font-weight: 700;
+    font-size: 0.85rem;
+    min-width: 1.6em;
+}
+
+/* Run / streak / callout items */
+.run-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: var(--maryland-white);
+    border-left: 3px solid #999;
+    padding: 0.45rem 0.7rem;
+    margin-bottom: 0.4rem;
+    border-radius: 4px;
+    font-size: 0.92rem;
+}
+
+.run-item.run-maryland {
+    border-left-color: var(--maryland-red);
+    background: rgba(224, 58, 62, 0.05);
+}
+
+.run-points {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--maryland-red);
+    background: var(--maryland-light-gold);
+    padding: 0.15rem 0.55rem;
+    border-radius: 12px;
+    white-space: nowrap;
+}
+
+.active-streak, .spans-games {
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.1rem 0.45rem;
+    border-radius: 10px;
+    margin-left: 0.35rem;
+}
+
+.active-streak {
+    background: #2e8b57;
+    color: white;
+}
+
+.spans-games {
+    background: var(--maryland-gold);
+    color: var(--maryland-black);
+}
+
+/* Rotation chart */
+.rotation-team-label {
+    margin: 0.75rem 0 0.25rem 0;
+    font-size: 1.05rem;
+    color: #333;
+}
+
+.maryland-text { color: var(--maryland-red); }
+
+.confidence-badge {
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    vertical-align: middle;
+    cursor: help;
+}
+
+.confidence-badge.ok { background: #e4f3ea; color: #2e8b57; }
+.confidence-badge.low { background: #fdeaea; color: var(--maryland-dark-red); }
+
+/* Foul bucket chart */
+.bucket-chart {
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+    height: 130px;
+    padding: 0.5rem 0 1.4rem 0;
+    border-bottom: 2px solid var(--maryland-gold);
+    margin-bottom: 0.75rem;
+}
+
+.bucket-col {
+    flex: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    position: relative;
+}
+
+.bucket-bar {
+    background: var(--maryland-red);
+    border-radius: 2px 2px 0 0;
+    min-height: 2px;
+    opacity: 0.85;
+}
+
+.bucket-label {
+    position: absolute;
+    bottom: -1.3rem;
+    left: 0;
+    font-size: 0.65rem;
+    color: #888;
+    white-space: nowrap;
+}
+
+.bucket-col:nth-child(even) .bucket-label { display: none; }
+
+/* Table helpers */
+.pos { color: #2e8b57; }
+.neg { color: var(--maryland-dark-red); }
+.bonus-cell { background: var(--maryland-light-gold); font-weight: 700; }
+
+.player-link {
+    color: var(--maryland-red);
+    text-decoration: none;
+}
+
+.player-link:hover { text-decoration: underline; }
+
+.career-total-row {
+    background: var(--maryland-light-gold);
+    border-top: 2px solid var(--maryland-gold);
+}
+
+/* Opponents page */
+.opponent-row { cursor: pointer; }
+
+.series-row td {
+    background: #fafafa;
+    padding: 0.5rem 1rem;
+}
+
+.series-games {
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+.series-season { color: #888; font-size: 0.85rem; }
