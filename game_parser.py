@@ -1,3 +1,4 @@
+import argparse
 import csv
 import json
 import pandas as pd
@@ -7,6 +8,8 @@ import logging
 from typing import Dict, Any, List, Optional, Tuple
 import os
 import glob
+
+import pbp_common
 
 def extract_ids_from_path(filepath: str) -> Tuple[Optional[int], Optional[int]]:
     """Extract source_id and file_id from filepath as integers."""
@@ -98,59 +101,86 @@ class BasketballGameProcessor:
         return pd.DataFrame(home_scores + visiting_scores)
 
     def process_plays(self, data: Dict) -> pd.DataFrame:
-        """Process play-by-play data."""
+        """Process play-by-play data.
+
+        In addition to the original columns, each play carries a stable
+        play_id, absolute game clock (seconds_elapsed), forward-filled
+        running scores/margin, the points scored on the play, and any
+        assister/blocker pulled from the structured InvolvedPlayers data.
+        """
         self.logger.debug("Processing plays")
-        
+
         plays_list = []
-        for play in data['Plays']:
-            # Convert team reference to actual team name
-            team_name = self.home_team if play['Team'] == 'HomeTeam' else self.visiting_team if play['Team'] == 'VisitingTeam' else play['Team']
-            
+        for norm in pbp_common.normalized_plays(data):
+            raw = data['Plays'][norm['index']]
+
             play_dict = {
                 'source_id': self.source_id,
                 'file_id': self.file_id,
-                'period': play['Period'],
-                'time_remaining': play['ClockSeconds'],
-                'team': team_name,
-                'play_type': play['Type'],
-                'play_action': play['Action'],
-                'narrative': play['Narrative']
+                'period': norm['period'],
+                'time_remaining': norm['clock_seconds'],
+                'team': norm['team'],
+                'play_type': norm['play_type'],
+                'play_action': norm['play_action'],
+                'narrative': norm['narrative'],
+                'player_name': norm['player_name'],
+                'player_number': raw['Player']['UniformNumber'] if raw.get('Player') else None,
             }
-            
-            # Add player information if available
-            if play.get('Player'):
-                play_dict.update({
-                    'player_name': f"{play['Player']['FirstName']} {play['Player']['LastName']}".strip(),
-                    'player_number': play['Player']['UniformNumber']
-                })
+
+            # Original sparse score columns (populated on scoring plays only)
+            if raw.get('Score'):
+                play_dict['home_team_score'] = raw['Score'].get('HomeTeam')
+                play_dict['visiting_team_score'] = raw['Score'].get('VisitingTeam')
             else:
-                play_dict.update({
-                    'player_name': None,
-                    'player_number': None
-                })
-            
-            # Add score information if available
-            if play.get('Score'):
-                play_dict.update({
-                    'home_team_score': play['Score'].get('HomeTeam'),
-                    'visiting_team_score': play['Score'].get('VisitingTeam')
-                })
-            else:
-                play_dict.update({
-                    'home_team_score': None,
-                    'visiting_team_score': None
-                })
-            
+                play_dict['home_team_score'] = None
+                play_dict['visiting_team_score'] = None
+
+            # Enriched columns
+            assist_by = None
+            blocked_by = None
+            if norm['involved'] and norm['play_type'] in pbp_common.SHOT_TYPES:
+                involved_name = pbp_common.player_full_name(norm['involved'][0])
+                if norm['play_action'] == 'GOOD':
+                    assist_by = involved_name
+                elif norm['play_action'] == 'MISS':
+                    blocked_by = involved_name
+
+            play_dict.update({
+                'play_id': norm['play_id'],
+                'seconds_elapsed': norm['seconds_elapsed'],
+                'home_score_running': norm['home_score'],
+                'visiting_score_running': norm['visiting_score'],
+                'margin': norm['home_score'] - norm['visiting_score'],
+                'points': norm['points'],
+                'assist_by': assist_by,
+                'blocked_by': blocked_by,
+            })
+
             plays_list.append(play_dict)
-        
+
         return pd.DataFrame(plays_list)
 
     def process_player_stats(self, data: Dict) -> pd.DataFrame:
-        """Process player statistics."""
+        """Process player statistics.
+
+        Beyond the original box columns this exports the JSON-only fields
+        (rebound splits, fouls, efficiency, usage), numeric made/attempted
+        splits, and an inferred starter flag.
+        """
         self.logger.debug("Processing player statistics")
 
-        def process_team_players(team_data: Dict, team_name: str) -> List[Dict]:
+        starters = pbp_common.infer_starters(data)
+
+        def split_made_attempted(value: str) -> Tuple[int, int]:
+            try:
+                made, attempted = str(value).split('-')
+                return int(made), int(attempted)
+            except (ValueError, AttributeError):
+                return 0, 0
+
+        def process_team_players(team_data: Dict, team_name: str, team_key: str) -> List[Dict]:
             players = team_data['PlayerGroups']['Players']['Values']
+            starter_numbers = {num for num, _ in starters.get(team_key, [])}
             team_stats = []
             seen_players = set()  # Track unique players by (name, number)
 
@@ -164,6 +194,14 @@ class BasketballGameProcessor:
                     continue
 
                 seen_players.add(player_key)
+
+                fgm, fga = split_made_attempted(player['Fgam'])
+                tpm, tpa = split_made_attempted(player['Tpam'])
+                ftm, fta = split_made_attempted(player['Ftma'])
+                try:
+                    uni_number = int(player['Uni'])
+                except (TypeError, ValueError):
+                    uni_number = None
 
                 stats = {
                     'source_id': self.source_id,
@@ -184,14 +222,26 @@ class BasketballGameProcessor:
                     'turnovers': player['Turnovers'],
                     'steals': player['Steals'],
                     'blocks': player['Blocks'],
-                    'points': player['Points']
+                    'points': player['Points'],
+                    # Enriched columns (previously unexported JSON fields)
+                    'offensive_rebounds': pbp_common.to_int(player.get('OffensiveRebounds')),
+                    'defensive_rebounds': pbp_common.to_int(player.get('DefensiveRebounds')),
+                    'personal_fouls': pbp_common.to_int(player.get('PersonalFouls')),
+                    'technical_fouls': pbp_common.to_int(player.get('TechnicalFouls')),
+                    'efficiency': pbp_common.to_float(player.get('Efficiency')),
+                    'usage_pct': pbp_common.to_float(player.get('UsagePercentage')),
+                    'points_per_minute': pbp_common.to_float(player.get('PointsPerMinute')),
+                    'fgm': fgm, 'fga': fga,
+                    'tpm': tpm, 'tpa': tpa,
+                    'ftm': ftm, 'fta': fta,
+                    'starter': 1 if uni_number is not None and uni_number in starter_numbers else 0,
                 }
                 team_stats.append(stats)
 
             return team_stats
 
-        home_stats = process_team_players(data['Stats']['HomeTeam'], self.home_team)
-        visiting_stats = process_team_players(data['Stats']['VisitingTeam'], self.visiting_team)
+        home_stats = process_team_players(data['Stats']['HomeTeam'], self.home_team, 'HomeTeam')
+        visiting_stats = process_team_players(data['Stats']['VisitingTeam'], self.visiting_team, 'VisitingTeam')
 
         # Create DataFrame and remove any duplicates based on unique player identifiers
         df = pd.DataFrame(home_stats + visiting_stats)
@@ -228,7 +278,10 @@ class BasketballGameProcessor:
                 'steals': totals['Steals'],
                 'blocks': totals['Blocks'],
                 'turnovers': totals['Turnovers'],
-                'fouls': totals['PersonalFouls']
+                'fouls': totals['PersonalFouls'],
+                'offensive_rebounds': pbp_common.to_int(totals.get('OffensiveRebounds')),
+                'defensive_rebounds': pbp_common.to_int(totals.get('DefensiveRebounds')),
+                'technical_fouls': pbp_common.to_int(totals.get('TechnicalFouls'))
             }
         
         home_totals = process_team(data['Stats']['HomeTeam'], self.home_team)
@@ -245,7 +298,7 @@ class BasketballGameProcessor:
         unique_keys = {
             'game_info': ['file_id'],
             'period_scores': ['file_id', 'team', 'period'],
-            'plays': ['file_id', 'period', 'time_remaining', 'team', 'play_type', 'play_action', 'narrative'],
+            'plays': ['file_id', 'play_id'],
             'player_stats': ['file_id', 'team', 'name'],
             'team_totals': ['file_id', 'team']
         }
@@ -272,6 +325,14 @@ class BasketballGameProcessor:
                     # Remove duplicates based on unique keys for this dataframe type
                     duplicates_removed = 0
                     if name in unique_keys:
+                        # Legacy plays.csv files predate the play_id column; their
+                        # rows would get NaN play_ids after concat and collapse
+                        # under the new key, so fall back to the old composite
+                        # key until the file has been rebuilt.
+                        if name == 'plays' and 'play_id' not in existing_df.columns:
+                            unique_keys = dict(unique_keys)
+                            unique_keys['plays'] = ['file_id', 'period', 'time_remaining',
+                                                    'team', 'play_type', 'play_action', 'narrative']
                         original_count = len(combined_df)
 
                         # Detailed debugging for player_stats
@@ -351,53 +412,73 @@ class BasketballGameProcessor:
             self.logger.error(f"Error processing game: {e}")
             return False
 
-def process_season(season: str, base_dir: str = ".", output_dir: str = "basketball_data"):
-    """Process all JSON files for a given season."""
+CORE_CSVS = ['game_info', 'period_scores', 'plays', 'player_stats', 'team_totals']
+
+
+def process_season(season: str, base_dir: str = ".", output_dir: str = "basketball_data",
+                   rebuild: bool = False, debug: bool = True):
+    """Process all JSON files for a given season.
+
+    With rebuild=True the five core CSVs are deleted first and regenerated
+    from scratch — required once after any schema change, since the append
+    path can't retrofit new columns onto existing rows.
+    """
     # Create path to season directory
     season_path = Path(base_dir) / season
-    
+
     # Check if season directory exists
     if not season_path.exists():
         print(f"Error: Season directory {season_path} does not exist")
         return
-    
-    # Find all JSON files in the season directory and its subdirectories
-    json_pattern = os.path.join(season_path, "*.json")
-    json_files = glob.glob(json_pattern)
-    
+
+    # Find all JSON files, ordered by game id for deterministic output
+    json_files = [str(p) for p in pbp_common.season_json_files(season_path)]
+
     if not json_files:
         print(f"No JSON files found in {season_path}")
         return
-    
+
+    if rebuild:
+        for name in CORE_CSVS:
+            csv_path = Path(output_dir) / f"{name}.csv"
+            if csv_path.exists():
+                csv_path.unlink()
+                print(f"Rebuild: removed {csv_path}")
+
     print(f"Found {len(json_files)} JSON files to process")
-    
-    # Create processor with debug mode
-    processor = BasketballGameProcessor(debug=True)
-    
+
+    processor = BasketballGameProcessor(debug=debug)
+
     # Process each game
     successful = 0
     failed = 0
-    
+
     for filepath in json_files:
         print(f"\nProcessing game from {filepath}")
         success = processor.process_game(filepath, output_dir)
-        
+
         if success:
             successful += 1
             print(f"Successfully processed and saved/appended data from {filepath}")
         else:
             failed += 1
             print(f"Error processing game from {filepath}")
-    
+
     print(f"\nProcessing complete: {successful} successful, {failed} failed")
 
-def main(season):
-    # Example usage
-    season = season  # Specify the season to process
-    base_dir = "."      # Base directory containing season directories
-    output_dir = season  # Output directory for CSV files
-    
-    process_season(season, base_dir, output_dir)
+
+def main():
+    parser = argparse.ArgumentParser(description="Parse game JSONs into the core season CSVs")
+    parser.add_argument('season', nargs='?', default='2025-26',
+                        help='Season directory to process (default: 2025-26)')
+    parser.add_argument('--rebuild', action='store_true',
+                        help='Delete and regenerate the core CSVs from all game JSONs')
+    parser.add_argument('--quiet', action='store_true', help='Reduce logging output')
+    args = parser.parse_args()
+
+    process_season(args.season, base_dir=".", output_dir=args.season,
+                   rebuild=args.rebuild, debug=not args.quiet)
+
 
 if __name__ == "__main__":
-    main(season="2025-26")
+    main()

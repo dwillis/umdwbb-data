@@ -5,6 +5,16 @@ on:
     # Run daily at 6 AM UTC (1 AM EST / 2 AM EDT)
     - cron: '0 6 * * *'
   workflow_dispatch:  # Allow manual triggering
+    inputs:
+      season:
+        description: 'Season to process (e.g. 2025-26)'
+        required: false
+        default: '2025-26'
+      rebuild:
+        description: 'Rebuild all seasons from scratch (schema migrations)'
+        type: boolean
+        required: false
+        default: false
 
 jobs:
   scrape-and-parse:
@@ -27,17 +37,13 @@ jobs:
     - name: Run scraper
       run: python scraper.py
 
-    - name: Run game parser
-      run: python game_parser.py
-
-    - name: Run game parser
-      run: python assist_parser.py 2025-26
-
-    - name: Run game parser
-      run: python analyze_assists.py 2025-26
-
-    - name: Generate team season totals
-      run: python generate_team_season_totals.py 2025-26 --output 2025-26/team_season_totals.csv --no-display
+    - name: Run pipeline
+      run: |
+        if [ "${{ inputs.rebuild }}" = "true" ]; then
+          python pipeline.py --all-seasons --rebuild
+        else
+          python pipeline.py --season "${{ inputs.season || '2025-26' }}"
+        fi
 
     - name: Commit and push if changes
       run: |
