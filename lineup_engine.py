@@ -25,6 +25,7 @@ from collections import defaultdict
 from pathlib import Path
 
 import pbp_common
+from season_utils import current_season
 
 STINT_COLUMNS = [
     'source_id', 'file_id', 'team', 'player_name', 'player_number',
@@ -441,7 +442,7 @@ def process_season(season, base_dir='.', team_name='Maryland'):
 
 def main():
     parser = argparse.ArgumentParser(description="Reconstruct lineups and stints from SUBS plays")
-    parser.add_argument('season', nargs='?', default='2025-26')
+    parser.add_argument('season', nargs='?', default=current_season())
     args = parser.parse_args()
     process_season(args.season)
 

@@ -14,6 +14,7 @@ import csv
 from pathlib import Path
 
 import pbp_common
+from season_utils import current_season
 
 GAME_CONTEXT_COLUMNS = [
     'source_id', 'file_id', 'team', 'opponent', 'is_home',
@@ -150,7 +151,7 @@ def process_season(season, base_dir='.'):
 
 def main():
     parser = argparse.ArgumentParser(description="Export team game/period context stats")
-    parser.add_argument('season', nargs='?', default='2025-26')
+    parser.add_argument('season', nargs='?', default=current_season())
     args = parser.parse_args()
     process_season(args.season)
 
