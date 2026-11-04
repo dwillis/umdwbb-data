@@ -10,6 +10,7 @@ import os
 import glob
 
 import pbp_common
+from season_utils import current_season
 
 def extract_ids_from_path(filepath: str) -> Tuple[Optional[int], Optional[int]]:
     """Extract source_id and file_id from filepath as integers."""
@@ -320,7 +321,7 @@ class BasketballGameProcessor:
                     # Check if this game is already in the file
                     game_exists = False
                     if not existing_df.empty and 'file_id' in existing_df.columns:
-                        if df['file_id'].iloc[0] in existing_df['file_id'].values:
+                        if str(df['file_id'].iloc[0]) in existing_df['file_id'].astype(str).values:
                             self.logger.info(f"Game {df['file_id'].iloc[0]} already exists in {name}.csv - skipping append")
                             game_exists = True
 
@@ -475,8 +476,8 @@ def process_season(season: str, base_dir: str = ".", output_dir: str = "basketba
 
 def main():
     parser = argparse.ArgumentParser(description="Parse game JSONs into the core season CSVs")
-    parser.add_argument('season', nargs='?', default='2025-26',
-                        help='Season directory to process (default: 2025-26)')
+    parser.add_argument('season', nargs='?', default=current_season(),
+                        help=f'Season directory to process (default: {current_season()})')
     parser.add_argument('--rebuild', action='store_true',
                         help='Delete and regenerate the core CSVs from all game JSONs')
     parser.add_argument('--quiet', action='store_true', help='Reduce logging output')

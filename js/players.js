@@ -33,7 +33,7 @@ function renderDirectory(container, index, careerRows) {
         .sort((a, b) => b.totals.points - a.totals.points);
 
     container.innerHTML = `
-        <h2>All Maryland Players (2014-15 → 2025-26)</h2>
+        <h2>All Maryland Players (2014-15 → 2026-27)</h2>
         <p class="section-note">Every player to appear in a box score in the dataset, ranked by career points. Click through for full career pages.</p>
         <div style="overflow-x:auto;">
         <table>

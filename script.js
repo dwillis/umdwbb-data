@@ -33,7 +33,7 @@ let allSeasonStats = [];        // All player stats for the season (preserved fo
 
 // Available seasons (most recent first)
 const seasons = [
-    '2025-26', '2024-25', '2023-24', '2022-23', '2021-22', '2020-21',
+    '2026-27', '2025-26', '2024-25', '2023-24', '2022-23', '2021-22', '2020-21',
     '2019-20', '2018-19', '2017-18', '2016-17', '2015-16', '2014-15'
 ];
 

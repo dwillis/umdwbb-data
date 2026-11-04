@@ -22,6 +22,7 @@ from datetime import datetime
 from pathlib import Path
 
 import pbp_common
+from season_utils import current_season
 
 PF_COUNT_RE = re.compile(r'\((\d+) PF\)')
 
@@ -442,7 +443,7 @@ def process_season(season, base_dir='.'):
 
 def main():
     parser = argparse.ArgumentParser(description="Derive foul/FT/run/streak tables from game JSONs")
-    parser.add_argument('season', nargs='?', default='2025-26')
+    parser.add_argument('season', nargs='?', default=current_season())
     args = parser.parse_args()
     process_season(args.season)
 

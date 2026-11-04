@@ -7,9 +7,9 @@ on:
   workflow_dispatch:  # Allow manual triggering
     inputs:
       season:
-        description: 'Season to process (e.g. 2025-26)'
+        description: 'Season to process (defaults to current season)'
         required: false
-        default: '2025-26'
+        default: ''
       rebuild:
         description: 'Rebuild all seasons from scratch (schema migrations)'
         type: boolean
@@ -35,14 +35,21 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Run scraper
-      run: python scraper.py
+      run: |
+        if [ -n "${{ inputs.season }}" ]; then
+          python scraper.py "${{ inputs.season }}"
+        else
+          python scraper.py
+        fi
 
     - name: Run pipeline
       run: |
         if [ "${{ inputs.rebuild }}" = "true" ]; then
           python pipeline.py --all-seasons --rebuild
+        elif [ -n "${{ inputs.season }}" ]; then
+          python pipeline.py --season "${{ inputs.season }}"
         else
-          python pipeline.py --season "${{ inputs.season || '2025-26' }}"
+          python pipeline.py
         fi
 
     - name: Commit and push if changes

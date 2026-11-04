@@ -1,0 +1,3 @@
+team,games,wins,losses,win_pct,total_points,ppg,points_allowed,off_rating,def_rating,net_rating,fg_made,fg_attempted,fg_pct,three_made,three_attempted,three_pt_pct,ft_made,ft_attempted,ft_pct,efg_pct,ts_pct,ft_rate,total_rebounds,rpg,total_assists,apg,ast_to_ratio,total_steals,spg,total_blocks,bpg,total_turnovers,tpg,total_fouls,fpg
+South Carolina,1,1,0,100.0,101,101.0,93,101.0,93.0,8.0,36,73,49.31506849315068,8,16,50.0,21,25,84.0,54.794520547945204,60.11904761904761,0.3424657534246575,44,44.0,24,24.0,1.411764705882353,10,10.0,8,8.0,17,17.0,21,21.0
+Maryland,1,0,1,0.0,93,93.0,101,93.0,101.0,-8.0,32,75,42.66666666666667,13,30,43.333333333333336,16,21,76.19047619047619,51.33333333333333,55.199430199430196,0.28,36,36.0,22,22.0,1.375,9,9.0,3,3.0,16,16.0,24,24.0

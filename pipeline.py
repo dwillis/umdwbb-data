@@ -27,8 +27,9 @@ import enrich_pbp
 import game_parser
 import lineup_engine
 import pbp_common
+from season_utils import current_season
 
-CURRENT_SEASON = '2025-26'
+CURRENT_SEASON = current_season()
 
 
 def run_script(args, allow_failure=False):

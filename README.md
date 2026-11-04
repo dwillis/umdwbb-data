@@ -1,6 +1,6 @@
 # UMDWBB-DATA
 
-This repository includes data from Maryland Women's Basketball games from the 2014-15 season through the 2025-26 season. The data comes from the official university site (see [an example game](https://umterps.com/sports/womens-basketball/stats/2019-20/iowa/boxscore/11719)) and is not changed. A Python scraper for the data is included.
+This repository includes data from Maryland Women's Basketball games from the 2014-15 season through the 2026-27 season. The data comes from the official university site (see [an example game](https://umterps.com/sports/womens-basketball/stats/2019-20/iowa/boxscore/11719)) and is not changed. A Python scraper for the data is included.
 
 ## Game Data Browser
 
@@ -37,7 +37,7 @@ To use locally:
 
 ### Features
 
-- Browse games by season (2014-15 through 2025-26)
+- Browse games by season (2014-15 through 2026-27)
 - Filter plays by team, play type, action, and player
 - Filter player statistics by points, rebounds, and assists
 - Detailed player drill-down views with play-by-play
