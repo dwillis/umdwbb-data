@@ -102,6 +102,8 @@ async function initRecordsPage() {
             <div></div>
         </div>
     `;
+
+    enhanceTables(container, { minSearchRows: 50 });
 }
 
 document.addEventListener('DOMContentLoaded', initRecordsPage);

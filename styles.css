@@ -466,6 +466,50 @@ tbody td {
     background: rgba(224, 58, 62, 0.1);
 }
 
+/* Sortable tables + row search (js/data.js enhanceTables) */
+.sortable-th {
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+}
+
+.sortable-th::after {
+    content: " ⇅";
+    font-size: 0.8em;
+    opacity: 0.6;
+}
+
+.sortable-th.sorted-asc::after {
+    content: " ▲";
+    opacity: 1;
+}
+
+.sortable-th.sorted-desc::after {
+    content: " ▼";
+    opacity: 1;
+}
+
+.table-search-wrap {
+    margin-top: 1rem;
+}
+
+.table-search {
+    display: block;
+    width: 100%;
+    max-width: 320px;
+    margin-bottom: 0.5rem;
+    padding: 0.45rem 0.6rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-family: inherit;
+}
+
+.table-search:focus {
+    outline: 2px solid var(--maryland-gold);
+    border-color: var(--maryland-red);
+}
+
 /* Modal */
 .modal {
     position: fixed;
