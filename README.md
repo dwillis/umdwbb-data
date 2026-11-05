@@ -8,8 +8,8 @@ A web interface is included to browse and analyze game data.
 
 ### View Online
 
-The browser is available via GitHub Pages. Once enabled, visit:
-`https://[username].github.io/umdwbb-data/`
+The browser is available at:
+`https://thescoop.org/umdwbb-data/` (GitHub Pages, deployed from the repo root)
 
 ### Setup GitHub Pages
 
@@ -37,13 +37,17 @@ To use locally:
 
 ### Features
 
+- Current-season dashboard on the home page: record, scoring averages, team
+  leaders, latest and biggest result, active streaks, and best/most-used lineup
 - Browse games by season (2014-15 through 2026-27)
+- Every table is sortable (click a column header) and larger tables include an
+  instant text-search box
 - Filter plays by team, play type, action, and player
 - Filter player statistics by points, rebounds, and assists
 - Detailed player drill-down views with play-by-play
 - Responsive design styled with Maryland state colors (red, gold, black)
 
-**Game analysis** (every game, all 12 seasons):
+**Game analysis** (every game, all seasons):
 
 - **Game Flow** — scoring-margin "worm" chart with lead changes, ties, time
   with lead, points in paint / fast break / bench comparisons, and scoring runs
@@ -53,9 +57,17 @@ To use locally:
   box score)
 - **Fouls** — foul timeline with bonus (penalty) shading, team fouls by
   period, and foul-trouble callouts
+- **Four Factors** — Dean Oliver's eFG% / turnover% / offensive rebound% /
+  FT rate plus per-100-possession efficiency for both teams (in Team Stats),
+  and a Maryland-margin row in the period scoring table
 
 **Season analysis tabs**:
 
+- **Team Totals** — full team stats plus a four factors &amp; pace table
+  (Maryland vs all opponents, possessions estimated from shot/turnover data)
+- **Periods** — average scoring and margin by quarter/half (are the Terps a
+  3rd-quarter team?), period win/loss records, and how winning each period
+  translates to game wins
 - **Free Throws** — trip conversion, front-end makes, clutch FT%, FT% by period
 - **Fouls** — foul timing distribution, per-player foul load, penalty pressure
 - **Streaks & Runs** — longest make/miss streaks (cross-game), hot-hand study,

@@ -51,6 +51,8 @@ async function initOfficialsPage() {
         </table>
         </div>
     `;
+
+    enhanceTables(container);
 }
 
 document.addEventListener('DOMContentLoaded', initOfficialsPage);

@@ -50,6 +50,8 @@ function renderDirectory(container, index, careerRows) {
         </table>
         </div>
     `;
+
+    enhanceTables(container);
 }
 
 function renderCareerPage(container, index, careerRows, playerId) {
@@ -131,6 +133,8 @@ function renderCareerPage(container, index, careerRows, playerId) {
         <a href="index.html">season browser</a> for any of ${escapeHtml(player.name)}'s seasons:
         ${seasons.map(r => `<strong>${r.season}</strong>`).join(', ')}.</p>
     `;
+
+    enhanceTables(container);
 }
 
 document.addEventListener('DOMContentLoaded', initPlayersPage);

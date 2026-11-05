@@ -30,6 +30,7 @@ let playerLinkMap = new Map();
 let sortedGames = [];           // Games sorted chronologically (oldest first)
 let selectedGameIndex = -1;     // Index into sortedGames (0-based, -1 means all games)
 let allSeasonStats = [];        // All player stats for the season (preserved for filtering)
+let seasonScopeStats = [];      // Player stats within the current timeline selection
 
 // Available seasons (most recent first)
 const seasons = [
@@ -42,6 +43,7 @@ const seasons = [
 // Initialize the app
 async function init() {
     renderSeasonSelector();
+    renderDashboard();
 }
 
 // Render season selector
@@ -50,6 +52,152 @@ function renderSeasonSelector() {
     container.innerHTML = seasons.map(season =>
         `<button class="season-btn" onclick="selectSeason('${season}')">${season}</button>`
     ).join('');
+}
+
+// Current-season dashboard: the front door for the latest data.
+// Loads the most recent season that has games and shows record, last
+// result, team leaders, active streaks and the best lineup.
+async function renderDashboard() {
+    const container = document.getElementById('dashboard-content');
+    if (!container) return;
+
+    let season = null, games = [];
+    for (const s of seasons) {
+        const g = await loadCSV(s, 'game_info.csv');
+        if (g.length > 0) { season = s; games = g; break; }
+    }
+    if (!season) {
+        container.innerHTML = '<p class="section-note">No game data available yet.</p>';
+        return;
+    }
+
+    document.getElementById('dashboard-title').textContent = `${season} Season`;
+
+    // Maryland games only, chronological
+    const mdGames = games
+        .filter(g => g.home_team === 'Maryland' || g.visiting_team === 'Maryland')
+        .filter((g, i, arr) => arr.findIndex(x => x.file_id === g.file_id) === i)
+        .sort((a, b) => new Date(a.date) - new Date(b.date));
+
+    if (mdGames.length === 0) {
+        container.innerHTML = '<p class="section-note">No Maryland games in the latest season yet.</p>';
+        return;
+    }
+
+    const [stats, streaks, lineups] = await Promise.all([
+        loadCSV(season, 'player_stats.csv'),
+        loadCSV(season, 'streaks.csv'),
+        loadCSV(season, 'lineup_season.csv')
+    ]);
+
+    // Record + point totals
+    let wins = 0, losses = 0, pointsFor = 0, pointsAgainst = 0;
+    mdGames.forEach(g => {
+        const isHome = g.home_team === 'Maryland';
+        const md = parseInt(isHome ? g.home_score : g.visiting_score) || 0;
+        const opp = parseInt(isHome ? g.visiting_score : g.home_score) || 0;
+        pointsFor += md;
+        pointsAgainst += opp;
+        md > opp ? wins++ : losses++;
+    });
+
+    const last = mdGames[mdGames.length - 1];
+    const lastMd = marylandPerspective(last);
+    const margins = mdGames.map((g, i) => ({ i, margin: marylandPerspective(g).marylandScore - marylandPerspective(g).opponentScore }));
+    const bestMargin = margins.reduce((best, cur) => cur.margin > best.margin ? cur : best);
+    const bestWinGame = mdGames[bestMargin.i];
+    const bestWinMd = marylandPerspective(bestWinGame);
+
+    // Team leaders (Maryland, per-game)
+    const leaders = new Map();
+    stats.filter(s => s.team === 'Maryland').forEach(s => {
+        const p = leaders.get(s.name) || { games: 0, points: 0, rebounds: 0, assists: 0 };
+        p.games++;
+        p.points += parseInt(s.points) || 0;
+        p.rebounds += parseInt(s.rebounds) || 0;
+        p.assists += parseInt(s.assists) || 0;
+        leaders.set(s.name, p);
+    });
+    const leaderFor = key => [...leaders.entries()]
+        .filter(([, p]) => p.games > 0)
+        .sort((a, b) => b[1][key] / b[1].games - a[1][key] / a[1].games)[0];
+
+    const streakLabel = { fg_makes: 'consecutive FGs made', three_makes: 'consecutive 3-pointers made', ft_makes: 'consecutive FTs made', fg_misses: 'consecutive FGs missed' };
+    const activeStreaks = streaks
+        .filter(s => s.active === '1' && s.streak_type !== 'fg_misses')
+        .sort((a, b) => parseInt(b.length) - parseInt(a.length))
+        .slice(0, 4);
+
+    const bestLineup = [...lineups]
+        .filter(l => parseFloat(l.minutes) >= 20 && l.net_per_40 !== '')
+        .sort((a, b) => parseFloat(b.net_per_40) - parseFloat(a.net_per_40))[0];
+    const mostUsedLineup = [...lineups]
+        .filter(l => parseFloat(l.minutes) >= 20)
+        .sort((a, b) => parseFloat(b.minutes) - parseFloat(a.minutes))[0];
+
+    const leaderCell = (label, entry, unit) => entry ? `
+        <div class="stat-chip">
+            <span class="stat-chip-value">${(entry[1][unit] / entry[1].games).toFixed(1)}</span>
+            ${label}: <strong>${escapeHtml(entry[0])}</strong>
+        </div>` : '';
+
+    container.innerHTML = `
+        <div class="stat-strip">
+            <div class="stat-chip"><span class="stat-chip-value">${wins}-${losses}</span> record</div>
+            <div class="stat-chip"><span class="stat-chip-value">${(pointsFor / mdGames.length).toFixed(1)}</span> PPG ·
+                <span class="stat-chip-value">${(pointsAgainst / mdGames.length).toFixed(1)}</span> allowed</div>
+            ${leaderCell('PPG', leaderFor('points'), 'points')}
+            ${leaderCell('RPG', leaderFor('rebounds'), 'rebounds')}
+            ${leaderCell('APG', leaderFor('assists'), 'assists')}
+        </div>
+        <div class="flow-columns" style="margin-top:1rem;">
+            <div>
+                <h3>Latest Game</h3>
+                <div class="run-item run-maryland">
+                    <span class="run-points">${lastMd.marylandScore > lastMd.opponentScore ? 'W' : 'L'}</span>
+                    <span>${lastMd.isHome ? 'vs' : 'at'} <strong>${escapeHtml(lastMd.opponent)}</strong>
+                    <strong>${lastMd.marylandScore}-${lastMd.opponentScore}</strong> · ${last.date}</span>
+                </div>
+                ${bestMargin.margin > 0 ? `
+                <h3>Biggest Win</h3>
+                <div class="run-item run-maryland">
+                    <span class="run-points">+${bestMargin.margin}</span>
+                    <span>${bestWinMd.isHome ? 'vs' : 'at'} <strong>${escapeHtml(bestWinMd.opponent)}</strong>
+                    <strong>${bestWinMd.marylandScore}-${bestWinMd.opponentScore}</strong> · ${bestWinGame.date}</span>
+                </div>` : `
+                <h3>Closest Game</h3>
+                <div class="run-item run-maryland">
+                    <span class="run-points">${bestMargin.margin}</span>
+                    <span>${bestWinMd.isHome ? 'vs' : 'at'} <strong>${escapeHtml(bestWinMd.opponent)}</strong>
+                    <strong>${bestWinMd.marylandScore}-${bestWinMd.opponentScore}</strong> · ${bestWinGame.date}</span>
+                </div>`}
+            </div>
+            <div>
+                <h3>Active Streaks</h3>
+                ${activeStreaks.length === 0 ? '<p class="section-note">No active streaks right now.</p>' :
+                    activeStreaks.map(s => `
+                    <div class="run-item run-maryland">
+                        <span class="run-points">${s.length}</span>
+                        <span><strong>${escapeHtml(s.player_name)}</strong> · ${streakLabel[s.streak_type] || s.streak_type}</span>
+                    </div>`).join('')}
+                ${bestLineup ? `
+                <h3>Best Lineup (20+ min)</h3>
+                <div class="run-item run-maryland">
+                    <span class="run-points">+${parseFloat(bestLineup.net_per_40).toFixed(1)}</span>
+                    <span>Net/40: ${escapeHtml(bestLineup.lineup.split('|').join(', '))}</span>
+                </div>` : ''}
+                ${mostUsedLineup && mostUsedLineup !== bestLineup ? `
+                <h3>Most-Used Lineup</h3>
+                <div class="run-item run-maryland">
+                    <span class="run-points">${parseFloat(mostUsedLineup.minutes).toFixed(0)}m</span>
+                    <span>${escapeHtml(mostUsedLineup.lineup.split('|').join(', '))}</span>
+                </div>` : ''}
+            </div>
+        </div>
+        <p style="margin-top:1rem;">
+            <button class="btn-primary" onclick="selectSeason('${season}')">Open the ${season} season →</button>
+        </p>
+    `;
 }
 
 // Select a season
@@ -73,6 +221,7 @@ async function selectSeason(season) {
 
     // Store all stats for filtering
     allStats = [...allSeasonStats];
+    seasonScopeStats = [...allSeasonStats];
 
     // Setup the game timeline
     setupGameTimeline();
@@ -178,7 +327,8 @@ function updateGameTimeline(gameNumber) {
     const gameIdsThrough = new Set(sortedGames.slice(0, index + 1).map(g => g.file_id));
 
     // Filter stats to only include games through this point
-    const filteredStats = allSeasonStats.filter(stat => gameIdsThrough.has(stat.file_id));
+    seasonScopeStats = allSeasonStats.filter(stat => gameIdsThrough.has(stat.file_id));
+    const filteredStats = seasonScopeStats;
 
     // Aggregate stats for selected timeframe
     aggregateSeasonStats(filteredStats);
@@ -557,6 +707,8 @@ function renderRotation() {
                 </tr>`;
             }).join('')}</tbody>
         </table>`;
+
+    enhanceTables(document.getElementById('game-lineups'), { minSearchRows: 8 });
 }
 
 // Render the game Fouls tab: timeline, team fouls by period, trouble callouts
@@ -696,9 +848,19 @@ function renderPeriodScoring() {
     });
 
     // Generate the period scoring table
-    const periodLabels = periods.map(p => {
-        if (p <= 4) return `Q${p}`;
-        return `OT${p - 4}`;
+    const shape = Charts.gameShape(allPlays);
+    const periodLabels = periods.map(p => shape.isHalves
+        ? (p <= 2 ? `H${p}` : `OT${p - 2}`)
+        : (p <= 4 ? `Q${p}` : `OT${p - 4}`));
+
+    // Maryland per-period points and margins (when Maryland is in this game)
+    const marylandInGame = game.home_team === 'Maryland' || game.visiting_team === 'Maryland';
+    const mdIsHome = game.home_team === 'Maryland';
+    const mdScores = {};
+    const oppScores = {};
+    periods.forEach(p => {
+        mdScores[p] = (mdIsHome ? homeScores[p] : visitingScores[p]) || 0;
+        oppScores[p] = (!mdIsHome ? homeScores[p] : visitingScores[p]) || 0;
     });
 
     container.innerHTML = `
@@ -714,19 +876,32 @@ function renderPeriodScoring() {
                 </thead>
                 <tbody>
                     <tr class="${game.visiting_team === 'Maryland' ? 'team-maryland' : ''}">
-                        <td><strong>${game.visiting_team}</strong></td>
+                        <td><strong>${escapeHtml(game.visiting_team)}</strong></td>
                         ${periods.map(p => `<td>${visitingScores[p] || 0}</td>`).join('')}
                         <td><strong>${parseInt(game.visiting_score)}</strong></td>
                     </tr>
                     <tr class="${game.home_team === 'Maryland' ? 'team-maryland' : ''}">
-                        <td><strong>${game.home_team}</strong></td>
+                        <td><strong>${escapeHtml(game.home_team)}</strong></td>
                         ${periods.map(p => `<td>${homeScores[p] || 0}</td>`).join('')}
                         <td><strong>${parseInt(game.home_score)}</strong></td>
                     </tr>
+                    ${marylandInGame ? `
+                    <tr>
+                        <td><strong>Maryland margin</strong></td>
+                        ${periods.map(p => {
+                            const margin = mdScores[p] - oppScores[p];
+                            return `<td class="${margin > 0 ? 'pos' : margin < 0 ? 'neg' : ''}">${margin > 0 ? '+' : ''}${margin}</td>`;
+                        }).join('')}
+                        <td><strong class="${parseInt(mdIsHome ? game.home_score : game.visiting_score) > parseInt(mdIsHome ? game.visiting_score : game.home_score) ? 'pos' : 'neg'}">
+                            ${parseInt(mdIsHome ? game.home_score : game.visiting_score) - parseInt(mdIsHome ? game.visiting_score : game.home_score) > 0 ? '+' : ''}
+                            ${parseInt(mdIsHome ? game.home_score : game.visiting_score) - parseInt(mdIsHome ? game.visiting_score : game.home_score)}</strong></td>
+                    </tr>` : ''}
                 </tbody>
             </table>
         </div>
     `;
+
+    enhanceTables(container, { minSearchRows: 100 });
 }
 
 // Setup filter dropdowns
@@ -902,6 +1077,8 @@ function renderStats() {
             </tbody>
         </table>
     `;
+
+    enhanceTables(container);
 }
 
 // Render team totals
@@ -953,6 +1130,94 @@ function renderTeamTotals() {
             </tbody>
         </table>
     `;
+
+    // Four factors + efficiency (estimated possessions)
+    const mdRow = allTeamTotals.find(t => t.team === 'Maryland');
+    const oppRow = allTeamTotals.find(t => t !== mdRow);
+    if (mdRow && oppRow) {
+        const md = fourFactors(mdRow, oppRow);
+        const opp = fourFactors(oppRow, mdRow);
+        container.insertAdjacentHTML('beforeend', `
+            <h3 style="margin-top:1.5rem;">Four Factors — Why This Game Was Won</h3>
+            <p class="section-note">Dean Oliver's four factors, plus per-100-possession efficiency.
+            Possessions estimated as FGA + 0.44·FTA − offensive rebounds + turnovers.</p>
+            <div id="four-factors-bars"></div>
+            <div style="overflow-x:auto;">
+            <table>
+                <thead><tr><th>Team</th><th>Possessions</th><th>eFG%</th><th>TOV%</th><th>ORB%</th><th>FT Rate</th><th>ORtg</th><th>DRtg</th></tr></thead>
+                <tbody>
+                    <tr class="team-maryland">
+                        <td><strong>Maryland</strong></td>
+                        <td>${md.poss}</td>
+                        <td><strong>${md.efg.toFixed(1)}</strong></td>
+                        <td>${md.tovPct.toFixed(1)}</td>
+                        <td>${md.orbPct.toFixed(1)}</td>
+                        <td>${md.ftRate.toFixed(2)}</td>
+                        <td><strong>${md.ortg.toFixed(0)}</strong></td>
+                        <td>${md.drtg.toFixed(0)}</td>
+                    </tr>
+                    <tr>
+                        <td><strong>${escapeHtml(oppRow.team)}</strong></td>
+                        <td>${opp.poss}</td>
+                        <td><strong>${opp.efg.toFixed(1)}</strong></td>
+                        <td>${opp.tovPct.toFixed(1)}</td>
+                        <td>${opp.orbPct.toFixed(1)}</td>
+                        <td>${opp.ftRate.toFixed(2)}</td>
+                        <td><strong>${opp.ortg.toFixed(0)}</strong></td>
+                        <td>${opp.drtg.toFixed(0)}</td>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+        `);
+        Charts.comparisonBars(document.getElementById('four-factors-bars'), [
+            { label: 'Effective FG%', a: md.efg.toFixed(1), b: opp.efg.toFixed(1) },
+            { label: 'Turnover%', a: md.tovPct.toFixed(1), b: opp.tovPct.toFixed(1) },
+            { label: 'Off. Rebound%', a: md.orbPct.toFixed(1), b: opp.orbPct.toFixed(1) },
+            { label: 'FT Rate (FTA/FGA)', a: md.ftRate.toFixed(2), b: opp.ftRate.toFixed(2) }
+        ], 'Maryland', oppRow.team);
+    }
+
+    enhanceTables(container);
+}
+
+// Parse "made-attempted" strings like "24-59" from team totals
+function parseShooting(value) {
+    const parts = (value || '').split('-');
+    return {
+        made: parseInt(parts[0]) || 0,
+        attempted: parseInt(parts[1]) || 0
+    };
+}
+
+// Four factors + efficiency for one team, given both teams' totals
+function fourFactors(team, opp) {
+    const fg = parseShooting(team.field_goals);
+    const tp = parseShooting(team.three_pointers);
+    const ft = parseShooting(team.free_throws);
+    const oppFg = parseShooting(opp.field_goals);
+    const oppFt = parseShooting(opp.free_throws);
+    const orb = parseInt(team.offensive_rebounds) || 0;
+    const drb = parseInt(team.defensive_rebounds) || 0;
+    const oppOrb = parseInt(opp.offensive_rebounds) || 0;
+    const oppDrb = parseInt(opp.defensive_rebounds) || 0;
+    const tov = parseInt(team.turnovers) || 0;
+    const oppTov = parseInt(opp.turnovers) || 0;
+    const pts = parseInt(team.points) || 0;
+    const oppPts = parseInt(opp.points) || 0;
+
+    const poss = fg.attempted + 0.44 * ft.attempted - orb + tov;
+    const oppPoss = oppFg.attempted + 0.44 * oppFt.attempted - oppOrb + oppTov;
+
+    return {
+        poss: Math.round(poss),
+        efg: fg.attempted ? (fg.made + 0.5 * tp.made) / fg.attempted * 100 : 0,
+        tovPct: poss > 0 ? tov / poss * 100 : 0,
+        orbPct: (orb + oppDrb) > 0 ? orb / (orb + oppDrb) * 100 : 0,
+        ftRate: fg.attempted ? ft.attempted / fg.attempted : 0,
+        ortg: poss > 0 ? pts / poss * 100 : 0,
+        drtg: oppPoss > 0 ? oppPts / oppPoss * 100 : 0
+    };
 }
 
 // Show player details in modal
@@ -1070,19 +1335,21 @@ window.onclick = function(event) {
     }
 }
 
-// Tab switching
+// Tab switching (game details tabs; scoped so the season tabs are untouched)
 function showTab(tabName) {
-    // Hide all tabs
-    document.querySelectorAll('.tab-content').forEach(tab => {
+    // Hide all game tabs
+    document.querySelectorAll('#game-details-section .tab-content').forEach(tab => {
         tab.classList.remove('active');
     });
-    document.querySelectorAll('.tab-btn').forEach(btn => {
+    document.querySelectorAll('#game-details-section .tab-btn').forEach(btn => {
         btn.classList.remove('active');
     });
 
     // Show selected tab
     document.getElementById(`${tabName}-tab`).classList.add('active');
-    event.target.classList.add('active');
+    document.querySelectorAll('#game-details-section .tab-btn').forEach(btn => {
+        if ((btn.getAttribute('onclick') || '').includes(`'${tabName}'`)) btn.classList.add('active');
+    });
 }
 
 // Back to games
@@ -1301,6 +1568,8 @@ function renderSeasonStats() {
             </tbody>
         </table>
     `;
+
+    enhanceTables(container);
 }
 
 // Render season stats (advanced)
@@ -1362,6 +1631,8 @@ function renderSeasonStatsAdvanced() {
             </tbody>
         </table>
     `;
+
+    enhanceTables(container);
 }
 
 // Render team season totals
@@ -1394,6 +1665,7 @@ function renderSeasonTeamTotals() {
             <div style="margin-bottom: 2rem;">
                 <h3 style="color: #e03a3e; margin-bottom: 1rem;">Maryland</h3>
                 ${renderTeamTotalsTable(maryland, true)}
+                ${seasonFourFactorsHtml()}
             </div>
         ` : ''}
 
@@ -1416,6 +1688,76 @@ function renderSeasonTeamTotals() {
                 </div>
             </div>
         ` : ''}
+    `;
+
+    enhanceTables(container);
+}
+
+// Season four factors for Maryland vs all opponents in the current
+// timeline scope (see seasonScopeStats). Possessions estimated with
+// FGA + 0.44·FTA − ORB + TOV.
+function seasonFourFactorsHtml() {
+    const stats = seasonScopeStats.length ? seasonScopeStats : allSeasonStats;
+    const mdGames = sortedGames.length;
+    if (!stats.length || !mdGames) return '';
+
+    const agg = isMaryland => {
+        const a = { fgm: 0, fga: 0, tpm: 0, tpa: 0, ftm: 0, fta: 0, orb: 0, drb: 0, tov: 0, pts: 0 };
+        stats.filter(s => (s.team === 'Maryland') === isMaryland).forEach(stat => {
+            const fg = parseShooting(stat.field_goals);
+            const tp = parseShooting(stat.three_pointers);
+            const ft = parseShooting(stat.free_throws);
+            a.fgm += fg.made; a.fga += fg.attempted;
+            a.tpm += tp.made; a.tpa += tp.attempted;
+            a.ftm += ft.made; a.fta += ft.attempted;
+            a.orb += parseInt(stat.offensive_rebounds) || 0;
+            a.drb += parseInt(stat.defensive_rebounds) || 0;
+            a.tov += parseInt(stat.turnovers) || 0;
+            a.pts += parseInt(stat.points) || 0;
+        });
+        return a;
+    };
+
+    const md = agg(true);
+    const opp = agg(false);
+    const mdPoss = md.fga + 0.44 * md.fta - md.orb + md.tov;
+    const oppPoss = opp.fga + 0.44 * opp.fta - opp.orb + opp.tov;
+    if (mdPoss <= 0 || oppPoss <= 0) return '';
+
+    const mdOrtg = md.pts / mdPoss * 100;
+    const oppOrtg = opp.pts / oppPoss * 100;
+    const pct = (num, den) => den > 0 ? (num / den * 100).toFixed(1) : '—';
+
+    const row = (label, mdVal, oppVal, mdWins) => `
+        <tr>
+            <td>${label}</td>
+            <td class="${mdWins === true ? 'pos' : mdWins === false ? 'neg' : ''}"><strong>${mdVal}</strong></td>
+            <td>${oppVal}</td>
+        </tr>`;
+
+    return `
+        <div style="margin-top: 1.5rem;">
+            <h3 style="margin-bottom: 0.5rem;">Four Factors &amp; Pace — Maryland vs Opponents</h3>
+            <table>
+                <thead><tr><th>Factor</th><th>Maryland</th><th>Opponents</th></tr></thead>
+                <tbody>
+                    ${row('Effective FG%', pct(md.fgm + 0.5 * md.tpm, md.fga) + '%', pct(opp.fgm + 0.5 * opp.tpm, opp.fga) + '%',
+                        (md.fgm + 0.5 * md.tpm) / (md.fga || 1) > (opp.fgm + 0.5 * opp.tpm) / (opp.fga || 1))}
+                    ${row('Turnover %', pct(md.tov, mdPoss) + '%', pct(opp.tov, oppPoss) + '%',
+                        md.tov / mdPoss < opp.tov / oppPoss)}
+                    ${row('Offensive Rebound %', pct(md.orb, md.orb + opp.drb) + '%', pct(opp.orb, opp.orb + md.drb) + '%',
+                        md.orb / (md.orb + opp.drb) > opp.orb / (opp.orb + md.drb))}
+                    ${row('FT Rate (FTA/FGA)', (md.fga ? (md.fta / md.fga).toFixed(2) : '—'), (opp.fga ? (opp.fta / opp.fga).toFixed(2) : '—'),
+                        md.fta / (md.fga || 1) > opp.fta / (opp.fga || 1))}
+                    ${row('Pace (possessions/game)', (mdPoss / mdGames).toFixed(1), (oppPoss / mdGames).toFixed(1), null)}
+                    ${row('Rating per 100 possessions', mdOrtg.toFixed(1) + ' off / ' + oppOrtg.toFixed(1) + ' def',
+                        oppOrtg.toFixed(1) + ' off / ' + mdOrtg.toFixed(1) + ' def', mdOrtg > oppOrtg)}
+                </tbody>
+            </table>
+            <p class="section-note" style="margin-top:0.5rem;">Maryland's offensive rating (points per 100
+            possessions, estimated) vs what opponents score against the Terps. Estimated possessions:
+            FGA + 0.44·FTA − offensive rebounds + turnovers.</p>
+        </div>
     `;
 }
 
@@ -1483,7 +1825,7 @@ function renderTeamTotalsTable(teams, showRecord = true) {
 }
 
 // Tab switching for season stats
-const SEASON_TABS = ['team', 'basic', 'advanced', 'assists', 'freethrows', 'fouls', 'streaks', 'lineups'];
+const SEASON_TABS = ['team', 'basic', 'advanced', 'assists', 'freethrows', 'fouls', 'streaks', 'lineups', 'periods'];
 
 function showSeasonStatsTab(tabName) {
     SEASON_TABS.forEach(name => {
@@ -1496,13 +1838,16 @@ function showSeasonStatsTab(tabName) {
 
     const tab = document.getElementById(`season-stats-${tabName}`);
     if (tab) tab.classList.add('active');
-    event.target.classList.add('active');
+    document.querySelectorAll('#season-stats-section .tab-btn').forEach(btn => {
+        btn.classList.toggle('active', (btn.getAttribute('onclick') || '').includes(`'${tabName}'`));
+    });
 
     if (tabName === 'assists') renderAssistNetwork();
     else if (tabName === 'freethrows') renderSeasonFreeThrows();
     else if (tabName === 'fouls') renderSeasonFouls();
     else if (tabName === 'streaks') renderSeasonStreaks();
     else if (tabName === 'lineups') renderSeasonLineups();
+    else if (tabName === 'periods') renderSeasonPeriods();
 }
 
 // Link a box-score name to its career page (Maryland players with a known id)
@@ -1618,6 +1963,8 @@ async function renderSeasonFreeThrows() {
             </div>
         </div>
     `;
+
+    enhanceTables(container);
 }
 
 // Season Fouls tab: who fouls, when fouls happen, bonus pressure
@@ -1709,6 +2056,8 @@ async function renderSeasonFouls() {
         </table>
         </div>
     `;
+
+    enhanceTables(container);
 }
 
 // Streaks & Runs tab: hot hands, big runs, comebacks
@@ -1814,6 +2163,8 @@ async function renderSeasonStreaks() {
             </div>
         </div>
     `;
+
+    enhanceTables(container);
 }
 
 // Lineups tab: top five-player units and on/off splits
@@ -1882,6 +2233,138 @@ async function renderSeasonLineups() {
         </table>
         </div>
     `;
+
+    enhanceTables(container);
+}
+
+// Periods tab: quarter-by-quarter momentum across the season
+// Data: team_period_context.csv (per-team, per-period scoring)
+async function renderSeasonPeriods() {
+    const container = document.getElementById('season-periods-content');
+    container.innerHTML = '<p>Loading…</p>';
+    const rows = await loadCSV(currentSeason, 'team_period_context.csv');
+    if (rows.length === 0) {
+        container.innerHTML = '<p>No per-period data available for this season.</p>';
+        return;
+    }
+
+    // game+period -> { md, opp } points
+    const byGamePeriod = new Map();
+    rows.forEach(r => {
+        const key = `${normId(r.file_id)}:${parseInt(r.period)}`;
+        if (!byGamePeriod.has(key)) byGamePeriod.set(key, {});
+        byGamePeriod.get(key)[r.team === 'Maryland' ? 'md' : 'opp'] = parseInt(r.points) || 0;
+    });
+
+    const gameIds = [...new Set(rows.map(r => normId(r.file_id)))];
+    const periods = [...new Set(rows.map(r => parseInt(r.period)))].sort((a, b) => a - b);
+    const isQuarters = periods.some(p => p >= 3);
+    const label = p => isQuarters
+        ? (p <= 4 ? `Q${p}` : `OT${p - 4}`)
+        : (p <= 2 ? `H${p}` : `OT${p - 2}`);
+
+    const gameById = new Map(allGames.map(g => [normId(g.file_id), g]));
+    const gameResult = id => {
+        const game = gameById.get(id);
+        if (!game) return null;
+        const isHome = game.home_team === 'Maryland';
+        const mdScore = parseInt(isHome ? game.home_score : game.visiting_score);
+        const oppScore = parseInt(isHome ? game.visiting_score : game.home_score);
+        return mdScore > oppScore;
+    };
+
+    const perPeriod = periods.map(p => {
+        let mdSum = 0, oppSum = 0, won = 0, lost = 0, tied = 0, occurred = 0;
+        let wonGameWins = 0, wonGameLosses = 0, lostGameWins = 0, lostGameLosses = 0,
+            tiedGameWins = 0, tiedGameLosses = 0;
+        gameIds.forEach(id => {
+            const entry = byGamePeriod.get(`${id}:${p}`);
+            if (!entry || entry.md == null || entry.opp == null) return;
+            occurred++;
+            mdSum += entry.md;
+            oppSum += entry.opp;
+            const gameWin = gameResult(id);
+            if (entry.md > entry.opp) {
+                won++;
+                if (gameWin != null) { gameWin ? wonGameWins++ : wonGameLosses++; }
+            } else if (entry.md < entry.opp) {
+                lost++;
+                if (gameWin != null) { gameWin ? lostGameWins++ : lostGameLosses++; }
+            } else {
+                tied++;
+                if (gameWin != null) { gameWin ? tiedGameWins++ : tiedGameLosses++; }
+            }
+        });
+        const mdAvg = occurred ? mdSum / occurred : 0;
+        const oppAvg = occurred ? oppSum / occurred : 0;
+        return {
+            period: p, label: label(p), occurred,
+            mdAvg, oppAvg, margin: mdAvg - oppAvg, won, lost, tied,
+            wonGameWins, wonGameLosses, lostGameWins, lostGameLosses,
+            tiedGameWins, tiedGameLosses
+        };
+    });
+
+    const regular = perPeriod.filter(s => s.period <= (isQuarters ? 4 : 2));
+    const best = [...regular].sort((a, b) => b.margin - a.margin)[0];
+    const worst = [...regular].sort((a, b) => a.margin - b.margin)[0];
+    const regLabel = isQuarters ? 'quarter' : 'half';
+
+    container.innerHTML = `
+        <h3>Scoring by ${isQuarters ? 'Quarter' : 'Half'} — Maryland vs Opponents</h3>
+        <p class="section-note">Average points per period across ${gameIds.length} games, from
+        per-period team data. Overtime periods only count games that reached them.</p>
+        <div class="stat-strip">
+            ${best ? `<div class="stat-chip"><span class="stat-chip-value">${best.label}</span> best ${regLabel} (+${best.margin.toFixed(1)} avg margin)</div>` : ''}
+            ${worst && worst !== best ? `<div class="stat-chip"><span class="stat-chip-value">${worst.label}</span> toughest ${regLabel} (${worst.margin >= 0 ? '+' : ''}${worst.margin.toFixed(1)} avg margin)</div>` : ''}
+        </div>
+        <div id="period-bars"></div>
+        <h3 style="margin-top:1.5rem;">Period Details</h3>
+        <div style="overflow-x:auto;">
+        <table>
+            <thead><tr>
+                <th>Period</th><th>Games</th><th>MD PPG</th><th>Opp PPG</th>
+                <th>Avg Margin</th><th>Periods Won</th><th>Lost</th><th>Tied</th>
+            </tr></thead>
+            <tbody>${perPeriod.map(s => `
+                <tr>
+                    <td><strong>${s.label}</strong>${s.occurred < gameIds.length ? ' <span class="section-note">(OT only)</span>' : ''}</td>
+                    <td>${s.occurred}</td>
+                    <td>${s.mdAvg.toFixed(1)}</td>
+                    <td>${s.oppAvg.toFixed(1)}</td>
+                    <td class="${s.margin > 0 ? 'pos' : s.margin < 0 ? 'neg' : ''}">
+                        <strong>${s.margin > 0 ? '+' : ''}${s.margin.toFixed(1)}</strong></td>
+                    <td>${s.won}</td>
+                    <td>${s.lost}</td>
+                    <td>${s.tied}</td>
+                </tr>`).join('')}
+            </tbody>
+        </table>
+        </div>
+        <h3 style="margin-top:1.5rem;">Win the ${regLabel[0].toUpperCase() + regLabel.slice(1)}, Win the Game?</h3>
+        <p class="section-note">How Maryland's final record breaks down by the result of each period.</p>
+        <div style="overflow-x:auto;">
+        <table>
+            <thead><tr>
+                <th>Period</th><th>Record when won</th><th>Record when lost</th><th>Record when tied</th>
+            </tr></thead>
+            <tbody>${perPeriod.map(s => `
+                <tr>
+                    <td><strong>${s.label}</strong></td>
+                    <td class="${s.wonGameWins >= s.wonGameLosses ? 'pos' : 'neg'}"><strong>${s.wonGameWins}-${s.wonGameLosses}</strong></td>
+                    <td class="${s.lostGameWins >= s.lostGameLosses ? 'pos' : 'neg'}"><strong>${s.lostGameWins}-${s.lostGameLosses}</strong></td>
+                    <td>${s.tied > 0 ? `${s.tiedGameWins}-${s.tiedGameLosses}` : '—'}</td>
+                </tr>`).join('')}
+            </tbody>
+        </table>
+        </div>
+    `;
+
+    Charts.comparisonBars(document.getElementById('period-bars'),
+        perPeriod.map(s => ({ label: s.label, a: s.mdAvg.toFixed(1), b: s.oppAvg.toFixed(1) })),
+        'Maryland', 'Opponents');
+
+    enhanceTables(container, { minSearchRows: 100 }); // small tables: sort only
 }
 
 // Assist Network Functions
@@ -1899,15 +2382,21 @@ function showAssistSubTab(tabName) {
     // Show selected subtab
     if (tabName === 'combinations') {
         document.getElementById('assist-combinations').classList.add('active');
-        event.target.classList.add('active');
+        document.querySelectorAll('.subtab-btn').forEach(btn => {
+            btn.classList.toggle('active', (btn.getAttribute('onclick') || '').includes("'combinations'"));
+        });
         renderAssistNetwork();
     } else if (tabName === 'leaders') {
         document.getElementById('assist-leaders').classList.add('active');
-        event.target.classList.add('active');
+        document.querySelectorAll('.subtab-btn').forEach(btn => {
+            btn.classList.toggle('active', (btn.getAttribute('onclick') || '').includes("'leaders'"));
+        });
         renderAssistLeaders();
     } else if (tabName === 'receivers') {
         document.getElementById('assist-receivers').classList.add('active');
-        event.target.classList.add('active');
+        document.querySelectorAll('.subtab-btn').forEach(btn => {
+            btn.classList.toggle('active', (btn.getAttribute('onclick') || '').includes("'receivers'"));
+        });
         renderAssistReceivers();
     }
 }

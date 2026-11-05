@@ -22,6 +22,14 @@
     </header>
 
     <div class="container">
+        <!-- Current Season Dashboard -->
+        <div class="card" id="dashboard-section">
+            <div class="section-header">
+                <h2 id="dashboard-title">Current Season</h2>
+            </div>
+            <div id="dashboard-content"><p class="section-note">Loading…</p></div>
+        </div>
+
         <!-- Season Selector -->
         <div class="card">
             <h2>Select Season</h2>
@@ -91,6 +99,7 @@
             <!-- Tabs for Team, Basic vs Advanced Stats -->
             <div class="tabs">
                 <button class="tab-btn active" onclick="showSeasonStatsTab('team')">Team Totals</button>
+                <button class="tab-btn" onclick="showSeasonStatsTab('periods')">Periods</button>
                 <button class="tab-btn" onclick="showSeasonStatsTab('basic')">Player Stats</button>
                 <button class="tab-btn" onclick="showSeasonStatsTab('advanced')">Advanced Stats</button>
                 <button class="tab-btn" onclick="showSeasonStatsTab('assists')">Assist Network</button>
@@ -102,6 +111,10 @@
 
             <div id="season-stats-team" class="tab-content active">
                 <div id="season-team-totals-list"></div>
+            </div>
+
+            <div id="season-stats-periods" class="tab-content">
+                <div id="season-periods-content"></div>
             </div>
 
             <div id="season-stats-basic" class="tab-content">

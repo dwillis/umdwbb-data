@@ -41,7 +41,7 @@ async function initOpponentsPage() {
                 const last = entry.games[entry.games.length - 1];
                 const avgMargin = entry.marginSum / entry.games.length;
                 return `
-                <tr class="opponent-row" onclick="toggleSeries(${i})">
+                <tr class="opponent-row group-start" onclick="toggleSeries(${i})">
                     <td><strong>${escapeHtml(name)}</strong></td>
                     <td>${entry.games.length}</td>
                     <td><strong class="${entry.wins >= entry.losses ? 'pos' : 'neg'}">${entry.wins}-${entry.losses}</strong></td>
@@ -66,6 +66,8 @@ async function initOpponentsPage() {
         </table>
         </div>
     `;
+
+    enhanceTables(container);
 }
 
 function toggleSeries(index) {
