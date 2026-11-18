@@ -1,3 +1,7 @@
 "source_id","file_id","team","opponent","is_home","points_in_paint","points_off_turnovers","points_fastbreak","points_second_chance","points_from_bench","largest_lead","largest_lead_time","time_with_lead_sec","pct_lead","ties","lead_changes","possessions","avg_scoring_possession","largest_deficit"
 "2026-27","22436","South Carolina","Maryland",1,52,25,32,17,22,31,"9:34 (3rd)",2391,99.6,0,0,0,"-",0
 "2026-27","22436","Maryland","South Carolina",0,34,24,19,25,13,0,"-",0,0.0,0,0,0,"-",31
+"2026-27","22437","Maryland","George Mason",1,36,27,14,18,19,24,"2:20 (3rd)",2345,97.7,0,0,0,"-",0
+"2026-27","22437","George Mason","Maryland",0,24,12,4,6,22,0,"-",0,0.0,0,0,0,"-",24
+"2026-27","22438","Maryland","Columbia",1,30,29,23,7,40,35,"2:29 (4th)",2330,97.0,0,0,0,"-",0
+"2026-27","22438","Columbia","Maryland",0,34,14,11,10,13,0,"-",0,0.0,0,0,0,"-",35
